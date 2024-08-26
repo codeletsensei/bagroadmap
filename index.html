@@ -1,0 +1,257 @@
+<!doctype html>
+<html>
+<head>
+  <title>BA Roadmap</title>
+  <meta name="robots" content="noindex,nofollow" charset="utf-8" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <script type="text/javascript" src="https://unpkg.com/vis-timeline@latest/standalone/umd/vis-timeline-graph2d.min.js"></script>
+  <link href="https://unpkg.com/vis-timeline@latest/styles/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src="schedGlobal.js"></script>
+  <script type="text/javascript" src="schedJp2Gurobaru.js"></script>
+  <style type="text/css">
+    #visualization {
+      width: 100%;
+      height: 100%;
+      border: 1px solid lightgray;
+      position: "relative";
+    }
+    .vis-odd {
+      background: #f5f5f5;
+    }
+    .red {
+      color:red;
+      font-weight:bold;
+    }
+  </style>
+</head>
+<body>
+<button id="reg0" class="regionSelect" value=0 onclick="region=0,plotStuff(0)">Confirmed Global</button>
+<button id="reg2" class="regionSelect" value=2 onclick="region=2,plotStuff(2)"><- Both -></button>
+<button id="reg1" class="regionSelect" value=1 onclick="region=1,plotStuff(1)">Shifted JP</button>
+ | 
+<button id="reg3" class="regionSelect" value=3 onclick="region=3,plotStuff(3)">Current JP</button>
+ | Find:
+<button id="EndOfSearch" onclick="this.style.display='none'; document.getElementById('searchResultsSpan').style.display='none'" style="display:none">Esc</button>
+<input type="text" id="searchbox" placeholder="ctrl+F" onfocusout="endSearch()" onfocus="searchResults(this.value)" oninput="searchResults(this.value)"></input>
+<span id="searchResultsSpan" style="display:none; position:absolute; top:30px; left:410px; background-color:lightgrey; border:1px solid black; z-index:1000; min-width:500px; max-height:90%; overflow:auto"></span>
+
+
+<div id="visualization"></div>
+This is a timeline with the confirmed schedule for BA Global and most of <a class="red">JP's schedule, but with the dates shifted</a> to somewhen they might happen in Global, based on recent confirmed schedule.
+<br>
+<a class="red">Only use this to have a general idea of what might come next in short term. To plan your pyrox savings, use the pyrox planner instead.</a> Don't expect this to be accurate anyways: shit can be shuffled/added/longer/shorter for Global and, as you can see, I literally can't code lmao.
+<br>
+Global data is from <a href="https://forum.nexon.com/bluearchive-en/" target="_blank">the official forum</a>.
+JP data is from <a href="https://bluearchive.wiki" target="_blank">https://bluearchive.wiki</a> and <a href="https://bluearchive.fandom.com/wiki/Maintenance/JP_Maintenance_Log" target="_blank">fandom's maintenance log</a>, so all props to the wiki Senseis. I don't play JP and idk if anything's wrong or missing, so please give them a hand updating/fixing/adding stuff if you have free time and can afford to stop shitposting for a bit. But it's still probably gonna be my fault, so post a reply on /bag/ with "bagroadmap" if you've got suggestions/corrections.
+<br>
+This page takes a few hours/days to get updated</b> once a new GL/JP schedule shows up. Some stuff were manually added, so the timeline won't have data from before I started adding them (the "Other" category and the Global data lol. I'm out of smooching range, r-right?).
+<br>
+<a style="color:#789922">>birthdays?</a>
+<br>
+Bro, your Seias? This is already too cluttered as it is.
+
+
+
+<script type="text/javascript">
+//https://visjs.github.io/vis-timeline/docs/timeline/
+region = 2 // 0 = confirmed global, 1 = "JP", 2 = both, 3 = current JP
+function getItems(){
+  allData = []
+  if ([1,2,3].includes(region)) allData = JSON.parse(JSON.stringify(jpSched))
+  if ([0,2].includes(region)) JSON.parse(JSON.stringify(confirmed)).forEach(a=>allData.push(a))
+  if (region == 2) {
+    //add empty line to separate them
+    allData.push({
+      content: "",
+      start: Math.min(...allData.map(x => Date.parse(x.start)).filter((a)=>!isNaN(a)) ),
+      end: Math.max(...allData.map(x => Date.parse(x.end)).filter((a)=>!isNaN(a))),
+      group: "-",
+      subgroup: "",
+      style: "color:black; font-weight:bold; background-color:black;height:5px "
+    })
+  }
+  allData.forEach((a,i)=>{a.id = i})
+  return new vis.DataSet(allData)
+}
+
+function getGroup(){
+  //colors and shit
+  if (region == 0) {
+    var names = ["G Maint","G Gacha","G Event","G Raid","G Camp"]
+    var styles = ["red","lightgrey","yellow","pink","lightgreen"]
+    var styles2 = ["black","black","black","black","black"]
+  }
+  else if ([1,3].includes(region)) {
+    var names = ["Maint","Gacha","Event","Raid","Campaign","Other"]
+    var styles = ["red","lightgrey","yellow","pink","lightgreen","lightblue"]
+    var styles2 = ["black","black","black","black","black","black"]
+  }
+  else if (region == 2) {
+    var names = ["G Maint","G Gacha","G Event","G Raid","G Camp","-","Maint","Gacha","Event","Raid","Campaign","Other"]
+    var styles = ["red","lightgrey","yellow","pink","lightgreen","white","red","lightgrey","yellow","pink","lightgreen","lightblue"]
+    var styles2 = ["black","black","black","black","black","white","black","black","black","black","black","black"]
+  }
+  //I'm new to this, ok?
+
+  if (region == 3) {
+    allData.forEach(a=>{
+      a.start = a.startJp
+      a.end = a.endJp
+    })
+    timeline.setCurrentTime(new Date().toLocaleString("jp", { timeZone: "Asia/Tokyo"}))
+  }
+  else {
+    allData.forEach(a=>{
+      if (a.startG) {
+        a.start = a.startG
+        a.end = a.endG
+      }
+    })
+    timeline.setCurrentTime(new Date().toLocaleString("en-US", { timeZone: "UTC"}))
+  }
+  var groups = new vis.DataSet();
+  for (let g = 0; g < names.length; g++) {
+    let add = ""
+    if (names[g] == "-") add = "; height:500px;font-size:0px"
+    groups.add({id: names[g], content: names[g], style: "color:" + styles2[g]+ "; text-align:right; font-weight:bold; width: 80px; background-color:" + styles[g] + add});
+  }
+  return groups
+}
+
+function run(){
+  var container = document.getElementById('visualization');
+  timeline = new vis.Timeline(container);
+  //timeline.on('contextmenu', function (props) { props.event.preventDefault(); });
+  plotStuff(region)
+  //adding buttons to scroll back to today or the end of the graph
+  btnToday = document.createElement("button")
+  btnToday.innerText = "2day"
+  btnToday.onclick = function(){ timeline.setWindow(new Date(Date.parse(new Date()) - 0.05*60*24*60*60*1000),new Date(Date.parse(new Date()) + 0.95*60*24*60*60*1000)) }
+  btnToday.style.position = "absolute"
+  btnToday.style.top = "1px"
+  btnToday.style.left = "1px"
+  btnToday.style.width = "40px"
+  btnToday.style.height = "48px"
+  container.appendChild(btnToday)
+  btnToday2 = btnToday.cloneNode(true)
+  btnToday2.style.top = "auto"
+  btnToday2.style.bottom = "1px"
+  btnToday2.onclick = function(){ timeline.setWindow(new Date(Date.parse(new Date()) - 0.05*60*24*60*60*1000),new Date(Date.parse(new Date()) + 0.95*60*24*60*60*1000)) }
+  container.appendChild(btnToday2)
+
+  function go2EOS(){
+    let lastDay = Math.max(...allData.map(x => Date.parse(x.end)).filter((a)=>!isNaN(a)))
+    timeline.setWindow(new Date( lastDay - 0.95*60*24*60*60*1000) , new Date( lastDay + 0.05*60*24*60*60*1000) )
+  }
+  btnEOS = document.createElement("img")
+  btnEOS.src = "eos.jpg"
+  btnEOS.onclick = function(){go2EOS()}
+  btnEOS.style.position = "absolute"
+  btnEOS.style.top = "6px"
+  btnEOS.style.left = "38px"
+  btnEOS.style.width = "47px"
+  btnEOS.style.rotate = "-90deg"
+  container.appendChild(btnEOS)
+  btnEOS2 = btnEOS.cloneNode(true)
+  btnEOS2.style.top = "auto"
+  btnEOS2.style.bottom = "6px"
+  btnEOS2.onclick = function(){go2EOS()}
+  container.appendChild(btnEOS2)
+}
+
+function plotStuff(groups,items){
+  var items = getItems()
+  var groups = getGroup()
+  var options = {
+    //groupOrder: 'content'  // groupOrder can be a property name or a sorting function
+    groupHeightMode: "fitItems",
+    zoomKey: "ctrlKey",
+    zoomMin: 0.8*24*60*60*1000,
+    zoomMax: 6.5*30*24*60*60*1000,
+    zoomFriction: 10,
+    start: new Date(Date.parse(new Date()) - 0.05*60*24*60*60*1000),
+    end: new Date(Date.parse(new Date()) + 0.95*60*24*60*60*1000),
+    cluster: false,
+    horizontalScroll: false,
+    moment: function(date) { return vis.moment(date).utcOffset("-00:00"); },
+    orientation: {
+      axis: "both",
+      item: "top"
+    },
+  };
+  timeline.setOptions(options);
+  timeline.setGroups(groups);
+  timeline.setItems(items);
+  for (let i = 0 ; i < document.getElementsByClassName("regionSelect").length ; i++) document.getElementById("reg"+i).style.backgroundColor=""
+  document.getElementById("reg"+region).style.backgroundColor = "lightblue"
+}
+
+function searchResults(input){
+  //gotta make it search multiple words
+  let results = allData.filter(a=>a.content.toLowerCase().includes(input.toLowerCase().trim())).sort((a,b) =>{ return Date.parse(a.start) > Date.parse(b.start) })
+  document.getElementById("searchResultsSpan").innerHTML = ""
+  document.getElementById("searchResultsSpan").style.display = "block"
+  document.getElementById("EndOfSearch").style.display = "inline-block"
+  for (let i in results) {
+    if (results[i].group != "-") {
+      let el = document.createElement("div")
+      let chars = ""
+      if (results[i].content.includes("</a>")) {
+        let arr = results[i].content.replace(/ \[R\]|,/g,"").split("</a>")
+        chars = []
+        for (j in arr) {
+          let arr2 = arr[j].split(">")
+          if (arr2[arr2.length-1]) chars.push(arr2[arr2.length-1].trim())
+        }
+        chars = chars.join(", ")
+      }
+      else {
+        chars = results[i].content
+      }
+      let resultDate = new Date(results[i].start).toISOString()
+      let resultType = results[i].group
+      let resultId = results[i].id
+      el.innerHTML = "["+ resultDate.split("T")[0] + " " + resultType+ "] " + chars
+      el.onclick = function(){
+        timeline.setWindow(new Date( Date.parse(new Date(resultDate)) - 0.05*60*24*60*60*1000) , new Date( Date.parse(new Date(resultDate)) + 0.95*60*24*60*60*1000) )
+        document.getElementById("searchResultsSpan").style.display = "none"
+        document.getElementById("EndOfSearch").style.display = "none"
+      }
+      document.getElementById("searchResultsSpan").appendChild(el) 
+    }
+  }
+
+}
+
+
+jpSched.forEach(a=> {
+  a.startG = a.start;
+  a.endG = a.end;
+})
+
+function endSearch(){
+    document.getElementById("searchResultsSpan").style.display = "none"
+    document.getElementById("EndOfSearch").style.display = "none"
+    document.activeElement.blur()
+}
+
+document.onkeydown = function(e){
+  if(e.ctrlKey && e.keyCode == 'F'.charCodeAt(0)){
+    e.preventDefault();
+    document.getElementById("searchbox").focus()
+    window.scrollTo(0,0)
+  }
+  else if (e.key == "Escape") {
+    endSearch()
+  }
+  else if (e.key == "ArrowLeft") {
+    timeline.moveTo(timeline.getWindow().start)
+  }
+  else if (e.key == "ArrowRight") {
+    timeline.moveTo(timeline.getWindow().end)
+  }
+}
+run()
+</script>
+</body>
+</html>

@@ -1,2 +1,3 @@
-# bagroadmap
-buruaka's JP schedule but shifted to somewhen shit should happen in Global. Data from the wikis, all props to them.
+I can't code.
+
+https://codeletsensei.github.io/bagroadmap for the roadmap
