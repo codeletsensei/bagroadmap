@@ -25,19 +25,19 @@
   </style>
 </head>
 <body>
-<button id="reg0" class="regionSelect" value=0 onclick="region=0,plotStuff(0)">Confirmed Global</button>
-<button id="reg2" class="regionSelect" value=2 onclick="region=2,plotStuff(2)"><- Both -></button>
-<button id="reg1" class="regionSelect" value=1 onclick="region=1,plotStuff(1)">Shifted JP</button>
+<button id="reg0" class="regionSelect" value=0 onclick="prevRegion=region; region=0; plotStuff(0)">Confirmed Global</button>
+<button id="reg2" class="regionSelect" value=2 onclick="prevRegion=region; region=2; plotStuff(2)"><- Both -></button>
+<button id="reg1" class="regionSelect" value=1 onclick="prevRegion=region; region=1; plotStuff(1)">Shifted JP</button>
  | 
-<button id="reg3" class="regionSelect" value=3 onclick="region=3,plotStuff(3)">Current JP</button>
+<button id="reg3" class="regionSelect" value=3 onclick="prevRegion=region; region=3; plotStuff(3)">Current JP</button>
  | Find:
 <button id="EndOfSearch" onclick="this.style.display='none'; document.getElementById('searchResultsSpan').style.display='none'" style="display:none">Esc</button>
-<input type="text" id="searchbox" placeholder="ctrl+F" onfocusout="endSearch()" onfocus="searchResults(this.value)" oninput="searchResults(this.value)"></input>
+<input type="text" id="searchbox" placeholder="ctrl+F" onfocusout="setTimeout(endSearch,500)" onfocus="searchResults(this.value)" oninput="searchResults(this.value)"></input>
 <span id="searchResultsSpan" style="display:none; position:absolute; top:30px; left:410px; background-color:lightgrey; border:1px solid black; z-index:1000; min-width:500px; max-height:90%; overflow:auto"></span>
 
 
 <div id="visualization"></div>
-This is a timeline with the confirmed schedule for BA Global and most of <a class="red">JP's schedule, but with the dates shifted</a> to somewhen they might happen in Global, based on recent confirmed schedule.
+This is a timeline with the confirmed schedule for BA Global and most of <a class="red">JP's schedule, but with the dates shifted</a> to somewhen they might happen in Global, based on recent confirmed schedule. Global u
 <br>
 <a class="red">Only use this to have a general idea of what might come next in short term. To plan your pyrox savings, use the pyrox planner instead.</a> Don't expect this to be accurate anyways: shit can be shuffled/added/longer/shorter for Global and, as you can see, I literally can't code lmao.
 <br>
@@ -54,6 +54,7 @@ Bro, your Seias? This is already too cluttered as it is.
 
 <script type="text/javascript">
 //https://visjs.github.io/vis-timeline/docs/timeline/
+prevRegion = 2 // 0 = confirmed global, 1 = "JP", 2 = both, 3 = current JP
 region = 2 // 0 = confirmed global, 1 = "JP", 2 = both, 3 = current JP
 function getItems(){
   allData = []
@@ -93,21 +94,21 @@ function getGroup(){
   }
   //I'm new to this, ok?
 
-  if (region == 3) {
-    allData.forEach(a=>{
-      a.start = a.startJp
-      a.end = a.endJp
-    })
-    timeline.setCurrentTime(new Date().toLocaleString("jp", { timeZone: "Asia/Tokyo"}))
-  }
-  else {
+  if (prevRegion == 3) {
     allData.forEach(a=>{
       if (a.startG) {
         a.start = a.startG
         a.end = a.endG
       }
     })
-    timeline.setCurrentTime(new Date().toLocaleString("en-US", { timeZone: "UTC"}))
+    timeline.setCurrentTime(new Date())
+  }
+  else if (region == 3) {
+    allData.forEach(a=>{
+      a.start = a.startJp
+      a.end = a.endJp
+    })
+    timeline.setCurrentTime(new Date().toLocaleString("jp", { timeZone: "Asia/Tokyo"}))
   }
   var groups = new vis.DataSet();
   for (let g = 0; g < names.length; g++) {
@@ -173,7 +174,7 @@ function plotStuff(groups,items){
     end: new Date(Date.parse(new Date()) + 0.95*60*24*60*60*1000),
     cluster: false,
     horizontalScroll: false,
-    moment: function(date) { return vis.moment(date).utcOffset("-00:00"); },
+    moment: function(date) { return vis.moment(date); },
     orientation: {
       axis: "both",
       item: "top"
@@ -213,7 +214,7 @@ function searchResults(input){
       let resultId = results[i].id
       el.innerHTML = "["+ resultDate.split("T")[0] + " " + resultType+ "] " + chars
       el.onclick = function(){
-        timeline.setWindow(new Date( Date.parse(new Date(resultDate)) - 0.05*60*24*60*60*1000) , new Date( Date.parse(new Date(resultDate)) + 0.95*60*24*60*60*1000) )
+        timeline.setWindow(new Date( Date.parse(new Date(resultDate)) - 0.42*60*24*60*60*1000) , new Date( Date.parse(new Date(resultDate)) + 0.58*60*24*60*60*1000) )
         document.getElementById("searchResultsSpan").style.display = "none"
         document.getElementById("EndOfSearch").style.display = "none"
       }
