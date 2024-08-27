@@ -196,15 +196,14 @@ function searchResults(input){
   for (let i in results) {
     if (results[i].group != "-") {
       let el = document.createElement("div")
-      let chars = ""
+      let chars = []
       if (results[i].content.includes("</a>")) {
-        let arr = results[i].content.replace(/ \[R\]|,/g,"").split("</a>")
-        chars = []
+        let arr = results[i].content.split("</a>")
         for (j in arr) {
           let arr2 = arr[j].split(">")
           if (arr2[arr2.length-1]) chars.push(arr2[arr2.length-1].trim())
         }
-        chars = chars.join(", ")
+        chars = chars.join(" ")
       }
       else {
         chars = results[i].content
