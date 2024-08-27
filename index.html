@@ -22,6 +22,24 @@
       color:red;
       font-weight:bold;
     }
+    .vis-selected {
+      outline: 5px solid red;
+    }
+    .searchResults div {
+      padding: 10px;
+      cursor: pointer;
+      background-color: #fff;
+      border-bottom: 1px solid #d4d4d4;
+    }
+    .searchResults div:hover {
+      /*when hovering an item:*/
+      background-color: #e9e9e9;
+    }
+    .selectedResult {
+      /*when navigating through the items using the arrow keys:*/
+      background-color: DodgerBlue !important;
+      color: #ffffff;
+    }
   </style>
 </head>
 <body>
@@ -32,7 +50,7 @@
 <button id="reg3" class="regionSelect" value=3 onclick="prevRegion=region; region=3; plotStuff(3)">Current JP</button>
  | Find:
 <button id="EndOfSearch" onclick="this.style.display='none'; document.getElementById('searchResultsSpan').style.display='none'" style="display:none">Esc</button>
-<input type="text" id="searchbox" placeholder="ctrl+F" onfocusout="setTimeout(endSearch,500)" onfocus="searchResults(this.value)" oninput="searchResults(this.value)"></input>
+<input type="text" id="searchbox" placeholder="ctrl+F" onfocusout="setTimeout(endSearch,500)" onfocus="searchThis(this.value)" onkeypress="searchThis(this.value)"></input>
 <span id="searchResultsSpan" style="display:none; position:absolute; top:30px; left:410px; background-color:lightgrey; border:1px solid black; z-index:1000; min-width:500px; max-height:90%; overflow:auto"></span>
 
 
@@ -54,7 +72,7 @@ Bro, your Seias? This is already too cluttered as it is.
 
 <script type="text/javascript">
 //https://visjs.github.io/vis-timeline/docs/timeline/
-prevRegion = 2 // 0 = confirmed global, 1 = "JP", 2 = both, 3 = current JP
+prevRegion = 2
 region = 2 // 0 = confirmed global, 1 = "JP", 2 = both, 3 = current JP
 function getItems(){
   allData = []
@@ -72,6 +90,24 @@ function getItems(){
     })
   }
   allData.forEach((a,i)=>{a.id = i})
+
+  if (prevRegion == 3) {
+    allData.forEach(a=>{
+      if (a.startG) {
+        a.start = a.startG
+        a.end = a.endG
+      }
+    })
+    timeline.setCurrentTime(new Date())
+  }
+  else if (region == 3) {
+    allData.forEach(a=>{
+      a.start = a.startJp
+      a.end = a.endJp
+    })
+    timeline.setCurrentTime(new Date().toLocaleString("jp", { timeZone: "Asia/Tokyo"}))
+  }
+
   return new vis.DataSet(allData)
 }
 
@@ -92,24 +128,7 @@ function getGroup(){
     var styles = ["red","lightgrey","yellow","pink","lightgreen","white","red","lightgrey","yellow","pink","lightgreen","lightblue"]
     var styles2 = ["black","black","black","black","black","white","black","black","black","black","black","black"]
   }
-  //I'm new to this, ok?
 
-  if (prevRegion == 3) {
-    allData.forEach(a=>{
-      if (a.startG) {
-        a.start = a.startG
-        a.end = a.endG
-      }
-    })
-    timeline.setCurrentTime(new Date())
-  }
-  else if (region == 3) {
-    allData.forEach(a=>{
-      a.start = a.startJp
-      a.end = a.endJp
-    })
-    timeline.setCurrentTime(new Date().toLocaleString("jp", { timeZone: "Asia/Tokyo"}))
-  }
   var groups = new vis.DataSet();
   for (let g = 0; g < names.length; g++) {
     let add = ""
@@ -122,7 +141,6 @@ function getGroup(){
 function run(){
   var container = document.getElementById('visualization');
   timeline = new vis.Timeline(container);
-  //timeline.on('contextmenu', function (props) { props.event.preventDefault(); });
   plotStuff(region)
   //adding buttons to scroll back to today or the end of the graph
   btnToday = document.createElement("button")
@@ -164,7 +182,6 @@ function plotStuff(groups,items){
   var items = getItems()
   var groups = getGroup()
   var options = {
-    //groupOrder: 'content'  // groupOrder can be a property name or a sorting function
     groupHeightMode: "fitItems",
     zoomKey: "ctrlKey",
     zoomMin: 0.8*24*60*60*1000,
@@ -187,8 +204,9 @@ function plotStuff(groups,items){
   document.getElementById("reg"+region).style.backgroundColor = "lightblue"
 }
 
-function searchResults(input){
-  //gotta make it search multiple words
+function searchThis(input){
+  searchboxIsFocused = 1
+  //still gotta make it search multiple words...
   let results = allData.filter(a=>a.content.toLowerCase().includes(input.toLowerCase().trim())).sort((a,b) =>{ return Date.parse(a.start) > Date.parse(b.start) })
   document.getElementById("searchResultsSpan").innerHTML = ""
   document.getElementById("searchResultsSpan").style.display = "block"
@@ -212,29 +230,66 @@ function searchResults(input){
       let resultType = results[i].group
       let resultId = results[i].id
       el.innerHTML = "["+ resultDate.split("T")[0] + " " + resultType+ "] " + chars
-      el.onclick = function(){
-        timeline.setWindow(new Date( Date.parse(new Date(resultDate)) - 0.42*60*24*60*60*1000) , new Date( Date.parse(new Date(resultDate)) + 0.58*60*24*60*60*1000) )
+      el.id = "searchResult" + resultId
+      el.className = "searchResults"
+      el.onclick = function(e){
+        timeline.setSelection( resultId , { focus:1, zoom:0 })
+        let c = 0
+        while (c <= 15 ) {
+          if (c%2==0) setTimeout(function(){timeline.setSelection( [] )},c*300)
+          else setTimeout(function(){timeline.setSelection( resultId , { focus:1, zoom:0 })},c*300)
+          c++
+        }
         document.getElementById("searchResultsSpan").style.display = "none"
         document.getElementById("EndOfSearch").style.display = "none"
+        endSearch()
       }
       document.getElementById("searchResultsSpan").appendChild(el) 
     }
   }
-
 }
-
-
-jpSched.forEach(a=> {
-  a.startG = a.start;
-  a.endG = a.end;
-})
 
 function endSearch(){
-    document.getElementById("searchResultsSpan").style.display = "none"
-    document.getElementById("EndOfSearch").style.display = "none"
-    document.activeElement.blur()
+  document.getElementById("searchResultsSpan").style.display = "none"
+  document.getElementById("EndOfSearch").style.display = "none"
+  document.activeElement.blur()
+  searchboxIsFocused = 0
 }
 
+var currentFocus = -1;
+document.getElementById("searchbox").addEventListener("keydown", function(e) {
+  document.getElementById("searchResultsSpan").style.display = "block"
+  var x = document.getElementById("searchResultsSpan")
+  if (x) x = x.getElementsByTagName("div")
+  if (e.keyCode == 40) {
+    currentFocus++;
+    addActive(x);
+  } 
+  else if (e.keyCode == 38) {
+    currentFocus--;
+    addActive(x);
+  } 
+  else if (e.keyCode == 13) {
+    e.preventDefault();
+    if (currentFocus > -1) {
+      if (x) x[currentFocus].click();
+    }
+  }
+});
+function addActive(x) {
+    if (!x) return false;
+    removeActive(x);
+    if (currentFocus >= x.length) currentFocus = 0;
+    if (currentFocus < 0) currentFocus = (x.length - 1);
+    x[currentFocus].classList.add("selectedResult");
+  }
+function removeActive(x) {
+  for (var i = 0; i < x.length; i++) {
+    x[i].classList.remove("selectedResult");
+  }
+}
+
+var searchboxIsFocused = 0
 document.onkeydown = function(e){
   if(e.ctrlKey && e.keyCode == 'F'.charCodeAt(0)){
     e.preventDefault();
@@ -244,13 +299,20 @@ document.onkeydown = function(e){
   else if (e.key == "Escape") {
     endSearch()
   }
-  else if (e.key == "ArrowLeft") {
-    timeline.moveTo(timeline.getWindow().start)
-  }
-  else if (e.key == "ArrowRight") {
-    timeline.moveTo(timeline.getWindow().end)
+  else if (searchboxIsFocused == 0) { 
+    if (e.key == "ArrowLeft") {
+      timeline.moveTo(timeline.getWindow().start)
+    }
+    else if (e.key == "ArrowRight") {
+      timeline.moveTo(timeline.getWindow().end)
+    }
   }
 }
+
+jpSched.forEach(a=> {
+  a.startG = a.start;
+  a.endG = a.end;
+})
 run()
 </script>
 </body>
