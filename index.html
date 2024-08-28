@@ -55,6 +55,8 @@
 
 
 <div id="visualization"></div>
+Notes: CTRL+Wheel to zoom. Mouse drag or Left/Right arrows to change time. Search needs more work, but sorta works. I tested this on meme browsers, no refunds.
+<br>
 This is a timeline with the confirmed schedule for BA Global and most of <a class="red">JP's schedule, but with the dates shifted</a> to somewhen they might happen in Global, based on recent confirmed schedule.
 <br>
 <a class="red">Only use this to have a general idea of what might come next in short term. To plan your pyrox savings, use the pyrox planner instead.</a> Don't expect this to be accurate anyways: shit can be shuffled/added/longer/shorter for Global and, as you can see, I literally can't code lmao.
@@ -67,6 +69,14 @@ This page takes a few hours/days to get updated</b> once a new GL/JP schedule sh
 <a style="color:#789922">>birthdays?</a>
 <br>
 Bro, your Seias? This is already too cluttered as it is.
+<br>
+<a style="color:#789922">>it's not mobile-friendly!</a>
+<br>
+Do you guys not have pasokons?
+<br>
+<a style="color:#789922">>What's New?</a>
+<br>
+<span id="spanDate"></span>: I got raped today again... But I won't let it happen tomorrow!
 
 
 
@@ -105,7 +115,7 @@ function getItems(){
       a.start = a.startJp
       a.end = a.endJp
     })
-    timeline.setCurrentTime(new Date().toLocaleString("jp", { timeZone: "Asia/Tokyo"}))
+    timeline.setCurrentTime(new Date().toLocaleString("ja", { timeZone: "Asia/Tokyo"}))
   }
 
   return new vis.DataSet(allData)
@@ -310,6 +320,7 @@ document.onkeydown = function(e){
 }
 
 run()
+document.getElementById("spanDate").innerText = new Date().toLocaleString("ja").split(" ")[0]
 </script>
 </body>
 </html>
