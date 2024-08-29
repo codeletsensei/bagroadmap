@@ -9,32 +9,48 @@
   <script type="text/javascript" src="schedGlobal.js"></script>
   <script type="text/javascript" src="schedJp2Gurobaru.js"></script>
   <style type="text/css">
+    body {
+      background-color: white;
+      color: black;
+    }
+
+    .dark-mode {
+      background-color: #1d1f21;
+      color: white;
+    }
+
     #visualization {
       width: 100%;
       height: 100%;
       border: 1px solid lightgray;
       position: "relative";
     }
+
     .vis-odd {
-      background: #f5f5f5;
+      background: var(--gridColor);
     }
+
     .red {
-      color:red;
+      color:orange;
       font-weight:bold;
     }
+
     .vis-selected {
       outline: 5px solid red;
     }
+
     .searchResults div {
       padding: 10px;
       cursor: pointer;
       background-color: #fff;
       border-bottom: 1px solid #d4d4d4;
     }
+
     .searchResults div:hover {
       /*when hovering an item:*/
       background-color: #e9e9e9;
     }
+
     .selectedResult {
       /*when navigating through the items using the arrow keys:*/
       background-color: DodgerBlue !important;
@@ -51,20 +67,23 @@
  | Find:
 <button id="EndOfSearch" onclick="this.style.display='none'; document.getElementById('searchResultsSpan').style.display='none'" style="display:none">Esc</button>
 <input type="text" id="searchbox" placeholder="ctrl+F" onfocusout="setTimeout(endSearch,500)" onfocus="searchThis(this.value)" onkeypress="searchThis(this.value)"></input>
-<span id="searchResultsSpan" style="display:none; position:absolute; top:30px; left:410px; background-color:lightgrey; border:1px solid black; z-index:1000; min-width:500px; max-height:90%; overflow:auto"></span>
+<span id="searchResultsSpan" style="display:none; position:absolute; top:30px; left:410px; color:black; background-color:lightgrey; border:1px solid black; z-index:1000; min-width:500px; max-height:90%; overflow:auto"></span>
+<button id="btnDarkMode" onclick="changeDarkMode()">Flashbang</button>
 
 
 <div id="visualization"></div>
-Notes: CTRL+Wheel to zoom. Mouse drag or Left/Right arrows to change time. Search needs more work, but sorta works. I tested this on meme browsers, no refunds.
+Notes:
 <br>
-This is a timeline with the confirmed schedule for BA Global and most of <a class="red">JP's schedule, but with the dates shifted</a> to somewhen they might happen in Global, based on recent confirmed schedule.
+>This is a timeline with the confirmed schedule for BA Global and most of <a class="red">JP's schedule, but with the dates shifted</a> to somewhen they might happen in Global, based on recent confirmed schedule.
 <br>
-<a class="red">Only use this to have a general idea of what might come next in short term. To plan your pyrox savings, use the pyrox planner instead.</a> Don't expect this to be accurate anyways: shit can be shuffled/added/longer/shorter for Global and, as you can see, I literally can't code lmao.
+><a class="red">Only use this to have a general idea of what might come next in short term. To plan your pyrox savings, use the pyrox planner instead.</a> Don't expect this to be accurate anyways: shit can be shuffled/added/longer/shorter for Global and, as you can see, I literally can't code lmao.
 <br>
-Global data is from <a href="https://forum.nexon.com/bluearchive-en/" target="_blank">the official forum</a>.
+>CTRL+Wheel to zoom. Mouse drag or Left/Right arrows to change time. Search needs more work, but sorta works. I tested this on meme browsers, no refunds.
+<br>
+>Global data is from <a href="https://forum.nexon.com/bluearchive-en/" target="_blank">the official forum</a>.
 JP data is from <a href="https://bluearchive.wiki" target="_blank">https://bluearchive.wiki</a> and <a href="https://bluearchive.fandom.com/wiki/Maintenance/JP_Maintenance_Log" target="_blank">fandom's maintenance log</a>, so all props to the wiki Senseis. I don't play JP and idk if anything's wrong or missing, so please give them a hand updating/fixing/adding stuff if you have free time and can afford to stop shitposting for a bit. But it's still probably gonna be my fault, so post a reply on /bag/ with "bagroadmap" if you've got suggestions/corrections.
 <br>
-This page takes a few hours/days to get updated</b> once a new GL/JP schedule shows up. Some stuff were manually added, so the timeline won't have data from before I started adding them (the "Other" category and the Global data lol. I'm out of smooching range, r-right?).
+>This page takes a few hours/days to get updated</b> once a new GL/JP schedule shows up. Some stuff were manually added, so the timeline won't have data from before I started adding them (the "Other" category and the Global data lol. I'm out of smooching range, r-right?).
 <br>
 <a style="color:#789922">>birthdays?</a>
 <br>
@@ -99,7 +118,17 @@ function getItems(){
       style: "color:black; font-weight:bold; background-color:black;height:5px "
     })
   }
-  allData.forEach((a,i)=>{a.id = i})
+  allData.forEach((a,i)=>{
+    a.id = i
+    a.title = a.content
+    if (a.group.includes("G ")) {
+      a.title += "<br>Confirmed: " + a.start.toString().substr(0,16).replace("T"," ") + " ~ " + a.end.toString().substr(0,16).replace("T"," ") + " (UTC y-m-d)"
+    }
+    else {
+      if (a.startG && region != 3) a.title += "<br>G: " + a.startG.toString().substr(0,16).replace("T"," ") + " ~ " + a.endG.toString().substr(0,16).replace("T"," ") + " (UTC y-m-d)"
+      if (a.startJp) a.title += "<br>Jp: " + a.startJp.toString().substr(0,16).replace("T"," ") + " ~ " + a.endJp.toString().substr(0,16).replace("T"," ") + " (JST y-m-d)"
+    }
+  })
 
   if (prevRegion == 3) {
     allData.forEach(a=>{
@@ -129,12 +158,12 @@ function getGroup(){
     var styles2 = ["black","black","black","black","black"]
   }
   else if ([1,3].includes(region)) {
-    var names = ["Maint","Gacha","Event","Raid","Campaign","Other"]
+    var names = ["J Maint","J Gacha","J Event","J Raid","J Camp","J Other"]
     var styles = ["red","lightgrey","yellow","pink","lightgreen","lightblue"]
     var styles2 = ["black","black","black","black","black","black"]
   }
   else if (region == 2) {
-    var names = ["G Maint","G Gacha","G Event","G Raid","G Camp","-","Maint","Gacha","Event","Raid","Campaign","Other"]
+    var names = ["G Maint","G Gacha","G Event","G Raid","G Camp","-","J Maint","J Gacha","J Event","J Raid","J Camp","J Other"]
     var styles = ["red","lightgrey","yellow","pink","lightgreen","white","red","lightgrey","yellow","pink","lightgreen","lightblue"]
     var styles2 = ["black","black","black","black","black","white","black","black","black","black","black","black"]
   }
@@ -149,6 +178,9 @@ function getGroup(){
 }
 
 function run(){
+  document.documentElement.style.setProperty("--gridColor","#f5f5f5")
+  changeDarkMode()
+  document.getElementById("spanDate").innerText = new Date().toLocaleString("ja").split(" ")[0]
   var container = document.getElementById('visualization');
   timeline = new vis.Timeline(container);
   plotStuff(region)
@@ -206,6 +238,10 @@ function plotStuff(groups,items){
       axis: "both",
       item: "top"
     },
+    tooltip: {
+      followMouse: true,
+      delay: 0,
+    },
   };
   timeline.setOptions(options);
   timeline.setGroups(groups);
@@ -221,8 +257,9 @@ function searchThis(input){
   document.getElementById("searchResultsSpan").innerHTML = ""
   document.getElementById("searchResultsSpan").style.display = "block"
   document.getElementById("EndOfSearch").style.display = "inline-block"
+  let count = 0
   for (let i in results) {
-    if (results[i].group != "-") {
+    if (results[i].group != "-" && !results[i].group.includes("Maint")) {
       let el = document.createElement("div")
       let chars = []
       if (results[i].content.includes("</a>")) {
@@ -241,6 +278,8 @@ function searchThis(input){
       let resultId = results[i].id
       el.innerHTML = "["+ resultDate.split("T")[0] + " " + resultType+ "] " + chars
       el.id = "searchResult" + resultId
+      if (count%2 == 0) el.style.backgroundColor = "grey"
+      count++
       el.className = "searchResults"
       el.onclick = function(e){
         timeline.setSelection( resultId , { focus:1, zoom:0 })
@@ -319,8 +358,20 @@ document.onkeydown = function(e){
   }
 }
 
+function changeDarkMode() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+  if (document.documentElement.style.getPropertyValue("--gridColor") == "#f5f5f5") {
+    document.documentElement.style.setProperty("--gridColor","#282A2E")
+    document.getElementById("btnDarkMode").style.backgroundColor = ""
+  }
+  else {
+    document.documentElement.style.setProperty("--gridColor","#f5f5f5")
+    document.getElementById("btnDarkMode").style.backgroundColor = "lightblue"
+  }
+}
+
 run()
-document.getElementById("spanDate").innerText = new Date().toLocaleString("ja").split(" ")[0]
 </script>
 </body>
 </html>
