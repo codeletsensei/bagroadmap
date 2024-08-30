@@ -66,7 +66,7 @@
 <button id="reg3" class="regionSelect" value=3 onclick="prevRegion=region; region=3; plotStuff(3)">Current JP</button>
  | Find:
 <button id="EndOfSearch" onclick="this.style.display='none'; document.getElementById('searchResultsSpan').style.display='none'" style="display:none">Esc</button>
-<input type="text" id="searchbox" placeholder="ctrl+F" onfocusout="setTimeout(endSearch,500)" onfocus="searchThis(this.value)" onkeypress="searchThis(this.value)"></input>
+<input type="text" id="searchbox" placeholder="ctrl+F" onfocusout="setTimeout(endSearch,500)" onfocus="searchThis(this.value)" onchange="searchThis(this.value)" oninput="searchThis(this.value)"></input>
 <span id="searchResultsSpan" style="display:none; position:absolute; top:30px; left:410px; color:black; background-color:lightgrey; border:1px solid black; z-index:1000; min-width:500px; max-height:90%; overflow:auto"></span>
 <button id="btnDarkMode" style="position:absolute; right:6px" onclick="changeDarkMode()">Flashbang</button>
 
@@ -77,7 +77,7 @@ Notes:
 <br>
 >This is a timeline with the confirmed schedule for BA Global and most of <a class="red">JP's schedule, but with the dates shifted</a> to somewhen they might happen in Global, based on recent confirmed schedule.
 <br>
-><a class="red">Only use this to have a general idea of what might come next in short term. To plan your pyrox savings, use the pyrox planner instead.</a> Don't expect this to be accurate anyways: shit can be shuffled/added/longer/shorter for Global and, as you can see, I literally can't code lmao.
+><a class="red">Only use this to have a general idea of what might come next in short term.</a> To plan your pyrox savings, use the pyrox planner instead. Don't expect this to be accurate anyways: shit can be shuffled/added/longer/shorter for Global and, as you can see, I literally can't code lmao. <a class="red">The confirmed global schedule should be safe to follow<a class="red">, though.
 <br>
 >CTRL+Wheel to zoom. Mouse drag or Left/Right arrows to change time. Search needs more work, but sorta works. I tested this on meme browsers, no refunds.
 <br>
@@ -184,6 +184,7 @@ function run(){
   document.getElementById("spanDate").innerText = new Date().toLocaleString("ja").split(" ")[0]
   var container = document.getElementById('visualization');
   timeline = new vis.Timeline(container);
+  timeline.on("click",endSearch)
   plotStuff(region)
   //adding buttons to scroll back to today or the end of the graph
   btnToday = document.createElement("button")
@@ -290,8 +291,6 @@ function searchThis(input){
           else setTimeout(function(){timeline.setSelection( resultId , { focus:1, zoom:0 })},c*300)
           c++
         }
-        document.getElementById("searchResultsSpan").style.display = "none"
-        document.getElementById("EndOfSearch").style.display = "none"
         endSearch()
       }
       document.getElementById("searchResultsSpan").appendChild(el) 
@@ -302,7 +301,7 @@ function searchThis(input){
 function endSearch(){
   document.getElementById("searchResultsSpan").style.display = "none"
   document.getElementById("EndOfSearch").style.display = "none"
-  document.activeElement.blur()
+  if (searchboxIsFocused == 1) document.activeElement.blur()
   searchboxIsFocused = 0
 }
 
