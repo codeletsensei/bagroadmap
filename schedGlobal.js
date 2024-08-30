@@ -172,6 +172,13 @@ confirmed = [
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
+  },{
+    content: "Fuuka.NY, Akari.NY, Haruna.NY",
+    start: "2024-09-03T02:00:00.000Z",
+    end: "2024-09-17T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -288,6 +295,24 @@ confirmed = [
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow "
+  },{
+    content: "[Main] New Year's Aperitif ~ One-and-Done Match",
+    start: "2024-09-03T02:00:00.000Z",
+    end: "2024-09-17T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow "
+  },
+//
+//OTHER
+//
+  {
+    content: "[Welfare] Junko.NY",
+    start: "2024-09-03T02:00:00.000Z",
+    end: "2024-09-17T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
   },
 //
 // RAIDS
@@ -360,14 +385,14 @@ confirmed = [
     start: "2024-07-30T02:00:00.000Z",
     end: "2024-08-05T19:00:00.000Z",
     group: "G Raid",
-    subgroup: "GA",
+    subgroup: "TA",
     style: "color:black; background-color:pink "
   },{
     content: "[JFD] Defense. Red. Front buff",
     start: "2024-08-06T02:00:00.000Z",
     end: "2024-08-12T19:00:00.000Z",
     group: "G Raid",
-    subgroup: "GA",
+    subgroup: "JFD",
     style: "color:black; background-color:pink "
   },{
     content: "[GA] Kaiten",
@@ -381,12 +406,19 @@ confirmed = [
     start: "2024-08-27T02:00:00.000Z",
     end: "2024-09-02T19:00:00.000Z",
     group: "G Raid",
-    subgroup: "GA",
+    subgroup: "TA",
     style: "color:black; background-color:pink "
   },{
     content: "[JFD] Escort Yellow, Buff Riobot onegaishimasu",
     start: "2024-09-03T02:00:00.000Z",
     end: "2024-09-09T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "JFD",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[GA] Binah Urban",
+    start: "2024-09-10T02:00:00.000Z",
+    end: "2024-09-16T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
     style: "color:black; background-color:pink "
