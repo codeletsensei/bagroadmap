@@ -55,11 +55,17 @@ confirmed = [
     group: "G Maint",
     subgroup: "",
     style: "color:red; background-color:red; height:15px"
-  },
-  {
+  },{
     content: "EOS",
     start: "2024-08-20T02:00:00.000Z",
     end: "2024-08-20T07:00:00.000Z",
+    group: "G Maint",
+    subgroup: "",
+    style: "color:red; background-color:red; height:15px"
+  },{
+    content: "EOS",
+    start: "2024-09-03T02:00:00.000Z",
+    end: "2024-09-03T05:00:00.000Z",
     group: "G Maint",
     subgroup: "",
     style: "color:red; background-color:red; height:15px"
@@ -652,6 +658,13 @@ confirmed = [
     content: "2x EXP",
     start: "2024-08-30T19:00:00.000Z",
     end: "2024-09-01T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },{
+    content: "2x Scrimms / Lesson",
+    start: "2024-09-02T19:00:00.000Z",
+    end: "2024-09-09T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
