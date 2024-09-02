@@ -65,11 +65,24 @@
  | 
 <button id="reg3" class="regionSelect" value=3 onclick="prevRegion=region; region=3; plotStuff(3)">Current JP</button>
  | Find:
+
 <button id="EndOfSearch" onclick="this.style.display='none'; document.getElementById('searchResultsSpan').style.display='none'" style="display:none">Esc</button>
-<input type="text" id="searchbox" placeholder="ctrl+F" onfocusout="setTimeout(endSearch,500)" onfocus="searchThis(this.value)" onchange="searchThis(this.value)" oninput="searchThis(this.value)"></input>
+<select id="selectSearchType" style="width:60px" onchange="searchThis(document.getElementById('searchbox').value)">
+  <option value="All">All</option>
+  <option value="Gacha">Char</option>
+  <option value="Event">Event</option>
+  <option value="Raid">Raid</option>
+  <option value="Camp">Campaign</option>
+  <option value="Other">Other</option>
+  <option value="Maint">Maintenance</option>
+</select>
+<input type="text" id="searchbox" placeholder="ctrl+F" onfocus="searchThis(this.value)" onchange="searchThis(this.value)" oninput="searchThis(this.value)"></input>
 <span id="searchResultsSpan" style="display:none; position:absolute; top:30px; left:410px; color:black; background-color:lightgrey; border:1px solid black; z-index:1000; min-width:500px; max-height:90%; overflow:auto"></span>
+
+
 <button id="btnDarkMode" style="position:absolute; right:6px" onclick="changeDarkMode()">Flashbang</button>
 
+<!--onfocusout="setTimeout(endSearch,500)" -->
 
 
 <div id="visualization"></div>
@@ -254,14 +267,16 @@ function plotStuff(groups,items){
 
 function searchThis(input){
   searchboxIsFocused = 1
+  sType = document.getElementById("selectSearchType").value
   //still gotta make it search multiple words...
-  let results = allData.filter(a=>a.content.toLowerCase().includes(input.toLowerCase().trim())).sort((a,b) =>{ return Date.parse(a.start) > Date.parse(b.start) })
+  let results = allData.filter(a=>{ return a.group!="-" && a.content.toLowerCase().includes(input.toLowerCase().trim()) }).sort((a,b) =>{ return Date.parse(a.start) > Date.parse(b.start) })
+  if (sType != "All") results = results.filter(a=>a.group.includes(sType))
+  results = results.reverse()
   document.getElementById("searchResultsSpan").innerHTML = ""
   document.getElementById("searchResultsSpan").style.display = "block"
   document.getElementById("EndOfSearch").style.display = "inline-block"
   let count = 0
   for (let i in results) {
-    if (results[i].group != "-" && !results[i].group.includes("Maint")) {
       let el = document.createElement("div")
       let chars = []
       if (results[i].content.includes("</a>")) {
@@ -294,15 +309,17 @@ function searchThis(input){
         endSearch()
       }
       document.getElementById("searchResultsSpan").appendChild(el) 
-    }
+
   }
 }
 
 function endSearch(){
-  document.getElementById("searchResultsSpan").style.display = "none"
-  document.getElementById("EndOfSearch").style.display = "none"
-  if (searchboxIsFocused == 1) document.activeElement.blur()
-  searchboxIsFocused = 0
+  if (searchboxIsFocused == 1) {
+    document.getElementById("searchResultsSpan").style.display = "none"
+    document.getElementById("EndOfSearch").style.display = "none"
+    document.activeElement.blur()
+    searchboxIsFocused = 0
+  }
 }
 
 var currentFocus = -1;
