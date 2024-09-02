@@ -10596,6 +10596,18 @@ jpSched = [
 		"endG":"2025-02-02T02:00:00.000Z"
 	},
 	{
+		"content":"[Welfare] Koharu.S",
+		"start":"2025-03-04T02:00:00.000Z",
+		"startJp":"2024-09-04T11:00",
+		"end":"2025-03-18T02:00:00.000Z",
+		"endJp":"2024-09-18T11:00",
+		"group":"J Other",
+		"subgroup":"Other",
+		"style":"color:black;background-color:lightgrey",
+		"startG":"2025-03-04T02:00:00.000Z",
+		"endG":"2025-03-18T02:00:00.000Z"
+	},
+	{
 		"content":"[JFD] Shooting (Debuffs increase dmg)",
 		"start":"2025-03-04T02:00:00.000Z",
 		"startJp":"2024-09-04T11:00",
