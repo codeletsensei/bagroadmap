@@ -271,7 +271,7 @@ function searchThis(input){
   //still gotta make it search multiple words...
   let results = allData.filter(a=>{ return a.group!="-" && a.content.toLowerCase().includes(input.toLowerCase().trim()) })
   if (sType != "All") results = results.filter(a=>a.group.includes(sType))
-  results = results.reverse().sort((a,b) =>{ return Date.parse(a.start) > Date.parse(b.start) })
+  results = results.sort((a,b) =>{ return Date.parse(a.start) < Date.parse(b.start) })
   document.getElementById("searchResultsSpan").innerHTML = ""
   document.getElementById("searchResultsSpan").style.display = "block"
   document.getElementById("EndOfSearch").style.display = "inline-block"
