@@ -59,13 +59,14 @@
   </style>
 </head>
 <body>
-<button id="reg0" class="regionSelect" value=0 onclick="prevRegion=region; region=0; plotStuff(0)">Confirmed Global</button>
-<button id="reg2" class="regionSelect" value=2 onclick="prevRegion=region; region=2; plotStuff(2)"><- Both -></button>
-<button id="reg1" class="regionSelect" value=1 onclick="prevRegion=region; region=1; plotStuff(1)">Shifted JP</button>
- | 
-<button id="reg3" class="regionSelect" value=3 onclick="prevRegion=region; region=3; plotStuff(3)">Current JP</button>
+<span onclick="endSearch()">
+  <button id="reg0" class="regionSelect" value=0 onclick="prevRegion=region; region=0; plotStuff(0)">Confirmed Global</button>
+  <button id="reg2" class="regionSelect" value=2 onclick="prevRegion=region; region=2; plotStuff(2)"><- Both -></button>
+  <button id="reg1" class="regionSelect" value=1 onclick="prevRegion=region; region=1; plotStuff(1)">Shifted JP</button>
+   | 
+  <button id="reg3" class="regionSelect" value=3 onclick="prevRegion=region; region=3; plotStuff(3)">Current JP</button>
  | Find:
-
+</span>
 <button id="EndOfSearch" onclick="this.style.display='none'; document.getElementById('searchResultsSpan').style.display='none'" style="display:none">Esc</button>
 <select id="selectSearchType" style="width:60px" onchange="searchThis(document.getElementById('searchbox').value)">
   <option value="All">All</option>
@@ -79,11 +80,7 @@
 <input type="text" id="searchbox" placeholder="ctrl+F" onfocus="searchThis(this.value)" onchange="searchThis(this.value)" oninput="searchThis(this.value)"></input>
 <span id="searchResultsSpan" style="display:none; position:absolute; top:30px; left:410px; color:black; background-color:lightgrey; border:1px solid black; z-index:1000; min-width:500px; max-height:90%; overflow:auto"></span>
 
-
 <button id="btnDarkMode" style="position:absolute; right:6px" onclick="changeDarkMode()">Flashbang</button>
-
-<!--onfocusout="setTimeout(endSearch,500)" -->
-
 
 <div id="visualization"></div>
 Notes:
