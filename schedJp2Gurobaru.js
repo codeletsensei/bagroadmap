@@ -10620,7 +10620,7 @@ jpSched = [
 		"endG":"2025-03-18T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui_(Swimsuit)\" title=\"Ui.S\">Ui.S</a> [L E]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui_(Swimsuit)\" title=\"Ui.S\">Ui.S</a> [L R]",
 		"start":"2025-03-04T02:00:00.000Z",
 		"startJp":"2024-09-04T11:00",
 		"end":"2025-03-18T02:00:00.000Z",
@@ -10632,7 +10632,7 @@ jpSched = [
 		"endG":"2025-03-18T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata_(Swimsuit)\" title=\"Hinata.S\">Hinata.S</a> [L E]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata_(Swimsuit)\" title=\"Hinata.S\">Hinata.S</a> [L R]",
 		"start":"2025-03-04T02:00:00.000Z",
 		"startJp":"2024-09-04T11:00",
 		"end":"2025-03-18T02:00:00.000Z",
