@@ -6156,7 +6156,7 @@ jpSched = [
 		"endG":"2022-08-16T03:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a>",
 		"start":"2022-08-09T03:00:00.000Z",
 		"startJp":"2022-02-09T12:00",
 		"end":"2022-08-16T03:00:00.000Z",
@@ -6168,7 +6168,7 @@ jpSched = [
 		"endG":"2022-08-16T03:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a>",
 		"start":"2022-08-16T03:00:00.000Z",
 		"startJp":"2022-02-16T12:00",
 		"end":"2022-08-23T03:00:00.000Z",
@@ -6180,7 +6180,7 @@ jpSched = [
 		"endG":"2022-08-23T03:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna\" title=\"Haruna\">Haruna</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna\" title=\"Haruna\">Haruna</a>",
 		"start":"2022-08-16T03:00:00.000Z",
 		"startJp":"2022-02-16T12:00",
 		"end":"2022-08-23T03:00:00.000Z",
@@ -6228,7 +6228,7 @@ jpSched = [
 		"endG":"2022-09-13T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a>",
 		"start":"2022-09-06T03:00:00.000Z",
 		"startJp":"2022-03-09T12:00",
 		"end":"2022-09-13T02:00:00.000Z",
@@ -6252,7 +6252,7 @@ jpSched = [
 		"endG":"2022-09-20T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a>",
 		"start":"2022-09-13T02:00:00.000Z",
 		"startJp":"2022-03-16T11:00",
 		"end":"2022-09-20T02:00:00.000Z",
@@ -6312,7 +6312,7 @@ jpSched = [
 		"endG":"2022-10-18T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro.S\">Mashiro.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro.S\">Mashiro.S</a> [L]",
 		"start":"2022-10-18T02:00:00.000Z",
 		"startJp":"2022-04-20T11:00",
 		"end":"2022-10-25T02:00:00.000Z",
@@ -6324,7 +6324,7 @@ jpSched = [
 		"endG":"2022-10-25T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa.S\">Azusa.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa.S\">Azusa.S</a> [L]",
 		"start":"2022-10-18T02:00:00.000Z",
 		"startJp":"2022-04-20T11:00",
 		"end":"2022-10-25T02:00:00.000Z",
@@ -6336,7 +6336,7 @@ jpSched = [
 		"endG":"2022-10-25T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi.S\">Hifumi.S</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi.S\">Hifumi.S</a>",
 		"start":"2022-10-18T02:00:00.000Z",
 		"startJp":"2022-04-20T11:00",
 		"end":"2022-10-25T02:00:00.000Z",
@@ -6384,7 +6384,7 @@ jpSched = [
 		"endG":"2022-11-21T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a>",
 		"start":"2022-11-08T02:00:00.000Z",
 		"startJp":"2022-05-11T11:00",
 		"end":"2022-11-21T02:00:00.000Z",
@@ -6432,7 +6432,7 @@ jpSched = [
 		"endG":"2022-12-20T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a>",
 		"start":"2022-12-06T02:00:00.000Z",
 		"startJp":"2022-06-08T11:00",
 		"end":"2022-12-20T02:00:00.000Z",
@@ -6468,7 +6468,7 @@ jpSched = [
 		"endG":"2023-01-03T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>",
 		"start":"2023-01-03T02:00:00.000Z",
 		"startJp":"2022-07-06T11:00",
 		"end":"2023-01-17T02:00:00.000Z",
@@ -6528,7 +6528,7 @@ jpSched = [
 		"endG":"2023-01-31T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko.R\">Shiroko.R</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko.R\">Shiroko.R</a>",
 		"start":"2023-01-31T02:00:00.000Z",
 		"startJp":"2022-08-03T11:00",
 		"end":"2023-02-06T02:00:00.000Z",
@@ -6540,7 +6540,7 @@ jpSched = [
 		"endG":"2023-02-06T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a>",
 		"start":"2023-01-31T02:00:00.000Z",
 		"startJp":"2022-08-03T11:00",
 		"end":"2023-02-06T02:00:00.000Z",
@@ -6564,7 +6564,7 @@ jpSched = [
 		"endG":"2023-02-21T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru\" title=\"Aru\">Aru</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru\" title=\"Aru\">Aru</a>",
 		"start":"2023-02-06T02:00:00.000Z",
 		"startJp":"2022-08-09T11:00",
 		"end":"2023-02-21T02:00:00.000Z",
@@ -6600,7 +6600,7 @@ jpSched = [
 		"endG":"2023-03-07T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina.S\">Hina.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina.S\">Hina.S</a> [L]",
 		"start":"2023-03-07T02:00:00.000Z",
 		"startJp":"2022-09-07T11:00",
 		"end":"2023-03-14T01:59:00.000Z",
@@ -6612,7 +6612,7 @@ jpSched = [
 		"endG":"2023-03-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori.S\">Iori.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori.S\">Iori.S</a> [L]",
 		"start":"2023-03-07T02:00:00.000Z",
 		"startJp":"2022-09-07T11:00",
 		"end":"2023-03-14T01:59:00.000Z",
@@ -6624,7 +6624,7 @@ jpSched = [
 		"endG":"2023-03-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a>",
 		"start":"2023-03-14T02:00:00.000Z",
 		"startJp":"2022-09-14T11:00",
 		"end":"2023-03-21T01:59:00.000Z",
@@ -6660,7 +6660,7 @@ jpSched = [
 		"endG":"2023-03-28T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a>",
 		"start":"2023-03-21T02:00:00.000Z",
 		"startJp":"2022-09-21T11:00",
 		"end":"2023-03-28T01:59:00.000Z",
@@ -6672,7 +6672,7 @@ jpSched = [
 		"endG":"2023-03-28T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya.C\">Saya.C</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya.C\">Saya.C</a>",
 		"start":"2023-03-21T02:00:00.000Z",
 		"startJp":"2022-09-21T11:00",
 		"end":"2023-03-28T01:59:00.000Z",
@@ -6720,7 +6720,7 @@ jpSched = [
 		"endG":"2023-04-18T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru.BG\">Neru.BG</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru.BG\">Neru.BG</a> [L]",
 		"start":"2023-04-11T02:00:00.000Z",
 		"startJp":"2022-10-12T11:00",
 		"end":"2023-04-18T01:59:00.000Z",
@@ -6732,7 +6732,7 @@ jpSched = [
 		"endG":"2023-04-18T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin.BG\">Karin.BG</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin.BG\">Karin.BG</a> [L]",
 		"start":"2023-04-11T02:00:00.000Z",
 		"startJp":"2022-10-12T11:00",
 		"end":"2023-04-18T01:59:00.000Z",
@@ -6744,7 +6744,7 @@ jpSched = [
 		"endG":"2023-04-18T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna.BG\">Asuna.BG</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna.BG\">Asuna.BG</a>",
 		"start":"2023-04-11T02:00:00.000Z",
 		"startJp":"2022-10-12T11:00",
 		"end":"2023-04-18T01:59:00.000Z",
@@ -6756,7 +6756,7 @@ jpSched = [
 		"endG":"2023-04-18T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hibiki\" title=\"Hibiki\">Hibiki</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hibiki\" title=\"Hibiki\">Hibiki</a>",
 		"start":"2023-04-18T02:00:00.000Z",
 		"startJp":"2022-10-19T11:00",
 		"end":"2023-04-25T01:59:00.000Z",
@@ -6768,7 +6768,7 @@ jpSched = [
 		"endG":"2023-04-25T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a>",
 		"start":"2023-04-18T02:00:00.000Z",
 		"startJp":"2022-10-19T11:00",
 		"end":"2023-04-25T01:59:00.000Z",
@@ -6804,7 +6804,7 @@ jpSched = [
 		"endG":"2023-05-09T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a>",
 		"start":"2023-05-09T02:00:00.000Z",
 		"startJp":"2022-11-09T11:00",
 		"end":"2023-05-16T01:59:00.000Z",
@@ -6864,7 +6864,7 @@ jpSched = [
 		"endG":"2023-06-06T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino.O\">Cherino.O</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino.O\">Cherino.O</a>",
 		"start":"2023-05-30T02:00:00.000Z",
 		"startJp":"2022-11-30T11:00",
 		"end":"2023-06-06T01:59:00.000Z",
@@ -6876,7 +6876,7 @@ jpSched = [
 		"endG":"2023-06-06T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu.O\">Chinatsu.O</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu.O\">Chinatsu.O</a>",
 		"start":"2023-05-30T02:00:00.000Z",
 		"startJp":"2022-11-30T11:00",
 		"end":"2023-06-06T01:59:00.000Z",
@@ -6888,7 +6888,7 @@ jpSched = [
 		"endG":"2023-06-06T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka.O\">Nodoka.O</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka.O\">Nodoka.O</a>",
 		"start":"2023-05-30T02:00:00.000Z",
 		"startJp":"2022-11-30T11:00",
 		"end":"2023-06-06T01:59:00.000Z",
@@ -6900,7 +6900,7 @@ jpSched = [
 		"endG":"2023-06-06T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a>",
 		"start":"2023-06-06T02:00:00.000Z",
 		"startJp":"2022-12-07T11:00",
 		"end":"2023-06-13T01:59:00.000Z",
@@ -6912,7 +6912,7 @@ jpSched = [
 		"endG":"2023-06-13T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a>",
 		"start":"2023-06-06T02:00:00.000Z",
 		"startJp":"2022-12-07T11:00",
 		"end":"2023-06-13T01:59:00.000Z",
@@ -6924,7 +6924,7 @@ jpSched = [
 		"endG":"2023-06-13T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a>",
 		"start":"2023-06-06T02:00:00.000Z",
 		"startJp":"2022-12-07T11:00",
 		"end":"2023-06-13T01:59:00.000Z",
@@ -6996,7 +6996,7 @@ jpSched = [
 		"endG":"2023-07-24T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a>",
 		"start":"2023-07-11T02:00:00.000Z",
 		"startJp":"2023-01-11T11:00",
 		"end":"2023-07-24T01:59:00.000Z",
@@ -7008,7 +7008,7 @@ jpSched = [
 		"endG":"2023-07-24T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a>",
 		"start":"2023-07-11T02:00:00.000Z",
 		"startJp":"2023-01-11T11:00",
 		"end":"2023-07-24T01:59:00.000Z",
@@ -7068,7 +7068,7 @@ jpSched = [
 		"endG":"2023-08-22T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a>",
 		"start":"2023-08-10T02:00:00.000Z",
 		"startJp":"2023-02-10T11:00",
 		"end":"2023-08-22T01:59:00.000Z",
@@ -7080,7 +7080,7 @@ jpSched = [
 		"endG":"2023-08-22T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a>",
 		"start":"2023-08-10T02:00:00.000Z",
 		"startJp":"2023-02-10T11:00",
 		"end":"2023-08-22T01:59:00.000Z",
@@ -7164,7 +7164,7 @@ jpSched = [
 		"endG":"2023-10-03T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru.NY\">Aru.NY</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru.NY\">Aru.NY</a> [L]",
 		"start":"2023-09-19T02:00:00.000Z",
 		"startJp":"2023-03-22T11:00",
 		"end":"2023-10-03T01:59:00.000Z",
@@ -7176,7 +7176,7 @@ jpSched = [
 		"endG":"2023-10-03T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki.NY\">Mutsuki.NY</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki.NY\">Mutsuki.NY</a> [L]",
 		"start":"2023-09-19T02:00:00.000Z",
 		"startJp":"2023-03-22T11:00",
 		"end":"2023-10-03T01:59:00.000Z",
@@ -7188,7 +7188,7 @@ jpSched = [
 		"endG":"2023-10-03T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika.NY\">Serika.NY</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika.NY\">Serika.NY</a>",
 		"start":"2023-09-19T02:00:00.000Z",
 		"startJp":"2023-03-22T11:00",
 		"end":"2023-10-03T01:59:00.000Z",
@@ -7200,7 +7200,7 @@ jpSched = [
 		"endG":"2023-10-03T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a>",
 		"start":"2023-10-03T02:00:00.000Z",
 		"startJp":"2023-04-05T11:00",
 		"end":"2023-10-10T01:59:00.000Z",
@@ -7212,7 +7212,7 @@ jpSched = [
 		"endG":"2023-10-10T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a>",
 		"start":"2023-10-03T02:00:00.000Z",
 		"startJp":"2023-04-05T11:00",
 		"end":"2023-10-10T01:59:00.000Z",
@@ -7236,7 +7236,7 @@ jpSched = [
 		"endG":"2023-10-17T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a>",
 		"start":"2023-10-10T02:00:00.000Z",
 		"startJp":"2023-04-12T11:00",
 		"end":"2023-10-17T01:59:00.000Z",
@@ -7248,7 +7248,7 @@ jpSched = [
 		"endG":"2023-10-17T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a>",
 		"start":"2023-10-10T02:00:00.000Z",
 		"startJp":"2023-04-12T11:00",
 		"end":"2023-10-17T01:59:00.000Z",
@@ -7260,7 +7260,7 @@ jpSched = [
 		"endG":"2023-10-17T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a>",
 		"start":"2023-10-10T02:00:00.000Z",
 		"startJp":"2023-04-12T11:00",
 		"end":"2023-10-17T01:59:00.000Z",
@@ -7272,7 +7272,7 @@ jpSched = [
 		"endG":"2023-10-17T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a>",
 		"start":"2023-10-17T02:00:00.000Z",
 		"startJp":"2023-04-19T11:00",
 		"end":"2023-10-24T01:59:00.000Z",
@@ -7284,7 +7284,7 @@ jpSched = [
 		"endG":"2023-10-24T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a>",
 		"start":"2023-10-17T02:00:00.000Z",
 		"startJp":"2023-04-19T11:00",
 		"end":"2023-10-24T01:59:00.000Z",
@@ -7332,7 +7332,7 @@ jpSched = [
 		"endG":"2023-11-14T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a>",
 		"start":"2023-11-07T02:00:00.000Z",
 		"startJp":"2023-05-10T11:00",
 		"end":"2023-11-14T02:00:00.000Z",
@@ -7344,7 +7344,7 @@ jpSched = [
 		"endG":"2023-11-14T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a>",
 		"start":"2023-11-07T02:00:00.000Z",
 		"startJp":"2023-05-10T11:00",
 		"end":"2023-11-14T02:00:00.000Z",
@@ -7356,7 +7356,7 @@ jpSched = [
 		"endG":"2023-11-14T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa.S\">Azusa.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa.S\">Azusa.S</a> [L]",
 		"start":"2023-11-14T02:00:00.000Z",
 		"startJp":"2023-05-17T11:00",
 		"end":"2023-11-21T01:59:00.000Z",
@@ -7368,7 +7368,7 @@ jpSched = [
 		"endG":"2023-11-21T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro.S\">Mashiro.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro.S\">Mashiro.S</a> [L]",
 		"start":"2023-11-14T02:00:00.000Z",
 		"startJp":"2023-05-17T11:00",
 		"end":"2023-11-21T01:59:00.000Z",
@@ -7380,7 +7380,7 @@ jpSched = [
 		"endG":"2023-11-21T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi.S\">Hifumi.S</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi.S\">Hifumi.S</a>",
 		"start":"2023-11-14T02:00:00.000Z",
 		"startJp":"2023-05-17T11:00",
 		"end":"2023-11-21T01:59:00.000Z",
@@ -7428,7 +7428,7 @@ jpSched = [
 		"endG":"2023-12-12T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako\" title=\"Miyako\">Miyako</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako\" title=\"Miyako\">Miyako</a>",
 		"start":"2023-12-05T02:00:00.000Z",
 		"startJp":"2023-06-07T11:00",
 		"end":"2023-12-12T01:59:00.000Z",
@@ -7440,7 +7440,7 @@ jpSched = [
 		"endG":"2023-12-12T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki\" title=\"Saki\">Saki</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki\" title=\"Saki\">Saki</a>",
 		"start":"2023-12-05T02:00:00.000Z",
 		"startJp":"2023-06-07T11:00",
 		"end":"2023-12-12T01:59:00.000Z",
@@ -7452,7 +7452,7 @@ jpSched = [
 		"endG":"2023-12-12T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a>",
 		"start":"2023-12-12T02:00:00.000Z",
 		"startJp":"2023-06-14T11:00",
 		"end":"2023-12-19T01:59:00.000Z",
@@ -7464,7 +7464,7 @@ jpSched = [
 		"endG":"2023-12-19T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moe\" title=\"Moe\">Moe</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moe\" title=\"Moe\">Moe</a>",
 		"start":"2023-12-12T02:00:00.000Z",
 		"startJp":"2023-06-14T11:00",
 		"end":"2023-12-19T01:59:00.000Z",
@@ -7500,7 +7500,7 @@ jpSched = [
 		"endG":"2024-01-02T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina.S\">Hina.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina.S\">Hina.S</a> [L]",
 		"start":"2024-01-02T02:00:00.000Z",
 		"startJp":"2023-07-05T11:00",
 		"end":"2024-01-09T01:59:00.000Z",
@@ -7512,7 +7512,7 @@ jpSched = [
 		"endG":"2024-01-09T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori.S\">Iori.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori.S\">Iori.S</a> [L]",
 		"start":"2024-01-02T02:00:00.000Z",
 		"startJp":"2023-07-05T11:00",
 		"end":"2024-01-09T01:59:00.000Z",
@@ -7524,7 +7524,7 @@ jpSched = [
 		"endG":"2024-01-09T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko.R\">Shiroko.R</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko.R\">Shiroko.R</a>",
 		"start":"2024-01-09T02:00:00.000Z",
 		"startJp":"2023-07-12T11:00",
 		"end":"2024-01-14T01:59:00.000Z",
@@ -7536,7 +7536,7 @@ jpSched = [
 		"endG":"2024-01-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a>",
 		"start":"2024-01-09T02:00:00.000Z",
 		"startJp":"2023-07-12T11:00",
 		"end":"2024-01-14T01:59:00.000Z",
@@ -7560,7 +7560,7 @@ jpSched = [
 		"endG":"2024-01-21T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi.S\">Nonomi.S</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi.S\">Nonomi.S</a>",
 		"start":"2024-01-14T02:00:00.000Z",
 		"startJp":"2023-07-17T11:00",
 		"end":"2024-01-21T01:59:00.000Z",
@@ -7572,7 +7572,7 @@ jpSched = [
 		"endG":"2024-01-21T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo.S\">Wakamo.S</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo.S\">Wakamo.S</a>",
 		"start":"2024-01-14T02:00:00.000Z",
 		"startJp":"2023-07-17T11:00",
 		"end":"2024-01-21T01:59:00.000Z",
@@ -7632,7 +7632,7 @@ jpSched = [
 		"endG":"2024-02-06T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a>",
 		"start":"2024-02-06T02:00:00.000Z",
 		"startJp":"2023-08-09T11:00",
 		"end":"2024-02-13T01:59:00.000Z",
@@ -7644,7 +7644,7 @@ jpSched = [
 		"endG":"2024-02-13T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya.C\">Saya.C</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya.C\">Saya.C</a>",
 		"start":"2024-02-06T02:00:00.000Z",
 		"startJp":"2023-08-09T11:00",
 		"end":"2024-02-13T01:59:00.000Z",
@@ -7656,7 +7656,7 @@ jpSched = [
 		"endG":"2024-02-13T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a>",
 		"start":"2024-02-06T02:00:00.000Z",
 		"startJp":"2023-08-09T11:00",
 		"end":"2024-02-13T01:59:00.000Z",
@@ -7680,7 +7680,7 @@ jpSched = [
 		"endG":"2024-02-20T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna.S\">Izuna.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna.S\">Izuna.S</a> [L]",
 		"start":"2024-02-13T02:00:00.000Z",
 		"startJp":"2023-08-16T11:00",
 		"end":"2024-02-20T01:59:00.000Z",
@@ -7692,7 +7692,7 @@ jpSched = [
 		"endG":"2024-02-20T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise.S\">Chise.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise.S\">Chise.S</a> [L]",
 		"start":"2024-02-13T02:00:00.000Z",
 		"startJp":"2023-08-16T11:00",
 		"end":"2024-02-20T01:59:00.000Z",
@@ -7716,7 +7716,7 @@ jpSched = [
 		"endG":"2024-03-05T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a>",
 		"start":"2024-02-20T02:00:00.000Z",
 		"startJp":"2023-08-23T11:00",
 		"end":"2024-03-05T01:59:00.000Z",
@@ -7728,7 +7728,7 @@ jpSched = [
 		"endG":"2024-03-05T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a>",
 		"start":"2024-02-20T02:00:00.000Z",
 		"startJp":"2023-08-23T11:00",
 		"end":"2024-03-05T01:59:00.000Z",
@@ -7752,7 +7752,7 @@ jpSched = [
 		"endG":"2024-03-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a>",
 		"start":"2024-03-05T02:00:00.000Z",
 		"startJp":"2023-09-06T11:00",
 		"end":"2024-03-14T01:59:00.000Z",
@@ -7764,7 +7764,7 @@ jpSched = [
 		"endG":"2024-03-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Utaha_(Cheerleader)\" title=\"Utaha.C\">Utaha.C</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Utaha_(Cheerleader)\" title=\"Utaha.C\">Utaha.C</a>",
 		"start":"2024-03-05T02:00:00.000Z",
 		"startJp":"2023-09-06T11:00",
 		"end":"2024-03-14T01:59:00.000Z",
@@ -7788,7 +7788,7 @@ jpSched = [
 		"endG":"2024-03-26T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Sportswear)\" title=\"Yuuka.Sp\">Yuuka.Sp</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Sportswear)\" title=\"Yuuka.Sp\">Yuuka.Sp</a> [L]",
 		"start":"2024-03-14T02:00:00.000Z",
 		"startJp":"2023-09-15T11:00",
 		"end":"2024-03-26T01:59:00.000Z",
@@ -7800,7 +7800,7 @@ jpSched = [
 		"endG":"2024-03-26T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Sportswear)\" title=\"Mari.Sp\">Mari.Sp</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Sportswear)\" title=\"Mari.Sp\">Mari.Sp</a> [L]",
 		"start":"2024-03-14T02:00:00.000Z",
 		"startJp":"2023-09-15T11:00",
 		"end":"2024-03-26T01:59:00.000Z",
@@ -7848,7 +7848,7 @@ jpSched = [
 		"endG":"2024-04-16T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino.O\">Cherino.O</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino.O\">Cherino.O</a>",
 		"start":"2024-04-09T02:00:00.000Z",
 		"startJp":"2023-10-11T11:00",
 		"end":"2024-04-16T01:59:00.000Z",
@@ -7860,7 +7860,7 @@ jpSched = [
 		"endG":"2024-04-16T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu.O\">Chinatsu.O</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu.O\">Chinatsu.O</a>",
 		"start":"2024-04-09T02:00:00.000Z",
 		"startJp":"2023-10-11T11:00",
 		"end":"2024-04-16T01:59:00.000Z",
@@ -7872,7 +7872,7 @@ jpSched = [
 		"endG":"2024-04-16T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka.O\">Nodoka.O</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka.O\">Nodoka.O</a>",
 		"start":"2024-04-09T02:00:00.000Z",
 		"startJp":"2023-10-11T11:00",
 		"end":"2024-04-16T01:59:00.000Z",
@@ -7884,7 +7884,7 @@ jpSched = [
 		"endG":"2024-04-16T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure\" title=\"Shigure\">Shigure</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure\" title=\"Shigure\">Shigure</a>",
 		"start":"2024-04-16T02:00:00.000Z",
 		"startJp":"2023-10-18T11:00",
 		"end":"2024-04-22T01:59:00.000Z",
@@ -7896,7 +7896,7 @@ jpSched = [
 		"endG":"2024-04-22T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Megu\" title=\"Megu\">Megu</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Megu\" title=\"Megu\">Megu</a>",
 		"start":"2024-04-16T02:00:00.000Z",
 		"startJp":"2023-10-18T11:00",
 		"end":"2024-04-22T01:59:00.000Z",
@@ -7944,7 +7944,7 @@ jpSched = [
 		"endG":"2024-05-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a>",
 		"start":"2024-05-14T02:00:00.000Z",
 		"startJp":"2023-11-15T11:00",
 		"end":"2024-05-21T02:00:00.000Z",
@@ -7956,7 +7956,7 @@ jpSched = [
 		"endG":"2024-05-21T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori\" title=\"Hiyori\">Hiyori</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori\" title=\"Hiyori\">Hiyori</a>",
 		"start":"2024-05-14T02:00:00.000Z",
 		"startJp":"2023-11-15T11:00",
 		"end":"2024-05-21T02:00:00.000Z",
@@ -8004,7 +8004,7 @@ jpSched = [
 		"endG":"2024-06-11T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Himari\" title=\"Himari\">Himari</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Himari\" title=\"Himari\">Himari</a>",
 		"start":"2024-06-04T02:00:00.000Z",
 		"startJp":"2023-12-06T11:00",
 		"end":"2024-06-11T01:59:00.000Z",
@@ -8028,7 +8028,7 @@ jpSched = [
 		"endG":"2024-06-18T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi\" title=\"Eimi\">Eimi</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi\" title=\"Eimi\">Eimi</a>",
 		"start":"2024-06-11T02:00:00.000Z",
 		"startJp":"2023-12-13T11:00",
 		"end":"2024-06-18T01:59:00.000Z",
@@ -8040,7 +8040,7 @@ jpSched = [
 		"endG":"2024-06-18T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru.BG\">Neru.BG</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru.BG\">Neru.BG</a> [L]",
 		"start":"2024-06-18T02:00:00.000Z",
 		"startJp":"2023-12-20T11:00",
 		"end":"2024-06-25T01:59:00.000Z",
@@ -8052,7 +8052,7 @@ jpSched = [
 		"endG":"2024-06-25T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin.BG\">Karin.BG</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin.BG\">Karin.BG</a> [L]",
 		"start":"2024-06-18T02:00:00.000Z",
 		"startJp":"2023-12-20T11:00",
 		"end":"2024-06-25T01:59:00.000Z",
@@ -8064,7 +8064,7 @@ jpSched = [
 		"endG":"2024-06-25T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna.BG\">Asuna.BG</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna.BG\">Asuna.BG</a>",
 		"start":"2024-06-18T02:00:00.000Z",
 		"startJp":"2023-12-20T11:00",
 		"end":"2024-06-25T01:59:00.000Z",
@@ -8076,7 +8076,7 @@ jpSched = [
 		"endG":"2024-06-25T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane.BG\">Akane.BG</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane.BG\">Akane.BG</a>",
 		"start":"2024-06-18T02:00:00.000Z",
 		"startJp":"2023-12-20T11:00",
 		"end":"2024-06-25T01:59:00.000Z",
@@ -8112,7 +8112,7 @@ jpSched = [
 		"endG":"2024-07-09T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru.NY\">Aru.NY</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru.NY\">Aru.NY</a> [L]",
 		"start":"2024-07-09T02:00:00.000Z",
 		"startJp":"2024-01-10T11:00",
 		"end":"2024-07-16T01:59:00.000Z",
@@ -8124,7 +8124,7 @@ jpSched = [
 		"endG":"2024-07-16T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki.NY\">Mutsuki.NY</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki.NY\">Mutsuki.NY</a> [L]",
 		"start":"2024-07-09T02:00:00.000Z",
 		"startJp":"2024-01-10T11:00",
 		"end":"2024-07-16T01:59:00.000Z",
@@ -8136,7 +8136,7 @@ jpSched = [
 		"endG":"2024-07-16T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika.NY\">Serika.NY</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika.NY\">Serika.NY</a>",
 		"start":"2024-07-09T02:00:00.000Z",
 		"startJp":"2024-01-10T11:00",
 		"end":"2024-07-16T01:59:00.000Z",
@@ -8148,7 +8148,7 @@ jpSched = [
 		"endG":"2024-07-16T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(New_Year)\" title=\"Kayoko.NY\">Kayoko.NY</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(New_Year)\" title=\"Kayoko.NY\">Kayoko.NY</a>",
 		"start":"2024-07-09T02:00:00.000Z",
 		"startJp":"2024-01-10T11:00",
 		"end":"2024-07-16T01:59:00.000Z",
@@ -8160,7 +8160,7 @@ jpSched = [
 		"endG":"2024-07-16T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka.NY\">Haruka.NY</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka.NY\">Haruka.NY</a>",
 		"start":"2024-07-09T02:00:00.000Z",
 		"startJp":"2024-01-10T11:00",
 		"end":"2024-07-16T01:59:00.000Z",
@@ -8172,7 +8172,7 @@ jpSched = [
 		"endG":"2024-07-16T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaki\" title=\"Misaki\">Misaki</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaki\" title=\"Misaki\">Misaki</a>",
 		"start":"2024-07-16T02:00:00.000Z",
 		"startJp":"2024-01-17T11:00",
 		"end":"2024-07-23T01:59:00.000Z",
@@ -8184,7 +8184,7 @@ jpSched = [
 		"endG":"2024-07-23T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Atsuko\" title=\"Atsuko\">Atsuko</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Atsuko\" title=\"Atsuko\">Atsuko</a>",
 		"start":"2024-07-16T02:00:00.000Z",
 		"startJp":"2024-01-17T11:00",
 		"end":"2024-07-23T01:59:00.000Z",
@@ -8220,7 +8220,7 @@ jpSched = [
 		"endG":"2024-07-30T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a>",
 		"start":"2024-07-23T02:00:00.000Z",
 		"startJp":"2024-01-24T11:00",
 		"end":"2024-07-30T01:59:00.000Z",
@@ -8256,7 +8256,7 @@ jpSched = [
 		"endG":"2024-08-06T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serina_(Christmas)\" title=\"Serina.X\">Serina.X</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serina_(Christmas)\" title=\"Serina.X\">Serina.X</a>",
 		"start":"2024-08-06T02:00:00.000Z",
 		"startJp":"2024-02-07T11:00",
 		"end":"2024-08-13T01:59:00.000Z",
@@ -8268,7 +8268,7 @@ jpSched = [
 		"endG":"2024-08-13T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanae_(Christmas)\" title=\"Hanae.X\">Hanae.X</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanae_(Christmas)\" title=\"Hanae.X\">Hanae.X</a>",
 		"start":"2024-08-06T02:00:00.000Z",
 		"startJp":"2024-02-07T11:00",
 		"end":"2024-08-13T01:59:00.000Z",
@@ -8280,7 +8280,7 @@ jpSched = [
 		"endG":"2024-08-13T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a>",
 		"start":"2024-08-13T02:00:00.000Z",
 		"startJp":"2024-02-14T11:00",
 		"end":"2024-08-20T01:59:00.000Z",
@@ -8292,7 +8292,7 @@ jpSched = [
 		"endG":"2024-08-20T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a>",
 		"start":"2024-08-13T02:00:00.000Z",
 		"startJp":"2024-02-14T11:00",
 		"end":"2024-08-20T01:59:00.000Z",
@@ -8304,7 +8304,7 @@ jpSched = [
 		"endG":"2024-08-20T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mine\" title=\"Mine\">Mine</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mine\" title=\"Mine\">Mine</a>",
 		"start":"2024-08-13T02:00:00.000Z",
 		"startJp":"2024-02-14T11:00",
 		"end":"2024-08-20T01:59:00.000Z",
@@ -8352,7 +8352,7 @@ jpSched = [
 		"endG":"2024-09-17T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(New_Year)\" title=\"Haruna.NY\">Haruna.NY</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(New_Year)\" title=\"Haruna.NY\">Haruna.NY</a> [L]",
 		"start":"2024-09-03T02:00:00.000Z",
 		"startJp":"2024-03-06T11:00",
 		"end":"2024-09-17T01:59:00.000Z",
@@ -8364,7 +8364,7 @@ jpSched = [
 		"endG":"2024-09-17T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuuka_(New_Year)\" title=\"Fuuka.NY\">Fuuka.NY</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuuka_(New_Year)\" title=\"Fuuka.NY\">Fuuka.NY</a> [L]",
 		"start":"2024-09-03T02:00:00.000Z",
 		"startJp":"2024-03-06T11:00",
 		"end":"2024-09-17T01:59:00.000Z",
@@ -8376,7 +8376,7 @@ jpSched = [
 		"endG":"2024-09-17T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a>",
 		"start":"2024-09-17T02:00:00.000Z",
 		"startJp":"2024-03-20T11:00",
 		"end":"2024-09-24T01:59:00.000Z",
@@ -8388,7 +8388,7 @@ jpSched = [
 		"endG":"2024-09-24T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a>",
 		"start":"2024-09-17T02:00:00.000Z",
 		"startJp":"2024-03-20T11:00",
 		"end":"2024-09-24T01:59:00.000Z",
@@ -8400,7 +8400,7 @@ jpSched = [
 		"endG":"2024-09-24T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako\" title=\"Sakurako\">Sakurako</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako\" title=\"Sakurako\">Sakurako</a>",
 		"start":"2024-09-17T02:00:00.000Z",
 		"startJp":"2024-03-20T11:00",
 		"end":"2024-09-24T01:59:00.000Z",
@@ -8436,7 +8436,7 @@ jpSched = [
 		"endG":"2024-10-09T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a>",
 		"start":"2024-09-24T02:00:00.000Z",
 		"startJp":"2024-03-27T11:00",
 		"end":"2024-10-09T01:59:00.000Z",
@@ -8448,7 +8448,7 @@ jpSched = [
 		"endG":"2024-10-09T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a>",
 		"start":"2024-09-24T02:00:00.000Z",
 		"startJp":"2024-03-27T11:00",
 		"end":"2024-10-09T01:59:00.000Z",
@@ -8460,7 +8460,7 @@ jpSched = [
 		"endG":"2024-10-09T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a>",
 		"start":"2024-10-09T02:00:00.000Z",
 		"startJp":"2024-04-11T11:00",
 		"end":"2024-10-15T01:59:00.000Z",
@@ -8472,7 +8472,7 @@ jpSched = [
 		"endG":"2024-10-15T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reisa\" title=\"Reisa\">Reisa</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reisa\" title=\"Reisa\">Reisa</a>",
 		"start":"2024-10-09T02:00:00.000Z",
 		"startJp":"2024-04-11T11:00",
 		"end":"2024-10-15T01:59:00.000Z",
@@ -8484,7 +8484,7 @@ jpSched = [
 		"endG":"2024-10-15T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a>",
 		"start":"2024-10-09T02:00:00.000Z",
 		"startJp":"2024-04-11T11:00",
 		"end":"2024-10-15T01:59:00.000Z",
@@ -8496,7 +8496,7 @@ jpSched = [
 		"endG":"2024-10-15T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki\" title=\"Toki\">Toki</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki\" title=\"Toki\">Toki</a> [L]",
 		"start":"2024-10-15T02:00:00.000Z",
 		"startJp":"2024-04-17T11:00",
 		"end":"2024-10-22T01:59:00.000Z",
@@ -8508,7 +8508,7 @@ jpSched = [
 		"endG":"2024-10-22T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagisa\" title=\"Nagisa\">Nagisa</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagisa\" title=\"Nagisa\">Nagisa</a> [L]",
 		"start":"2024-10-15T02:00:00.000Z",
 		"startJp":"2024-04-17T11:00",
 		"end":"2024-10-22T01:59:00.000Z",
@@ -8520,7 +8520,7 @@ jpSched = [
 		"endG":"2024-10-22T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koyuki\" title=\"Koyuki\">Koyuki</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koyuki\" title=\"Koyuki\">Koyuki</a>",
 		"start":"2024-10-15T02:00:00.000Z",
 		"startJp":"2024-04-17T11:00",
 		"end":"2024-10-22T01:59:00.000Z",
@@ -8556,7 +8556,7 @@ jpSched = [
 		"endG":"2024-11-05T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a>",
 		"start":"2024-10-22T02:00:00.000Z",
 		"startJp":"2024-04-24T11:00",
 		"end":"2024-11-05T01:59:00.000Z",
@@ -8580,7 +8580,7 @@ jpSched = [
 		"endG":"2024-11-12T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a>",
 		"start":"2024-11-05T02:00:00.000Z",
 		"startJp":"2024-05-08T11:00",
 		"end":"2024-11-12T01:59:00.000Z",
@@ -8592,7 +8592,7 @@ jpSched = [
 		"endG":"2024-11-12T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a>",
 		"start":"2024-11-05T02:00:00.000Z",
 		"startJp":"2024-05-08T11:00",
 		"end":"2024-11-12T01:59:00.000Z",
@@ -8604,7 +8604,7 @@ jpSched = [
 		"endG":"2024-11-12T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaho\" title=\"Kaho\">Kaho</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaho\" title=\"Kaho\">Kaho</a>",
 		"start":"2024-11-05T02:00:00.000Z",
 		"startJp":"2024-05-08T11:00",
 		"end":"2024-11-12T01:59:00.000Z",
@@ -8616,7 +8616,7 @@ jpSched = [
 		"endG":"2024-11-12T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rumi\" title=\"Rumi\">Rumi</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rumi\" title=\"Rumi\">Rumi</a>",
 		"start":"2024-11-12T02:00:00.000Z",
 		"startJp":"2024-05-15T11:00",
 		"end":"2024-11-19T01:59:00.000Z",
@@ -8628,7 +8628,7 @@ jpSched = [
 		"endG":"2024-11-19T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mina\" title=\"Mina\">Mina</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mina\" title=\"Mina\">Mina</a>",
 		"start":"2024-11-12T02:00:00.000Z",
 		"startJp":"2024-05-15T11:00",
 		"end":"2024-11-19T01:59:00.000Z",
@@ -8640,7 +8640,7 @@ jpSched = [
 		"endG":"2024-11-19T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun\" title=\"Shun\">Shun</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun\" title=\"Shun\">Shun</a>",
 		"start":"2024-11-12T02:00:00.000Z",
 		"startJp":"2024-05-15T11:00",
 		"end":"2024-11-19T01:59:00.000Z",
@@ -8652,7 +8652,7 @@ jpSched = [
 		"endG":"2024-11-19T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a>",
 		"start":"2024-11-12T02:00:00.000Z",
 		"startJp":"2024-05-15T11:00",
 		"end":"2024-11-19T01:59:00.000Z",
@@ -8688,7 +8688,7 @@ jpSched = [
 		"endG":"2024-12-03T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Maid)\" title=\"Arisu.M\">Arisu.M</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Maid)\" title=\"Arisu.M\">Arisu.M</a>",
 		"start":"2024-11-19T02:00:00.000Z",
 		"startJp":"2024-05-22T11:00",
 		"end":"2024-12-03T01:59:00.000Z",
@@ -8700,7 +8700,7 @@ jpSched = [
 		"endG":"2024-12-03T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki_(Bunny_Girl)\" title=\"Toki.BG\">Toki.BG</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki_(Bunny_Girl)\" title=\"Toki.BG\">Toki.BG</a>",
 		"start":"2024-11-19T02:00:00.000Z",
 		"startJp":"2024-05-22T11:00",
 		"end":"2024-12-03T01:59:00.000Z",
@@ -8724,7 +8724,7 @@ jpSched = [
 		"endG":"2024-12-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi.S\">Nonomi.S</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi.S\">Nonomi.S</a>",
 		"start":"2024-12-03T02:00:00.000Z",
 		"startJp":"2024-06-05T11:00",
 		"end":"2024-12-14T01:59:00.000Z",
@@ -8736,7 +8736,7 @@ jpSched = [
 		"endG":"2024-12-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo.S\">Wakamo.S</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo.S\">Wakamo.S</a>",
 		"start":"2024-12-03T02:00:00.000Z",
 		"startJp":"2024-06-05T11:00",
 		"end":"2024-12-14T01:59:00.000Z",
@@ -8748,7 +8748,7 @@ jpSched = [
 		"endG":"2024-12-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Swimsuit)\" title=\"Shiroko.S\">Shiroko.S</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Swimsuit)\" title=\"Shiroko.S\">Shiroko.S</a>",
 		"start":"2024-12-03T02:00:00.000Z",
 		"startJp":"2024-06-05T11:00",
 		"end":"2024-12-14T01:59:00.000Z",
@@ -8760,7 +8760,7 @@ jpSched = [
 		"endG":"2024-12-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna.S\">Izuna.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna.S\">Izuna.S</a> [L]",
 		"start":"2024-12-14T02:00:00.000Z",
 		"startJp":"2024-06-16T11:00",
 		"end":"2024-12-24T01:59:00.000Z",
@@ -8772,7 +8772,7 @@ jpSched = [
 		"endG":"2024-12-24T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise.S\">Chise.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise.S\">Chise.S</a> [L]",
 		"start":"2024-12-14T02:00:00.000Z",
 		"startJp":"2024-06-16T11:00",
 		"end":"2024-12-24T01:59:00.000Z",
@@ -8784,7 +8784,7 @@ jpSched = [
 		"endG":"2024-12-24T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori_(Swimsuit)\" title=\"Mimori.S\">Mimori.S</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori_(Swimsuit)\" title=\"Mimori.S\">Mimori.S</a>",
 		"start":"2024-12-14T02:00:00.000Z",
 		"startJp":"2024-06-16T11:00",
 		"end":"2024-12-24T01:59:00.000Z",
@@ -8832,7 +8832,7 @@ jpSched = [
 		"endG":"2025-01-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako_(Swimsuit)\" title=\"Miyako.S\">Miyako.S</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako_(Swimsuit)\" title=\"Miyako.S\">Miyako.S</a>",
 		"start":"2025-01-07T02:00:00.000Z",
 		"startJp":"2024-07-10T11:00",
 		"end":"2025-01-14T01:59:00.000Z",
@@ -8844,7 +8844,7 @@ jpSched = [
 		"endG":"2025-01-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki_(Swimsuit)\" title=\"Saki.S\">Saki.S</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki_(Swimsuit)\" title=\"Saki.S\">Saki.S</a>",
 		"start":"2025-01-07T02:00:00.000Z",
 		"startJp":"2024-07-10T11:00",
 		"end":"2025-01-14T01:59:00.000Z",
@@ -8856,7 +8856,7 @@ jpSched = [
 		"endG":"2025-01-14T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>",
 		"start":"2025-01-14T02:00:00.000Z",
 		"startJp":"2024-07-17T11:00",
 		"end":"2025-01-19T01:59:00.000Z",
@@ -8868,7 +8868,7 @@ jpSched = [
 		"endG":"2025-01-19T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina\" title=\"Hina\">Hina</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina\" title=\"Hina\">Hina</a>",
 		"start":"2025-01-14T02:00:00.000Z",
 		"startJp":"2024-07-17T11:00",
 		"end":"2025-01-19T01:59:00.000Z",
@@ -8940,7 +8940,7 @@ jpSched = [
 		"endG":"2025-02-04T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Meru\" title=\"Meru\">Meru</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momiji\" title=\"Momiji\">Momiji</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Meru\" title=\"Meru\">Meru</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momiji\" title=\"Momiji\">Momiji</a>",
 		"start":"2025-02-04T02:00:00.000Z",
 		"startJp":"2024-08-07T11:00",
 		"end":"2025-02-11T01:59:00.000Z",
@@ -8952,7 +8952,7 @@ jpSched = [
 		"endG":"2025-02-11T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a>",
 		"start":"2025-02-04T02:00:00.000Z",
 		"startJp":"2024-08-07T11:00",
 		"end":"2025-02-11T01:59:00.000Z",
@@ -8964,7 +8964,7 @@ jpSched = [
 		"endG":"2025-02-11T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a>",
 		"start":"2025-02-04T02:00:00.000Z",
 		"startJp":"2024-08-07T11:00",
 		"end":"2025-02-11T01:59:00.000Z",
@@ -8976,7 +8976,7 @@ jpSched = [
 		"endG":"2025-02-11T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Minori\" title=\"Minori\">Minori</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Minori\" title=\"Minori\">Minori</a>",
 		"start":"2025-02-11T02:00:00.000Z",
 		"startJp":"2024-08-14T11:00",
 		"end":"2025-02-18T01:59:00.000Z",
@@ -8988,7 +8988,7 @@ jpSched = [
 		"endG":"2025-02-18T01:59:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure_(Hot_Spring)\" title=\"Shigure.O\">Shigure.O</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure_(Hot_Spring)\" title=\"Shigure.O\">Shigure.O</a>",
 		"start":"2025-02-11T02:00:00.000Z",
 		"startJp":"2024-08-14T11:00",
 		"end":"2025-02-18T01:59:00.000Z",
@@ -9031,7 +9031,7 @@ jpSched = [
 		"endJp":"2021-02-10T18:50",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-08-10T05:00:00.000Z",
 		"endG":"2021-08-10T09:50:00.000Z"
 	},
@@ -9043,7 +9043,7 @@ jpSched = [
 		"endJp":"2021-02-18T19:30",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-08-18T05:00:00.000Z",
 		"endG":"2021-08-18T10:30:00.000Z"
 	},
@@ -9055,7 +9055,7 @@ jpSched = [
 		"endJp":"2021-02-25T02:00 (+1)",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-08-25T05:00:00.000Z",
 		"endG":"2021-08-24T17:00:00.000Z"
 	},
@@ -9067,7 +9067,7 @@ jpSched = [
 		"endJp":"2021-03-04T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-09-01T05:00:00.000Z",
 		"endG":"2021-09-01T08:00:00.000Z"
 	},
@@ -9079,7 +9079,7 @@ jpSched = [
 		"endJp":"2021-03-11T18:30",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-09-08T05:00:00.000Z",
 		"endG":"2021-09-08T09:30:00.000Z"
 	},
@@ -9091,7 +9091,7 @@ jpSched = [
 		"endJp":"2021-03-18T15:30",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-09-15T03:00:00.000Z",
 		"endG":"2021-09-15T06:30:00.000Z"
 	},
@@ -9103,7 +9103,7 @@ jpSched = [
 		"endJp":"2021-03-25T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-09-22T03:00:00.000Z",
 		"endG":"2021-09-22T09:00:00.000Z"
 	},
@@ -9115,7 +9115,7 @@ jpSched = [
 		"endJp":"2021-04-01T22:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-09-29T03:00:00.000Z",
 		"endG":"2021-09-29T13:00:00.000Z"
 	},
@@ -9127,7 +9127,7 @@ jpSched = [
 		"endJp":"2021-04-08T20:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-10-06T03:00:00.000Z",
 		"endG":"2021-10-06T11:00:00.000Z"
 	},
@@ -9139,7 +9139,7 @@ jpSched = [
 		"endJp":"2021-04-15T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-10-13T03:00:00.000Z",
 		"endG":"2021-10-13T08:00:00.000Z"
 	},
@@ -9151,7 +9151,7 @@ jpSched = [
 		"endJp":"2021-04-22T15:30",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-10-20T03:00:00.000Z",
 		"endG":"2021-10-20T06:30:00.000Z"
 	},
@@ -9163,7 +9163,7 @@ jpSched = [
 		"endJp":"2021-04-28T20:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-10-26T03:00:00.000Z",
 		"endG":"2021-10-26T11:00:00.000Z"
 	},
@@ -9175,7 +9175,7 @@ jpSched = [
 		"endJp":"2021-05-13T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-11-10T03:00:00.000Z",
 		"endG":"2021-11-10T09:00:00.000Z"
 	},
@@ -9187,7 +9187,7 @@ jpSched = [
 		"endJp":"2021-05-27T20:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-11-24T03:00:00.000Z",
 		"endG":"2021-11-24T11:00:00.000Z"
 	},
@@ -9199,7 +9199,7 @@ jpSched = [
 		"endJp":"2021-06-09T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-12-07T03:00:00.000Z",
 		"endG":"2021-12-07T09:00:00.000Z"
 	},
@@ -9211,7 +9211,7 @@ jpSched = [
 		"endJp":"2021-06-24T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-12-22T03:00:00.000Z",
 		"endG":"2021-12-22T09:00:00.000Z"
 	},
@@ -9223,7 +9223,7 @@ jpSched = [
 		"endJp":"2021-06-30T20:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2021-12-28T03:00:00.000Z",
 		"endG":"2021-12-28T11:00:00.000Z"
 	},
@@ -9235,7 +9235,7 @@ jpSched = [
 		"endJp":"2021-07-08T16:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-01-05T03:00:00.000Z",
 		"endG":"2022-01-05T07:00:00.000Z"
 	},
@@ -9247,7 +9247,7 @@ jpSched = [
 		"endJp":"2021-07-15T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-01-12T03:00:00.000Z",
 		"endG":"2022-01-12T09:00:00.000Z"
 	},
@@ -9259,7 +9259,7 @@ jpSched = [
 		"endJp":"2021-07-29T20:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-01-26T03:00:00.000Z",
 		"endG":"2022-01-26T11:00:00.000Z"
 	},
@@ -9271,7 +9271,7 @@ jpSched = [
 		"endJp":"2021-08-12T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-02-09T03:00:00.000Z",
 		"endG":"2022-02-09T09:00:00.000Z"
 	},
@@ -9283,7 +9283,7 @@ jpSched = [
 		"endJp":"2021-08-26T20:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-02-23T03:00:00.000Z",
 		"endG":"2022-02-23T11:00:00.000Z"
 	},
@@ -9295,7 +9295,7 @@ jpSched = [
 		"endJp":"2021-09-09T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-03-09T03:00:00.000Z",
 		"endG":"2022-03-09T09:00:00.000Z"
 	},
@@ -9307,7 +9307,7 @@ jpSched = [
 		"endJp":"2021-09-29T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-03-29T03:00:00.000Z",
 		"endG":"2022-03-29T09:00:00.000Z"
 	},
@@ -9319,7 +9319,7 @@ jpSched = [
 		"endJp":"2021-09-23T22:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-03-23T03:00:00.000Z",
 		"endG":"2022-03-23T13:00:00.000Z"
 	},
@@ -9331,7 +9331,7 @@ jpSched = [
 		"endJp":"2021-10-12T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-04-11T03:00:00.000Z",
 		"endG":"2022-04-11T09:00:00.000Z"
 	},
@@ -9343,7 +9343,7 @@ jpSched = [
 		"endJp":"2021-10-27T20:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-04-26T03:00:00.000Z",
 		"endG":"2022-04-26T11:00:00.000Z"
 	},
@@ -9355,7 +9355,7 @@ jpSched = [
 		"endJp":"2021-11-03T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-05-03T03:00:00.000Z",
 		"endG":"2022-05-03T09:00:00.000Z"
 	},
@@ -9367,7 +9367,7 @@ jpSched = [
 		"endJp":"2021-11-17T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-05-17T03:00:00.000Z",
 		"endG":"2022-05-17T09:00:00.000Z"
 	},
@@ -9379,7 +9379,7 @@ jpSched = [
 		"endJp":"2021-11-30T22:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-05-30T03:00:00.000Z",
 		"endG":"2022-05-30T13:00:00.000Z"
 	},
@@ -9391,7 +9391,7 @@ jpSched = [
 		"endJp":"2021-12-15T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-06-14T03:00:00.000Z",
 		"endG":"2022-06-14T09:00:00.000Z"
 	},
@@ -9403,7 +9403,7 @@ jpSched = [
 		"endJp":"2021-12-29T20:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-06-28T03:00:00.000Z",
 		"endG":"2022-06-28T11:00:00.000Z"
 	},
@@ -9415,7 +9415,7 @@ jpSched = [
 		"endJp":"2022-01-12T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-07-12T03:00:00.000Z",
 		"endG":"2022-07-12T09:00:00.000Z"
 	},
@@ -9427,7 +9427,7 @@ jpSched = [
 		"endJp":"2022-01-26T23:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-07-26T03:00:00.000Z",
 		"endG":"2022-07-26T14:00:00.000Z"
 	},
@@ -9439,7 +9439,7 @@ jpSched = [
 		"endJp":"2022-02-09T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-08-09T03:00:00.000Z",
 		"endG":"2022-08-09T10:00:00.000Z"
 	},
@@ -9451,7 +9451,7 @@ jpSched = [
 		"endJp":"2022-02-23T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-08-23T02:00:00.000Z",
 		"endG":"2022-08-23T10:00:00.000Z"
 	},
@@ -9463,7 +9463,7 @@ jpSched = [
 		"endJp":"2022-03-09T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-09-06T02:00:00.000Z",
 		"endG":"2022-09-06T08:00:00.000Z"
 	},
@@ -9475,7 +9475,7 @@ jpSched = [
 		"endJp":"2022-03-23T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-09-20T02:00:00.000Z",
 		"endG":"2022-09-20T10:00:00.000Z"
 	},
@@ -9487,7 +9487,7 @@ jpSched = [
 		"endJp":"2022-04-06T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-10-04T02:00:00.000Z",
 		"endG":"2022-10-04T08:00:00.000Z"
 	},
@@ -9499,7 +9499,7 @@ jpSched = [
 		"endJp":"2022-04-20T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-10-18T02:00:00.000Z",
 		"endG":"2022-10-18T08:00:00.000Z"
 	},
@@ -9511,7 +9511,7 @@ jpSched = [
 		"endJp":"2022-04-27T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-10-25T02:00:00.000Z",
 		"endG":"2022-10-25T10:00:00.000Z"
 	},
@@ -9523,7 +9523,7 @@ jpSched = [
 		"endJp":"2022-05-11T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-11-08T02:00:00.000Z",
 		"endG":"2022-11-08T08:00:00.000Z"
 	},
@@ -9535,7 +9535,7 @@ jpSched = [
 		"endJp":"2022-05-24T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-11-21T02:00:00.000Z",
 		"endG":"2022-11-21T10:00:00.000Z"
 	},
@@ -9547,7 +9547,7 @@ jpSched = [
 		"endJp":"2022-06-08T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-12-06T02:00:00.000Z",
 		"endG":"2022-12-06T08:00:00.000Z"
 	},
@@ -9559,7 +9559,7 @@ jpSched = [
 		"endJp":"2022-06-08T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-12-06T02:00:00.000Z",
 		"endG":"2022-12-06T08:00:00.000Z"
 	},
@@ -9571,7 +9571,7 @@ jpSched = [
 		"endJp":"2022-06-22T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2022-12-20T02:00:00.000Z",
 		"endG":"2022-12-20T10:00:00.000Z"
 	},
@@ -9583,7 +9583,7 @@ jpSched = [
 		"endJp":"2022-07-07T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-01-04T02:00:00.000Z",
 		"endG":"2023-01-04T08:00:00.000Z"
 	},
@@ -9595,7 +9595,7 @@ jpSched = [
 		"endJp":"2022-07-20T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-01-17T02:00:00.000Z",
 		"endG":"2023-01-17T10:00:00.000Z"
 	},
@@ -9607,7 +9607,7 @@ jpSched = [
 		"endJp":"2022-08-09T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-02-06T02:00:00.000Z",
 		"endG":"2023-02-06T08:00:00.000Z"
 	},
@@ -9619,7 +9619,7 @@ jpSched = [
 		"endJp":"2022-08-24T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-02-21T02:00:00.000Z",
 		"endG":"2023-02-21T10:00:00.000Z"
 	},
@@ -9631,7 +9631,7 @@ jpSched = [
 		"endJp":"2022-09-07T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-03-07T02:00:00.000Z",
 		"endG":"2023-03-07T08:00:00.000Z"
 	},
@@ -9643,7 +9643,7 @@ jpSched = [
 		"endJp":"2022-09-21T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-03-21T02:00:00.000Z",
 		"endG":"2023-03-21T08:00:00.000Z"
 	},
@@ -9655,7 +9655,7 @@ jpSched = [
 		"endJp":"2022-09-27T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-03-27T02:00:00.000Z",
 		"endG":"2023-03-27T10:00:00.000Z"
 	},
@@ -9667,7 +9667,7 @@ jpSched = [
 		"endJp":"2022-10-12T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-04-11T02:00:00.000Z",
 		"endG":"2023-04-11T08:00:00.000Z"
 	},
@@ -9679,7 +9679,7 @@ jpSched = [
 		"endJp":"2022-10-26T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-04-25T02:00:00.000Z",
 		"endG":"2023-04-25T10:00:00.000Z"
 	},
@@ -9691,7 +9691,7 @@ jpSched = [
 		"endJp":"2022-11-16T21:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-05-16T02:00:00.000Z",
 		"endG":"2023-05-16T12:00:00.000Z"
 	},
@@ -9703,7 +9703,7 @@ jpSched = [
 		"endJp":"2022-11-30T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-05-30T02:00:00.000Z",
 		"endG":"2023-05-30T10:00:00.000Z"
 	},
@@ -9715,7 +9715,7 @@ jpSched = [
 		"endJp":"2022-12-14T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-06-13T02:00:00.000Z",
 		"endG":"2023-06-13T10:00:00.000Z"
 	},
@@ -9727,7 +9727,7 @@ jpSched = [
 		"endJp":"2022-12-28T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-06-27T02:00:00.000Z",
 		"endG":"2023-06-27T10:00:00.000Z"
 	},
@@ -9739,7 +9739,7 @@ jpSched = [
 		"endJp":"2023-01-11T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-07-11T02:00:00.000Z",
 		"endG":"2023-07-11T08:00:00.000Z"
 	},
@@ -9751,7 +9751,7 @@ jpSched = [
 		"endJp":"2023-01-24T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-07-24T02:00:00.000Z",
 		"endG":"2023-07-24T10:00:00.000Z"
 	},
@@ -9763,7 +9763,7 @@ jpSched = [
 		"endJp":"2023-02-10T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-08-10T02:00:00.000Z",
 		"endG":"2023-08-10T08:00:00.000Z"
 	},
@@ -9775,7 +9775,7 @@ jpSched = [
 		"endJp":"2023-02-22T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-08-22T02:00:00.000Z",
 		"endG":"2023-08-22T10:00:00.000Z"
 	},
@@ -9787,7 +9787,7 @@ jpSched = [
 		"endJp":"2023-03-08T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-09-05T02:00:00.000Z",
 		"endG":"2023-09-05T10:00:00.000Z"
 	},
@@ -9799,7 +9799,7 @@ jpSched = [
 		"endJp":"2023-03-22T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-09-19T02:00:00.000Z",
 		"endG":"2023-09-19T10:00:00.000Z"
 	},
@@ -9811,7 +9811,7 @@ jpSched = [
 		"endJp":"2023-04-05T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-10-03T02:00:00.000Z",
 		"endG":"2023-10-03T08:00:00.000Z"
 	},
@@ -9823,7 +9823,7 @@ jpSched = [
 		"endJp":"2023-04-26T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-10-24T02:00:00.000Z",
 		"endG":"2023-10-24T10:00:00.000Z"
 	},
@@ -9835,7 +9835,7 @@ jpSched = [
 		"endJp":"2023-05-10T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-11-07T02:00:00.000Z",
 		"endG":"2023-11-07T08:00:00.000Z"
 	},
@@ -9847,7 +9847,7 @@ jpSched = [
 		"endJp":"2023-05-24T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-11-21T02:00:00.000Z",
 		"endG":"2023-11-21T10:00:00.000Z"
 	},
@@ -9859,7 +9859,7 @@ jpSched = [
 		"endJp":"2023-06-07T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-12-05T02:00:00.000Z",
 		"endG":"2023-12-05T08:00:00.000Z"
 	},
@@ -9871,7 +9871,7 @@ jpSched = [
 		"endJp":"2023-06-21T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2023-12-19T02:00:00.000Z",
 		"endG":"2023-12-19T10:00:00.000Z"
 	},
@@ -9883,7 +9883,7 @@ jpSched = [
 		"endJp":"2023-07-05T18:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-01-02T02:00:00.000Z",
 		"endG":"2024-01-02T09:00:00.000Z"
 	},
@@ -9895,7 +9895,7 @@ jpSched = [
 		"endJp":"2023-07-17T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-01-14T02:00:00.000Z",
 		"endG":"2024-01-14T08:00:00.000Z"
 	},
@@ -9907,7 +9907,7 @@ jpSched = [
 		"endJp":"2023-07-24T20:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-01-21T02:00:00.000Z",
 		"endG":"2024-01-21T11:00:00.000Z"
 	},
@@ -9919,7 +9919,7 @@ jpSched = [
 		"endJp":"2023-08-16T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-02-13T02:00:00.000Z",
 		"endG":"2024-02-13T08:00:00.000Z"
 	},
@@ -9931,7 +9931,7 @@ jpSched = [
 		"endJp":"2023-08-23T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-02-20T02:00:00.000Z",
 		"endG":"2024-02-20T10:00:00.000Z"
 	},
@@ -9943,7 +9943,7 @@ jpSched = [
 		"endJp":"2023-09-06T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-03-05T02:00:00.000Z",
 		"endG":"2024-03-05T08:00:00.000Z"
 	},
@@ -9955,7 +9955,7 @@ jpSched = [
 		"endJp":"2023-09-15T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-03-14T02:00:00.000Z",
 		"endG":"2024-03-14T08:00:00.000Z"
 	},
@@ -9967,7 +9967,7 @@ jpSched = [
 		"endJp":"2023-09-27T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-03-26T02:00:00.000Z",
 		"endG":"2024-03-26T10:00:00.000Z"
 	},
@@ -9979,7 +9979,7 @@ jpSched = [
 		"endJp":"2023-10-11T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-04-09T02:00:00.000Z",
 		"endG":"2024-04-09T08:00:00.000Z"
 	},
@@ -9991,7 +9991,7 @@ jpSched = [
 		"endJp":"2023-10-24T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-04-22T02:00:00.000Z",
 		"endG":"2024-04-22T10:00:00.000Z"
 	},
@@ -10003,7 +10003,7 @@ jpSched = [
 		"endJp":"2023-11-08T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-05-07T02:00:00.000Z",
 		"endG":"2024-05-07T08:00:00.000Z"
 	},
@@ -10015,7 +10015,7 @@ jpSched = [
 		"endJp":"2023-11-22T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-05-21T02:00:00.000Z",
 		"endG":"2024-05-21T10:00:00.000Z"
 	},
@@ -10027,7 +10027,7 @@ jpSched = [
 		"endJp":"2023-12-06T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-06-04T02:00:00.000Z",
 		"endG":"2024-06-04T08:00:00.000Z"
 	},
@@ -10039,7 +10039,7 @@ jpSched = [
 		"endJp":"2023-12-27T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-06-25T02:00:00.000Z",
 		"endG":"2024-06-25T10:00:00.000Z"
 	},
@@ -10051,7 +10051,7 @@ jpSched = [
 		"endJp":"2024-01-10T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-07-09T02:00:00.000Z",
 		"endG":"2024-07-09T08:00:00.000Z"
 	},
@@ -10063,7 +10063,7 @@ jpSched = [
 		"endJp":"2024-01-24T23:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-07-23T02:00:00.000Z",
 		"endG":"2024-07-23T14:00:00.000Z"
 	},
@@ -10075,7 +10075,7 @@ jpSched = [
 		"endJp":"2024-02-07T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-08-06T02:00:00.000Z",
 		"endG":"2024-08-06T08:00:00.000Z"
 	},
@@ -10087,7 +10087,7 @@ jpSched = [
 		"endJp":"2024-02-21T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-08-20T02:00:00.000Z",
 		"endG":"2024-08-20T10:00:00.000Z"
 	},
@@ -10099,7 +10099,7 @@ jpSched = [
 		"endJp":"2024-03-06T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-09-03T02:00:00.000Z",
 		"endG":"2024-09-03T08:00:00.000Z"
 	},
@@ -10111,7 +10111,7 @@ jpSched = [
 		"endJp":"2024-03-27T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-09-24T02:00:00.000Z",
 		"endG":"2024-09-24T10:00:00.000Z"
 	},
@@ -10123,7 +10123,7 @@ jpSched = [
 		"endJp":"2024-04-11T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-10-09T02:00:00.000Z",
 		"endG":"2024-10-09T08:00:00.000Z"
 	},
@@ -10135,7 +10135,7 @@ jpSched = [
 		"endJp":"2024-04-24T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-10-22T02:00:00.000Z",
 		"endG":"2024-10-22T10:00:00.000Z"
 	},
@@ -10147,7 +10147,7 @@ jpSched = [
 		"endJp":"2024-05-08T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-11-05T02:00:00.000Z",
 		"endG":"2024-11-05T08:00:00.000Z"
 	},
@@ -10159,7 +10159,7 @@ jpSched = [
 		"endJp":"2024-05-22T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-11-19T02:00:00.000Z",
 		"endG":"2024-11-19T10:00:00.000Z"
 	},
@@ -10171,7 +10171,7 @@ jpSched = [
 		"endJp":"2024-06-05T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-12-03T02:00:00.000Z",
 		"endG":"2024-12-03T08:00:00.000Z"
 	},
@@ -10183,7 +10183,7 @@ jpSched = [
 		"endJp":"2024-06-26T19:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2024-12-24T02:00:00.000Z",
 		"endG":"2024-12-24T10:00:00.000Z"
 	},
@@ -10195,7 +10195,7 @@ jpSched = [
 		"endJp":"2024-07-09T17:00",
 		"group":"J Maint",
 		"subgroup":"",
-		"style":"color:red;background-color:red;height:15px;height:15px",
+		"style":"color:red;background-color:red;height:15px",
 		"startG":"2025-01-06T02:00:00.000Z",
 		"endG":"2025-01-06T08:00:00.000Z"
 	},
@@ -10596,7 +10596,7 @@ jpSched = [
 		"endG":"2025-02-02T02:00:00.000Z"
 	},
 	{
-		"content":"[JFD] Shooting Blue (DoT Buff + Debuffs increase dmg)",
+		"content":"[JFD] Shooting (Debuffs increase dmg)",
 		"start":"2025-03-04T02:00:00.000Z",
 		"startJp":"2024-09-04T11:00",
 		"end":"2025-03-11T02:00:00.000Z",
@@ -10620,7 +10620,7 @@ jpSched = [
 		"endG":"2025-03-18T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui_(Swimsuit)\" title=\"Ui.S\">Ui.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui_(Swimsuit)\" title=\"Ui.S\">Ui.S</a> [L]",
 		"start":"2025-03-04T02:00:00.000Z",
 		"startJp":"2024-09-04T11:00",
 		"end":"2025-03-18T02:00:00.000Z",
@@ -10632,7 +10632,7 @@ jpSched = [
 		"endG":"2025-03-18T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata_(Swimsuit)\" title=\"Hinata.S\">Hinata.S</a> [L R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata_(Swimsuit)\" title=\"Hinata.S\">Hinata.S</a> [L]",
 		"start":"2025-03-04T02:00:00.000Z",
 		"startJp":"2024-09-04T11:00",
 		"end":"2025-03-18T02:00:00.000Z",
@@ -10644,7 +10644,7 @@ jpSched = [
 		"endG":"2025-03-18T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a>",
 		"start":"2025-03-04T02:00:00.000Z",
 		"startJp":"2024-09-04T11:00",
 		"end":"2025-03-18T02:00:00.000Z",
@@ -10656,7 +10656,7 @@ jpSched = [
 		"endG":"2025-03-18T02:00:00.000Z"
 	},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a> [R]",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a>",
 		"start":"2025-03-04T02:00:00.000Z",
 		"startJp":"2024-09-04T11:00",
 		"end":"2025-03-18T02:00:00.000Z",

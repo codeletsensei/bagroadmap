@@ -185,6 +185,13 @@ confirmed = [
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
+  },{
+    content: "Ui, Hinata, Sakurako",
+    start: "2024-09-17T02:00:00.000Z",
+    end: "2024-09-24T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -302,7 +309,7 @@ confirmed = [
     subgroup: "Event",
     style: "color:black; background-color:yellow "
   },{
-    content: "[Main] New Year's Aperitif ~ One-and-Done Match",
+    content: "[R] New Year's Aperitif ~ One-and-Done Match",
     start: "2024-09-03T02:00:00.000Z",
     end: "2024-09-17T02:00:00.000Z",
     group: "G Event",
@@ -319,6 +326,13 @@ confirmed = [
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
+  },{
+    content: "[Perm] The Clumsy Sister and the Magician of the Old Library",
+    start: "2024-09-17T02:00:00.000Z",
+    end: "2024-09-24T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:yellow"
   },
 //
 // RAIDS
@@ -665,6 +679,27 @@ confirmed = [
     content: "2x Scrimms / Lesson",
     start: "2024-09-02T19:00:00.000Z",
     end: "2024-09-09T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },{
+    content: "2x Normals",
+    start: "2024-09-09T19:00:00.000Z",
+    end: "2024-09-16T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },{
+    content: "2x Comms/Hards",
+    start: "2024-09-16T19:00:00.000Z",
+    end: "2024-09-23T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },{
+    content: "2x Bounty",
+    start: "2024-09-23T19:00:00.000Z",
+    end: "2024-09-30T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
