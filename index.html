@@ -290,7 +290,7 @@ function searchThis(input){
       let resultType = results[i].group
       let resultId = results[i].id
       let duration = results[i].duration
-      el.innerHTML = "["+ resultDate.split("T")[0] + " - " + resultDateEnd.split("T")[0] + " " + ("0"+duration).slice(-2) + "d" + "] &emsp;&emsp;&emsp;" + chars
+      el.innerHTML = "["+ resultDate.split("T")[0] + " - " + resultDateEnd.split("T")[0] + " " + ("0"+duration).slice(-2) + "d" + "] &emsp;" + chars
       el.id = "searchResult" + resultId
       if (count%2 == 0) el.style.backgroundColor = "#999999"
       count++
