@@ -253,7 +253,7 @@ function plotStuff(groups,items){
       delay: 0,
       template: function (item, element, data) {
         var html = "<a id='tooltip" + item + "'>"+item.title+"</a>"
-        if (item.end) {
+        if (item.end && region !=3) {
           let now = Date.parse(new Date())
           let start = Date.parse(new Date(item.start))
           let end = Date.parse(new Date(item.end))
