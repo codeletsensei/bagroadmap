@@ -471,11 +471,25 @@ confirmed = [
     subgroup: "GA",
     style: "color:black; background-color:pink "
   },{
+    content: "[TA] Perorodzilla Indoors",
+    start: "2024-10-01T02:00:00.000Z",
+    end: "2024-10-07T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "TA",
+    style: "color:black; background-color:pink "
+  },{
     content: "[LB] Set Blue Outdoors",
     start: "2024-09-24T02:00:00.000Z",
     end: "2024-10-21T19:00:00.000Z",
     group: "G Raid",
-    subgroup: "GA",
+    subgroup: "LB",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[JFD] Breakthrough Purple Urban. SR weapons buff. Healing heals scarecrow",
+    start: "2024-10-08T02:00:00.000Z",
+    end: "2024-10-14T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "JFD",
     style: "color:black; background-color:pink "
   },
 // CAMPAIGNS
