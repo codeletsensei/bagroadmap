@@ -192,6 +192,20 @@ confirmed = [
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
+  },{
+    content: "Tsubaki.G, Umika",
+    start: "2024-09-24T02:00:00.000Z",
+    end: "2024-10-09T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Izuna, Mimori, Shizuko",
+    start: "2024-09-24T02:00:00.000Z",
+    end: "2024-10-09T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -315,6 +329,13 @@ confirmed = [
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow "
+  },{
+    content: "[Main] Rowdy and Cheery",
+    start: "2024-09-24T02:00:00.000Z",
+    end: "2024-10-09T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow "
   },
 //
 //OTHER
@@ -333,6 +354,13 @@ confirmed = [
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:yellow"
+  },{
+    content: "[Event Shop] Kaede Elephs x40",
+    start: "2024-09-24T02:00:00.000Z",
+    end: "2024-10-09T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
   },
 //
 // RAIDS
@@ -439,6 +467,13 @@ confirmed = [
     content: "[GA] Binah Urban",
     start: "2024-09-10T02:00:00.000Z",
     end: "2024-09-16T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "GA",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[LB] Set Blue Outdoors",
+    start: "2024-09-24T02:00:00.000Z",
+    end: "2024-10-21T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
     style: "color:black; background-color:pink "
