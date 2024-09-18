@@ -479,7 +479,7 @@ confirmed = [
     style: "color:black; background-color:pink "
   },{
     content: "[LB] Set S1 Blue",
-    start: "2024-09-24T02:00:00.000Z",
+    start: "2024-09-25T02:00:00.000Z",
     end: "2024-10-21T19:00:00.000Z",
     group: "G Raid",
     subgroup: "LB",
