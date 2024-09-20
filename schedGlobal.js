@@ -193,7 +193,7 @@ confirmed = [
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
   },{
-    content: "Tsubaki.G, Umika",
+    content: "Tsubaki (Guide) (New), Umika (New)",
     start: "2024-09-24T02:00:00.000Z",
     end: "2024-10-09T02:00:00.000Z",
     group: "G Gacha",
