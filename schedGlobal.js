@@ -202,14 +202,14 @@ confirmed = [
   },{
     content: "Tsubaki (Guide) (New), Umika (New)",
     start: "2024-09-24T02:00:00.000Z",
-    end: "2024-10-09T02:00:00.000Z",
+    end: "2024-10-08T02:00:00.000Z",
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
   },{
     content: "Izuna, Mimori, Shizuko",
     start: "2024-09-24T02:00:00.000Z",
-    end: "2024-10-09T02:00:00.000Z",
+    end: "2024-10-08T02:00:00.000Z",
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
@@ -339,7 +339,7 @@ confirmed = [
   },{
     content: "[Main] Rowdy and Cheery",
     start: "2024-09-24T02:00:00.000Z",
-    end: "2024-10-09T02:00:00.000Z",
+    end: "2024-10-08T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow "
@@ -364,7 +364,7 @@ confirmed = [
   },{
     content: "[Event Shop] Kaede Elephs x40",
     start: "2024-09-24T02:00:00.000Z",
-    end: "2024-10-09T02:00:00.000Z",
+    end: "2024-10-08T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
