@@ -11232,7 +11232,7 @@ jpSched = [
 		"title":"[Perm] Slapstick Sister and Magician of the Old Bookstore<br>G: 2024-09-17 02:00 ~ 2024-09-24 02:00 7d (UTC y-m-d)<br>Jp: 2024-03-20 11:00 ~ 2024-03-27 11:00 7d (JST y-m-d)",
 		"duration":7},
 	{
-		"content":"[GA Shop] Serika (NY) on shop reset",
+		"content":"[GA Shop Slvr] Serika (NY) on shop reset",
 		"start":"2024-09-29T02:00",
 		"startJp":"2024-04-01T11:00",
 		"end":"2024-10-06T02:00",
@@ -11242,7 +11242,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-06T02:00",
 		"startG":"2024-09-29T02:00",
-		"title":"[GA Shop] Serika (NY) on shop reset<br>G: 2024-09-29 02:00 ~ 2024-10-06 02:00 7d (UTC y-m-d)<br>Jp: 2024-04-01 11:00 ~ 2024-04-08 11:00 7d (JST y-m-d)",
+		"title":"[GA Shop Slvr] Serika (NY) on shop reset<br>G: 2024-09-29 02:00 ~ 2024-10-06 02:00 7d (UTC y-m-d)<br>Jp: 2024-04-01 11:00 ~ 2024-04-08 11:00 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Perm] After School Sweets Story: Sweet Secrets and Gun Fights!",
@@ -11271,7 +11271,7 @@ jpSched = [
 		"title":"[Story] V1C3 P1<br>G: 2024-10-09 02:00 ~ 2024-10-16 02:00 7d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 ~ 2024-04-18 11:00 7d (JST y-m-d)",
 		"duration":7},
 	{
-		"content":"[GA Shop] Asuna (B) on shop reset",
+		"content":"[GA Shop Blue] Asuna (B) on shop reset",
 		"start":"2024-10-22T02:00",
 		"startJp":"2024-04-24T11:00",
 		"end":"2024-10-29T02:00",
@@ -11281,7 +11281,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-29T02:00",
 		"startG":"2024-10-22T02:00",
-		"title":"[GA Shop] Asuna (B) on shop reset<br>G: 2024-10-22 02:00 ~ 2024-10-29 02:00 7d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 ~ 2024-05-01 11:00 7d (JST y-m-d)",
+		"title":"[GA Shop Blue] Asuna (B) on shop reset<br>G: 2024-10-22 02:00 ~ 2024-10-29 02:00 7d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 ~ 2024-05-01 11:00 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Bond Gear] Miyu, Kaho, Kaede, Yoshimi",
@@ -11505,7 +11505,7 @@ jpSched = [
 		"title":"Bing!<br>G: 2024-12-24 02:00 ~ 2025-01-07 02:00 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 ~ 2024-07-10 11:00 14d (JST y-m-d)",
 		"duration":14},
 	{
-		"content":"[TA Shop] Cherino (O) on shop reset",
+		"content":"[TA Shop Yllw] Cherino (O) on shop reset",
 		"start":"2024-12-29T02:00",
 		"startJp":"2024-07-01T11:00",
 		"end":"2025-01-04T02:00",
@@ -11515,7 +11515,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-04T02:00",
 		"startG":"2024-12-29T02:00",
-		"title":"[TA Shop] Cherino (O) on shop reset<br>G: 2024-12-29 02:00 ~ 2025-01-04 02:00 6d (UTC y-m-d)<br>Jp: 2024-07-01 11:00 ~ 2024-07-07 11:00 6d (JST y-m-d)",
+		"title":"[TA Shop Yllw] Cherino (O) on shop reset<br>G: 2024-12-29 02:00 ~ 2025-01-04 02:00 6d (UTC y-m-d)<br>Jp: 2024-07-01 11:00 ~ 2024-07-07 11:00 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"[Welfare] Miyu (S)",
@@ -11544,7 +11544,7 @@ jpSched = [
 		"title":"[Story] V1C3 P4<br>G: 2025-01-14 02:00 ~ 2025-01-21 02:00 7d (UTC y-m-d)<br>Jp: 2024-07-17 11:00 ~ 2024-07-24 11:00 7d (JST y-m-d)",
 		"duration":7},
 	{
-		"content":"[TA Shop] Chihiro on shop reset",
+		"content":"[TA Shop Prpl] Chihiro on shop reset",
 		"start":"2025-01-19T02:00",
 		"startJp":"2024-07-22T11:00",
 		"end":"2025-01-26T02:00",
@@ -11554,7 +11554,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-26T02:00",
 		"startG":"2025-01-19T02:00",
-		"title":"[TA Shop] Chihiro on shop reset<br>G: 2025-01-19 02:00 ~ 2025-01-26 02:00 7d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-07-29 11:00 7d (JST y-m-d)",
+		"title":"[TA Shop Prpl] Chihiro on shop reset<br>G: 2025-01-19 02:00 ~ 2025-01-26 02:00 7d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-07-29 11:00 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[PVP Shop] Miyako",
@@ -11674,7 +11674,7 @@ jpSched = [
 		"title":"[Main] Descent of the Five Senses<br>G: 2025-03-25 02:00 ~ 2025-04-07 18:59 14d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-09 03:59 14d (JST y-m-d)",
 		"duration":14},
 	{
-		"content":"?????? (New?)",
+		"content":"?????? (New)",
 		"start":"2025-03-25T02:00",
 		"startJp":"2024-09-25T11:00",
 		"end":"2025-04-07T18:59",
