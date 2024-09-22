@@ -11674,7 +11674,7 @@ jpSched = [
 		"title":"[Main] Descent of the Five Senses<br>G: 2025-03-25 02:00 ~ 2025-04-07 18:59 14d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-09 03:59 14d (JST y-m-d)",
 		"duration":14},
 	{
-		"content":"Reijo (New), ?????",
+		"content":"Reijo, Kisaki (New)",
 		"start":"2025-03-25T02:00",
 		"startJp":"2024-09-25T11:00",
 		"end":"2025-04-07T18:59",
@@ -11684,6 +11684,6 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-07T18:59",
 		"startG":"2025-03-25T02:00",
-		"title":"Reijo (New), ?????<br>G: 2025-03-25 02:00 ~ 2025-04-07 18:59 14d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-09 03:59 14d (JST y-m-d)",
+		"title":"Reijo, Kisaki (New)<br>G: 2025-03-25 02:00 ~ 2025-04-07 18:59 14d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-09 03:59 14d (JST y-m-d)",
 		"duration":14}
 ]
