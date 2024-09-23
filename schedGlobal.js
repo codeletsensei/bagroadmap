@@ -368,6 +368,13 @@ confirmed = [
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
+  },{
+    content: "[GA Shop Slvr] Serika (NY)",
+    start: "2024-09-30T19:00:00.000Z",
+    end: "2024-10-08T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
   },
 //
 // RAIDS
@@ -485,7 +492,7 @@ confirmed = [
     subgroup: "TA",
     style: "color:black; background-color:pink "
   },{
-    content: "[LB] Set S1 Blue",
+    content: "[LB] The Fury of Set S1 Blue",
     start: "2024-09-25T02:00:00.000Z",
     end: "2024-10-21T19:00:00.000Z",
     group: "G Raid",
@@ -756,6 +763,13 @@ confirmed = [
     content: "2x Bounty",
     start: "2024-09-23T19:00:00.000Z",
     end: "2024-09-30T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },{
+    content: "2x Scrimms/Lessons",
+    start: "2024-09-30T19:00:00.000Z",
+    end: "2024-10-07T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
