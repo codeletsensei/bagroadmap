@@ -302,9 +302,10 @@ function searchThis(searchInput){
     if (a.group!="-") {
       let bing = []
       for (let i = 0 ; i < searchInput.length; i++) {
-        if (a.content.toLowerCase().includes(searchInput[i])) {
-          bing.push(1)
-        }
+        let searchMatch = 0
+        if (searchInput[i][0] != "-") searchMatch = a.content.toLowerCase().includes(searchInput[i])
+        else searchMatch = !a.content.toLowerCase().includes(searchInput[i].substr(1,searchInput[i].length))
+        if (searchMatch) bing.push(1)
         else i = searchInput.length
       }
       if (bing.length == searchInput.length) return true 
