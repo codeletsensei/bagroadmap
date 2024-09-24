@@ -11778,7 +11778,7 @@ jpSched = [
 		"title":"[Main] Descent of the Five Senses<br>G: 2025-03-25 02:00 ~ 2025-04-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 10:59 15d (JST y-m-d)",
 		"duration":15},
 	{
-		"content":"Kisaki (New), Reijo (New) (New)",
+		"content":"Kisaki (New), Reijo (New)",
 		"start":"2025-03-25T02:00",
 		"startJp":"2024-09-25T11:00",
 		"end":"2025-04-09T01:59",
@@ -11788,10 +11788,10 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-09T01:59",
 		"startG":"2025-03-25T02:00",
-		"title":"Kisaki (New), Reijo (New) (New)<br>G: 2025-03-25 02:00 ~ 2025-04-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 10:59 15d (JST y-m-d)",
+		"title":"Kisaki (New), Reijo (New)<br>G: 2025-03-25 02:00 ~ 2025-04-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 10:59 15d (JST y-m-d)",
 		"duration":15},
 	{
-		"content":"Shun (Kid), Saya (Casual), Kirino (New)",
+		"content":"Shun (Kid), Saya (Casual), Kirino",
 		"start":"2025-03-25T02:00",
 		"startJp":"2024-09-25T11:00",
 		"end":"2025-04-09T01:59",
@@ -11801,7 +11801,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-09T01:59",
 		"startG":"2025-03-25T02:00",
-		"title":"Shun (Kid), Saya (Casual), Kirino (New)<br>G: 2025-03-25 02:00 ~ 2025-04-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 10:59 15d (JST y-m-d)",
+		"title":"Shun (Kid), Saya (Casual), Kirino<br>G: 2025-03-25 02:00 ~ 2025-04-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 10:59 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"2x Bounties",
