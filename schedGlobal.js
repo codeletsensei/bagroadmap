@@ -773,5 +773,40 @@ confirmed = [
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
+  },{
+    content: "2x Normals",
+    start: "2024-10-07T19:00:00.000Z",
+    end: "2024-10-14T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },{
+    content: "2x Comms/Hards",
+    start: "2024-10-14T19:00:00.000Z",
+    end: "2024-10-21T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },{
+    content: "2x Scrimms/Lessons",
+    start: "2024-10-21T19:00:00.000Z",
+    end: "2024-10-28T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },{
+    content: "2x EXP",
+    start: "2024-10-25T19:00:00.000Z",
+    end: "2024-10-27T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },{
+    content: "2x Comms/Bounties",
+    start: "2024-10-28T19:00:00.000Z",
+    end: "2024-11-04T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
   }
 ]
