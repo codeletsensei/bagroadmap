@@ -505,6 +505,13 @@ confirmed = [
     group: "G Raid",
     subgroup: "JFD",
     style: "color:black; background-color:pink "
+  },{
+    content: "[GA] Gregorius Indoors (Yellow Tor + Red/Blue) ",
+    start: "2024-10-15T02:00:00.000Z",
+    end: "2024-10-21T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "GA",
+    style: "color:black; background-color:pink "
   },
 // CAMPAIGNS
   {
