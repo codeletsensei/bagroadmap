@@ -76,6 +76,13 @@ confirmed = [
     group: "G Maint",
     subgroup: "",
     style: "color:red; background-color:red; height:15px"
+  },{
+    content: "EOS",
+    start: "2024-10-08T02:00:00.000Z",
+    end: "2024-10-08T06:00:00.000Z",
+    group: "G Maint",
+    subgroup: "",
+    style: "color:red; background-color:red; height:15px"
   },
 //
 // GASHA
@@ -210,6 +217,20 @@ confirmed = [
     content: "Izuna, Mimori, Shizuko",
     start: "2024-09-24T02:00:00.000Z",
     end: "2024-10-08T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Natsu, Mari",
+    start: "2024-10-08T02:00:00.000Z",
+    end: "2024-10-15T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Reisa, Kazusa",
+    start: "2024-10-08T02:00:00.000Z",
+    end: "2024-10-15T02:00:00.000Z",
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
@@ -375,6 +396,13 @@ confirmed = [
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
+  },{
+    content: "[Story] V1C3",
+    start: "2024-10-08T02:00:00.000Z",
+    end: "2024-10-15T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
   },
 //
 // RAIDS
