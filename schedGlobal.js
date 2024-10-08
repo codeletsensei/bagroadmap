@@ -234,6 +234,20 @@ confirmed = [
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
+  },{
+    content: "Nagisa [L], Toki [L]",
+    start: "2024-10-15T02:00:00.000Z",
+    end: "2024-10-22T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Koyuki",
+    start: "2024-10-15T02:00:00.000Z",
+    end: "2024-10-22T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -364,6 +378,20 @@ confirmed = [
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow "
+  },{
+    content: "Balancing Schale's Books with the General Student Council",
+    start: "2024-10-08T02:00:00.000Z",
+    end: "2024-10-22T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow "
+  },{
+    content: "[Guide Task] Shiba Seki Ramen Shop Part Time Gig!",
+    start: "2024-10-08T02:00:00.000Z",
+    end: "2024-11-05T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
   },
 //
 //OTHER
@@ -399,10 +427,17 @@ confirmed = [
   },{
     content: "[Story] V1C3",
     start: "2024-10-08T02:00:00.000Z",
-    end: "2024-10-15T02:00:00.000Z",
+    end: "2024-10-22T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
+  },{
+    content: "[Perm] After-School Sweets Story Sweet Secrets and Shootouts",
+    start: "2024-10-08T02:00:00.000Z",
+    end: "2024-10-22T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:yellow"
   },
 //
 // RAIDS

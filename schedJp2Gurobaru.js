@@ -11928,7 +11928,7 @@ jpSched = [
 		"endJp":"2024-10-09T11:00",
 		"group":"J Other",
 		"subgroup":"Other",
-		"style":"color:black;background-color:lightblue",
+		"style":"color:black;background-color:yellow",
 		"endG":"2025-04-08T02:00",
 		"startG":"2025-03-25T02:00",
 		"title":"[Perm] Task Force Emergency Nighttime Meeting<br>G: 2025-03-25 02:00 ~ 2025-04-08 02:00 14d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-09 11:00 14d (JST y-m-d)",
