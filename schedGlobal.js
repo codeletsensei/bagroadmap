@@ -523,6 +523,13 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
   },{
+    content: "[?Bond Gear?] Yoshimi, Miyu, Kaede, Kaho",
+    start: "2024-10-22T02:00:00.000Z",
+    end: "2024-11-05T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
+  },{
     content: "[Web Event] Livin' on Sweets!",
     start: "2024-10-22T02:00:00.000Z",
     end: "2024-11-05T02:00:00.000Z",
@@ -530,23 +537,30 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:yellow"
   },{
+    content: "[?GA Shop Blue?] Asuna (Bunny) on shop reset",
+    start: "2024-11-01T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
     content: "[Mini Story] Go-Home Club",
     start: "2024-11-05T02:00:00.000Z",
-    end: "2024-11-12T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
   },{
     content: "[Perm] An Unconcealed Heart",
     start: "2024-11-05T02:00:00.000Z",
-    end: "2024-11-12T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:yellow"
   },{
     content: "[Welfare] Michiru",
     start: "2024-11-05T02:00:00.000Z",
-    end: "2024-11-12T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
@@ -560,14 +574,14 @@ confirmed = [
   },{
     content: "[Welfare] Yuzu (Maid)",
     start: "2024-11-19T02:00:00.000Z",
-    end: "2024-11-26T02:00:00.000Z",
+    end: "2024-12-03T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
   },{
-    content: "[Bond Gear] Alice (Maid)",
+    content: "[?Bond Gear?] Alice (Maid)",
     start: "2024-11-19T02:00:00.000Z",
-    end: "2024-11-26T02:00:00.000Z",
+    end: "2024-12-03T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
