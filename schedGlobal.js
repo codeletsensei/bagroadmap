@@ -248,6 +248,55 @@ confirmed = [
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
+  },{
+    content: "Yoshimi (Band) + Kazusa (Band) [L] (New)",
+    start: "2024-10-22T02:00:00.000Z",
+    end: "2024-11-02T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Ako",
+    start: "2024-10-22T02:00:00.000Z",
+    end: "2024-11-02T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Kirara (New)",
+    start: "2024-11-05T02:00:00.000Z",
+    end: "2024-11-12T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Kaede, Tsukuyo, Kaho",
+    start: "2024-11-05T02:00:00.000Z",
+    end: "2024-11-12T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "<a title=Kokona>Sex</a>, Shun, Rumi, Mina",
+    start: "2024-11-12T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Momoi + Green Momoi (Maids) (New)",
+    start: "2024-11-19T02:00:00.000Z",
+    end: "2024-12-03T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Alice (Maid), Toki (Bunny)",
+    start: "2024-11-19T02:00:00.000Z",
+    end: "2024-12-03T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -392,6 +441,34 @@ confirmed = [
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
+  },{
+    content: "[Main] -ive aLIVE!",
+    start: "2024-10-22T02:00:00.000Z",
+    end: "2024-11-05T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Login] 3-Year Anniversary Celebration Login Event",
+    start: "2024-11-03T02:00:00.000Z",
+    end: "2024-11-08T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "Dragon & Tortoise, Working Together for a Better Future",
+    start: "2024-11-12T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~",
+    start: "2024-11-19T02:00:00.000Z",
+    end: "2024-12-03T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
   },
 //
 //OTHER
@@ -438,6 +515,62 @@ confirmed = [
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:yellow"
+  },{
+    content: "[Welfare] Airi (Band)",
+    start: "2024-10-22T02:00:00.000Z",
+    end: "2024-11-05T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
+    content: "[Web Event] Livin' on Sweets!",
+    start: "2024-10-22T02:00:00.000Z",
+    end: "2024-11-05T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Mini Story] Go-Home Club",
+    start: "2024-11-05T02:00:00.000Z",
+    end: "2024-11-12T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
+  },{
+    content: "[Perm] An Unconcealed Heart",
+    start: "2024-11-05T02:00:00.000Z",
+    end: "2024-11-12T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Welfare] Michiru",
+    start: "2024-11-05T02:00:00.000Z",
+    end: "2024-11-12T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
+    content: "[PVP] Season 7 (Urban)",
+    start: "2024-11-05T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:orange"
+  },{
+    content: "[Welfare] Yuzu (Maid)",
+    start: "2024-11-19T02:00:00.000Z",
+    end: "2024-11-26T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
+    content: "[Bond Gear] Alice (Maid)",
+    start: "2024-11-19T02:00:00.000Z",
+    end: "2024-11-26T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
   },
 //
 // RAIDS
@@ -569,11 +702,46 @@ confirmed = [
     subgroup: "JFD",
     style: "color:black; background-color:pink "
   },{
-    content: "[GA] Gregorius Indoors (Yellow Tor + Red/Blue) ",
+    content: "[GA] Gregorius Indoors (Yellow Tor + Red/Blue)",
     start: "2024-10-15T02:00:00.000Z",
     end: "2024-10-21T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[LB] The Fury of Set S2 Red",
+    start: "2024-10-28T02:00:00.000Z",
+    end: "2024-11-18T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "LB",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[TA] Hod Urban",
+    start: "2024-10-29T02:00:00.000Z",
+    end: "2024-11-04T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "GA",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[JFD] Shooting Yellow Urban",
+    start: "2024-11-05T02:00:00.000Z",
+    end: "2024-11-11T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "JFD",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[GA] Hieronymus Urban (Blue Tor + Red/Yellow)",
+    start: "2024-11-12T02:00:00.000Z",
+    end: "2024-11-18T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "JFD",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[TA] Goz Indoors",
+    start: "2024-11-26T02:00:00.000Z",
+    end: "2024-12-02T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "TA",
     style: "color:black; background-color:pink "
   },
 // CAMPAIGNS
