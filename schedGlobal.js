@@ -277,14 +277,14 @@ confirmed = [
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
   },{
-    content: "<a title=Kokona>Sex</a>, Shun, Rumi, Mina",
+    content: "<span Kokona>Sex</span>, Shun, Rumi, Mina",
     start: "2024-11-12T02:00:00.000Z",
     end: "2024-11-19T02:00:00.000Z",
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
   },{
-    content: "Momoi + Green Momoi (Maids) (New)",
+    content: "Momoi + <span Midori>Green Momoi</span> (Maids) (New)",
     start: "2024-11-19T02:00:00.000Z",
     end: "2024-12-03T02:00:00.000Z",
     group: "G Gacha",
