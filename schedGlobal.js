@@ -83,6 +83,13 @@ confirmed = [
     group: "G Maint",
     subgroup: "",
     style: "color:red; background-color:red; height:15px"
+  },{
+    content: "EOS",
+    start: "2024-10-22T02:00:00.000Z",
+    end: "2024-10-22T07:00:00.000Z",
+    group: "G Maint",
+    subgroup: "",
+    style: "color:red; background-color:red; height:15px"
   },
 //
 // GASHA
@@ -249,7 +256,14 @@ confirmed = [
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
   },{
-    content: "Yoshimi (Band) + Kazusa (Band) [L] (New)",
+    content: "Yoshimi (Band) [L] (New)",
+    start: "2024-10-22T02:00:00.000Z",
+    end: "2024-11-02T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Kazusa (Band) [L] (New)",
     start: "2024-10-22T02:00:00.000Z",
     end: "2024-11-02T02:00:00.000Z",
     group: "G Gacha",
@@ -284,7 +298,14 @@ confirmed = [
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
   },{
-    content: "Momoi + <span Midori>Green Momoi</span> (Maids) (New)",
+    content: "Momoi (Maid) (New)",
+    start: "2024-11-19T02:00:00.000Z",
+    end: "2024-12-03T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Midori (Maid) (New)",
     start: "2024-11-19T02:00:00.000Z",
     end: "2024-12-03T02:00:00.000Z",
     group: "G Gacha",
