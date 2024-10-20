@@ -586,6 +586,13 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
   },{
+    content: "[Event Shop] 40 Saya Elephs",
+    start: "2024-11-12T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
     content: "[PVP] Season 7 (Urban)",
     start: "2024-11-05T02:00:00.000Z",
     end: "2024-11-19T02:00:00.000Z",
