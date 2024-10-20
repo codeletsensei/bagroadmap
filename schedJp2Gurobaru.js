@@ -12259,7 +12259,7 @@ jpSched = [
 		"title":"2x Hards / Scrimms<br>G: 2025-05-12 19:00 ~ 2025-05-19 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-13 04:00 ~ 2024-11-20 03:59 7d (JST y-m-d)",
 		"duration":7},
 	{
-		"content":"(Datamined?) Hina (Swimsuit) (New)",
+		"content":"(Datamined?) Hina (Swimsuit) [L]",
 		"start":"2025-05-13T02:00",
 		"startJp":"2024-11-13T11:00",
 		"end":"2025-05-19T18:59",
@@ -12269,10 +12269,10 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-19T18:59",
 		"startG":"2025-05-13T02:00",
-		"title":"(Datamined?) Hina (Swimsuit) (New)<br>G: 2025-05-13 02:00 ~ 2025-05-19 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 ~ 2024-11-20 03:59 7d (JST y-m-d)",
+		"title":"(Datamined?) Hina (Swimsuit) [L]<br>G: 2025-05-13 02:00 ~ 2025-05-19 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 ~ 2024-11-20 03:59 7d (JST y-m-d)",
 		"duration":7},
 	{
-		"content":"(Datamined?) Iori (Swimsuit) (New)",
+		"content":"(Datamined?) Iori (Swimsuit) [L]",
 		"start":"2025-05-13T02:00",
 		"startJp":"2024-11-13T11:00",
 		"end":"2025-05-19T18:59",
@@ -12282,6 +12282,6 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-19T18:59",
 		"startG":"2025-05-13T02:00",
-		"title":"(Datamined?) Iori (Swimsuit) (New)<br>G: 2025-05-13 02:00 ~ 2025-05-19 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 ~ 2024-11-20 03:59 7d (JST y-m-d)",
+		"title":"(Datamined?) Iori (Swimsuit) [L]<br>G: 2025-05-13 02:00 ~ 2025-05-19 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 ~ 2024-11-20 03:59 7d (JST y-m-d)",
 		"duration":7}
 ]
