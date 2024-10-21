@@ -471,15 +471,15 @@ confirmed = [
     style: "color:black; background-color:yellow"
   },{
     content: "[Login] 3-Year Anniversary Countdown",
-    start: "2024-11-01T02:00:00.000Z",
-    end: "2024-11-08T02:00:00.000Z",
+    start: "2024-11-01T19:00:00.000Z",
+    end: "2024-11-08T19:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
   },{
     content: "[Login] 3-Year Anniversary Event",
-    start: "2024-10-31T07:00:00.000Z",
-    end: "2024-11-30T07:00:00.000Z",
+    start: "2024-10-31T19:00:00.000Z",
+    end: "2024-11-30T19:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
@@ -737,11 +737,11 @@ confirmed = [
     subgroup: "TA",
     style: "color:black; background-color:pink "
   },{
-    content: "[LB] The Fury of Set S1 Blue",
+    content: "[LBA] S1 The Fury of Set Blue",
     start: "2024-09-25T02:00:00.000Z",
     end: "2024-10-21T19:00:00.000Z",
     group: "G Raid",
-    subgroup: "LB",
+    subgroup: "LBA",
     style: "color:black; background-color:pink "
   },{
     content: "[JFD] Breakthrough Purple Urban. SR weapons buff. Healing heals scarecrow",
@@ -758,11 +758,11 @@ confirmed = [
     subgroup: "GA",
     style: "color:black; background-color:pink "
   },{
-    content: "[LB] The Fury of Set S2 Red",
+    content: "[LBA] S2 The Fury of Set Red",
     start: "2024-10-23T02:00:00.000Z",
     end: "2024-11-18T19:00:00.000Z",
     group: "G Raid",
-    subgroup: "LB",
+    subgroup: "LBA",
     style: "color:black; background-color:pink "
   },{
     content: "[TA] Hod Urban",
