@@ -258,21 +258,21 @@ confirmed = [
   },{
     content: "Yoshimi (Band) [L] (New)",
     start: "2024-10-22T02:00:00.000Z",
-    end: "2024-11-02T02:00:00.000Z",
+    end: "2024-11-05T02:00:00.000Z",
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
   },{
     content: "Kazusa (Band) [L] (New)",
     start: "2024-10-22T02:00:00.000Z",
-    end: "2024-11-02T02:00:00.000Z",
+    end: "2024-11-05T02:00:00.000Z",
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
   },{
     content: "Ako",
     start: "2024-10-22T02:00:00.000Z",
-    end: "2024-11-02T02:00:00.000Z",
+    end: "2024-11-05T02:00:00.000Z",
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
@@ -470,9 +470,16 @@ confirmed = [
     subgroup: "Event",
     style: "color:black; background-color:yellow"
   },{
-    content: "[Login] 3-Year Anniversary Celebration Login Event",
-    start: "2024-11-03T02:00:00.000Z",
+    content: "[Login] 3-Year Anniversary Countdown",
+    start: "2024-11-01T02:00:00.000Z",
     end: "2024-11-08T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Login] 3-Year Anniversary Event",
+    start: "2024-10-31T07:00:00.000Z",
+    end: "2024-11-30T07:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
@@ -544,7 +551,7 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
   },{
-    content: "[?Bond Gear?] Yoshimi, Miyu, Kaede, Kaho",
+    content: "[Bond Gear] Yoshimi, Miyu, Kaede, Kaho",
     start: "2024-10-22T02:00:00.000Z",
     end: "2024-11-05T02:00:00.000Z",
     group: "G Other",
@@ -752,7 +759,7 @@ confirmed = [
     style: "color:black; background-color:pink "
   },{
     content: "[LB] The Fury of Set S2 Red",
-    start: "2024-10-28T02:00:00.000Z",
+    start: "2024-10-23T02:00:00.000Z",
     end: "2024-11-18T19:00:00.000Z",
     group: "G Raid",
     subgroup: "LB",
@@ -1088,5 +1095,12 @@ confirmed = [
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
-  }
+  },{
+    content: "2x EXP",
+    start: "2024-11-01T19:00:00.000Z",
+    end: "2024-11-03T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
 ]
