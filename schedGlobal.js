@@ -86,7 +86,7 @@ confirmed = [
   },{
     content: "EOS",
     start: "2024-10-22T02:00:00.000Z",
-    end: "2024-10-22T07:00:00.000Z",
+    end: "2024-10-22T10:00:00.000Z",
     group: "G Maint",
     subgroup: "",
     style: "color:red; background-color:red; height:15px"
@@ -565,9 +565,9 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:yellow"
   },{
-    content: "[?GA Shop Blue?] Asuna (Bunny) on shop reset",
-    start: "2024-11-01T02:00:00.000Z",
-    end: "2024-11-19T02:00:00.000Z",
+    content: "[GA Shop Blue] Asuna (Bunny)",
+    start: "2024-10-31T19:00:00.000Z",
+    end: "2024-11-19T19:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
