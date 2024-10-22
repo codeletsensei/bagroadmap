@@ -772,7 +772,7 @@ confirmed = [
     subgroup: "GA",
     style: "color:black; background-color:pink "
   },{
-    content: "[JFD] Shooting Yellow Urban",
+    content: "[JFD] Shooting Yellow Urban. Specials atk up, debuff > dmg up",
     start: "2024-11-05T02:00:00.000Z",
     end: "2024-11-11T19:00:00.000Z",
     group: "G Raid",
