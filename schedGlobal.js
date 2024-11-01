@@ -90,6 +90,13 @@ confirmed = [
     group: "G Maint",
     subgroup: "",
     style: "color:red; background-color:red; height:15px"
+  },{
+    content: "EOS",
+    start: "2024-11-05T02:00:00.000Z",
+    end: "2024-11-05T06:00:00.000Z",
+    group: "G Maint",
+    subgroup: "",
+    style: "color:red; background-color:red; height:15px"
   },
 //
 // GASHA
@@ -1099,6 +1106,39 @@ confirmed = [
     content: "2x EXP",
     start: "2024-11-01T19:00:00.000Z",
     end: "2024-11-03T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+
+  {
+    content: "2x Normals",
+    start: "2024-11-04T19:00:00.000Z",
+    end: "2024-11-11T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "2x Hards",
+    start: "2024-11-11T19:00:00.000Z",
+    end: "2024-11-18T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "2x Bounties",
+    start: "2024-11-18T19:00:00.000Z",
+    end: "2024-11-25T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "2x Comms/Scrimms/Lessons",
+    start: "2024-11-25T19:00:00.000Z",
+    end: "2024-12-02T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
