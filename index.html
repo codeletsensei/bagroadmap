@@ -258,7 +258,9 @@ function plotStuff(groups,items){
       template: function (item, element, data) {
         var html = "<a id='tooltip" + item + "'>"+item.title+"</a>"
         if (item.end) {
-          let now = Date.parse(new Date())
+          let now = new Date()
+          if (region == 3 ) now = now.toLocaleString("ja", { timeZone: "Asia/Tokyo"})
+          now = Date.parse(now)
           let start = Date.parse(new Date(item.start))
           let end = Date.parse(new Date(item.end))
           if ( now > start && now < end) { 
