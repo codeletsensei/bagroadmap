@@ -506,129 +506,6 @@ confirmed = [
     style: "color:black; background-color:yellow"
   },
 //
-//OTHER
-//
-  {
-    content: "[Welfare] Junko.NY",
-    start: "2024-09-03T02:00:00.000Z",
-    end: "2024-09-17T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightgrey"
-  },{
-    content: "[Perm] The Clumsy Sister and the Magician of the Old Library",
-    start: "2024-09-17T02:00:00.000Z",
-    end: "2024-09-24T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:yellow"
-  },{
-    content: "[Event Shop] Kaede Elephs x40",
-    start: "2024-09-24T02:00:00.000Z",
-    end: "2024-10-08T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightgrey"
-  },{
-    content: "[GA Shop Slvr] Serika (NY)",
-    start: "2024-09-30T19:00:00.000Z",
-    end: "2024-10-08T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightgrey"
-  },{
-    content: "[Story] V1C3",
-    start: "2024-10-08T02:00:00.000Z",
-    end: "2024-10-22T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightblue"
-  },{
-    content: "[Perm] After-School Sweets Story Sweet Secrets and Shootouts",
-    start: "2024-10-08T02:00:00.000Z",
-    end: "2024-10-22T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:yellow"
-  },{
-    content: "[Welfare] Airi (Band)",
-    start: "2024-10-22T02:00:00.000Z",
-    end: "2024-11-05T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightgrey"
-  },{
-    content: "[Bond Gear] Yoshimi, Miyu, Kaede, Kaho",
-    start: "2024-10-22T02:00:00.000Z",
-    end: "2024-11-05T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightblue"
-  },{
-    content: "[Web Event] Livin' on Sweets!",
-    start: "2024-10-22T02:00:00.000Z",
-    end: "2024-11-05T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:yellow"
-  },{
-    content: "[GA Shop Blue] Asuna (Bunny)",
-    start: "2024-10-31T19:00:00.000Z",
-    end: "2024-11-19T19:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightgrey"
-  },{
-    content: "[Mini Story] Go-Home Club",
-    start: "2024-11-05T02:00:00.000Z",
-    end: "2024-11-19T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightblue"
-  },{
-    content: "[Perm] An Unconcealed Heart",
-    start: "2024-11-05T02:00:00.000Z",
-    end: "2024-11-19T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:yellow"
-  },{
-    content: "[Welfare] Michiru",
-    start: "2024-11-05T02:00:00.000Z",
-    end: "2024-11-19T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightgrey"
-  },{
-    content: "[Event Shop] 40 Saya Elephs",
-    start: "2024-11-12T02:00:00.000Z",
-    end: "2024-11-19T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightgrey"
-  },{
-    content: "[PVP] Season 7 (Urban)",
-    start: "2024-11-05T02:00:00.000Z",
-    end: "2024-11-19T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:orange"
-  },{
-    content: "[Welfare] Yuzu (Maid)",
-    start: "2024-11-19T02:00:00.000Z",
-    end: "2024-12-03T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightgrey"
-  },{
-    content: "[?Bond Gear?] Alice (Maid)",
-    start: "2024-11-19T02:00:00.000Z",
-    end: "2024-12-03T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightblue"
-  },
-//
 // RAIDS
 //
   {
@@ -1110,7 +987,6 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },
-
   {
     content: "2x Normals",
     start: "2024-11-04T19:00:00.000Z",
@@ -1142,5 +1018,128 @@ confirmed = [
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
+  },
+//
+// OTHER
+//
+  {
+    content: "[Welfare] Junko.NY",
+    start: "2024-09-03T02:00:00.000Z",
+    end: "2024-09-17T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
+    content: "[Perm] The Clumsy Sister and the Magician of the Old Library",
+    start: "2024-09-17T02:00:00.000Z",
+    end: "2024-09-24T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Event Shop] Kaede Elephs x40",
+    start: "2024-09-24T02:00:00.000Z",
+    end: "2024-10-08T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
+    content: "[Perm] [GA Shop Slvr] Serika (NY)",
+    start: "2024-09-30T19:00:00.000Z",
+    end: "2024-10-08T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
+    content: "[Perm] [Story] V1C3",
+    start: "2024-10-08T02:00:00.000Z",
+    end: "2024-10-22T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
+  },{
+    content: "[Perm] After-School Sweets Story Sweet Secrets and Shootouts",
+    start: "2024-10-08T02:00:00.000Z",
+    end: "2024-10-22T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Welfare] Airi (Band)",
+    start: "2024-10-22T02:00:00.000Z",
+    end: "2024-11-05T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
+    content: "[Perm] [Bond Gear] Yoshimi, Miyu, Kaede, Kaho",
+    start: "2024-10-22T02:00:00.000Z",
+    end: "2024-11-05T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
+  },{
+    content: "[Web Event] Livin' on Sweets!",
+    start: "2024-10-22T02:00:00.000Z",
+    end: "2024-11-05T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Perm] [GA Shop Blue] Asuna (Bunny)",
+    start: "2024-10-31T19:00:00.000Z",
+    end: "2024-11-19T19:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
+    content: "[Perm] [Mini Story] Go-Home Club",
+    start: "2024-11-05T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
+  },{
+    content: "[Perm] An Unconcealed Heart",
+    start: "2024-11-05T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Perm] [Welfare] Michiru",
+    start: "2024-11-05T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
+    content: "[Event Shop] 40 Saya Elephs",
+    start: "2024-11-12T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
+    content: "[PVP] Season 7 (Urban)",
+    start: "2024-11-05T02:00:00.000Z",
+    end: "2024-11-19T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:orange"
+  },{
+    content: "[Welfare] Yuzu (Maid)",
+    start: "2024-11-19T02:00:00.000Z",
+    end: "2024-12-03T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
+    content: "[Perm] [?Bond Gear?] Alice (Maid)",
+    start: "2024-11-19T02:00:00.000Z",
+    end: "2024-12-03T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
   },
 ]
