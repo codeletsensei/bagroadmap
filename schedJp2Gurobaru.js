@@ -12324,7 +12324,7 @@ jpSched = [
 		"title":"[Perm Story] Vol.EX: Decagrammaton Ch.2<br>G: 2025-05-06 02:00 ~ 2025-05-20 02:00 14d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-20 11:00 14d (JST y-m-d)",
 		"duration":14},
 	{
-		"content":"[Main][Special Investigation] The Tree of Sephiroth",
+		"content":"[Special Investigation] The Tree of Sephiroth",
 		"start":"2025-05-06T02:00",
 		"startJp":"2024-11-06T11:00",
 		"end":"2025-05-20T02:00",
@@ -12334,7 +12334,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-05-20T02:00",
 		"startG":"2025-05-06T02:00",
-		"title":"[Main ][Special Investigation] The Tree of Sephiroth<br>G: 2025-05-06 02:00 ~ 2025-05-20 02:00 14d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-20 11:00 14d (JST y-m-d)",
+		"title":"[Special Investigation] The Tree of Sephiroth<br>G: 2025-05-06 02:00 ~ 2025-05-20 02:00 14d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-20 11:00 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[JFD] Escort Red Indoors. Strikers -60% atk, Specials +50%",
@@ -12350,6 +12350,19 @@ jpSched = [
 		"title":"[JFD] Escort Red Indoors. Strikers -60% atk, Specials +50%<br>G: 2025-05-06 02:00 ~ 2025-05-12 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-13 03:59 7d (JST y-m-d)",
 		"duration":7},
 	{
+		"content":"EOS",
+		"start":"2025-05-06T02:00",
+		"startJp":"2024-11-06T11:00",
+		"end":"2025-05-06T08:00",
+		"endJp":"2024-11-06T17:00",
+		"group":"J Maint",
+		"subgroup":"",
+		"style":"color:red;background-color:red;height:15px",
+		"endG":"2025-05-06T08:00",
+		"startG":"2025-05-06T02:00",
+		"title":"EOS<br>G: 2025-05-06 02:00 ~ 2025-05-06 08:00 1d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-06 17:00 1d (JST y-m-d)",
+		"duration":1},
+	{
 		"content":"Hinata",
 		"start":"2025-05-06T02:00",
 		"startJp":"2024-11-06T11:00",
@@ -12360,7 +12373,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-13T02:00",
 		"startG":"2025-05-06T02:00",
-		"title":"Hinata<br>G: 2025-05-06 02:00 ~ 2025-05-13 02:00 7d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-13 11:00 7d (JST y-m-d)",
+		"title":"Hinata (New)<br>G: 2025-05-06 02:00 ~ 2025-05-13 02:00 7d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-13 11:00 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"Saori",
@@ -12373,7 +12386,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-13T02:00",
 		"startG":"2025-05-06T02:00",
-		"title":"Saori<br>G: 2025-05-06 02:00 ~ 2025-05-13 02:00 7d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-13 11:00 7d (JST y-m-d)",
+		"title":"Saori (New)<br>G: 2025-05-06 02:00 ~ 2025-05-13 02:00 7d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-13 11:00 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"(Datamined?) Hina (Swimsuit)",
