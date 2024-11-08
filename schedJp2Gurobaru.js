@@ -12413,5 +12413,18 @@ jpSched = [
 		"endG":"2025-05-20T02:00",
 		"startG":"2025-05-13T02:00",
 		"title":"(Datamined?) Iori (Swimsuit)<br>G: 2025-05-13 02:00 ~ 2025-05-20 02:00 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 ~ 2024-11-20 11:00 7d (JST y-m-d)",
+		"duration":7},
+	{
+		"content":"(Datamined?) Shiroko (Riding)",
+		"start":"2025-05-13T02:00",
+		"startJp":"2024-11-13T11:00",
+		"end":"2025-05-20T02:00",
+		"endJp":"2024-11-20T11:00",
+		"group":"J Gacha",
+		"subgroup":"Gacha",
+		"style":"color:black;background-color:lightgrey",
+		"endG":"2025-05-20T02:00",
+		"startG":"2025-05-13T02:00",
+		"title":"(Datamined?) Shiroko (Riding)<br>G: 2025-05-13 02:00 ~ 2025-05-20 02:00 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 ~ 2024-11-20 11:00 7d (JST y-m-d)",
 		"duration":7}
 ]
