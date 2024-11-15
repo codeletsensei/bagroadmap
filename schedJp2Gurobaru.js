@@ -10400,7 +10400,7 @@ jpSched = [
 		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kikyou\" title=\"Kikyou\">Kikyou</a><br>G: 2025-04-15 02:00 ~ 2025-04-22 01:59 7d (UTC y-m-d)<br>Jp: 2024-10-16 11:00 ~ 2024-10-23 10:59 7d (JST y-m-d)",
 		"duration":7},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Idol)\" title=\"Mari (Idol)\">Mari (Idol)</a> (New)",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Idol)\" title=\"Mari (Idol)\">Mari (Idol)</a> [L] (New)",
 		"start":"2025-04-22T02:00",
 		"startJp":"2024-10-23T11:00",
 		"end":"2025-05-06T01:59",
@@ -10410,10 +10410,10 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-06T01:59",
 		"startG":"2025-04-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Idol)\" title=\"Mari (Idol)\">Mari (Idol)</a> (New)<br>G: 2025-04-22 02:00 ~ 2025-05-06 01:59 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 ~ 2024-11-06 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Idol)\" title=\"Mari (Idol)\">Mari (Idol)</a> [L] (New)<br>G: 2025-04-22 02:00 ~ 2025-05-06 01:59 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 ~ 2024-11-06 10:59 14d (JST y-m-d)",
 		"duration":14},
 	{
-		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako_(Idol)\" title=\"Sakurako (Idol)\">Sakurako (Idol)</a> (New)",
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako_(Idol)\" title=\"Sakurako (Idol)\">Sakurako (Idol)</a> [L] (New)",
 		"start":"2025-04-22T02:00",
 		"startJp":"2024-10-23T11:00",
 		"end":"2025-05-06T01:59",
@@ -10423,7 +10423,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-06T01:59",
 		"startG":"2025-04-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako_(Idol)\" title=\"Sakurako (Idol)\">Sakurako (Idol)</a> (New)<br>G: 2025-04-22 02:00 ~ 2025-05-06 01:59 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 ~ 2024-11-06 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako_(Idol)\" title=\"Sakurako (Idol)\">Sakurako (Idol)</a> [L] (New)<br>G: 2025-04-22 02:00 ~ 2025-05-06 01:59 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 ~ 2024-11-06 10:59 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a>",
