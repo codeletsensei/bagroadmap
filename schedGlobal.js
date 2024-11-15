@@ -97,6 +97,13 @@ confirmed = [
     group: "G Maint",
     subgroup: "",
     style: "color:red; background-color:red; height:15px"
+  },{
+    content: "EOS",
+    start: "2024-11-19T02:00:00.000Z",
+    end: "2024-11-19T07:00:00.000Z",
+    group: "G Maint",
+    subgroup: "",
+    style: "color:red; background-color:red; height:15px"
   },
 //
 // GASHA
