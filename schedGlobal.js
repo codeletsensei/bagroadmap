@@ -677,6 +677,13 @@ confirmed = [
     subgroup: "JFD",
     style: "color:black; background-color:pink "
   },{
+    content: "[LBA] S3 The Fury of Set Blue",
+    start: "2024-11-20T02:00:00.000Z",
+    end: "2024-12-23T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "LBA",
+    style: "color:black; background-color:pink "
+  },{
     content: "[TA] Goz Indoors",
     start: "2024-11-26T02:00:00.000Z",
     end: "2024-12-02T19:00:00.000Z",
@@ -1142,7 +1149,7 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
   },{
-    content: "[Perm] [?Bond Gear?] Alice (Maid)",
+    content: "[Perm] [Bond Gear] Alice (Maid)",
     start: "2024-11-19T02:00:00.000Z",
     end: "2024-12-03T02:00:00.000Z",
     group: "G Other",
