@@ -12634,5 +12634,18 @@ jpSched = [
 		"endG":"2025-06-22T19:00",
 		"startG":"2025-06-16T19:00",
 		"title":"2x Comms<br>G: 2025-06-16 19:00 ~ 2025-06-22 19:00 6d (UTC y-m-d)<br>Jp: 2024-12-18 04:00 ~ 2024-12-24 04:00 6d (JST y-m-d)",
-		"duration":6}
+		"duration":6},
+	{
+		"content":"[JFD] Breakthrough Red Outdoors. Red healers buff",
+		"start":"2025-06-03T02:00",
+		"startJp":"2024-12-04T11:00",
+		"end":"2025-06-09T19:00",
+		"endJp":"2024-12-11T04:00",
+		"group":"J Raid",
+		"subgroup":"JFD",
+		"style":"color:black;background-color:pink",
+		"endG":"2025-06-09T19:00",
+		"startG":"2025-06-03T02:00",
+		"title":"[JFD] Breakthrough Red Outdoors. Red healers buff<br>G: 2025-06-03 02:00 ~ 2025-06-09 19:00 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 ~ 2024-12-11 04:00 7d (JST y-m-d)",
+		"duration":7}
 ]
