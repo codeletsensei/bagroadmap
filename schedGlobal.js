@@ -1037,18 +1037,18 @@ confirmed = [
 // OTHER
 //
   {
-    content: "[Welfare] Junko.NY",
+    content: "[Welfare] Junko (New Year)",
     start: "2024-09-03T02:00:00.000Z",
     end: "2024-09-17T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
+    group: "G Gacha",
+    subgroup: "Gacha",
     style: "color:black; background-color:lightgrey"
   },{
     content: "[Perm] The Clumsy Sister and the Magician of the Old Library",
     start: "2024-09-17T02:00:00.000Z",
     end: "2024-09-24T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
+    group: "G Event",
+    subgroup: "",
     style: "color:black; background-color:yellow"
   },{
     content: "[Event Shop] Kaede Elephs x40",
@@ -1058,7 +1058,7 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
   },{
-    content: "[Perm] [GA Shop Slvr] Serika (NY)",
+    content: "[Perm] [GA Shop Slvr] Serika (New Year)",
     start: "2024-09-30T19:00:00.000Z",
     end: "2024-10-08T02:00:00.000Z",
     group: "G Other",
@@ -1075,15 +1075,15 @@ confirmed = [
     content: "[Perm] After-School Sweets Story Sweet Secrets and Shootouts",
     start: "2024-10-08T02:00:00.000Z",
     end: "2024-10-22T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
+    group: "G Event",
+    subgroup: "",
     style: "color:black; background-color:yellow"
   },{
     content: "[Welfare] Airi (Band)",
     start: "2024-10-22T02:00:00.000Z",
     end: "2024-11-05T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
+    group: "G Gacha",
+    subgroup: "Gacha",
     style: "color:black; background-color:lightgrey"
   },{
     content: "[Perm] [Bond Gear] Yoshimi, Miyu, Kaede, Kaho",
@@ -1096,11 +1096,11 @@ confirmed = [
     content: "[Web Event] Livin' on Sweets!",
     start: "2024-10-22T02:00:00.000Z",
     end: "2024-11-05T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
+    group: "G Event",
+    subgroup: "",
     style: "color:black; background-color:yellow"
   },{
-    content: "[Perm] [GA Shop Blue] Asuna (Bunny)",
+    content: "[Perm] [GA Shop Blue] Asuna (Bunny Girl)",
     start: "2024-10-31T19:00:00.000Z",
     end: "2024-11-19T19:00:00.000Z",
     group: "G Other",
@@ -1117,15 +1117,15 @@ confirmed = [
     content: "[Perm] An Unconcealed Heart",
     start: "2024-11-05T02:00:00.000Z",
     end: "2024-11-19T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
+    group: "G Event",
+    subgroup: "",
     style: "color:black; background-color:yellow"
   },{
     content: "[Perm] [Welfare] Michiru",
     start: "2024-11-05T02:00:00.000Z",
     end: "2024-11-19T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
+    group: "G Gacha",
+    subgroup: "Gacha",
     style: "color:black; background-color:lightgrey"
   },{
     content: "[Event Shop] 40 Saya Elephs",
@@ -1145,8 +1145,8 @@ confirmed = [
     content: "[Welfare] Yuzu (Maid)",
     start: "2024-11-19T02:00:00.000Z",
     end: "2024-12-03T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
+    group: "G Gacha",
+    subgroup: "Gacha",
     style: "color:black; background-color:lightgrey"
   },{
     content: "[Perm] [Bond Gear] Alice (Maid)",
@@ -1155,5 +1155,12 @@ confirmed = [
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
+  },{
+    content: "[JFD] Defense Red. GL/MG/MT atk buff",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-09T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "JFD",
+    style: "color:black; background-color:pink"
   },
 ]
