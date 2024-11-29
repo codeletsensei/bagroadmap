@@ -104,6 +104,13 @@ confirmed = [
     group: "G Maint",
     subgroup: "",
     style: "color:red; background-color:red; height:15px"
+  },{
+    content: "EOS",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-03T05:00:00.000Z",
+    group: "G Maint",
+    subgroup: "",
+    style: "color:red; background-color:red; height:15px"
   },
 //
 // GASHA
@@ -332,6 +339,41 @@ confirmed = [
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
+  },{
+    content: "Serika (Swimsuit) (New)",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-14T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Shiroko (Swimsuit)",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-14T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Nonomi (Swimsuit)",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-14T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Wakamo (Swimsuit)",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-14T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "[Perm Welfare] Ayane (Swimsuit)",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-14T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -508,6 +550,27 @@ confirmed = [
     content: "Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~",
     start: "2024-11-19T02:00:00.000Z",
     end: "2024-12-03T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Perm] Abydos Resort Restoration Committee",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-14T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "?Prostate Exam with Aoi?",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-14T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "?[Guide Task] Task Force Emergency Nighttime Meeting?",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-14T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
@@ -1162,5 +1225,19 @@ confirmed = [
     group: "G Raid",
     subgroup: "JFD",
     style: "color:black; background-color:pink"
+  },{
+    content: "[Perm Story] V1C3 P2",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-09T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
+  },{
+    content: "?[Perm Mission] Area 26 (Shun Youjo)?",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-14T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
   },
 ]
