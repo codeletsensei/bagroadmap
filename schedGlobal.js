@@ -753,6 +753,20 @@ confirmed = [
     group: "G Raid",
     subgroup: "TA",
     style: "color:black; background-color:pink "
+  },{
+    content: "[GA] Hovercraft Outdoors (Red Tor + Yellow/Blue)",
+    start: "2024-12-10T02:00:00.000Z",
+    end: "2024-12-16T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "GA",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[TA] Binah Outdoors",
+    start: "2024-12-31T02:00:00.000Z",
+    end: "2025-01-06T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "TA",
+    style: "color:black; background-color:pink "
   },
 // CAMPAIGNS
   {
@@ -1096,6 +1110,46 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },
+  {
+    content: "2x Normals",
+    start: "2024-12-02T19:00:00.000Z",
+    end: "2024-12-09T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "2x Hards/Comms",
+    start: "2024-12-09T19:00:00.000Z",
+    end: "2024-12-16T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "2x Normals",
+    start: "2024-12-16T19:00:00.000Z",
+    end: "2024-12-23T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "2x Scrimms/Lessons",
+    start: "2024-12-23T19:00:00.000Z",
+    end: "2024-12-30T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "2x Normals",
+    start: "2024-12-30T19:00:00.000Z",
+    end: "2025-01-06T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
 //
 // OTHER
 //
@@ -1228,7 +1282,7 @@ confirmed = [
   },{
     content: "[Perm Story] V1C3 P2",
     start: "2024-12-03T02:00:00.000Z",
-    end: "2024-12-09T02:00:00.000Z",
+    end: "2024-12-14T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
