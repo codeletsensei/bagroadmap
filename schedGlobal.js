@@ -598,7 +598,7 @@ confirmed = [
   },{
     content: "[Guide Task] Foreclosure Task Force Midnight Meeting",
     start: "2024-12-03T02:00:00.000Z",
-    end: "2024-12-14T02:00:00.000Z",
+    end: "2024-12-31T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
