@@ -374,6 +374,34 @@ confirmed = [
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
+  },{
+    content: "Izuna (Swimsuit) [L]",
+    start: "2024-12-14T02:00:00.000Z",
+    end: "2024-12-24T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Chise (Swimsuit) [L]",
+    start: "2024-12-14T02:00:00.000Z",
+    end: "2024-12-24T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Mimori (Swimsuit)",
+    start: "2024-12-14T02:00:00.000Z",
+    end: "2024-12-24T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "[Perm Welfare] Shizuko (Swimsuit)",
+    start: "2024-12-14T02:00:00.000Z",
+    end: "2024-12-24T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -554,23 +582,30 @@ confirmed = [
     subgroup: "Event",
     style: "color:black; background-color:yellow"
   },{
-    content: "[Perm] Abydos Resort Restoration Committee",
+    content: "[Perm] Abydos Resort Restoration Task Force",
     start: "2024-12-03T02:00:00.000Z",
     end: "2024-12-14T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
   },{
-    content: "?Prostate Exam with Aoi?",
+    content: "Balancing Schale's Books with the General Student Council",
     start: "2024-12-03T02:00:00.000Z",
     end: "2024-12-14T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
   },{
-    content: "?[Guide Task] Task Force Emergency Nighttime Meeting?",
+    content: "[Guide Task] Foreclosure Task Force Midnight Meeting",
     start: "2024-12-03T02:00:00.000Z",
     end: "2024-12-14T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Perm] Business Trip! Momoyodou Beach Shack Franchise Plan",
+    start: "2024-12-14T02:00:00.000Z",
+    end: "2024-12-24T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
@@ -1287,9 +1322,16 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
   },{
-    content: "?[Perm Mission] Area 26 (Shun Youjo)?",
+    content: "[Perm Mission] Area 26 (Shun Youjo)",
     start: "2024-12-03T02:00:00.000Z",
     end: "2024-12-14T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
+  },{
+    content: "[Perm Story] V1C3 P3",
+    start: "2024-12-17T02:00:00.000Z",
+    end: "2024-12-24T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
