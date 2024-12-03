@@ -591,7 +591,7 @@ confirmed = [
   },{
     content: "Balancing Schale's Books with the General Student Council",
     start: "2024-12-03T02:00:00.000Z",
-    end: "2024-12-14T02:00:00.000Z",
+    end: "2024-12-17T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
