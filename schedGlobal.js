@@ -1217,7 +1217,7 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
   },{
-    content: "[Perm] [Story] V1C3",
+    content: "[Perm Story] V1C3 P1",
     start: "2024-10-08T02:00:00.000Z",
     end: "2024-10-22T02:00:00.000Z",
     group: "G Other",
@@ -1259,7 +1259,7 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
   },{
-    content: "[Perm] [Mini Story] Go-Home Club",
+    content: "[Perm Mini Story] Go-Home Club",
     start: "2024-11-05T02:00:00.000Z",
     end: "2024-11-19T02:00:00.000Z",
     group: "G Other",
