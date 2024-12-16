@@ -772,7 +772,7 @@ confirmed = [
     start: "2024-11-12T02:00:00.000Z",
     end: "2024-11-18T19:00:00.000Z",
     group: "G Raid",
-    subgroup: "JFD",
+    subgroup: "GA",
     style: "color:black; background-color:pink "
   },{
     content: "[LBA] S3 The Fury of Set Blue",
@@ -789,6 +789,13 @@ confirmed = [
     subgroup: "TA",
     style: "color:black; background-color:pink "
   },{
+    content: "[JFD] Defense Red. GL/MG/MT atk buff",
+    start: "2024-12-03T02:00:00.000Z",
+    end: "2024-12-09T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "JFD",
+    style: "color:black; background-color:pink"
+  },{
     content: "[GA] Hovercraft Outdoors (Red Tor + Yellow/Blue)",
     start: "2024-12-10T02:00:00.000Z",
     end: "2024-12-16T19:00:00.000Z",
@@ -801,6 +808,13 @@ confirmed = [
     end: "2025-01-06T19:00:00.000Z",
     group: "G Raid",
     subgroup: "TA",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[JFD] Escort Purple. High def enemies. Avant Guard takes DoT.",
+    start: "2025-01-06T02:00:00.000Z",
+    end: "2025-01-13T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "JFD",
     style: "color:black; background-color:pink "
   },
 // CAMPAIGNS
@@ -1254,7 +1268,7 @@ confirmed = [
   },{
     content: "[Perm] [GA Shop Blue] Asuna (Bunny Girl)",
     start: "2024-10-31T19:00:00.000Z",
-    end: "2024-11-19T19:00:00.000Z",
+    end: "2024-11-14T19:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
@@ -1308,13 +1322,6 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
   },{
-    content: "[JFD] Defense Red. GL/MG/MT atk buff",
-    start: "2024-12-03T02:00:00.000Z",
-    end: "2024-12-09T19:00:00.000Z",
-    group: "G Raid",
-    subgroup: "JFD",
-    style: "color:black; background-color:pink"
-  },{
     content: "[Perm Story] V1C3 P2",
     start: "2024-12-03T02:00:00.000Z",
     end: "2024-12-14T02:00:00.000Z",
@@ -1331,7 +1338,7 @@ confirmed = [
   },{
     content: "[Perm Story] V1C3 P3",
     start: "2024-12-17T02:00:00.000Z",
-    end: "2024-12-24T02:00:00.000Z",
+    end: "2024-12-31T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
