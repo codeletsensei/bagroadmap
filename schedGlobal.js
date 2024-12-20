@@ -111,6 +111,13 @@ confirmed = [
     group: "G Maint",
     subgroup: "",
     style: "color:red; background-color:red; height:15px"
+  },{
+    content: "EOS",
+    start: "2024-12-24T02:00:00.000Z",
+    end: "2024-12-24T05:00:00.000Z",
+    group: "G Maint",
+    subgroup: "",
+    style: "color:red; background-color:red; height:15px"
   },
 //
 // GASHA
@@ -402,6 +409,27 @@ confirmed = [
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
+  },{
+    content: "[Welfare] Kirino (Swimsuit)",
+    start: "2024-12-24T02:00:00.000Z",
+    end: "2025-01-07T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Kanna (Swimsuit)",
+    start: "2024-12-24T02:00:00.000Z",
+    end: "2025-01-07T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Fubuki (Swimsuit)",
+    start: "2024-12-24T02:00:00.000Z",
+    end: "2025-01-07T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -606,6 +634,13 @@ confirmed = [
     content: "[Perm] Business Trip! Momoyodou Beach Shack Franchise Plan",
     start: "2024-12-14T02:00:00.000Z",
     end: "2024-12-24T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Main] Say-Bing!",
+    start: "2024-12-24T02:00:00.000Z",
+    end: "2025-01-07T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
@@ -1339,6 +1374,13 @@ confirmed = [
     content: "[Perm Story] V1C3 P3",
     start: "2024-12-17T02:00:00.000Z",
     end: "2024-12-31T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
+  },{
+    content: "Bing!",
+    start: "2024-12-24T02:00:00.000Z",
+    end: "2025-01-07T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
