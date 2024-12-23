@@ -838,6 +838,13 @@ confirmed = [
     subgroup: "GA",
     style: "color:black; background-color:pink "
   },{
+    content: "[LBA] S4 The Fury of Set Red",
+    start: "2024-12-25T02:00:00.000Z",
+    end: "2025-01-22T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "TA",
+    style: "color:black; background-color:pink "
+  },{
     content: "[TA] Binah Outdoors",
     start: "2024-12-31T02:00:00.000Z",
     end: "2025-01-06T19:00:00.000Z",
@@ -1259,7 +1266,7 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
   },{
-    content: "[Perm] [GA Shop Slvr] Serika (New Year)",
+    content: "[GA Shop] Serika (New Year). Silver coins.",
     start: "2024-09-30T19:00:00.000Z",
     end: "2024-10-08T02:00:00.000Z",
     group: "G Other",
@@ -1287,7 +1294,7 @@ confirmed = [
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey"
   },{
-    content: "[Perm] [Bond Gear] Yoshimi, Miyu, Kaede, Kaho",
+    content: "[Bond Gear] Yoshimi, Miyu, Kaede, Kaho",
     start: "2024-10-22T02:00:00.000Z",
     end: "2024-11-05T02:00:00.000Z",
     group: "G Other",
@@ -1301,7 +1308,7 @@ confirmed = [
     subgroup: "",
     style: "color:black; background-color:yellow"
   },{
-    content: "[Perm] [GA Shop Blue] Asuna (Bunny Girl)",
+    content: "[GA Shop] Asuna (Bunny Girl). Blue coins.",
     start: "2024-10-31T19:00:00.000Z",
     end: "2024-11-14T19:00:00.000Z",
     group: "G Other",
@@ -1350,7 +1357,7 @@ confirmed = [
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey"
   },{
-    content: "[Perm] [Bond Gear] Alice (Maid)",
+    content: "[Bond Gear] Alice (Maid)",
     start: "2024-11-19T02:00:00.000Z",
     end: "2024-12-03T02:00:00.000Z",
     group: "G Other",
@@ -1384,5 +1391,19 @@ confirmed = [
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
+  },{
+    content: "[Bond Gear] Hoshino, Hina, Chise",
+    start: "2024-12-24T02:00:00.000Z",
+    end: "2025-01-07T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
+  },{
+    content: "[TA Shop] Cherino (Onsen). Yellow coins",
+    start: "2024-12-31T02:00:00.000Z",
+    end: "2025-01-14T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
   },
 ]
