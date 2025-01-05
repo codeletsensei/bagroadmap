@@ -882,28 +882,28 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x EXP",
+    content: "<b>2x XP</b>",
     start: "2024-05-03T19:00:00.000Z",
     end: "2024-05-05T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x EXP",
+    content: "<b>2x XP</b>",
     start: "2024-05-10T19:00:00.000Z",
     end: "2024-05-12T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x EXP",
+    content: "<b>2x XP</b>",
     start: "2024-05-17T19:00:00.000Z",
     end: "2024-05-19T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x EXP",
+    content: "<b>2x XP</b>",
     start: "2024-05-24T19:00:00.000Z",
     end: "2024-05-26T19:00:00.000Z",
     group: "G Camp",
@@ -1036,28 +1036,28 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x EXP",
+    content: "<b>2x XP</b>",
     start: "2024-07-26T19:00:00.000Z",
     end: "2024-07-28T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x EXP",
+    content: "<b>2x XP</b>",
     start: "2024-08-02T19:00:00.000Z",
     end: "2024-08-04T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x EXP",
+    content: "<b>2x XP</b>",
     start: "2024-08-09T19:00:00.000Z",
     end: "2024-08-11T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x EXP",
+    content: "<b>2x XP</b>",
     start: "2024-08-16T19:00:00.000Z",
     end: "2024-08-18T19:00:00.000Z",
     group: "G Camp",
@@ -1078,14 +1078,14 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x EXP",
+    content: "<b>2x XP</b>",
     start: "2024-08-23T19:00:00.000Z",
     end: "2024-08-25T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x EXP",
+    content: "<b>2x XP</b>",
     start: "2024-08-30T19:00:00.000Z",
     end: "2024-09-01T19:00:00.000Z",
     group: "G Camp",
@@ -1148,7 +1148,7 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x EXP",
+    content: "<b>2x XP</b>",
     start: "2024-10-25T19:00:00.000Z",
     end: "2024-10-27T19:00:00.000Z",
     group: "G Camp",
@@ -1162,7 +1162,7 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x EXP",
+    content: "<b>2x XP</b>",
     start: "2024-11-01T19:00:00.000Z",
     end: "2024-11-03T19:00:00.000Z",
     group: "G Camp",
@@ -1266,7 +1266,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "?<b>2x EXP</b>?",
+    content: "?<b>2x XP</b>?",
     start: "2025-01-24T19:00:00.000Z",
     end: "2025-01-26T19:00:00.000Z",
     group: "G Camp",
