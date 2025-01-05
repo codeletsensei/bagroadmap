@@ -980,56 +980,56 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x Comms",
+    content: "2x Comm",
     start: "2024-07-08T19:00:00.000Z",
     end: "2024-07-15T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x Normals",
+    content: "2x Normal",
     start: "2024-07-15T19:00:00.000Z",
     end: "2024-07-19T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x Hards",
+    content: "2x Hard",
     start: "2024-07-19T19:00:00.000Z",
     end: "2024-07-22T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "<b>TRIPLE</b> Lesson/Scrimm/Bounty",
+    content: "<b>3x</b> Lesson/Scrimm/Bounty",
     start: "2024-07-22T19:00:00.000Z",
     end: "2024-07-29T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "<b>TRIPLE</b> Comms/HARDs",
+    content: "<b>3x</b> Comm/Hard",
     start: "2024-07-29T19:00:00.000Z",
     end: "2024-08-05T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "<b>TRIPLE</b> Lesson/Scrimm/Bounty",
+    content: "<b>3x</b> Lesson/Scrimm/Bounty",
     start: "2024-08-05T19:00:00.000Z",
     end: "2024-08-12T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "<b>TRIPLE</b> NORMALs",
+    content: "<b>3x</b> Normal",
     start: "2024-08-05T19:00:00.000Z",
     end: "2024-08-19T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "<b>TRIPLE</b> Comms",
+    content: "<b>3x</b> Comm",
     start: "2024-08-12T19:00:00.000Z",
     end: "2024-08-19T19:00:00.000Z",
     group: "G Camp",
@@ -1071,7 +1071,7 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x Comms",
+    content: "2x Comm",
     start: "2024-08-26T19:00:00.000Z",
     end: "2024-09-02T19:00:00.000Z",
     group: "G Camp",
@@ -1092,21 +1092,21 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x Scrimms / Lesson",
+    content: "2x Scrimm / Lesson",
     start: "2024-09-02T19:00:00.000Z",
     end: "2024-09-09T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x Normals",
+    content: "2x Normal",
     start: "2024-09-09T19:00:00.000Z",
     end: "2024-09-16T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x Comms/Hards",
+    content: "2x Comm/Hard",
     start: "2024-09-16T19:00:00.000Z",
     end: "2024-09-23T19:00:00.000Z",
     group: "G Camp",
@@ -1120,28 +1120,28 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x Scrimms/Lessons",
+    content: "2x Scrimm/Lesson",
     start: "2024-09-30T19:00:00.000Z",
     end: "2024-10-07T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x Normals",
+    content: "2x Normal",
     start: "2024-10-07T19:00:00.000Z",
     end: "2024-10-14T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x Comms/Hards",
+    content: "2x Comm/Hard",
     start: "2024-10-14T19:00:00.000Z",
     end: "2024-10-21T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x Scrimms/Lessons",
+    content: "2x Scrimm/Lesson",
     start: "2024-10-21T19:00:00.000Z",
     end: "2024-10-28T19:00:00.000Z",
     group: "G Camp",
@@ -1155,7 +1155,7 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },{
-    content: "2x Comms/Bounties",
+    content: "2x Comm/Bounty",
     start: "2024-10-28T19:00:00.000Z",
     end: "2024-11-04T19:00:00.000Z",
     group: "G Camp",
@@ -1170,7 +1170,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "2x Normals",
+    content: "2x Normal",
     start: "2024-11-04T19:00:00.000Z",
     end: "2024-11-11T19:00:00.000Z",
     group: "G Camp",
@@ -1178,7 +1178,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "2x Hards",
+    content: "2x Hard",
     start: "2024-11-11T19:00:00.000Z",
     end: "2024-11-18T19:00:00.000Z",
     group: "G Camp",
@@ -1186,7 +1186,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "2x Bounties",
+    content: "2x Bounty",
     start: "2024-11-18T19:00:00.000Z",
     end: "2024-11-25T19:00:00.000Z",
     group: "G Camp",
@@ -1194,7 +1194,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "2x Comms/Scrimms/Lessons",
+    content: "2x Comm/Scrimm/Lesson",
     start: "2024-11-25T19:00:00.000Z",
     end: "2024-12-02T19:00:00.000Z",
     group: "G Camp",
@@ -1202,7 +1202,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "2x Normals",
+    content: "2x Normal",
     start: "2024-12-02T19:00:00.000Z",
     end: "2024-12-09T19:00:00.000Z",
     group: "G Camp",
@@ -1210,7 +1210,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "2x Hards/Comms",
+    content: "2x Hard/Comm",
     start: "2024-12-09T19:00:00.000Z",
     end: "2024-12-16T19:00:00.000Z",
     group: "G Camp",
@@ -1218,7 +1218,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "2x Normals",
+    content: "2x Normal",
     start: "2024-12-16T19:00:00.000Z",
     end: "2024-12-23T19:00:00.000Z",
     group: "G Camp",
@@ -1226,7 +1226,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "2x Scrimms/Lessons",
+    content: "2x Scrimm/Lesson",
     start: "2024-12-23T19:00:00.000Z",
     end: "2024-12-30T19:00:00.000Z",
     group: "G Camp",
@@ -1234,9 +1234,57 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "2x Normals",
+    content: "2x Normal",
     start: "2024-12-30T19:00:00.000Z",
     end: "2025-01-06T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "?2x Hard/Bounty?",
+    start: "2025-01-06T19:00:00.000Z",
+    end: "2025-01-15T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "?2x Comm?",
+    start: "2025-01-15T19:00:00.000Z",
+    end: "2025-01-22T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "?<b>3x Scrimm/Bounty/Lesson</b>?",
+    start: "2025-01-22T19:00:00.000Z",
+    end: "2025-01-29T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "?<b>2x EXP</b>?",
+    start: "2025-01-24T19:00:00.000Z",
+    end: "2025-01-26T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "?<b>3x Comm</b>?",
+    start: "2025-01-29T19:00:00.000Z",
+    end: "2025-02-05T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "?<b>3x Normal</b>?",
+    start: "2025-01-29T19:00:00.000Z",
+    end: "2025-02-02T19:00:00.000Z",
     group: "G Camp",
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
