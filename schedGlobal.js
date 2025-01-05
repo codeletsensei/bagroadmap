@@ -853,7 +853,7 @@ confirmed = [
     style: "color:black; background-color:pink "
   },{
     content: "[JFD] Escort Purple. High def enemies. Avant Guard takes DoT.",
-    start: "2025-01-06T02:00:00.000Z",
+    start: "2025-01-07T02:00:00.000Z",
     end: "2025-01-13T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
