@@ -118,6 +118,13 @@ confirmed = [
     group: "G Maint",
     subgroup: "",
     style: "color:red; background-color:red; height:15px"
+  },{
+    content: "EOS",
+    start: "2025-01-07T02:00:00.000Z",
+    end: "2025-01-07T07:00:00.000Z",
+    group: "G Maint",
+    subgroup: "",
+    style: "color:red; background-color:red; height:15px"
   },
 //
 // GASHA
@@ -430,6 +437,34 @@ confirmed = [
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
+  },{
+    content: "[Welfare] Miyu (Swimsuit)",
+    start: "2025-01-07T02:00:00.000Z",
+    end: "2025-01-16T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Moe (Swimsuit) (New)",
+    start: "2025-01-07T02:00:00.000Z",
+    end: "2025-01-16T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Miyako (Swimsuit)",
+    start: "2025-01-07T02:00:00.000Z",
+    end: "2025-01-16T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Saki (Swimsuit)",
+    start: "2025-01-07T02:00:00.000Z",
+    end: "2025-01-16T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -641,6 +676,13 @@ confirmed = [
     content: "[Main] Say-Bing!",
     start: "2024-12-24T02:00:00.000Z",
     end: "2025-01-07T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[R] Special Summer Mission! RABBIT SQUAD and the Mystery of the Missing Shrimp ",
+    start: "2025-01-07T02:00:00.000Z",
+    end: "2025-01-16T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
@@ -1242,7 +1284,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "?2x Hard/Bounty?",
+    content: "2x Hard/Bounty",
     start: "2025-01-06T19:00:00.000Z",
     end: "2025-01-15T19:00:00.000Z",
     group: "G Camp",
@@ -1250,7 +1292,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "?2x Comm?",
+    content: "2x Comm",
     start: "2025-01-15T19:00:00.000Z",
     end: "2025-01-22T19:00:00.000Z",
     group: "G Camp",
@@ -1258,7 +1300,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "?<b>3x Scrimm/Bounty/Lesson</b>?",
+    content: "<b>3x Scrimm/Bounty/Lesson</b>",
     start: "2025-01-22T19:00:00.000Z",
     end: "2025-01-29T19:00:00.000Z",
     group: "G Camp",
@@ -1266,7 +1308,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "?<b>2x XP</b>?",
+    content: "<b>2x XP</b>",
     start: "2025-01-24T19:00:00.000Z",
     end: "2025-01-26T19:00:00.000Z",
     group: "G Camp",
@@ -1274,7 +1316,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "?<b>3x Comm</b>?",
+    content: "<b>3x Comm</b>",
     start: "2025-01-29T19:00:00.000Z",
     end: "2025-02-05T19:00:00.000Z",
     group: "G Camp",
@@ -1282,7 +1324,7 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
-    content: "?<b>3x Normal</b>?",
+    content: "<b>3x Normal</b>",
     start: "2025-01-29T19:00:00.000Z",
     end: "2025-02-02T19:00:00.000Z",
     group: "G Camp",
