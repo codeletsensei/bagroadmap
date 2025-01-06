@@ -465,6 +465,13 @@ confirmed = [
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
+  },{
+    content: "Hina + Hoshino",
+    start: "2025-01-16T02:00:00.000Z",
+    end: "2025-01-23T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -897,6 +904,13 @@ confirmed = [
     content: "[JFD] Escort Purple. High def enemies. Avant Guard takes DoT.",
     start: "2025-01-07T02:00:00.000Z",
     end: "2025-01-13T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "JFD",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[GA] ShiroKuro Indoors",
+    start: "2025-01-14T02:00:00.000Z",
+    end: "2025-01-20T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
     style: "color:black; background-color:pink "
@@ -1363,7 +1377,7 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
   },{
-    content: "[Perm Story] V1C3 P1",
+    content: "[Main Story] V1C3 P1",
     start: "2024-10-08T02:00:00.000Z",
     end: "2024-10-22T02:00:00.000Z",
     group: "G Other",
@@ -1405,7 +1419,7 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
   },{
-    content: "[Perm Mini Story] Go-Home Club",
+    content: "[Mini Story] Go-Home Club",
     start: "2024-11-05T02:00:00.000Z",
     end: "2024-11-19T02:00:00.000Z",
     group: "G Other",
@@ -1454,7 +1468,7 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
   },{
-    content: "[Perm Story] V1C3 P2",
+    content: "[Main Story] V1C3 P2",
     start: "2024-12-03T02:00:00.000Z",
     end: "2024-12-14T02:00:00.000Z",
     group: "G Other",
@@ -1468,7 +1482,7 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
   },{
-    content: "[Perm Story] V1C3 P3",
+    content: "[Main Story] V1C3 P3",
     start: "2024-12-17T02:00:00.000Z",
     end: "2024-12-31T02:00:00.000Z",
     group: "G Other",
@@ -1495,5 +1509,12 @@ confirmed = [
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
+  },{
+    content: "[Main Story] V1C3 P4",
+    start: "2025-01-16T02:00:00.000Z",
+    end: "2025-01-30T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
   },
 ]
