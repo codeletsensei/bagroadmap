@@ -472,6 +472,83 @@ confirmed = [
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
+  },{
+    content: "Hoshino (Armed & Dangerous) (New)",
+    start: "2025-01-23T02:00:00.000Z",
+    end: "2025-01-30T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Shiroto＊Terror (New)",
+    start: "2025-01-23T02:00:00.000Z",
+    end: "2025-01-30T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Mika",
+    start: "2025-01-23T02:00:00.000Z",
+    end: "2025-01-30T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "[Welfare] Atsuko (Swimsuit) (New)",
+    start: "2025-01-23T02:00:00.000Z",
+    end: "2025-01-30T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Saori (Swimsuit) (New)",
+    start: "2025-01-30T02:00:00.000Z",
+    end: "2025-02-08T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Hiyori (Swimsuit) (New)",
+    start: "2025-01-30T02:00:00.000Z",
+    end: "2025-02-08T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Meru + Momiji",
+    start: "2025-02-08T02:00:00.000Z",
+    end: "2025-02-18T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Cherino + Marina",
+    start: "2025-02-08T02:00:00.000Z",
+    end: "2025-02-18T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Minori + Shigure (Hot Spring)",
+    start: "2025-02-08T02:00:00.000Z",
+    end: "2025-02-18T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Tomoe (Qipao) (New)",
+    start: "2025-02-18T02:00:00.000Z",
+    end: "2025-03-04T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
+  },{
+    content: "Marina (Qipao) (New)",
+    start: "2025-02-18T02:00:00.000Z",
+    end: "2025-03-04T02:00:00.000Z",
+    group: "G Gacha",
+    subgroup: "Gacha",
+    style: "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -690,6 +767,48 @@ confirmed = [
     content: "[R] Special Summer Mission! RABBIT SQUAD and the Mystery of the Missing Shrimp ",
     start: "2025-01-07T02:00:00.000Z",
     end: "2025-01-16T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Login] Arona's Special Bonus (end date unconfirmed?)",
+    start: "2025-01-23T02:00:00.000Z",
+    end: "2025-02-18T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Guide Task] Shiba Seki Ramen Shop Part Time Gig! (end date unconfirmed?)",
+    start: "2025-01-23T02:00:00.000Z",
+    end: "2025-02-18T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Main] Sheside Outside",
+    start: "2025-01-23T02:00:00.000Z",
+    end: "2025-02-08T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "10+ free recruitments daily campaign",
+    start: "2025-01-30T02:00:00.000Z",
+    end: "2025-02-08T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[R] Academy Club Story",
+    start: "2025-02-08T02:00:00.000Z",
+    end: "2025-02-18T02:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[Main] Radiant Moon, Raucous Dream",
+    start: "2025-02-18T02:00:00.000Z",
+    end: "2025-03-04T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
@@ -1513,6 +1632,13 @@ confirmed = [
     content: "[Main Story] V1C3 P4",
     start: "2025-01-16T02:00:00.000Z",
     end: "2025-01-30T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
+  },{
+    content: "[Main Story] V1C3 P5",
+    start: "2025-01-23T02:00:00.000Z",
+    end: "2025-02-06T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
