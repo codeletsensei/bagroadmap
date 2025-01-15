@@ -778,9 +778,9 @@ confirmed = [
     subgroup: "Event",
     style: "color:black; background-color:yellow"
   },{
-    content: "[Guide Task] Shiba Seki Ramen Shop Part Time Gig! (end date unconfirmed?)",
+    content: "[Perm] Shiba Seki Ramen Shop Part Time Gig! Guide Task",
     start: "2025-01-23T02:00:00.000Z",
-    end: "2025-02-18T02:00:00.000Z",
+    end: "2025-02-06T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
@@ -1594,7 +1594,7 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:lightblue"
   },{
-    content: "[Perm Mission] Area 26 (Shun Youjo)",
+    content: "[Mission] Area 26 (Shun Youjo)",
     start: "2024-12-03T02:00:00.000Z",
     end: "2024-12-14T02:00:00.000Z",
     group: "G Other",
