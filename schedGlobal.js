@@ -473,21 +473,21 @@ confirmed = [
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
   },{
-    content: "Hoshino (Armed & Dangerous) (New)",
+    content: "Hoshino (Armed & Dangerous) [L Bluefes]",
     start: "2025-01-23T02:00:00.000Z",
     end: "2025-01-30T02:00:00.000Z",
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
   },{
-    content: "Shiroto＊Terror (New)",
+    content: "Shiroto＊Terror [L Bluefes]",
     start: "2025-01-23T02:00:00.000Z",
     end: "2025-01-30T02:00:00.000Z",
     group: "G Gacha",
     subgroup: "Gacha",
     style: "color:black; background-color:lightgrey "
   },{
-    content: "Mika",
+    content: "Mika [L Bluefes]",
     start: "2025-01-23T02:00:00.000Z",
     end: "2025-01-30T02:00:00.000Z",
     group: "G Gacha",
