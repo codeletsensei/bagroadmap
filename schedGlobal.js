@@ -125,6 +125,13 @@ confirmed = [
     group: "G Maint",
     subgroup: "",
     style: "color:red; background-color:red; height:15px"
+  },{
+    content: "EOS",
+    start: "2025-01-23T02:00:00.000Z",
+    end: "2025-01-23T08:00:00.000Z",
+    group: "G Maint",
+    subgroup: "",
+    style: "color:red; background-color:red; height:15px"
   },
 //
 // GASHA
@@ -1031,7 +1038,28 @@ confirmed = [
     start: "2025-01-14T02:00:00.000Z",
     end: "2025-01-20T19:00:00.000Z",
     group: "G Raid",
+    subgroup: "GA",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[TA] Perorodzilla Outdoors",
+    start: "2025-01-28T02:00:00.000Z",
+    end: "2025-02-03T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "TA",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[JFD] Breakthrough Blue Urban. Healing scarecrow damages everyone.",
+    start: "2025-02-04T02:00:00.000Z",
+    end: "2025-02-10T19:00:00.000Z",
+    group: "G Raid",
     subgroup: "JFD",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[GA] Goz Outdoors (Yellow Tor + Red/Blue) (end date not confirmed)",
+    start: "2025-02-11T02:00:00.000Z",
+    end: "2025-02-17T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "GA",
     style: "color:black; background-color:pink "
   },
 // CAMPAIGNS
