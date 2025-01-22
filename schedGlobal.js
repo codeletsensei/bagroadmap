@@ -778,9 +778,9 @@ confirmed = [
     subgroup: "Event",
     style: "color:black; background-color:yellow"
   },{
-    content: "[Login] Arona's Special Bonus (end date unconfirmed?)",
+    content: "[Login] Go, Go, Sensei! Arona's Special Bonus!",
     start: "2025-01-23T02:00:00.000Z",
-    end: "2025-02-18T02:00:00.000Z",
+    end: "2025-02-22T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
@@ -1041,6 +1041,13 @@ confirmed = [
     subgroup: "GA",
     style: "color:black; background-color:pink "
   },{
+    content: "[LBA] The Fury of Set Blue",
+    start: "2025-01-24T02:00:00.000Z",
+    end: "2025-02-18T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "LBA",
+    style: "color:black; background-color:pink "
+  },{
     content: "[TA] Perorodzilla Outdoors",
     start: "2025-01-28T02:00:00.000Z",
     end: "2025-02-03T19:00:00.000Z",
@@ -1055,7 +1062,7 @@ confirmed = [
     subgroup: "JFD",
     style: "color:black; background-color:pink "
   },{
-    content: "[GA] Goz Outdoors (Yellow Tor + Red/Blue) (end date not confirmed)",
+    content: "[GA] Goz Outdoors (Yellow Tor + Red/Blue)",
     start: "2025-02-11T02:00:00.000Z",
     end: "2025-02-17T19:00:00.000Z",
     group: "G Raid",
@@ -1492,6 +1499,70 @@ confirmed = [
     subgroup: "Campaign",
     style: "color:black; background-color:lightgreen "
   },
+  {
+    content: "<b>3x Hard</b>",
+    start: "2025-02-02T19:00:00.000Z",
+    end: "2025-02-05T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "<b>3x Scrimm/Bounty/Lesson</b>",
+    start: "2025-02-05T19:00:00.000Z",
+    end: "2025-02-12T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "<b>3x Comm</b>",
+    start: "2025-02-12T19:00:00.000Z",
+    end: "2025-02-17T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "<b>3x Normal</b>",
+    start: "2025-02-12T19:00:00.000Z",
+    end: "2025-02-15T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "<b>3x Hard</b>",
+    start: "2025-02-15T19:00:00.000Z",
+    end: "2025-02-17T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "<b>2x XP</b>",
+    start: "2025-01-31T19:00:00.000Z",
+    end: "2025-02-02T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "<b>2x XP</b>",
+    start: "2025-02-07T19:00:00.000Z",
+    end: "2025-02-09T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "<b>2x XP</b>",
+    start: "2025-02-14T19:00:00.000Z",
+    end: "2025-02-16T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
 //
 // OTHER
 //
@@ -1662,13 +1733,41 @@ confirmed = [
     end: "2025-01-30T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
-    style: "color:black; background-color:lightblue"
+    style: "color:black; background-color:yellow"
   },{
     content: "[Main Story] V1C3 P5",
     start: "2025-01-23T02:00:00.000Z",
     end: "2025-02-06T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
+    style: "color:black; background-color:yellow"
+  },{
+    content: "[QoL] T5 Gear drop buff",
+    start: "2025-01-23T02:00:00.000Z",
+    end: "2025-02-06T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
     style: "color:black; background-color:lightblue"
+  },{
+    content: "[QoL] Mission multi sweep",
+    start: "2025-01-23T02:00:00.000Z",
+    end: "2025-02-06T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
+  },{
+    content: "[PVP Shop] Miyako",
+    start: "2025-01-31T02:00:00.000Z",
+    end: "2025-02-13T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
+  },{
+    content: "[TA Shop] Chihiro, purple coins",
+    start: "2025-01-31T02:00:00.000Z",
+    end: "2025-02-13T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightgrey"
   },
 ]
