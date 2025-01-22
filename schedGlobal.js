@@ -1742,14 +1742,7 @@ confirmed = [
     subgroup: "Other",
     style: "color:black; background-color:yellow"
   },{
-    content: "[QoL] T5 Gear drop buff",
-    start: "2025-01-23T02:00:00.000Z",
-    end: "2025-02-06T02:00:00.000Z",
-    group: "G Other",
-    subgroup: "Other",
-    style: "color:black; background-color:lightblue"
-  },{
-    content: "[QoL] Mission multi sweep",
+    content: "[QoL] T5 Gear drop buff, multi sweep, EX target indicator, Pause menu shows (de)buffs, \"Select All\" option in the Normal and PVP shops",
     start: "2025-01-23T02:00:00.000Z",
     end: "2025-02-06T02:00:00.000Z",
     group: "G Other",
