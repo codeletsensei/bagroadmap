@@ -13858,7 +13858,7 @@ jpSched = [
 		"title":"[GA Shop] Kaede, on shop reset<br>G: 2025-07-31 19:00 ~ 2025-08-13 19:00 13d (UTC y-m-d)<br>Jp: 2025-02-01 04:00 ~ 2025-02-14 04:00 13d (JST y-m-d)",
 		"duration":13},
 	{
-		"content":"[Mission] Area 28 (Misaki + T10)",
+		"content":"[Mission] Area 28 (T10 ?+ Misaki?)",
 		"start":"2025-08-03T02:00",
 		"startJp":"2025-02-03T11:00",
 		"end":"2025-08-16T19:00",
@@ -13868,7 +13868,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-08-16T19:00",
 		"startG":"2025-08-03T02:00",
-		"title":"[Mission] Area 28 (Misaki + T10)<br>G: 2025-08-03 02:00 ~ 2025-08-16 19:00 14d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 ~ 2025-02-17 04:00 14d (JST y-m-d)",
+		"title":"[Mission] Area 28 (T10 ?+ Misaki?)<br>G: 2025-08-03 02:00 ~ 2025-08-16 19:00 14d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 ~ 2025-02-17 04:00 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Story] Vol.EX: Decagrammaton Ch.2 P2",

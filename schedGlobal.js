@@ -1750,8 +1750,8 @@ confirmed = [
     style: "color:black; background-color:lightblue"
   },{
     content: "[PVP Shop] Miyako",
-    start: "2025-01-31T02:00:00.000Z",
-    end: "2025-02-13T02:00:00.000Z",
+    start: "2025-01-23T02:00:00.000Z",
+    end: "2025-02-06T02:00:00.000Z",
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
