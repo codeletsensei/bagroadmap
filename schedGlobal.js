@@ -1540,6 +1540,22 @@ confirmed = [
     style: "color:black; background-color:lightgreen "
   },
   {
+    content: "<b>2x Bounty</b>",
+    start: "2025-02-17T19:00:00.000Z",
+    end: "2025-02-24T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
+    content: "<b>2x Comm</b>",
+    start: "2025-02-24T19:00:00.000Z",
+    end: "2025-03-03T19:00:00.000Z",
+    group: "G Camp",
+    subgroup: "Campaign",
+    style: "color:black; background-color:lightgreen "
+  },
+  {
     content: "<b>2x XP</b>",
     start: "2025-01-31T19:00:00.000Z",
     end: "2025-02-02T19:00:00.000Z",
