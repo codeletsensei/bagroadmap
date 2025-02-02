@@ -10,7 +10,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2021-09-08T02:00",
 		"startG":"2021-08-25T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ouka_ranman\" title=\"Ouka ranman\">Cherry Blossom Festival Commotion! ~Flowers in the Sky, Ninja on the Ground~</a><br>G: 2021-08-25 02:00 ~ 2021-09-08 02:00 14d (UTC y-m-d)<br>Jp: 2021-02-25 11:00 ~ 2021-03-11 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ouka_ranman\" title=\"Ouka ranman\">Cherry Blossom Festival Commotion! ~Flowers in the Sky, Ninja on the Ground~</a><br>G: 2021-08-25 02:00 Wed ~ 2021-09-08 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-02-25 11:00 Thu ~ 2021-03-11 11:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ivan_Kupala\" title=\"Ivan Kupala\">Revolutionary Ivan Kupala: Moustache, Pudding and Red Winter</a>",
@@ -23,7 +23,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2021-11-10T02:00",
 		"startG":"2021-10-27T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ivan_Kupala\" title=\"Ivan Kupala\">Revolutionary Ivan Kupala: Moustache, Pudding and Red Winter</a><br>G: 2021-10-27 02:00 ~ 2021-11-10 02:00 14d (UTC y-m-d)<br>Jp: 2021-04-29 11:00 ~ 2021-05-13 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ivan_Kupala\" title=\"Ivan Kupala\">Revolutionary Ivan Kupala: Moustache, Pudding and Red Winter</a><br>G: 2021-10-27 02:00 Wed ~ 2021-11-10 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-04-29 11:00 Thu ~ 2021-05-13 11:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Sky%27s_Wishlist\" title=\"Summer Sky's Wishlist\">Summer Sky's Wishlist</a>",
@@ -36,7 +36,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-01-12T02:00",
 		"startG":"2021-12-28T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Sky%27s_Wishlist\" title=\"Summer Sky's Wishlist\">Summer Sky's Wishlist</a><br>G: 2021-12-28 02:00 ~ 2022-01-12 02:00 15d (UTC y-m-d)<br>Jp: 2021-06-30 11:00 ~ 2021-07-15 11:00 15d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Sky%27s_Wishlist\" title=\"Summer Sky's Wishlist\">Summer Sky's Wishlist</a><br>G: 2021-12-28 02:00 Tue ~ 2022-01-12 02:00 Wed 15d (UTC y-m-d)<br>Jp: 2021-06-30 11:00 Wed ~ 2021-07-15 11:00 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/President_Hina%27s_Summer_Vacation\" title=\"President Hina's Summer Vacation\">～Emergency Special Order of the Disciplinary committee Officer～ President Hina's Summer Vacation!</a>",
@@ -49,7 +49,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-02-09T02:00",
 		"startG":"2022-01-26T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/President_Hina%27s_Summer_Vacation\" title=\"President Hina's Summer Vacation\">～Emergency Special Order of the Disciplinary committee Officer～ President Hina's Summer Vacation!</a><br>G: 2022-01-26 02:00 ~ 2022-02-09 02:00 14d (UTC y-m-d)<br>Jp: 2021-07-29 11:00 ~ 2021-08-12 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/President_Hina%27s_Summer_Vacation\" title=\"President Hina's Summer Vacation\">～Emergency Special Order of the Disciplinary committee Officer～ President Hina's Summer Vacation!</a><br>G: 2022-01-26 02:00 Wed ~ 2022-02-09 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-07-29 11:00 Thu ~ 2021-08-12 11:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Catch_in_Neverland\" title=\"Catch in Neverland\">Catch in Neverland</a>",
@@ -62,7 +62,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-03-09T02:00",
 		"startG":"2022-02-23T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Catch_in_Neverland\" title=\"Catch in Neverland\">Catch in Neverland</a><br>G: 2022-02-23 02:00 ~ 2022-03-09 02:00 14d (UTC y-m-d)<br>Jp: 2021-08-26 11:00 ~ 2021-09-09 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Catch_in_Neverland\" title=\"Catch in Neverland\">Catch in Neverland</a><br>G: 2022-02-23 02:00 Wed ~ 2022-03-09 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-08-26 11:00 Thu ~ 2021-09-09 11:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Bunny_Chaser_Aboard\" title=\"Bunny Chaser Aboard\">Bunny Chaser Aboard</a>",
@@ -75,7 +75,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-04-11T02:00",
 		"startG":"2022-03-29T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Bunny_Chaser_Aboard\" title=\"Bunny Chaser Aboard\">Bunny Chaser Aboard</a><br>G: 2022-03-29 02:00 ~ 2022-04-11 02:00 13d (UTC y-m-d)<br>Jp: 2021-09-29 11:00 ~ 2021-10-12 11:00 13d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Bunny_Chaser_Aboard\" title=\"Bunny Chaser Aboard\">Bunny Chaser Aboard</a><br>G: 2022-03-29 02:00 Tue ~ 2022-04-11 02:00 Mon 13d (UTC y-m-d)<br>Jp: 2021-09-29 11:00 Wed ~ 2021-10-12 11:00 Tue 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a>",
@@ -88,7 +88,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-05-24T02:00",
 		"startG":"2022-05-09T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a><br>G: 2022-05-09 02:00 ~ 2022-05-24 02:00 15d (UTC y-m-d)<br>Jp: 2021-11-09 11:00 ~ 2021-11-24 11:00 15d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a><br>G: 2022-05-09 02:00 Mon ~ 2022-05-24 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2021-11-09 11:00 Tue ~ 2021-11-24 11:00 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Operation_record_of_No._227_Hot_Spring_Resort\" title=\"Operation record of No. 227 Hot Spring Resort\">Operation record of No. 227 Hot Spring Resort ~ Warmth in a Snowy Landscape ~</a>",
@@ -101,7 +101,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-06-14T02:00",
 		"startG":"2022-05-30T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Operation_record_of_No._227_Hot_Spring_Resort\" title=\"Operation record of No. 227 Hot Spring Resort\">Operation record of No. 227 Hot Spring Resort ~ Warmth in a Snowy Landscape ~</a><br>G: 2022-05-30 02:00 ~ 2022-06-14 02:00 15d (UTC y-m-d)<br>Jp: 2021-11-30 11:00 ~ 2021-12-15 11:00 15d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Operation_record_of_No._227_Hot_Spring_Resort\" title=\"Operation record of No. 227 Hot Spring Resort\">Operation record of No. 227 Hot Spring Resort ~ Warmth in a Snowy Landscape ~</a><br>G: 2022-05-30 02:00 Mon ~ 2022-06-14 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2021-11-30 11:00 Tue ~ 2021-12-15 11:00 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/New_Years%27_Rhapsody_No._68\" title=\"New Years' Rhapsody No. 68\">New Years' Rhapsody No. 68</a>",
@@ -114,7 +114,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-07-12T02:00",
 		"startG":"2022-06-28T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/New_Years%27_Rhapsody_No._68\" title=\"New Years' Rhapsody No. 68\">New Years' Rhapsody No. 68</a><br>G: 2022-06-28 02:00 ~ 2022-07-12 02:00 14d (UTC y-m-d)<br>Jp: 2021-12-29 11:00 ~ 2022-01-12 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/New_Years%27_Rhapsody_No._68\" title=\"New Years' Rhapsody No. 68\">New Years' Rhapsody No. 68</a><br>G: 2022-06-28 02:00 Tue ~ 2022-07-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2021-12-29 11:00 Wed ~ 2022-01-12 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Happy_Schale_%E2%99%A1_Valentine_patrol\" title=\"Happy Schale ♡ Valentine patrol\">Happy Schale ♡ Valentine patrol / Silence and feast of Kosaka Wakamo</a>",
@@ -127,7 +127,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-08-09T02:00",
 		"startG":"2022-07-26T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Happy_Schale_%E2%99%A1_Valentine_patrol\" title=\"Happy Schale ♡ Valentine patrol\">Happy Schale ♡ Valentine patrol / Silence and feast of Kosaka Wakamo</a><br>G: 2022-07-26 02:00 ~ 2022-08-09 02:00 14d (UTC y-m-d)<br>Jp: 2022-01-26 11:00 ~ 2022-02-09 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Happy_Schale_%E2%99%A1_Valentine_patrol\" title=\"Happy Schale ♡ Valentine patrol\">Happy Schale ♡ Valentine patrol / Silence and feast of Kosaka Wakamo</a><br>G: 2022-07-26 02:00 Tue ~ 2022-08-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-01-26 11:00 Wed ~ 2022-02-09 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ouka_ranman/Rerun\" title=\"Ouka ranman/Rerun\">(Rerun) Cherry Blossom Festival Commotion! ~Flowers in the Sky, Ninja on the Ground~</a>",
@@ -140,7 +140,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-08-16T02:00",
 		"startG":"2022-08-09T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ouka_ranman/Rerun\" title=\"Ouka ranman/Rerun\">(Rerun) Cherry Blossom Festival Commotion! ~Flowers in the Sky, Ninja on the Ground~</a><br>G: 2022-08-09 02:00 ~ 2022-08-16 02:00 7d (UTC y-m-d)<br>Jp: 2022-02-09 11:00 ~ 2022-02-16 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ouka_ranman/Rerun\" title=\"Ouka ranman/Rerun\">(Rerun) Cherry Blossom Festival Commotion! ~Flowers in the Sky, Ninja on the Ground~</a><br>G: 2022-08-09 02:00 Tue ~ 2022-08-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-02-09 11:00 Wed ~ 2022-02-16 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Slapstick_Sister_and_Magician_of_the_Old_Bookstore\" title=\"Slapstick Sister and Magician of the Old Bookstore\">Slapstick Sister and Magician of the Old Bookstore</a>",
@@ -153,7 +153,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-09-06T02:00",
 		"startG":"2022-08-23T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Slapstick_Sister_and_Magician_of_the_Old_Bookstore\" title=\"Slapstick Sister and Magician of the Old Bookstore\">Slapstick Sister and Magician of the Old Bookstore</a><br>G: 2022-08-23 02:00 ~ 2022-09-06 02:00 14d (UTC y-m-d)<br>Jp: 2022-02-23 11:00 ~ 2022-03-09 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Slapstick_Sister_and_Magician_of_the_Old_Bookstore\" title=\"Slapstick Sister and Magician of the Old Bookstore\">Slapstick Sister and Magician of the Old Bookstore</a><br>G: 2022-08-23 02:00 Tue ~ 2022-09-06 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-02-23 11:00 Wed ~ 2022-03-09 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ivan_Kupala/Rerun\" title=\"Ivan Kupala/Rerun\">(Rerun) Revolutionary Ivan Kupala: Moustache, Pudding and Red Winter</a>",
@@ -166,7 +166,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-09-13T02:00",
 		"startG":"2022-09-06T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ivan_Kupala/Rerun\" title=\"Ivan Kupala/Rerun\">(Rerun) Revolutionary Ivan Kupala: Moustache, Pudding and Red Winter</a><br>G: 2022-09-06 02:00 ~ 2022-09-13 02:00 7d (UTC y-m-d)<br>Jp: 2022-03-09 11:00 ~ 2022-03-16 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ivan_Kupala/Rerun\" title=\"Ivan Kupala/Rerun\">(Rerun) Revolutionary Ivan Kupala: Moustache, Pudding and Red Winter</a><br>G: 2022-09-06 02:00 Tue ~ 2022-09-13 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-03-09 11:00 Wed ~ 2022-03-16 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Sky%27s_Wishlist/Rerun\" title=\"Summer Sky's Wishlist/Rerun\">(Rerun) Summer Sky's Wishlist</a>",
@@ -179,7 +179,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-10-25T02:00",
 		"startG":"2022-10-18T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Sky%27s_Wishlist/Rerun\" title=\"Summer Sky's Wishlist/Rerun\">(Rerun) Summer Sky's Wishlist</a><br>G: 2022-10-18 02:00 ~ 2022-10-25 02:00 7d (UTC y-m-d)<br>Jp: 2022-04-20 11:00 ~ 2022-04-27 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Sky%27s_Wishlist/Rerun\" title=\"Summer Sky's Wishlist/Rerun\">(Rerun) Summer Sky's Wishlist</a><br>G: 2022-10-18 02:00 Tue ~ 2022-10-25 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-04-20 11:00 Wed ~ 2022-04-27 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Unconcealed_Heart\" title=\"An Unconcealed Heart\">An Unconcealed Heart</a>",
@@ -192,7 +192,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-11-08T02:00",
 		"startG":"2022-10-25T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Unconcealed_Heart\" title=\"An Unconcealed Heart\">An Unconcealed Heart</a><br>G: 2022-10-25 02:00 ~ 2022-11-08 02:00 14d (UTC y-m-d)<br>Jp: 2022-04-27 11:00 ~ 2022-05-11 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Unconcealed_Heart\" title=\"An Unconcealed Heart\">An Unconcealed Heart</a><br>G: 2022-10-25 02:00 Tue ~ 2022-11-08 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-04-27 11:00 Wed ~ 2022-05-11 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a>",
@@ -205,7 +205,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-12-20T02:00",
 		"startG":"2022-12-06T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a><br>G: 2022-12-06 02:00 ~ 2022-12-20 02:00 14d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 ~ 2022-06-22 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a><br>G: 2022-12-06 02:00 Tue ~ 2022-12-20 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 Wed ~ 2022-06-22 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Abydos_Resort_Restoration_Committee\" title=\"Abydos Resort Restoration Committee\">Abydos Resort Restoration Committee</a>",
@@ -218,7 +218,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-01-03T02:00",
 		"startG":"2022-12-20T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Abydos_Resort_Restoration_Committee\" title=\"Abydos Resort Restoration Committee\">Abydos Resort Restoration Committee</a><br>G: 2022-12-20 02:00 ~ 2023-01-03 02:00 14d (UTC y-m-d)<br>Jp: 2022-06-22 11:00 ~ 2022-07-06 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Abydos_Resort_Restoration_Committee\" title=\"Abydos Resort Restoration Committee\">Abydos Resort Restoration Committee</a><br>G: 2022-12-20 02:00 Tue ~ 2023-01-03 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-06-22 11:00 Wed ~ 2022-07-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Abydos_Resort_Restoration_Committee\" title=\"Abydos Resort Restoration Committee\">Abydos Resort Restoration Committee</a>",
@@ -231,7 +231,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-01-03T02:00",
 		"startG":"2022-12-20T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Abydos_Resort_Restoration_Committee\" title=\"Abydos Resort Restoration Committee\">Abydos Resort Restoration Committee</a><br>G: 2022-12-20 02:00 ~ 2023-01-03 02:00 14d (UTC y-m-d)<br>Jp: 2022-06-22 11:00 ~ 2022-07-06 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Abydos_Resort_Restoration_Committee\" title=\"Abydos Resort Restoration Committee\">Abydos Resort Restoration Committee</a><br>G: 2022-12-20 02:00 Tue ~ 2023-01-03 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-06-22 11:00 Wed ~ 2022-07-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a>",
@@ -244,7 +244,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-01-17T02:00",
 		"startG":"2023-01-03T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a><br>G: 2023-01-03 02:00 ~ 2023-01-17 02:00 14d (UTC y-m-d)<br>Jp: 2022-07-06 11:00 ~ 2022-07-20 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a><br>G: 2023-01-03 02:00 Tue ~ 2023-01-17 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-07-06 11:00 Wed ~ 2022-07-20 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!\" title=\"Business Trip! The Momoyodou Beach House Franchise Plan!\">Business Trip! Momoyodou Beach House Franchise Plan!</a>",
@@ -257,7 +257,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-01-31T02:00",
 		"startG":"2023-01-11T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!\" title=\"Business Trip! The Momoyodou Beach House Franchise Plan!\">Business Trip! Momoyodou Beach House Franchise Plan!</a><br>G: 2023-01-11 02:00 ~ 2023-01-31 02:00 20d (UTC y-m-d)<br>Jp: 2022-07-14 11:00 ~ 2022-08-03 11:00 20d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!\" title=\"Business Trip! The Momoyodou Beach House Franchise Plan!\">Business Trip! Momoyodou Beach House Franchise Plan!</a><br>G: 2023-01-11 02:00 Wed ~ 2023-01-31 02:00 Tue 20d (UTC y-m-d)<br>Jp: 2022-07-14 11:00 Thu ~ 2022-08-03 11:00 Wed 20d (JST y-m-d)",
 		"duration":20},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/After_School_Sweets_Story:_Sweet_Secrets_and_Gun_Fights!\" title=\"After School Sweets Story: Sweet Secrets and Gun Fights!\">After School Sweets Story: Sweet Secrets and Gun Fights!</a>",
@@ -270,7 +270,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-03-07T02:00",
 		"startG":"2023-02-21T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/After_School_Sweets_Story:_Sweet_Secrets_and_Gun_Fights!\" title=\"After School Sweets Story: Sweet Secrets and Gun Fights!\">After School Sweets Story: Sweet Secrets and Gun Fights!</a><br>G: 2023-02-21 02:00 ~ 2023-03-07 02:00 14d (UTC y-m-d)<br>Jp: 2022-08-24 11:00 ~ 2022-09-07 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/After_School_Sweets_Story:_Sweet_Secrets_and_Gun_Fights!\" title=\"After School Sweets Story: Sweet Secrets and Gun Fights!\">After School Sweets Story: Sweet Secrets and Gun Fights!</a><br>G: 2023-02-21 02:00 Tue ~ 2023-03-07 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-08-24 11:00 Wed ~ 2022-09-07 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/President_Hina%27s_Summer_Vacation/Rerun\" title=\"President Hina's Summer Vacation/Rerun\">～Emergency Special Order of the Disciplinary committee Officer～ President Hina's Summer Vacation!</a>",
@@ -283,7 +283,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-03-14T02:00",
 		"startG":"2023-03-07T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/President_Hina%27s_Summer_Vacation/Rerun\" title=\"President Hina's Summer Vacation/Rerun\">～Emergency Special Order of the Disciplinary committee Officer～ President Hina's Summer Vacation!</a><br>G: 2023-03-07 02:00 ~ 2023-03-14 02:00 7d (UTC y-m-d)<br>Jp: 2022-09-07 11:00 ~ 2022-09-14 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/President_Hina%27s_Summer_Vacation/Rerun\" title=\"President Hina's Summer Vacation/Rerun\">～Emergency Special Order of the Disciplinary committee Officer～ President Hina's Summer Vacation!</a><br>G: 2023-03-07 02:00 Tue ~ 2023-03-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-09-07 11:00 Wed ~ 2022-09-14 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Catch_in_Neverland/Rerun\" title=\"Catch in Neverland/Rerun\">Catch in Neverland</a>",
@@ -296,7 +296,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-03-28T02:00",
 		"startG":"2023-03-21T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Catch_in_Neverland/Rerun\" title=\"Catch in Neverland/Rerun\">Catch in Neverland</a><br>G: 2023-03-21 02:00 ~ 2023-03-28 02:00 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 ~ 2022-09-28 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Catch_in_Neverland/Rerun\" title=\"Catch in Neverland/Rerun\">Catch in Neverland</a><br>G: 2023-03-21 02:00 Tue ~ 2023-03-28 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 Wed ~ 2022-09-28 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/On_your_mark_@_Millennium\" title=\"On your mark @ Millennium\">On your mark @ Millennium ~ Kivotos Kourin Taisai ~</a>",
@@ -309,7 +309,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-04-11T02:00",
 		"startG":"2023-03-28T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/On_your_mark_@_Millennium\" title=\"On your mark @ Millennium\">On your mark @ Millennium ~ Kivotos Kourin Taisai ~</a><br>G: 2023-03-28 02:00 ~ 2023-04-11 02:00 14d (UTC y-m-d)<br>Jp: 2022-09-28 11:00 ~ 2022-10-12 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/On_your_mark_@_Millennium\" title=\"On your mark @ Millennium\">On your mark @ Millennium ~ Kivotos Kourin Taisai ~</a><br>G: 2023-03-28 02:00 Tue ~ 2023-04-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-09-28 11:00 Wed ~ 2022-10-12 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Bunny_Chaser_Aboard/Rerun\" title=\"Bunny Chaser Aboard/Rerun\">Bunny Chaser Aboard</a>",
@@ -322,7 +322,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-04-18T02:00",
 		"startG":"2023-04-11T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Bunny_Chaser_Aboard/Rerun\" title=\"Bunny Chaser Aboard/Rerun\">Bunny Chaser Aboard</a><br>G: 2023-04-11 02:00 ~ 2023-04-18 02:00 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 ~ 2022-10-19 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Bunny_Chaser_Aboard/Rerun\" title=\"Bunny Chaser Aboard/Rerun\">Bunny Chaser Aboard</a><br>G: 2023-04-11 02:00 Tue ~ 2023-04-18 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 Wed ~ 2022-10-19 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Set,_Go!\" title=\"Get Set, Go!\">Get Set, Go! ~ Kivotos Halo Festival ~</a>",
@@ -335,7 +335,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-05-09T02:00",
 		"startG":"2023-04-25T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Set,_Go!\" title=\"Get Set, Go!\">Get Set, Go! ~ Kivotos Halo Festival ~</a><br>G: 2023-04-25 02:00 ~ 2023-05-09 02:00 14d (UTC y-m-d)<br>Jp: 2022-10-26 11:00 ~ 2022-11-09 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Set,_Go!\" title=\"Get Set, Go!\">Get Set, Go! ~ Kivotos Halo Festival ~</a><br>G: 2023-04-25 02:00 Tue ~ 2023-05-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-10-26 11:00 Wed ~ 2022-11-09 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a>",
@@ -348,7 +348,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-05-30T02:00",
 		"startG":"2023-05-16T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a><br>G: 2023-05-16 02:00 ~ 2023-05-30 02:00 14d (UTC y-m-d)<br>Jp: 2022-11-16 11:00 ~ 2022-11-30 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a><br>G: 2023-05-16 02:00 Tue ~ 2023-05-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-11-16 11:00 Wed ~ 2022-11-30 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Operation_record_of_No._227_Hot_Spring_Resort/Rerun\" title=\"Operation record of No. 227 Hot Spring Resort/Rerun\">Operation record of No. 227 Hot Spring Resort</a>",
@@ -361,7 +361,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-06-06T02:00",
 		"startG":"2023-05-30T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Operation_record_of_No._227_Hot_Spring_Resort/Rerun\" title=\"Operation record of No. 227 Hot Spring Resort/Rerun\">Operation record of No. 227 Hot Spring Resort</a><br>G: 2023-05-30 02:00 ~ 2023-06-06 02:00 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 ~ 2022-12-07 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Operation_record_of_No._227_Hot_Spring_Resort/Rerun\" title=\"Operation record of No. 227 Hot Spring Resort/Rerun\">Operation record of No. 227 Hot Spring Resort</a><br>G: 2023-05-30 02:00 Tue ~ 2023-06-06 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 Wed ~ 2022-12-07 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Cathedral%27s_Merry_Christmas\" title=\"The Cathedral's Merry Christmas\">The Cathedral's Merry Christmas ~ Rescue Knights' Gift ~</a>",
@@ -374,7 +374,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-06-27T02:00",
 		"startG":"2023-06-13T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Cathedral%27s_Merry_Christmas\" title=\"The Cathedral's Merry Christmas\">The Cathedral's Merry Christmas ~ Rescue Knights' Gift ~</a><br>G: 2023-06-13 02:00 ~ 2023-06-27 02:00 14d (UTC y-m-d)<br>Jp: 2022-12-14 11:00 ~ 2022-12-28 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Cathedral%27s_Merry_Christmas\" title=\"The Cathedral's Merry Christmas\">The Cathedral's Merry Christmas ~ Rescue Knights' Gift ~</a><br>G: 2023-06-13 02:00 Tue ~ 2023-06-27 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-12-14 11:00 Wed ~ 2022-12-28 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/A_Game_Before_the_New_Year%27s_Feast_~_One-and-Done_Match_~\" title=\"A Game Before the New Year's Feast ~ One-and-Done Match ~\">A Game Before the New Year's Feast ~ One-and-Done Match ~</a>",
@@ -387,7 +387,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-07-11T02:00",
 		"startG":"2023-06-27T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/A_Game_Before_the_New_Year%27s_Feast_~_One-and-Done_Match_~\" title=\"A Game Before the New Year's Feast ~ One-and-Done Match ~\">A Game Before the New Year's Feast ~ One-and-Done Match ~</a><br>G: 2023-06-27 02:00 ~ 2023-07-11 02:00 14d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 ~ 2023-01-11 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/A_Game_Before_the_New_Year%27s_Feast_~_One-and-Done_Match_~\" title=\"A Game Before the New Year's Feast ~ One-and-Done Match ~\">A Game Before the New Year's Feast ~ One-and-Done Match ~</a><br>G: 2023-06-27 02:00 Tue ~ 2023-07-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 Wed ~ 2023-01-11 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Happy_Schale_%E2%99%A1_Valentine_patrol/Rerun\" title=\"Happy Schale ♡ Valentine patrol/Rerun\">Happy Schale ♡ Valentine patrol / Silence and feast of Kosaka Wakamo</a>",
@@ -400,7 +400,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-07-24T02:00",
 		"startG":"2023-07-11T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Happy_Schale_%E2%99%A1_Valentine_patrol/Rerun\" title=\"Happy Schale ♡ Valentine patrol/Rerun\">Happy Schale ♡ Valentine patrol / Silence and feast of Kosaka Wakamo</a><br>G: 2023-07-11 02:00 ~ 2023-07-24 02:00 13d (UTC y-m-d)<br>Jp: 2023-01-11 11:00 ~ 2023-01-24 11:00 13d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Happy_Schale_%E2%99%A1_Valentine_patrol/Rerun\" title=\"Happy Schale ♡ Valentine patrol/Rerun\">Happy Schale ♡ Valentine patrol / Silence and feast of Kosaka Wakamo</a><br>G: 2023-07-11 02:00 Tue ~ 2023-07-24 02:00 Mon 13d (UTC y-m-d)<br>Jp: 2023-01-11 11:00 Wed ~ 2023-01-24 11:00 Tue 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/F.SCT_Battle_Operation\" title=\"F.SCT Battle Operation\">F.SCT Battle Operation</a>",
@@ -413,7 +413,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-08-22T02:00",
 		"startG":"2023-07-24T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/F.SCT_Battle_Operation\" title=\"F.SCT Battle Operation\">F.SCT Battle Operation</a><br>G: 2023-07-24 02:00 ~ 2023-08-22 02:00 29d (UTC y-m-d)<br>Jp: 2023-01-24 11:00 ~ 2023-02-22 11:00 29d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/F.SCT_Battle_Operation\" title=\"F.SCT Battle Operation\">F.SCT Battle Operation</a><br>G: 2023-07-24 02:00 Mon ~ 2023-08-22 02:00 Tue 29d (UTC y-m-d)<br>Jp: 2023-01-24 11:00 Tue ~ 2023-02-22 11:00 Wed 29d (JST y-m-d)",
 		"duration":29},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Slapstick_Sister_and_Magician_of_the_Old_Bookstore/Rerun\" title=\"Slapstick Sister and Magician of the Old Bookstore/Rerun\">Slapstick Sister and Magician of the Old Bookstore</a>",
@@ -426,7 +426,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-08-22T02:00",
 		"startG":"2023-08-10T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Slapstick_Sister_and_Magician_of_the_Old_Bookstore/Rerun\" title=\"Slapstick Sister and Magician of the Old Bookstore/Rerun\">Slapstick Sister and Magician of the Old Bookstore</a><br>G: 2023-08-10 02:00 ~ 2023-08-22 02:00 12d (UTC y-m-d)<br>Jp: 2023-02-10 11:00 ~ 2023-02-22 11:00 12d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Slapstick_Sister_and_Magician_of_the_Old_Bookstore/Rerun\" title=\"Slapstick Sister and Magician of the Old Bookstore/Rerun\">Slapstick Sister and Magician of the Old Bookstore</a><br>G: 2023-08-10 02:00 Thu ~ 2023-08-22 02:00 Tue 12d (UTC y-m-d)<br>Jp: 2023-02-10 11:00 Fri ~ 2023-02-22 11:00 Wed 12d (JST y-m-d)",
 		"duration":12},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/A-H.A_Conquest\" title=\"A-H.A Conquest\">A-H.A Conquest</a>",
@@ -439,7 +439,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-09-05T02:00",
 		"startG":"2023-08-22T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/A-H.A_Conquest\" title=\"A-H.A Conquest\">A-H.A Conquest</a><br>G: 2023-08-22 02:00 ~ 2023-09-05 02:00 14d (UTC y-m-d)<br>Jp: 2023-02-22 11:00 ~ 2023-03-08 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/A-H.A_Conquest\" title=\"A-H.A Conquest\">A-H.A Conquest</a><br>G: 2023-08-22 02:00 Tue ~ 2023-09-05 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-02-22 11:00 Wed ~ 2023-03-08 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/PHT_Showdown\" title=\"PHT Showdown\">PHT Showdown</a>",
@@ -452,7 +452,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-09-19T02:00",
 		"startG":"2023-09-05T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/PHT_Showdown\" title=\"PHT Showdown\">PHT Showdown</a><br>G: 2023-09-05 02:00 ~ 2023-09-19 02:00 14d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 ~ 2023-03-22 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/PHT_Showdown\" title=\"PHT Showdown\">PHT Showdown</a><br>G: 2023-09-05 02:00 Tue ~ 2023-09-19 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 Wed ~ 2023-03-22 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Restoration_Project:_D.U._Shiratori_Ward\" title=\"Restoration Project: D.U. Shiratori Ward\">Restoration Project: D.U. Shiratori Ward</a>",
@@ -465,7 +465,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-09-19T02:00",
 		"startG":"2023-09-09T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Restoration_Project:_D.U._Shiratori_Ward\" title=\"Restoration Project: D.U. Shiratori Ward\">Restoration Project: D.U. Shiratori Ward</a><br>G: 2023-09-09 02:00 ~ 2023-09-19 02:00 10d (UTC y-m-d)<br>Jp: 2023-03-12 11:00 ~ 2023-03-22 11:00 10d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Restoration_Project:_D.U._Shiratori_Ward\" title=\"Restoration Project: D.U. Shiratori Ward\">Restoration Project: D.U. Shiratori Ward</a><br>G: 2023-09-09 02:00 Sat ~ 2023-09-19 02:00 Tue 10d (UTC y-m-d)<br>Jp: 2023-03-12 11:00 Sun ~ 2023-03-22 11:00 Wed 10d (JST y-m-d)",
 		"duration":10},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/New_Years%27_Rhapsody_No._68/Rerun\" title=\"New Years' Rhapsody No. 68/Rerun\">New Year's Rhapsody No. 68</a>",
@@ -478,7 +478,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-10-03T02:00",
 		"startG":"2023-09-19T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/New_Years%27_Rhapsody_No._68/Rerun\" title=\"New Years' Rhapsody No. 68/Rerun\">New Year's Rhapsody No. 68</a><br>G: 2023-09-19 02:00 ~ 2023-10-03 02:00 14d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 ~ 2023-04-05 11:00 14d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/New_Years%27_Rhapsody_No._68/Rerun\" title=\"New Years' Rhapsody No. 68/Rerun\">New Year's Rhapsody No. 68</a><br>G: 2023-09-19 02:00 Tue ~ 2023-10-03 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 Wed ~ 2023-04-05 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Unconcealed_Heart/Rerun\" title=\"An Unconcealed Heart/Rerun\">An Unconcealed Heart</a>",
@@ -491,7 +491,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-10-17T02:00",
 		"startG":"2023-10-10T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Unconcealed_Heart/Rerun\" title=\"An Unconcealed Heart/Rerun\">An Unconcealed Heart</a><br>G: 2023-10-10 02:00 ~ 2023-10-17 02:00 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 ~ 2023-04-19 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Unconcealed_Heart/Rerun\" title=\"An Unconcealed Heart/Rerun\">An Unconcealed Heart</a><br>G: 2023-10-10 02:00 Tue ~ 2023-10-17 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 Wed ~ 2023-04-19 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Alabaster_Calling_Card_~_Mansion_Masquerade_and_the_Essence_of_Beauty_~\" title=\"Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~\">Alabaster Calling Card ~Mansion Masquerade and the Essence of Beauty~</a>",
@@ -504,7 +504,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-11-07T02:00",
 		"startG":"2023-10-24T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Alabaster_Calling_Card_~_Mansion_Masquerade_and_the_Essence_of_Beauty_~\" title=\"Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~\">Alabaster Calling Card ~Mansion Masquerade and the Essence of Beauty~</a><br>G: 2023-10-24 02:00 ~ 2023-11-07 02:00 14d (UTC y-m-d)<br>Jp: 2023-04-26 11:00 ~ 2023-05-10 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Alabaster_Calling_Card_~_Mansion_Masquerade_and_the_Essence_of_Beauty_~\" title=\"Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~\">Alabaster Calling Card ~Mansion Masquerade and the Essence of Beauty~</a><br>G: 2023-10-24 02:00 Tue ~ 2023-11-07 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-04-26 11:00 Wed ~ 2023-05-10 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/After_School_Sweets_Story:_Sweet_Secrets_and_Gun_Fights!/Rerun\" title=\"After School Sweets Story: Sweet Secrets and Gun Fights!/Rerun\">After School Sweets Story: Sweet Secrets and Gun Fights!</a>",
@@ -517,7 +517,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-11-14T02:00",
 		"startG":"2023-11-07T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/After_School_Sweets_Story:_Sweet_Secrets_and_Gun_Fights!/Rerun\" title=\"After School Sweets Story: Sweet Secrets and Gun Fights!/Rerun\">After School Sweets Story: Sweet Secrets and Gun Fights!</a><br>G: 2023-11-07 02:00 ~ 2023-11-14 02:00 7d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 ~ 2023-05-17 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/After_School_Sweets_Story:_Sweet_Secrets_and_Gun_Fights!/Rerun\" title=\"After School Sweets Story: Sweet Secrets and Gun Fights!/Rerun\">After School Sweets Story: Sweet Secrets and Gun Fights!</a><br>G: 2023-11-07 02:00 Tue ~ 2023-11-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 Wed ~ 2023-05-17 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Dragon_%26_Tortoise_~_Working_Together_for_a_Better_Future_~\" title=\"Dragon &amp; Tortoise ~ Working Together for a Better Future ~\">Dragon &amp; Tortoise ~ Working Together for a Better Future ~</a>",
@@ -530,7 +530,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-12-05T02:00",
 		"startG":"2023-11-21T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Dragon_%26_Tortoise_~_Working_Together_for_a_Better_Future_~\" title=\"Dragon &amp; Tortoise ~ Working Together for a Better Future ~\">Dragon &amp; Tortoise ~ Working Together for a Better Future ~</a><br>G: 2023-11-21 02:00 ~ 2023-12-05 02:00 14d (UTC y-m-d)<br>Jp: 2023-05-24 11:00 ~ 2023-06-07 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Dragon_%26_Tortoise_~_Working_Together_for_a_Better_Future_~\" title=\"Dragon &amp; Tortoise ~ Working Together for a Better Future ~\">Dragon &amp; Tortoise ~ Working Together for a Better Future ~</a><br>G: 2023-11-21 02:00 Tue ~ 2023-12-05 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-05-24 11:00 Wed ~ 2023-06-07 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Special_Operation!_RABBIT_Squad_and_the_Mystery_of_the_Missing_Shrimp\" title=\"Summer Special Operation! RABBIT Squad and the Mystery of the Missing Shrimp\">Summer Special Operation! RABBIT Squad and the Mystery of the Missing Shrimp</a>",
@@ -543,7 +543,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-01-02T02:00",
 		"startG":"2023-12-19T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Special_Operation!_RABBIT_Squad_and_the_Mystery_of_the_Missing_Shrimp\" title=\"Summer Special Operation! RABBIT Squad and the Mystery of the Missing Shrimp\">Summer Special Operation! RABBIT Squad and the Mystery of the Missing Shrimp</a><br>G: 2023-12-19 02:00 ~ 2024-01-02 02:00 14d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 ~ 2023-07-05 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Special_Operation!_RABBIT_Squad_and_the_Mystery_of_the_Missing_Shrimp\" title=\"Summer Special Operation! RABBIT Squad and the Mystery of the Missing Shrimp\">Summer Special Operation! RABBIT Squad and the Mystery of the Missing Shrimp</a><br>G: 2023-12-19 02:00 Tue ~ 2024-01-02 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 Wed ~ 2023-07-05 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Abydos_Resort_Restoration_Committee/Rerun\" title=\"Abydos Resort Restoration Committee/Rerun\">Abydos Resort Restoration Task Force</a>",
@@ -556,7 +556,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-01-21T02:00",
 		"startG":"2024-01-14T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Abydos_Resort_Restoration_Committee/Rerun\" title=\"Abydos Resort Restoration Committee/Rerun\">Abydos Resort Restoration Task Force</a><br>G: 2024-01-14 02:00 ~ 2024-01-21 02:00 7d (UTC y-m-d)<br>Jp: 2023-07-17 11:00 ~ 2023-07-24 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Abydos_Resort_Restoration_Committee/Rerun\" title=\"Abydos Resort Restoration Committee/Rerun\">Abydos Resort Restoration Task Force</a><br>G: 2024-01-14 02:00 Sun ~ 2024-01-21 02:00 Sun 7d (UTC y-m-d)<br>Jp: 2023-07-17 11:00 Mon ~ 2023-07-24 11:00 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/In_Search_of_a_Hidden_Heritage_~_Trinity%27s_Extracurricular_Activities_~\" title=\"In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~\">In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~</a>",
@@ -569,7 +569,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-02-06T02:00",
 		"startG":"2024-01-21T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/In_Search_of_a_Hidden_Heritage_~_Trinity%27s_Extracurricular_Activities_~\" title=\"In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~\">In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~</a><br>G: 2024-01-21 02:00 ~ 2024-02-06 02:00 16d (UTC y-m-d)<br>Jp: 2023-07-24 11:00 ~ 2023-08-09 11:00 16d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/In_Search_of_a_Hidden_Heritage_~_Trinity%27s_Extracurricular_Activities_~\" title=\"In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~\">In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~</a><br>G: 2024-01-21 02:00 Sun ~ 2024-02-06 02:00 Tue 16d (UTC y-m-d)<br>Jp: 2023-07-24 11:00 Mon ~ 2023-08-09 11:00 Wed 16d (JST y-m-d)",
 		"duration":16},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!/Rerun\" title=\"Business Trip! The Momoyodou Beach House Franchise Plan!/Rerun\">Business Trip! The Momoyodou Beach House Franchise Plan!</a>",
@@ -582,7 +582,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-02-20T02:00",
 		"startG":"2024-02-13T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!/Rerun\" title=\"Business Trip! The Momoyodou Beach House Franchise Plan!/Rerun\">Business Trip! The Momoyodou Beach House Franchise Plan!</a><br>G: 2024-02-13 02:00 ~ 2024-02-20 02:00 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 ~ 2023-08-23 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!/Rerun\" title=\"Business Trip! The Momoyodou Beach House Franchise Plan!/Rerun\">Business Trip! The Momoyodou Beach House Franchise Plan!</a><br>G: 2024-02-13 02:00 Tue ~ 2024-02-20 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 Wed ~ 2023-08-23 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Academy_Club%27s_Story_~_The_Two_Girls%27_Wish_for_the_Final_Volume_~\" title=\"An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~\">An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~</a>",
@@ -595,7 +595,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-03-05T02:00",
 		"startG":"2024-02-20T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Academy_Club%27s_Story_~_The_Two_Girls%27_Wish_for_the_Final_Volume_~\" title=\"An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~\">An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~</a><br>G: 2024-02-20 02:00 ~ 2024-03-05 02:00 14d (UTC y-m-d)<br>Jp: 2023-08-23 11:00 ~ 2023-09-06 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Academy_Club%27s_Story_~_The_Two_Girls%27_Wish_for_the_Final_Volume_~\" title=\"An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~\">An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~</a><br>G: 2024-02-20 02:00 Tue ~ 2024-03-05 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-08-23 11:00 Wed ~ 2023-09-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/On_your_mark_@_Millennium/Rerun\" title=\"On your mark @ Millennium/Rerun\">On your mark @ Millennium ~ Kivotos Kourin Taisai ~</a>",
@@ -608,7 +608,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-03-14T02:00",
 		"startG":"2024-03-05T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/On_your_mark_@_Millennium/Rerun\" title=\"On your mark @ Millennium/Rerun\">On your mark @ Millennium ~ Kivotos Kourin Taisai ~</a><br>G: 2024-03-05 02:00 ~ 2024-03-14 02:00 9d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 ~ 2023-09-15 11:00 9d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/On_your_mark_@_Millennium/Rerun\" title=\"On your mark @ Millennium/Rerun\">On your mark @ Millennium ~ Kivotos Kourin Taisai ~</a><br>G: 2024-03-05 02:00 Tue ~ 2024-03-14 02:00 Thu 9d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 Wed ~ 2023-09-15 11:00 Fri 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Set,_Go!/Rerun\" title=\"Get Set, Go!/Rerun\">Get Set, Go! Kivotos Halo Festival!</a>",
@@ -621,7 +621,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-03-26T02:00",
 		"startG":"2024-03-14T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Set,_Go!/Rerun\" title=\"Get Set, Go!/Rerun\">Get Set, Go! Kivotos Halo Festival!</a><br>G: 2024-03-14 02:00 ~ 2024-03-26 02:00 12d (UTC y-m-d)<br>Jp: 2023-09-15 11:00 ~ 2023-09-27 11:00 12d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Set,_Go!/Rerun\" title=\"Get Set, Go!/Rerun\">Get Set, Go! Kivotos Halo Festival!</a><br>G: 2024-03-14 02:00 Thu ~ 2024-03-26 02:00 Tue 12d (UTC y-m-d)<br>Jp: 2023-09-15 11:00 Fri ~ 2023-09-27 11:00 Wed 12d (JST y-m-d)",
 		"duration":12},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Trip-Trap-Train\" title=\"Trip-Trap-Train\">Trip-Trap-Train</a>",
@@ -634,7 +634,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-04-09T02:00",
 		"startG":"2024-03-26T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Trip-Trap-Train\" title=\"Trip-Trap-Train\">Trip-Trap-Train</a><br>G: 2024-03-26 02:00 ~ 2024-04-09 02:00 14d (UTC y-m-d)<br>Jp: 2023-09-27 11:00 ~ 2023-10-11 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Trip-Trap-Train\" title=\"Trip-Trap-Train\">Trip-Trap-Train</a><br>G: 2024-03-26 02:00 Tue ~ 2024-04-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-09-27 11:00 Wed ~ 2023-10-11 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a>",
@@ -647,7 +647,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-06-18T02:00",
 		"startG":"2024-06-04T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a><br>G: 2024-06-04 02:00 ~ 2024-06-18 02:00 14d (UTC y-m-d)<br>Jp: 2023-12-06 11:00 ~ 2023-12-20 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a><br>G: 2024-06-04 02:00 Tue ~ 2024-06-18 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-12-06 11:00 Wed ~ 2023-12-20 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/New_Year_March\" title=\"New Year March\">(Cyber) New Year March</a>",
@@ -660,7 +660,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-07-09T02:00",
 		"startG":"2024-06-25T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/New_Year_March\" title=\"New Year March\">(Cyber) New Year March</a><br>G: 2024-06-25 02:00 ~ 2024-07-09 02:00 14d (UTC y-m-d)<br>Jp: 2023-12-27 11:00 ~ 2024-01-10 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/New_Year_March\" title=\"New Year March\">(Cyber) New Year March</a><br>G: 2024-06-25 02:00 Tue ~ 2024-07-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-12-27 11:00 Wed ~ 2024-01-10 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sunshine_Girls%27_Serenade\" title=\"Sunshine Girls' Serenade\">Sunshine Girls' Serenade</a>",
@@ -673,7 +673,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-08-06T02:00",
 		"startG":"2024-07-23T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sunshine_Girls%27_Serenade\" title=\"Sunshine Girls' Serenade\">Sunshine Girls' Serenade</a><br>G: 2024-07-23 02:00 ~ 2024-08-06 02:00 14d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 ~ 2024-02-07 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sunshine_Girls%27_Serenade\" title=\"Sunshine Girls' Serenade\">Sunshine Girls' Serenade</a><br>G: 2024-07-23 02:00 Tue ~ 2024-08-06 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 Wed ~ 2024-02-07 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Cathedral%27s_Merry_Christmas/Rerun\" title=\"The Cathedral's Merry Christmas/Rerun\">The Cathedral's Merry Christmas ~ Rescue Knights' Gift ~</a>",
@@ -686,7 +686,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-08-13T02:00",
 		"startG":"2024-08-06T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Cathedral%27s_Merry_Christmas/Rerun\" title=\"The Cathedral's Merry Christmas/Rerun\">The Cathedral's Merry Christmas ~ Rescue Knights' Gift ~</a><br>G: 2024-08-06 02:00 ~ 2024-08-13 02:00 7d (UTC y-m-d)<br>Jp: 2024-02-07 11:00 ~ 2024-02-14 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Cathedral%27s_Merry_Christmas/Rerun\" title=\"The Cathedral's Merry Christmas/Rerun\">The Cathedral's Merry Christmas ~ Rescue Knights' Gift ~</a><br>G: 2024-08-06 02:00 Tue ~ 2024-08-13 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-02-07 11:00 Wed ~ 2024-02-14 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/0068_from_Opera_with_Love!\" title=\"0068 from Opera with Love!\">0068 from Opera with Love!</a>",
@@ -699,7 +699,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-09-03T02:00",
 		"startG":"2024-08-20T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/0068_from_Opera_with_Love!\" title=\"0068 from Opera with Love!\">0068 from Opera with Love!</a><br>G: 2024-08-20 02:00 ~ 2024-09-03 02:00 14d (UTC y-m-d)<br>Jp: 2024-02-21 11:00 ~ 2024-03-06 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/0068_from_Opera_with_Love!\" title=\"0068 from Opera with Love!\">0068 from Opera with Love!</a><br>G: 2024-08-20 02:00 Tue ~ 2024-09-03 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-02-21 11:00 Wed ~ 2024-03-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/A_Game_Before_the_New_Year%27s_Feast_~_One-and-Done_Match_~/Rerun\" title=\"A Game Before the New Year's Feast ~ One-and-Done Match ~/Rerun\">A Game Before the New Year's Feast ~ One-and-Done Match ~</a>",
@@ -712,7 +712,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-09-17T02:00",
 		"startG":"2024-09-03T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/A_Game_Before_the_New_Year%27s_Feast_~_One-and-Done_Match_~/Rerun\" title=\"A Game Before the New Year's Feast ~ One-and-Done Match ~/Rerun\">A Game Before the New Year's Feast ~ One-and-Done Match ~</a><br>G: 2024-09-03 02:00 ~ 2024-09-17 02:00 14d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 ~ 2024-03-20 11:00 14d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/A_Game_Before_the_New_Year%27s_Feast_~_One-and-Done_Match_~/Rerun\" title=\"A Game Before the New Year's Feast ~ One-and-Done Match ~/Rerun\">A Game Before the New Year's Feast ~ One-and-Done Match ~</a><br>G: 2024-09-03 02:00 Tue ~ 2024-09-17 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 Wed ~ 2024-03-20 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Hyped_and_March_On!\" title=\"Get Hyped and March On!\">Get Hyped and March On!</a>",
@@ -725,7 +725,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-10-09T02:00",
 		"startG":"2024-09-24T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Hyped_and_March_On!\" title=\"Get Hyped and March On!\">Get Hyped and March On!</a><br>G: 2024-09-24 02:00 ~ 2024-10-09 02:00 15d (UTC y-m-d)<br>Jp: 2024-03-27 11:00 ~ 2024-04-11 11:00 15d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Hyped_and_March_On!\" title=\"Get Hyped and March On!\">Get Hyped and March On!</a><br>G: 2024-09-24 02:00 Tue ~ 2024-10-09 02:00 Wed 15d (UTC y-m-d)<br>Jp: 2024-03-27 11:00 Wed ~ 2024-04-11 11:00 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/-ive_aLIVE!\" title=\"-ive aLIVE!\">-ive aLIVE!</a>",
@@ -738,7 +738,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-11-05T02:00",
 		"startG":"2024-10-22T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/-ive_aLIVE!\" title=\"-ive aLIVE!\">-ive aLIVE!</a><br>G: 2024-10-22 02:00 ~ 2024-11-05 02:00 14d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 ~ 2024-05-08 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/-ive_aLIVE!\" title=\"-ive aLIVE!\">-ive aLIVE!</a><br>G: 2024-10-22 02:00 Tue ~ 2024-11-05 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 Wed ~ 2024-05-08 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Dragon_%26_Tortoise_~_Working_Together_for_a_Better_Future_~/Rerun\" title=\"Dragon &amp; Tortoise ~ Working Together for a Better Future ~/Rerun\">Dragon &amp; Tortoise, Working Together for a Better Future</a>",
@@ -751,7 +751,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-11-19T02:00",
 		"startG":"2024-11-12T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Dragon_%26_Tortoise_~_Working_Together_for_a_Better_Future_~/Rerun\" title=\"Dragon &amp; Tortoise ~ Working Together for a Better Future ~/Rerun\">Dragon &amp; Tortoise, Working Together for a Better Future</a><br>G: 2024-11-12 02:00 ~ 2024-11-19 02:00 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 ~ 2024-05-22 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Dragon_%26_Tortoise_~_Working_Together_for_a_Better_Future_~/Rerun\" title=\"Dragon &amp; Tortoise ~ Working Together for a Better Future ~/Rerun\">Dragon &amp; Tortoise, Working Together for a Better Future</a><br>G: 2024-11-12 02:00 Tue ~ 2024-11-19 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 Wed ~ 2024-05-22 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Alabaster_Calling_Card_~_Mansion_Masquerade_and_the_Essence_of_Beauty_~/Rerun\" title=\"Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~/Rerun\">Alabaster Calling Card ~Mansion Masquerade and the Essence of Beauty~</a>",
@@ -764,7 +764,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-12-03T02:00",
 		"startG":"2024-11-19T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Alabaster_Calling_Card_~_Mansion_Masquerade_and_the_Essence_of_Beauty_~/Rerun\" title=\"Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~/Rerun\">Alabaster Calling Card ~Mansion Masquerade and the Essence of Beauty~</a><br>G: 2024-11-19 02:00 ~ 2024-12-03 02:00 14d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 ~ 2024-06-05 11:00 14d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Alabaster_Calling_Card_~_Mansion_Masquerade_and_the_Essence_of_Beauty_~/Rerun\" title=\"Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~/Rerun\">Alabaster Calling Card ~Mansion Masquerade and the Essence of Beauty~</a><br>G: 2024-11-19 02:00 Tue ~ 2024-12-03 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 Wed ~ 2024-06-05 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Say-Bing!\" title=\"Say-Bing!\">Say-Bing!</a>",
@@ -777,7 +777,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-01-07T02:00",
 		"startG":"2024-12-24T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Say-Bing!\" title=\"Say-Bing!\">Say-Bing!</a><br>G: 2024-12-24 02:00 ~ 2025-01-07 02:00 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 ~ 2024-07-10 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Say-Bing!\" title=\"Say-Bing!\">Say-Bing!</a><br>G: 2024-12-24 02:00 Tue ~ 2025-01-07 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 Wed ~ 2024-07-10 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Special_Operation!_RABBIT_Squad_and_the_Mystery_of_the_Missing_Shrimp/Rerun\" title=\"Summer Special Operation! RABBIT Squad and the Mystery of the Missing Shrimp/Rerun\">Special Summer Mission! RABBIT SQUAD and the Mystery of the Missing Shrimp</a>",
@@ -790,7 +790,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-01-14T02:00",
 		"startG":"2025-01-07T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Special_Operation!_RABBIT_Squad_and_the_Mystery_of_the_Missing_Shrimp/Rerun\" title=\"Summer Special Operation! RABBIT Squad and the Mystery of the Missing Shrimp/Rerun\">Special Summer Mission! RABBIT SQUAD and the Mystery of the Missing Shrimp</a><br>G: 2025-01-07 02:00 ~ 2025-01-14 02:00 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 ~ 2024-07-17 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Special_Operation!_RABBIT_Squad_and_the_Mystery_of_the_Missing_Shrimp/Rerun\" title=\"Summer Special Operation! RABBIT Squad and the Mystery of the Missing Shrimp/Rerun\">Special Summer Mission! RABBIT SQUAD and the Mystery of the Missing Shrimp</a><br>G: 2025-01-07 02:00 Tue ~ 2025-01-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 Wed ~ 2024-07-17 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sheside_outside\" title=\"Sheside outside\">Sheside outside</a>",
@@ -803,7 +803,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-02-04T02:00",
 		"startG":"2025-01-19T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sheside_outside\" title=\"Sheside outside\">Sheside outside</a><br>G: 2025-01-19 02:00 ~ 2025-02-04 02:00 16d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-08-07 11:00 16d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sheside_outside\" title=\"Sheside outside\">Sheside outside</a><br>G: 2025-01-19 02:00 Sun ~ 2025-02-04 02:00 Tue 16d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 Mon ~ 2024-08-07 11:00 Wed 16d (JST y-m-d)",
 		"duration":16},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Academy_Club%27s_Story_~_The_Two_Girls%27_Wish_for_the_Final_Volume_~/Rerun\" title=\"An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~/Rerun\">Academy Club Story: A Pair's Final Adventure</a>",
@@ -816,7 +816,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-02-11T02:00",
 		"startG":"2025-02-04T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Academy_Club%27s_Story_~_The_Two_Girls%27_Wish_for_the_Final_Volume_~/Rerun\" title=\"An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~/Rerun\">Academy Club Story: A Pair's Final Adventure</a><br>G: 2025-02-04 02:00 ~ 2025-02-11 02:00 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 ~ 2024-08-14 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Academy_Club%27s_Story_~_The_Two_Girls%27_Wish_for_the_Final_Volume_~/Rerun\" title=\"An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~/Rerun\">Academy Club Story: A Pair's Final Adventure</a><br>G: 2025-02-04 02:00 Tue ~ 2025-02-11 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 Wed ~ 2024-08-14 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moonlight_Dream\" title=\"Moonlight Dream\">Moonlight Dream</a>",
@@ -829,7 +829,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-03-04T02:00",
 		"startG":"2025-02-18T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moonlight_Dream\" title=\"Moonlight Dream\">Moonlight Dream</a><br>G: 2025-02-18 02:00 ~ 2025-03-04 02:00 14d (UTC y-m-d)<br>Jp: 2024-08-21 11:00 ~ 2024-09-04 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moonlight_Dream\" title=\"Moonlight Dream\">Moonlight Dream</a><br>G: 2025-02-18 02:00 Tue ~ 2025-03-04 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-08-21 11:00 Wed ~ 2024-09-04 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/In_Search_of_a_Hidden_Heritage_~_Trinity%27s_Extracurricular_Activities_~/Rerun\" title=\"In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~/Rerun\">In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~</a>",
@@ -842,7 +842,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-03-18T02:00",
 		"startG":"2025-03-04T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/In_Search_of_a_Hidden_Heritage_~_Trinity%27s_Extracurricular_Activities_~/Rerun\" title=\"In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~/Rerun\">In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~</a><br>G: 2025-03-04 02:00 ~ 2025-03-18 02:00 14d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 ~ 2024-09-18 11:00 14d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/In_Search_of_a_Hidden_Heritage_~_Trinity%27s_Extracurricular_Activities_~/Rerun\" title=\"In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~/Rerun\">In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~</a><br>G: 2025-03-04 02:00 Tue ~ 2025-03-18 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-18 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Descent_of_the_Five_Senses\" title=\"Descent of the Five Senses\">Descent of the Five Senses</a>",
@@ -855,7 +855,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-04-09T02:00",
 		"startG":"2025-03-25T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Descent_of_the_Five_Senses\" title=\"Descent of the Five Senses\">Descent of the Five Senses</a><br>G: 2025-03-25 02:00 ~ 2025-04-09 02:00 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 11:00 15d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Descent_of_the_Five_Senses\" title=\"Descent of the Five Senses\">Descent of the Five Senses</a><br>G: 2025-03-25 02:00 Tue ~ 2025-04-09 02:00 Wed 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 Wed ~ 2024-10-10 11:00 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serenade_Promenade\" title=\"Serenade Promenade\">Serenade Promenade</a>",
@@ -868,7 +868,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-05-06T02:00",
 		"startG":"2025-04-22T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serenade_Promenade\" title=\"Serenade Promenade\">Serenade Promenade</a><br>G: 2025-04-22 02:00 ~ 2025-05-06 02:00 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 ~ 2024-11-06 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serenade_Promenade\" title=\"Serenade Promenade\">Serenade Promenade</a><br>G: 2025-04-22 02:00 Tue ~ 2025-05-06 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 Wed ~ 2024-11-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sunshine_Girls%27_Serenade/Rerun\" title=\"Sunshine Girls' Serenade/Rerun\">Sunshine Girls' Serenade</a>",
@@ -881,7 +881,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-06-03T02:00",
 		"startG":"2025-05-20T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sunshine_Girls%27_Serenade/Rerun\" title=\"Sunshine Girls' Serenade/Rerun\">Sunshine Girls' Serenade</a><br>G: 2025-05-20 02:00 ~ 2025-06-03 02:00 14d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 ~ 2024-12-04 11:00 14d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sunshine_Girls%27_Serenade/Rerun\" title=\"Sunshine Girls' Serenade/Rerun\">Sunshine Girls' Serenade</a><br>G: 2025-05-20 02:00 Tue ~ 2025-06-03 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 Wed ~ 2024-12-04 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Trip-Trap-Train/Rerun\" title=\"Trip-Trap-Train/Rerun\">Trip-Trap-Train</a>",
@@ -894,7 +894,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-06-10T02:00",
 		"startG":"2025-06-03T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Trip-Trap-Train/Rerun\" title=\"Trip-Trap-Train/Rerun\">Trip-Trap-Train</a><br>G: 2025-06-03 02:00 ~ 2025-06-10 02:00 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 ~ 2024-12-11 11:00 7d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Trip-Trap-Train/Rerun\" title=\"Trip-Trap-Train/Rerun\">Trip-Trap-Train</a><br>G: 2025-06-03 02:00 Tue ~ 2025-06-10 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 Wed ~ 2024-12-11 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Secret_Midnight_Party_~_Oni_Holds_a_Bell_~\" title=\"Secret Midnight Party ~ Oni Holds a Bell ~\">Secret Midnight Party ~ Oni Holds a Bell ~</a>",
@@ -907,7 +907,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-07-08T02:00",
 		"startG":"2025-06-23T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Secret_Midnight_Party_~_Oni_Holds_a_Bell_~\" title=\"Secret Midnight Party ~ Oni Holds a Bell ~\">Secret Midnight Party ~ Oni Holds a Bell ~</a><br>G: 2025-06-23 02:00 ~ 2025-07-08 02:00 15d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 ~ 2025-01-08 11:00 15d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Secret_Midnight_Party_~_Oni_Holds_a_Bell_~\" title=\"Secret Midnight Party ~ Oni Holds a Bell ~\">Secret Midnight Party ~ Oni Holds a Bell ~</a><br>G: 2025-06-23 02:00 Mon ~ 2025-07-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 Tue ~ 2025-01-08 11:00 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -920,7 +920,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-07-20T02:00",
 		"startG":"2025-07-08T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2025-07-08 02:00 ~ 2025-07-20 02:00 12d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 ~ 2025-01-20 11:00 12d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2025-07-08 02:00 Tue ~ 2025-07-20 02:00 Sun 12d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 Wed ~ 2025-01-20 11:00 Mon 12d (JST y-m-d)",
 		"duration":12},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Code:_BOX_Shadow_Looming_Over_Millennium_%EF%BD%9EOne_Question_and_Two_Answers%EF%BD%9E\" title=\"Code: BOX Shadow Looming Over Millennium ～One Question and Two Answers～\">Code: BOX Shadow Looming Over Millennium</a>",
@@ -933,7 +933,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-08-03T02:00",
 		"startG":"2025-07-20T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Code:_BOX_Shadow_Looming_Over_Millennium_%EF%BD%9EOne_Question_and_Two_Answers%EF%BD%9E\" title=\"Code: BOX Shadow Looming Over Millennium ～One Question and Two Answers～\">Code: BOX Shadow Looming Over Millennium</a><br>G: 2025-07-20 02:00 ~ 2025-08-03 02:00 14d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 ~ 2025-02-03 11:00 14d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Code:_BOX_Shadow_Looming_Over_Millennium_%EF%BD%9EOne_Question_and_Two_Answers%EF%BD%9E\" title=\"Code: BOX Shadow Looming Over Millennium ～One Question and Two Answers～\">Code: BOX Shadow Looming Over Millennium</a><br>G: 2025-07-20 02:00 Sun ~ 2025-08-03 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-02-03 11:00 Mon 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Tree_of_Sephiroth\" title=\"The Tree of Sephiroth\">Special Investigation: The Tree of Sephiroth</a>",
@@ -946,7 +946,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-08-12T02:00",
 		"startG":"2025-08-03T02:00",
-		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Tree_of_Sephiroth\" title=\"The Tree of Sephiroth\">Special Investigation: The Tree of Sephiroth</a><br>G: 2025-08-03 02:00 ~ 2025-08-12 02:00 9d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 ~ 2025-02-12 11:00 9d (JST y-m-d)",
+		"title":"[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Tree_of_Sephiroth\" title=\"The Tree of Sephiroth\">Special Investigation: The Tree of Sephiroth</a><br>G: 2025-08-03 02:00 Sun ~ 2025-08-12 02:00 Tue 9d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-12 11:00 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/New_Year_March/Rerun\" title=\"New Year March/Rerun\">(Cyber) New Year March</a>",
@@ -959,7 +959,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-08-26T02:00",
 		"startG":"2025-08-12T02:00",
-		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/New_Year_March/Rerun\" title=\"New Year March/Rerun\">(Cyber) New Year March</a><br>G: 2025-08-12 02:00 ~ 2025-08-26 02:00 14d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 ~ 2025-02-26 11:00 14d (JST y-m-d)",
+		"title":"[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/New_Year_March/Rerun\" title=\"New Year March/Rerun\">(Cyber) New Year March</a><br>G: 2025-08-12 02:00 Tue ~ 2025-08-26 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 Wed ~ 2025-02-26 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -972,7 +972,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-12-19T01:59",
 		"startG":"2023-12-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2023-12-05 02:00 ~ 2023-12-19 01:59 14d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 ~ 2023-06-21 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2023-12-05 02:00 Tue ~ 2023-12-19 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 Wed ~ 2023-06-21 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -985,7 +985,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-01-14T01:59",
 		"startG":"2024-01-02T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-01-02 02:00 ~ 2024-01-14 01:59 12d (UTC y-m-d)<br>Jp: 2023-07-05 11:00 ~ 2023-07-17 10:59 12d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-01-02 02:00 Tue ~ 2024-01-14 01:59 Sun 12d (UTC y-m-d)<br>Jp: 2023-07-05 11:00 Wed ~ 2023-07-17 10:59 Mon 12d (JST y-m-d)",
 		"duration":12},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -998,7 +998,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-04-22T01:59",
 		"startG":"2024-04-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-04-09 02:00 ~ 2024-04-22 01:59 13d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 ~ 2023-10-24 10:59 13d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-04-09 02:00 Tue ~ 2024-04-22 01:59 Mon 13d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 Wed ~ 2023-10-24 10:59 Tue 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -1011,7 +1011,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-05-21T01:59",
 		"startG":"2024-05-07T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-05-07 02:00 ~ 2024-05-21 01:59 14d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 ~ 2023-11-22 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-05-07 02:00 Tue ~ 2024-05-21 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 Wed ~ 2023-11-22 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -1024,7 +1024,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-06-04T01:59",
 		"startG":"2024-05-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-05-21 02:00 ~ 2024-06-04 01:59 14d (UTC y-m-d)<br>Jp: 2023-11-22 11:00 ~ 2023-12-06 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-05-21 02:00 Tue ~ 2024-06-04 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-11-22 11:00 Wed ~ 2023-12-06 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -1037,7 +1037,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-07-23T01:59",
 		"startG":"2024-07-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-07-09 02:00 ~ 2024-07-23 01:59 14d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 ~ 2024-01-24 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-07-09 02:00 Tue ~ 2024-07-23 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 Wed ~ 2024-01-24 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -1050,7 +1050,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-10-22T01:59",
 		"startG":"2024-10-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-10-09 02:00 ~ 2024-10-22 01:59 13d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 ~ 2024-04-24 10:59 13d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-10-09 02:00 Wed ~ 2024-10-22 01:59 Tue 13d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 Thu ~ 2024-04-24 10:59 Wed 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -1063,7 +1063,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-12-17T01:59",
 		"startG":"2024-12-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-12-03 02:00 ~ 2024-12-17 01:59 14d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 ~ 2024-06-19 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2024-12-03 02:00 Tue ~ 2024-12-17 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-06-19 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -1076,7 +1076,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-04-22T01:59",
 		"startG":"2025-04-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2025-04-09 02:00 ~ 2025-04-22 01:59 13d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 ~ 2024-10-23 10:59 13d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2025-04-09 02:00 Wed ~ 2025-04-22 01:59 Tue 13d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 Thu ~ 2024-10-23 10:59 Wed 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Tree_of_Sephiroth\" title=\"The Tree of Sephiroth\">Special Investigation: The Tree of Sephiroth</a>",
@@ -1089,7 +1089,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-05-20T01:59",
 		"startG":"2025-05-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Tree_of_Sephiroth\" title=\"The Tree of Sephiroth\">Special Investigation: The Tree of Sephiroth</a><br>G: 2025-05-06 02:00 ~ 2025-05-20 01:59 14d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-20 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Tree_of_Sephiroth\" title=\"The Tree of Sephiroth\">Special Investigation: The Tree of Sephiroth</a><br>G: 2025-05-06 02:00 Tue ~ 2025-05-20 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 Wed ~ 2024-11-20 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -1102,7 +1102,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-06-23T01:59",
 		"startG":"2025-06-10T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2025-06-10 02:00 ~ 2025-06-23 01:59 13d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 ~ 2024-12-24 10:59 13d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2025-06-10 02:00 Tue ~ 2025-06-23 01:59 Mon 13d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 Wed ~ 2024-12-24 10:59 Tue 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"1st Anniversary Login Bonus",
@@ -1115,7 +1115,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-08-22T18:59",
 		"startG":"2022-07-26T03:00",
-		"title":"1st Anniversary Login Bonus<br>G: 2022-07-26 03:00 ~ 2022-08-22 18:59 28d (UTC y-m-d)<br>Jp: 2022-01-26 12:00 ~ 2022-02-23 03:59 28d (JST y-m-d)",
+		"title":"1st Anniversary Login Bonus<br>G: 2022-07-26 03:00 Tue ~ 2022-08-22 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2022-01-26 12:00 Wed ~ 2022-02-23 03:59 Wed 28d (JST y-m-d)",
 		"duration":28},
 	{
 		"content":"Start Dash Login Bonus",
@@ -1128,7 +1128,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-08-22T18:59",
 		"startG":"2022-07-26T03:00",
-		"title":"Start Dash Login Bonus<br>G: 2022-07-26 03:00 ~ 2022-08-22 18:59 28d (UTC y-m-d)<br>Jp: 2022-01-26 12:00 ~ 2022-02-23 03:59 28d (JST y-m-d)",
+		"title":"Start Dash Login Bonus<br>G: 2022-07-26 03:00 Tue ~ 2022-08-22 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2022-01-26 12:00 Wed ~ 2022-02-23 03:59 Wed 28d (JST y-m-d)",
 		"duration":28},
 	{
 		"content":"1.5 Anniversary Login Bonus",
@@ -1141,7 +1141,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-02-21T01:59",
 		"startG":"2023-01-17T10:00",
-		"title":"1.5 Anniversary Login Bonus<br>G: 2023-01-17 10:00 ~ 2023-02-21 01:59 35d (UTC y-m-d)<br>Jp: 2022-07-20 19:00 ~ 2022-08-24 10:59 35d (JST y-m-d)",
+		"title":"1.5 Anniversary Login Bonus<br>G: 2023-01-17 10:00 Tue ~ 2023-02-21 01:59 Tue 35d (UTC y-m-d)<br>Jp: 2022-07-20 19:00 Wed ~ 2022-08-24 10:59 Wed 35d (JST y-m-d)",
 		"duration":35},
 	{
 		"content":"Kourin Taisai Commemorative Login Bonus",
@@ -1154,7 +1154,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-04-11T01:59",
 		"startG":"2023-03-28T02:00",
-		"title":"Kourin Taisai Commemorative Login Bonus<br>G: 2023-03-28 02:00 ~ 2023-04-11 01:59 14d (UTC y-m-d)<br>Jp: 2022-09-28 11:00 ~ 2022-10-12 10:59 14d (JST y-m-d)",
+		"title":"Kourin Taisai Commemorative Login Bonus<br>G: 2023-03-28 02:00 Tue ~ 2023-04-11 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-09-28 11:00 Wed ~ 2022-10-12 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"CHEER UP! Arona's Special Login Bonus",
@@ -1167,7 +1167,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-05-16T01:59",
 		"startG":"2023-04-25T02:00",
-		"title":"CHEER UP! Arona's Special Login Bonus<br>G: 2023-04-25 02:00 ~ 2023-05-16 01:59 21d (UTC y-m-d)<br>Jp: 2022-10-26 11:00 ~ 2022-11-16 10:59 21d (JST y-m-d)",
+		"title":"CHEER UP! Arona's Special Login Bonus<br>G: 2023-04-25 02:00 Tue ~ 2023-05-16 01:59 Tue 21d (UTC y-m-d)<br>Jp: 2022-10-26 11:00 Wed ~ 2022-11-16 10:59 Wed 21d (JST y-m-d)",
 		"duration":21},
 	{
 		"content":"Merry Christmas! Arona's Special Gift!",
@@ -1180,7 +1180,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-06-27T01:59",
 		"startG":"2023-06-13T02:00",
-		"title":"Merry Christmas! Arona's Special Gift!<br>G: 2023-06-13 02:00 ~ 2023-06-27 01:59 14d (UTC y-m-d)<br>Jp: 2022-12-14 11:00 ~ 2022-12-28 10:59 14d (JST y-m-d)",
+		"title":"Merry Christmas! Arona's Special Gift!<br>G: 2023-06-13 02:00 Tue ~ 2023-06-27 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-12-14 11:00 Wed ~ 2022-12-28 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"2nd Anniversary Login Bonus",
@@ -1193,7 +1193,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-08-22T01:59",
 		"startG":"2023-07-24T08:00",
-		"title":"2nd Anniversary Login Bonus<br>G: 2023-07-24 08:00 ~ 2023-08-22 01:59 29d (UTC y-m-d)<br>Jp: 2023-01-24 17:00 ~ 2023-02-22 10:59 29d (JST y-m-d)",
+		"title":"2nd Anniversary Login Bonus<br>G: 2023-07-24 08:00 Mon ~ 2023-08-22 01:59 Tue 29d (UTC y-m-d)<br>Jp: 2023-01-24 17:00 Tue ~ 2023-02-22 10:59 Wed 29d (JST y-m-d)",
 		"duration":29},
 	{
 		"content":"Arona's Special Spring Picnic Present!",
@@ -1206,7 +1206,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-11-07T01:59",
 		"startG":"2023-10-24T02:00",
-		"title":"Arona's Special Spring Picnic Present!<br>G: 2023-10-24 02:00 ~ 2023-11-07 01:59 14d (UTC y-m-d)<br>Jp: 2023-04-26 11:00 ~ 2023-05-10 10:59 14d (JST y-m-d)",
+		"title":"Arona's Special Spring Picnic Present!<br>G: 2023-10-24 02:00 Tue ~ 2023-11-07 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-04-26 11:00 Wed ~ 2023-05-10 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"2.5 Anniversary Login Bonus",
@@ -1219,7 +1219,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-02-20T01:59",
 		"startG":"2024-01-21T02:00",
-		"title":"2.5 Anniversary Login Bonus<br>G: 2024-01-21 02:00 ~ 2024-02-20 01:59 30d (UTC y-m-d)<br>Jp: 2023-07-24 11:00 ~ 2023-08-23 10:59 30d (JST y-m-d)",
+		"title":"2.5 Anniversary Login Bonus<br>G: 2024-01-21 02:00 Sun ~ 2024-02-20 01:59 Tue 30d (UTC y-m-d)<br>Jp: 2023-07-24 11:00 Mon ~ 2023-08-23 10:59 Wed 30d (JST y-m-d)",
 		"duration":30},
 	{
 		"content":"“A Certain Scientific Railgun T” collaboration commemorative login bonus",
@@ -1232,7 +1232,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-05-07T01:59",
 		"startG":"2024-04-22T02:00",
-		"title":"“A Certain Scientific Railgun T” collaboration commemorative login bonus<br>G: 2024-04-22 02:00 ~ 2024-05-07 01:59 15d (UTC y-m-d)<br>Jp: 2023-10-24 11:00 ~ 2023-11-08 10:59 15d (JST y-m-d)",
+		"title":"“A Certain Scientific Railgun T” collaboration commemorative login bonus<br>G: 2024-04-22 02:00 Mon ~ 2024-05-07 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2023-10-24 11:00 Tue ~ 2023-11-08 10:59 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"3rd Anniversary Countdown Login Bonus",
@@ -1245,7 +1245,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-07-22T18:59",
 		"startG":"2024-07-15T19:00",
-		"title":"3rd Anniversary Countdown Login Bonus<br>G: 2024-07-15 19:00 ~ 2024-07-22 18:59 7d (UTC y-m-d)<br>Jp: 2024-01-17 04:00 ~ 2024-01-24 03:59 7d (JST y-m-d)",
+		"title":"3rd Anniversary Countdown Login Bonus<br>G: 2024-07-15 19:00 Mon ~ 2024-07-22 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-17 04:00 Wed ~ 2024-01-24 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"3rd Anniversary Login Bonus",
@@ -1258,7 +1258,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-08-20T01:59",
 		"startG":"2024-07-23T02:00",
-		"title":"3rd Anniversary Login Bonus<br>G: 2024-07-23 02:00 ~ 2024-08-20 01:59 28d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 ~ 2024-02-21 10:59 28d (JST y-m-d)",
+		"title":"3rd Anniversary Login Bonus<br>G: 2024-07-23 02:00 Tue ~ 2024-08-20 01:59 Tue 28d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 Wed ~ 2024-02-21 10:59 Wed 28d (JST y-m-d)",
 		"duration":28},
 	{
 		"content":"10 free recruitments daily campaign",
@@ -1271,7 +1271,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-07-30T01:59",
 		"startG":"2024-07-23T02:00",
-		"title":"10 free recruitments daily campaign<br>G: 2024-07-23 02:00 ~ 2024-07-30 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 ~ 2024-01-31 10:59 7d (JST y-m-d)",
+		"title":"10 free recruitments daily campaign<br>G: 2024-07-23 02:00 Tue ~ 2024-07-30 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 Wed ~ 2024-01-31 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"3.5 Anniversary Login Bonus",
@@ -1284,7 +1284,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-02-18T01:59",
 		"startG":"2025-01-19T02:00",
-		"title":"3.5 Anniversary Login Bonus<br>G: 2025-01-19 02:00 ~ 2025-02-18 01:59 30d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-08-21 10:59 30d (JST y-m-d)",
+		"title":"3.5 Anniversary Login Bonus<br>G: 2025-01-19 02:00 Sun ~ 2025-02-18 01:59 Tue 30d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 Mon ~ 2024-08-21 10:59 Wed 30d (JST y-m-d)",
 		"duration":30},
 	{
 		"content":"10 free recruitments daily campaign",
@@ -1297,7 +1297,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-02-04T01:59",
 		"startG":"2025-01-26T02:00",
-		"title":"10 free recruitments daily campaign<br>G: 2025-01-26 02:00 ~ 2025-02-04 01:59 9d (UTC y-m-d)<br>Jp: 2024-07-29 11:00 ~ 2024-08-07 10:59 9d (JST y-m-d)",
+		"title":"10 free recruitments daily campaign<br>G: 2025-01-26 02:00 Sun ~ 2025-02-04 01:59 Tue 9d (UTC y-m-d)<br>Jp: 2024-07-29 11:00 Mon ~ 2024-08-07 10:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"4th Anniversary Login Bonus",
@@ -1310,7 +1310,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-08-26T01:59",
 		"startG":"2025-07-20T02:00",
-		"title":"4th Anniversary Login Bonus<br>G: 2025-07-20 02:00 ~ 2025-08-26 01:59 37d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 ~ 2025-02-26 10:59 37d (JST y-m-d)",
+		"title":"4th Anniversary Login Bonus<br>G: 2025-07-20 02:00 Sun ~ 2025-08-26 01:59 Tue 37d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-02-26 10:59 Wed 37d (JST y-m-d)",
 		"duration":37},
 	{
 		"content":"10 free recruitments daily campaign",
@@ -1323,7 +1323,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-07-27T01:59",
 		"startG":"2025-07-20T02:00",
-		"title":"10 free recruitments daily campaign<br>G: 2025-07-20 02:00 ~ 2025-07-27 01:59 7d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 ~ 2025-01-27 10:59 7d (JST y-m-d)",
+		"title":"10 free recruitments daily campaign<br>G: 2025-07-20 02:00 Sun ~ 2025-07-27 01:59 Sun 7d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-01-27 10:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Daily_Quests_with_the_Game_Development_Department\" title=\"Daily Quests with the Game Development Department\">Daily Quests with the Game Development Department</a>",
@@ -1336,7 +1336,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2021-10-27T02:00",
 		"startG":"2021-09-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Daily_Quests_with_the_Game_Development_Department\" title=\"Daily Quests with the Game Development Department\">Daily Quests with the Game Development Department</a><br>G: 2021-09-22 02:00 ~ 2021-10-27 02:00 35d (UTC y-m-d)<br>Jp: 2021-03-25 11:00 ~ 2021-04-29 11:00 35d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Daily_Quests_with_the_Game_Development_Department\" title=\"Daily Quests with the Game Development Department\">Daily Quests with the Game Development Department</a><br>G: 2021-09-22 02:00 Wed ~ 2021-10-27 02:00 Wed 35d (UTC y-m-d)<br>Jp: 2021-03-25 11:00 Thu ~ 2021-04-29 11:00 Thu 35d (JST y-m-d)",
 		"duration":35},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Game_development_club_tasks\" title=\"Game development club tasks\">Game development club tasks</a>",
@@ -1349,7 +1349,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2021-09-26T01:59",
 		"startG":"2021-10-23T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Game_development_club_tasks\" title=\"Game development club tasks\">Game development club tasks</a><br>G: 2021-10-23 02:00 ~ 2021-09-26 01:59 -27d (UTC y-m-d)<br>Jp: 2021-04-25 11:00 ~ 2021-03-29 10:59 -27d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Game_development_club_tasks\" title=\"Game development club tasks\">Game development club tasks</a><br>G: 2021-10-23 02:00 Sat ~ 2021-09-26 01:59 Sun -27d (UTC y-m-d)<br>Jp: 2021-04-25 11:00 Sun ~ 2021-03-29 10:59 Mon -27d (JST y-m-d)",
 		"duration":-27},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Supplemental_Lessons_Club_Special_Training_Camp\" title=\"Supplemental Lessons Club Special Training Camp\">Supplemental Lessons Club Special Training Camp</a>",
@@ -1362,7 +1362,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-05-30T02:00",
 		"startG":"2022-04-26T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Supplemental_Lessons_Club_Special_Training_Camp\" title=\"Supplemental Lessons Club Special Training Camp\">Supplemental Lessons Club Special Training Camp</a><br>G: 2022-04-26 02:00 ~ 2022-05-30 02:00 34d (UTC y-m-d)<br>Jp: 2021-10-27 11:00 ~ 2021-11-30 11:00 34d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Supplemental_Lessons_Club_Special_Training_Camp\" title=\"Supplemental Lessons Club Special Training Camp\">Supplemental Lessons Club Special Training Camp</a><br>G: 2022-04-26 02:00 Tue ~ 2022-05-30 02:00 Mon 34d (UTC y-m-d)<br>Jp: 2021-10-27 11:00 Wed ~ 2021-11-30 11:00 Tue 34d (JST y-m-d)",
 		"duration":34},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Schale_Guide_Mission\" title=\"Schale Guide Mission\">Schale Guide Mission</a>",
@@ -1375,7 +1375,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-10-18T02:00",
 		"startG":"2022-09-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Schale_Guide_Mission\" title=\"Schale Guide Mission\">Schale Guide Mission</a><br>G: 2022-09-20 02:00 ~ 2022-10-18 02:00 28d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 ~ 2022-04-20 11:00 28d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Schale_Guide_Mission\" title=\"Schale Guide Mission\">Schale Guide Mission</a><br>G: 2022-09-20 02:00 Tue ~ 2022-10-18 02:00 Tue 28d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 Wed ~ 2022-04-20 11:00 Wed 28d (JST y-m-d)",
 		"duration":28},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Camping_Guide_with_the_RABBIT_Platoon!\" title=\"Camping Guide with the RABBIT Platoon!\">Camping Guide with the RABBIT Platoon!</a>",
@@ -1388,7 +1388,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-10-18T02:00",
 		"startG":"2022-10-04T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Camping_Guide_with_the_RABBIT_Platoon!\" title=\"Camping Guide with the RABBIT Platoon!\">Camping Guide with the RABBIT Platoon!</a><br>G: 2022-10-04 02:00 ~ 2022-10-18 02:00 14d (UTC y-m-d)<br>Jp: 2022-04-06 11:00 ~ 2022-04-20 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Camping_Guide_with_the_RABBIT_Platoon!\" title=\"Camping Guide with the RABBIT Platoon!\">Camping Guide with the RABBIT Platoon!</a><br>G: 2022-10-04 02:00 Tue ~ 2022-10-18 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-04-06 11:00 Wed ~ 2022-04-20 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arius_Autonomous_Region_Survey_Mission\" title=\"Arius Autonomous Region Survey Mission\">Arius Autonomous Region Survey Mission</a>",
@@ -1401,7 +1401,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-12-20T02:00",
 		"startG":"2022-11-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arius_Autonomous_Region_Survey_Mission\" title=\"Arius Autonomous Region Survey Mission\">Arius Autonomous Region Survey Mission</a><br>G: 2022-11-21 02:00 ~ 2022-12-20 02:00 29d (UTC y-m-d)<br>Jp: 2022-05-24 11:00 ~ 2022-06-22 11:00 29d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arius_Autonomous_Region_Survey_Mission\" title=\"Arius Autonomous Region Survey Mission\">Arius Autonomous Region Survey Mission</a><br>G: 2022-11-21 02:00 Mon ~ 2022-12-20 02:00 Tue 29d (UTC y-m-d)<br>Jp: 2022-05-24 11:00 Tue ~ 2022-06-22 11:00 Wed 29d (JST y-m-d)",
 		"duration":29},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arius_Autonomous_Region_Survey_Mission_2\" title=\"Arius Autonomous Region Survey Mission 2\">Arius Autonomous Region Survey Mission 2</a>",
@@ -1414,7 +1414,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-03-07T02:00",
 		"startG":"2023-02-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arius_Autonomous_Region_Survey_Mission_2\" title=\"Arius Autonomous Region Survey Mission 2\">Arius Autonomous Region Survey Mission 2</a><br>G: 2023-02-06 02:00 ~ 2023-03-07 02:00 29d (UTC y-m-d)<br>Jp: 2022-08-09 11:00 ~ 2022-09-07 11:00 29d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arius_Autonomous_Region_Survey_Mission_2\" title=\"Arius Autonomous Region Survey Mission 2\">Arius Autonomous Region Survey Mission 2</a><br>G: 2023-02-06 02:00 Mon ~ 2023-03-07 02:00 Tue 29d (UTC y-m-d)<br>Jp: 2022-08-09 11:00 Tue ~ 2022-09-07 11:00 Wed 29d (JST y-m-d)",
 		"duration":29},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fortified_City_Eridu_Infiltration_Mission\" title=\"Fortified City Eridu Infiltration Mission\">Fortified City Eridu Infiltration Mission</a>",
@@ -1427,7 +1427,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-06-20T01:59",
 		"startG":"2023-05-23T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fortified_City_Eridu_Infiltration_Mission\" title=\"Fortified City Eridu Infiltration Mission\">Fortified City Eridu Infiltration Mission</a><br>G: 2023-05-23 02:00 ~ 2023-06-20 01:59 28d (UTC y-m-d)<br>Jp: 2022-11-23 11:00 ~ 2022-12-21 10:59 28d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fortified_City_Eridu_Infiltration_Mission\" title=\"Fortified City Eridu Infiltration Mission\">Fortified City Eridu Infiltration Mission</a><br>G: 2023-05-23 02:00 Tue ~ 2023-06-20 01:59 Tue 28d (UTC y-m-d)<br>Jp: 2022-11-23 11:00 Wed ~ 2022-12-21 10:59 Wed 28d (JST y-m-d)",
 		"duration":28},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/SCHALE%27s_Memoirs_with_General_Student_Council\" title=\"SCHALE's Memoirs with General Student Council\">SCHALE's Memoirs with General Student Council</a>",
@@ -1440,7 +1440,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2023-08-22T01:59",
 		"startG":"2023-07-11T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/SCHALE%27s_Memoirs_with_General_Student_Council\" title=\"SCHALE's Memoirs with General Student Council\">SCHALE's Memoirs with General Student Council</a><br>G: 2023-07-11 02:00 ~ 2023-08-22 01:59 42d (UTC y-m-d)<br>Jp: 2023-01-11 11:00 ~ 2023-02-22 10:59 42d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/SCHALE%27s_Memoirs_with_General_Student_Council\" title=\"SCHALE's Memoirs with General Student Council\">SCHALE's Memoirs with General Student Council</a><br>G: 2023-07-11 02:00 Tue ~ 2023-08-22 01:59 Tue 42d (UTC y-m-d)<br>Jp: 2023-01-11 11:00 Wed ~ 2023-02-22 10:59 Wed 42d (JST y-m-d)",
 		"duration":42},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Four-Day_Workweek_Campaign\" title=\"Four-Day Workweek Campaign\">Four-Day Workweek Campaign</a>",
@@ -1453,7 +1453,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-01-02T01:59",
 		"startG":"2023-12-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Four-Day_Workweek_Campaign\" title=\"Four-Day Workweek Campaign\">Four-Day Workweek Campaign</a><br>G: 2023-12-05 02:00 ~ 2024-01-02 01:59 28d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 ~ 2023-07-05 10:59 28d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Four-Day_Workweek_Campaign\" title=\"Four-Day Workweek Campaign\">Four-Day Workweek Campaign</a><br>G: 2023-12-05 02:00 Tue ~ 2024-01-02 01:59 Tue 28d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 Wed ~ 2023-07-05 10:59 Wed 28d (JST y-m-d)",
 		"duration":28},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hyakkiyako_Lantern_Festival_Tour\" title=\"Hyakkiyako Lantern Festival Tour\">Hyakkiyako Lantern Festival Tour</a>",
@@ -1466,7 +1466,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-06-25T01:59",
 		"startG":"2024-05-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hyakkiyako_Lantern_Festival_Tour\" title=\"Hyakkiyako Lantern Festival Tour\">Hyakkiyako Lantern Festival Tour</a><br>G: 2024-05-21 02:00 ~ 2024-06-25 01:59 35d (UTC y-m-d)<br>Jp: 2023-11-22 11:00 ~ 2023-12-27 10:59 35d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hyakkiyako_Lantern_Festival_Tour\" title=\"Hyakkiyako Lantern Festival Tour\">Hyakkiyako Lantern Festival Tour</a><br>G: 2024-05-21 02:00 Tue ~ 2024-06-25 01:59 Tue 35d (UTC y-m-d)<br>Jp: 2023-11-22 11:00 Wed ~ 2023-12-27 10:59 Wed 35d (JST y-m-d)",
 		"duration":35},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Night_shift_guide_mission!\" title=\"Night shift guide mission!\">Night shift guide mission!</a>",
@@ -1479,7 +1479,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-08-27T02:00",
 		"startG":"2024-07-30T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Night_shift_guide_mission!\" title=\"Night shift guide mission!\">Night shift guide mission!</a><br>G: 2024-07-30 02:00 ~ 2024-08-27 02:00 0d (UTC y-m-d)<br>Jp: 2024-01-25 11:00 ~ 2024-01-25 11:00 0d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Night_shift_guide_mission!\" title=\"Night shift guide mission!\">Night shift guide mission!</a><br>G: 2024-07-30 02:00 Tue ~ 2024-08-27 02:00 Tue 0d (UTC y-m-d)<br>Jp: 2024-01-25 11:00 Thu ~ 2024-01-25 11:00 Thu 0d (JST y-m-d)",
 		"duration":0},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shibaseki_Ramen_Part-time_Job_Mission\" title=\"Shibaseki Ramen Part-time Job Mission\">Shibaseki Ramen Part-time Job Mission</a>",
@@ -1492,7 +1492,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-11-05T02:00",
 		"startG":"2024-10-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shibaseki_Ramen_Part-time_Job_Mission\" title=\"Shibaseki Ramen Part-time Job Mission\">Shibaseki Ramen Part-time Job Mission</a><br>G: 2024-10-09 02:00 ~ 2024-11-05 02:00 27d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 ~ 2024-05-08 11:00 27d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shibaseki_Ramen_Part-time_Job_Mission\" title=\"Shibaseki Ramen Part-time Job Mission\">Shibaseki Ramen Part-time Job Mission</a><br>G: 2024-10-09 02:00 Wed ~ 2024-11-05 02:00 Tue 27d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 Thu ~ 2024-05-08 11:00 Wed 27d (JST y-m-d)",
 		"duration":27},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Task_Force_Emergency_Nighttime_Meeting\" title=\"Task Force Emergency Nighttime Meeting\">Task Force Emergency Nighttime Meeting</a>",
@@ -1505,7 +1505,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-12-31T02:00",
 		"startG":"2024-12-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Task_Force_Emergency_Nighttime_Meeting\" title=\"Task Force Emergency Nighttime Meeting\">Task Force Emergency Nighttime Meeting</a><br>G: 2024-12-03 02:00 ~ 2024-12-31 02:00 28d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 ~ 2024-07-03 11:00 28d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Task_Force_Emergency_Nighttime_Meeting\" title=\"Task Force Emergency Nighttime Meeting\">Task Force Emergency Nighttime Meeting</a><br>G: 2024-12-03 02:00 Tue ~ 2024-12-31 02:00 Tue 28d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-07-03 11:00 Wed 28d (JST y-m-d)",
 		"duration":28},
 	{
 		"content":"<b>3x Comm </b>",
@@ -1518,7 +1518,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-08-22T18:59",
 		"startG":"2022-08-15T19:00",
-		"title":"<b>3x Comm </b><br>G: 2022-08-15 19:00 ~ 2022-08-22 18:59 7d (UTC y-m-d)<br>Jp: 2022-02-16 04:00 ~ 2022-02-23 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2022-08-15 19:00 Mon ~ 2022-08-22 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-02-16 04:00 Wed ~ 2022-02-23 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Normal </b>",
@@ -1531,7 +1531,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-08-19T18:59",
 		"startG":"2022-08-15T19:00",
-		"title":"<b>3x Normal </b><br>G: 2022-08-15 19:00 ~ 2022-08-19 18:59 4d (UTC y-m-d)<br>Jp: 2022-02-16 04:00 ~ 2022-02-20 03:59 4d (JST y-m-d)",
+		"title":"<b>3x Normal </b><br>G: 2022-08-15 19:00 Mon ~ 2022-08-19 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2022-02-16 04:00 Wed ~ 2022-02-20 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"<b>3x Hard </b>",
@@ -1544,7 +1544,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-08-22T18:59",
 		"startG":"2022-08-19T19:00",
-		"title":"<b>3x Hard </b><br>G: 2022-08-19 19:00 ~ 2022-08-22 18:59 3d (UTC y-m-d)<br>Jp: 2022-02-20 04:00 ~ 2022-02-23 03:59 3d (JST y-m-d)",
+		"title":"<b>3x Hard </b><br>G: 2022-08-19 19:00 Fri ~ 2022-08-22 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2022-02-20 04:00 Sun ~ 2022-02-23 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Bounty ",
@@ -1557,7 +1557,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-08-29T18:59",
 		"startG":"2022-08-22T19:00",
-		"title":"2x Bounty <br>G: 2022-08-22 19:00 ~ 2022-08-29 18:59 7d (UTC y-m-d)<br>Jp: 2022-02-23 04:00 ~ 2022-03-02 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2022-08-22 19:00 Mon ~ 2022-08-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-02-23 04:00 Wed ~ 2022-03-02 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -1570,7 +1570,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-09-05T18:59",
 		"startG":"2022-08-29T19:00",
-		"title":"2x Comm <br>G: 2022-08-29 19:00 ~ 2022-09-05 18:59 7d (UTC y-m-d)<br>Jp: 2022-03-02 04:00 ~ 2022-03-09 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2022-08-29 19:00 Mon ~ 2022-09-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-02 04:00 Wed ~ 2022-03-09 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -1583,7 +1583,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-09-12T18:59",
 		"startG":"2022-09-05T19:00",
-		"title":"2x Lesson <br>G: 2022-09-05 19:00 ~ 2022-09-12 18:59 7d (UTC y-m-d)<br>Jp: 2022-03-09 04:00 ~ 2022-03-16 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2022-09-05 19:00 Mon ~ 2022-09-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-09 04:00 Wed ~ 2022-03-16 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -1596,7 +1596,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-09-12T18:59",
 		"startG":"2022-09-05T19:00",
-		"title":"2x Scrimm <br>G: 2022-09-05 19:00 ~ 2022-09-12 18:59 7d (UTC y-m-d)<br>Jp: 2022-03-09 04:00 ~ 2022-03-16 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2022-09-05 19:00 Mon ~ 2022-09-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-09 04:00 Wed ~ 2022-03-16 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -1609,7 +1609,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-09-16T18:59",
 		"startG":"2022-09-09T19:00",
-		"title":"2x Normal <br>G: 2022-09-09 19:00 ~ 2022-09-16 18:59 7d (UTC y-m-d)<br>Jp: 2022-03-13 04:00 ~ 2022-03-20 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2022-09-09 19:00 Fri ~ 2022-09-16 18:59 Fri 7d (UTC y-m-d)<br>Jp: 2022-03-13 04:00 Sun ~ 2022-03-20 03:59 Sun 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -1622,7 +1622,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-09-19T18:59",
 		"startG":"2022-09-16T19:00",
-		"title":"2x Hard <br>G: 2022-09-16 19:00 ~ 2022-09-19 18:59 3d (UTC y-m-d)<br>Jp: 2022-03-20 04:00 ~ 2022-03-23 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2022-09-16 19:00 Fri ~ 2022-09-19 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2022-03-20 04:00 Sun ~ 2022-03-23 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Normal ",
@@ -1635,7 +1635,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-09-23T18:59",
 		"startG":"2022-09-19T19:00",
-		"title":"2x Normal <br>G: 2022-09-19 19:00 ~ 2022-09-23 18:59 4d (UTC y-m-d)<br>Jp: 2022-03-23 04:00 ~ 2022-03-27 03:59 4d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2022-09-19 19:00 Mon ~ 2022-09-23 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2022-03-23 04:00 Wed ~ 2022-03-27 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"2x Hard ",
@@ -1648,7 +1648,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-09-26T18:59",
 		"startG":"2022-09-23T19:00",
-		"title":"2x Hard <br>G: 2022-09-23 19:00 ~ 2022-09-26 18:59 3d (UTC y-m-d)<br>Jp: 2022-03-27 04:00 ~ 2022-03-30 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2022-09-23 19:00 Fri ~ 2022-09-26 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2022-03-27 04:00 Sun ~ 2022-03-30 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Comm ",
@@ -1661,7 +1661,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-10-03T18:59",
 		"startG":"2022-09-26T19:00",
-		"title":"2x Comm <br>G: 2022-09-26 19:00 ~ 2022-10-03 18:59 7d (UTC y-m-d)<br>Jp: 2022-03-30 04:00 ~ 2022-04-06 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2022-09-26 19:00 Mon ~ 2022-10-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-30 04:00 Wed ~ 2022-04-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Bounty ",
@@ -1674,7 +1674,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-10-03T18:59",
 		"startG":"2022-09-26T19:00",
-		"title":"2x Bounty <br>G: 2022-09-26 19:00 ~ 2022-10-03 18:59 7d (UTC y-m-d)<br>Jp: 2022-03-30 04:00 ~ 2022-04-06 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2022-09-26 19:00 Mon ~ 2022-10-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-30 04:00 Wed ~ 2022-04-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -1687,7 +1687,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-10-07T18:59",
 		"startG":"2022-10-03T19:00",
-		"title":"2x Normal <br>G: 2022-10-03 19:00 ~ 2022-10-07 18:59 4d (UTC y-m-d)<br>Jp: 2022-04-06 04:00 ~ 2022-04-10 03:59 4d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2022-10-03 19:00 Mon ~ 2022-10-07 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2022-04-06 04:00 Wed ~ 2022-04-10 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"2x Lesson ",
@@ -1700,7 +1700,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-10-10T18:59",
 		"startG":"2022-10-03T19:00",
-		"title":"2x Lesson <br>G: 2022-10-03 19:00 ~ 2022-10-10 18:59 7d (UTC y-m-d)<br>Jp: 2022-04-06 04:00 ~ 2022-04-13 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2022-10-03 19:00 Mon ~ 2022-10-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-04-06 04:00 Wed ~ 2022-04-13 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -1713,7 +1713,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-10-10T18:59",
 		"startG":"2022-10-07T19:00",
-		"title":"2x Hard <br>G: 2022-10-07 19:00 ~ 2022-10-10 18:59 3d (UTC y-m-d)<br>Jp: 2022-04-10 04:00 ~ 2022-04-13 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2022-10-07 19:00 Fri ~ 2022-10-10 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2022-04-10 04:00 Sun ~ 2022-04-13 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Comm ",
@@ -1726,7 +1726,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-10-17T18:59",
 		"startG":"2022-10-10T19:00",
-		"title":"2x Comm <br>G: 2022-10-10 19:00 ~ 2022-10-17 18:59 7d (UTC y-m-d)<br>Jp: 2022-04-13 04:00 ~ 2022-04-20 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2022-10-10 19:00 Mon ~ 2022-10-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-04-13 04:00 Wed ~ 2022-04-20 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -1739,7 +1739,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-10-24T18:59",
 		"startG":"2022-10-17T19:00",
-		"title":"2x Scrimm <br>G: 2022-10-17 19:00 ~ 2022-10-24 18:59 7d (UTC y-m-d)<br>Jp: 2022-04-20 04:00 ~ 2022-04-27 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2022-10-17 19:00 Mon ~ 2022-10-24 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-04-20 04:00 Wed ~ 2022-04-27 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Bounty ",
@@ -1752,7 +1752,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-10-31T18:59",
 		"startG":"2022-10-24T19:00",
-		"title":"2x Bounty <br>G: 2022-10-24 19:00 ~ 2022-10-31 18:59 7d (UTC y-m-d)<br>Jp: 2022-04-27 04:00 ~ 2022-05-04 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2022-10-24 19:00 Mon ~ 2022-10-31 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-04-27 04:00 Wed ~ 2022-05-04 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -1765,7 +1765,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-11-07T18:59",
 		"startG":"2022-10-31T19:00",
-		"title":"2x Scrimm <br>G: 2022-10-31 19:00 ~ 2022-11-07 18:59 7d (UTC y-m-d)<br>Jp: 2022-05-04 04:00 ~ 2022-05-11 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2022-10-31 19:00 Mon ~ 2022-11-07 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-05-04 04:00 Wed ~ 2022-05-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -1778,7 +1778,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-11-07T18:59",
 		"startG":"2022-10-31T19:00",
-		"title":"2x Lesson <br>G: 2022-10-31 19:00 ~ 2022-11-07 18:59 7d (UTC y-m-d)<br>Jp: 2022-05-04 04:00 ~ 2022-05-11 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2022-10-31 19:00 Mon ~ 2022-11-07 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-05-04 04:00 Wed ~ 2022-05-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -1791,7 +1791,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-11-14T18:59",
 		"startG":"2022-11-07T19:00",
-		"title":"2x Comm <br>G: 2022-11-07 19:00 ~ 2022-11-14 18:59 7d (UTC y-m-d)<br>Jp: 2022-05-11 04:00 ~ 2022-05-18 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2022-11-07 19:00 Mon ~ 2022-11-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-05-11 04:00 Wed ~ 2022-05-18 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -1804,7 +1804,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-11-17T18:59",
 		"startG":"2022-11-11T19:00",
-		"title":"2x Normal <br>G: 2022-11-11 19:00 ~ 2022-11-17 18:59 6d (UTC y-m-d)<br>Jp: 2022-05-15 04:00 ~ 2022-05-21 03:59 6d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2022-11-11 19:00 Fri ~ 2022-11-17 18:59 Thu 6d (UTC y-m-d)<br>Jp: 2022-05-15 04:00 Sun ~ 2022-05-21 03:59 Sat 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"2x Hard ",
@@ -1817,7 +1817,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-11-20T18:59",
 		"startG":"2022-11-17T19:00",
-		"title":"2x Hard <br>G: 2022-11-17 19:00 ~ 2022-11-20 18:59 3d (UTC y-m-d)<br>Jp: 2022-05-21 04:00 ~ 2022-05-24 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2022-11-17 19:00 Thu ~ 2022-11-20 18:59 Sun 3d (UTC y-m-d)<br>Jp: 2022-05-21 04:00 Sat ~ 2022-05-24 03:59 Tue 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Bounty ",
@@ -1830,7 +1830,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-11-28T18:59",
 		"startG":"2022-11-20T19:00",
-		"title":"2x Bounty <br>G: 2022-11-20 19:00 ~ 2022-11-28 18:59 8d (UTC y-m-d)<br>Jp: 2022-05-24 04:00 ~ 2022-06-01 03:59 8d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2022-11-20 19:00 Sun ~ 2022-11-28 18:59 Mon 8d (UTC y-m-d)<br>Jp: 2022-05-24 04:00 Tue ~ 2022-06-01 03:59 Wed 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"2x Lesson ",
@@ -1843,7 +1843,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-11-28T18:59",
 		"startG":"2022-11-20T19:00",
-		"title":"2x Lesson <br>G: 2022-11-20 19:00 ~ 2022-11-28 18:59 8d (UTC y-m-d)<br>Jp: 2022-05-24 04:00 ~ 2022-06-01 03:59 8d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2022-11-20 19:00 Sun ~ 2022-11-28 18:59 Mon 8d (UTC y-m-d)<br>Jp: 2022-05-24 04:00 Tue ~ 2022-06-01 03:59 Wed 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"2x Scrimm ",
@@ -1856,7 +1856,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-12-05T18:59",
 		"startG":"2022-11-28T19:00",
-		"title":"2x Scrimm <br>G: 2022-11-28 19:00 ~ 2022-12-05 18:59 7d (UTC y-m-d)<br>Jp: 2022-06-01 04:00 ~ 2022-06-08 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2022-11-28 19:00 Mon ~ 2022-12-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-06-01 04:00 Wed ~ 2022-06-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -1869,7 +1869,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-12-12T18:59",
 		"startG":"2022-12-05T19:00",
-		"title":"2x Comm <br>G: 2022-12-05 19:00 ~ 2022-12-12 18:59 7d (UTC y-m-d)<br>Jp: 2022-06-08 04:00 ~ 2022-06-15 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2022-12-05 19:00 Mon ~ 2022-12-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-06-08 04:00 Wed ~ 2022-06-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -1882,7 +1882,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-12-16T18:59",
 		"startG":"2022-12-09T19:00",
-		"title":"2x Normal <br>G: 2022-12-09 19:00 ~ 2022-12-16 18:59 7d (UTC y-m-d)<br>Jp: 2022-06-12 04:00 ~ 2022-06-19 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2022-12-09 19:00 Fri ~ 2022-12-16 18:59 Fri 7d (UTC y-m-d)<br>Jp: 2022-06-12 04:00 Sun ~ 2022-06-19 03:59 Sun 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -1895,7 +1895,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-12-19T18:59",
 		"startG":"2022-12-16T19:00",
-		"title":"2x Hard <br>G: 2022-12-16 19:00 ~ 2022-12-19 18:59 3d (UTC y-m-d)<br>Jp: 2022-06-19 04:00 ~ 2022-06-22 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2022-12-16 19:00 Fri ~ 2022-12-19 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2022-06-19 04:00 Sun ~ 2022-06-22 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Bounty ",
@@ -1908,7 +1908,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-12-26T18:59",
 		"startG":"2022-12-19T19:00",
-		"title":"2x Bounty <br>G: 2022-12-19 19:00 ~ 2022-12-26 18:59 7d (UTC y-m-d)<br>Jp: 2022-06-22 04:00 ~ 2022-06-29 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2022-12-19 19:00 Mon ~ 2022-12-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-06-22 04:00 Wed ~ 2022-06-29 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -1921,7 +1921,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2022-12-26T18:59",
 		"startG":"2022-12-19T19:00",
-		"title":"2x Lesson <br>G: 2022-12-19 19:00 ~ 2022-12-26 18:59 7d (UTC y-m-d)<br>Jp: 2022-06-22 04:00 ~ 2022-06-29 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2022-12-19 19:00 Mon ~ 2022-12-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-06-22 04:00 Wed ~ 2022-06-29 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -1934,7 +1934,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-01-02T18:59",
 		"startG":"2022-12-26T19:00",
-		"title":"2x Scrimm <br>G: 2022-12-26 19:00 ~ 2023-01-02 18:59 7d (UTC y-m-d)<br>Jp: 2022-06-29 04:00 ~ 2022-07-06 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2022-12-26 19:00 Mon ~ 2023-01-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-06-29 04:00 Wed ~ 2022-07-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -1947,7 +1947,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-01-13T18:59",
 		"startG":"2023-01-06T19:00",
-		"title":"2x Normal <br>G: 2023-01-06 19:00 ~ 2023-01-13 18:59 7d (UTC y-m-d)<br>Jp: 2022-07-10 04:00 ~ 2022-07-17 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2023-01-06 19:00 Fri ~ 2023-01-13 18:59 Fri 7d (UTC y-m-d)<br>Jp: 2022-07-10 04:00 Sun ~ 2022-07-17 03:59 Sun 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Bounty </b>",
@@ -1960,7 +1960,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-01-23T18:59",
 		"startG":"2023-01-16T19:00",
-		"title":"<b>3x Bounty </b><br>G: 2023-01-16 19:00 ~ 2023-01-23 18:59 7d (UTC y-m-d)<br>Jp: 2022-07-20 04:00 ~ 2022-07-27 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Bounty </b><br>G: 2023-01-16 19:00 Mon ~ 2023-01-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-07-20 04:00 Wed ~ 2022-07-27 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Lesson </b>",
@@ -1973,7 +1973,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-01-23T18:59",
 		"startG":"2023-01-16T19:00",
-		"title":"<b>3x Lesson </b><br>G: 2023-01-16 19:00 ~ 2023-01-23 18:59 7d (UTC y-m-d)<br>Jp: 2022-07-20 04:00 ~ 2022-07-27 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Lesson </b><br>G: 2023-01-16 19:00 Mon ~ 2023-01-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-07-20 04:00 Wed ~ 2022-07-27 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Scrimm </b>",
@@ -1986,7 +1986,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-01-23T18:59",
 		"startG":"2023-01-16T19:00",
-		"title":"<b>3x Scrimm </b><br>G: 2023-01-16 19:00 ~ 2023-01-23 18:59 7d (UTC y-m-d)<br>Jp: 2022-07-20 04:00 ~ 2022-07-27 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Scrimm </b><br>G: 2023-01-16 19:00 Mon ~ 2023-01-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-07-20 04:00 Wed ~ 2022-07-27 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Comm </b>",
@@ -1999,7 +1999,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-01-30T18:59",
 		"startG":"2023-01-23T19:00",
-		"title":"<b>3x Comm </b><br>G: 2023-01-23 19:00 ~ 2023-01-30 18:59 7d (UTC y-m-d)<br>Jp: 2022-07-27 04:00 ~ 2022-08-03 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2023-01-23 19:00 Mon ~ 2023-01-30 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-07-27 04:00 Wed ~ 2022-08-03 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Bounty </b>",
@@ -2012,7 +2012,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-02-05T18:59",
 		"startG":"2023-01-30T19:00",
-		"title":"<b>3x Bounty </b><br>G: 2023-01-30 19:00 ~ 2023-02-05 18:59 6d (UTC y-m-d)<br>Jp: 2022-08-03 04:00 ~ 2022-08-09 03:59 6d (JST y-m-d)",
+		"title":"<b>3x Bounty </b><br>G: 2023-01-30 19:00 Mon ~ 2023-02-05 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2022-08-03 04:00 Wed ~ 2022-08-09 03:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<b>3x Lesson </b>",
@@ -2025,7 +2025,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-02-05T18:59",
 		"startG":"2023-01-30T19:00",
-		"title":"<b>3x Lesson </b><br>G: 2023-01-30 19:00 ~ 2023-02-05 18:59 6d (UTC y-m-d)<br>Jp: 2022-08-03 04:00 ~ 2022-08-09 03:59 6d (JST y-m-d)",
+		"title":"<b>3x Lesson </b><br>G: 2023-01-30 19:00 Mon ~ 2023-02-05 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2022-08-03 04:00 Wed ~ 2022-08-09 03:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<b>3x Scrimm </b>",
@@ -2038,7 +2038,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-02-05T18:59",
 		"startG":"2023-01-30T19:00",
-		"title":"<b>3x Scrimm </b><br>G: 2023-01-30 19:00 ~ 2023-02-05 18:59 6d (UTC y-m-d)<br>Jp: 2022-08-03 04:00 ~ 2022-08-09 03:59 6d (JST y-m-d)",
+		"title":"<b>3x Scrimm </b><br>G: 2023-01-30 19:00 Mon ~ 2023-02-05 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2022-08-03 04:00 Wed ~ 2022-08-09 03:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<b>3x Normal </b>",
@@ -2051,7 +2051,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-02-14T18:59",
 		"startG":"2023-02-05T19:00",
-		"title":"<b>3x Normal </b><br>G: 2023-02-05 19:00 ~ 2023-02-14 18:59 9d (UTC y-m-d)<br>Jp: 2022-08-09 04:00 ~ 2022-08-18 03:59 9d (JST y-m-d)",
+		"title":"<b>3x Normal </b><br>G: 2023-02-05 19:00 Sun ~ 2023-02-14 18:59 Tue 9d (UTC y-m-d)<br>Jp: 2022-08-09 04:00 Tue ~ 2022-08-18 03:59 Thu 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<b>3x Comm </b>",
@@ -2064,7 +2064,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-02-20T18:59",
 		"startG":"2023-02-13T19:00",
-		"title":"<b>3x Comm </b><br>G: 2023-02-13 19:00 ~ 2023-02-20 18:59 7d (UTC y-m-d)<br>Jp: 2022-08-17 04:00 ~ 2022-08-24 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2023-02-13 19:00 Mon ~ 2023-02-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-08-17 04:00 Wed ~ 2022-08-24 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Hard </b>",
@@ -2077,7 +2077,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-02-20T18:59",
 		"startG":"2023-02-14T19:00",
-		"title":"<b>3x Hard </b><br>G: 2023-02-14 19:00 ~ 2023-02-20 18:59 6d (UTC y-m-d)<br>Jp: 2022-08-18 04:00 ~ 2022-08-24 03:59 6d (JST y-m-d)",
+		"title":"<b>3x Hard </b><br>G: 2023-02-14 19:00 Tue ~ 2023-02-20 18:59 Mon 6d (UTC y-m-d)<br>Jp: 2022-08-18 04:00 Thu ~ 2022-08-24 03:59 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"2x Comm ",
@@ -2090,7 +2090,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-03-06T18:59",
 		"startG":"2023-02-27T19:00",
-		"title":"2x Comm <br>G: 2023-02-27 19:00 ~ 2023-03-06 18:59 7d (UTC y-m-d)<br>Jp: 2022-08-31 04:00 ~ 2022-09-07 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2023-02-27 19:00 Mon ~ 2023-03-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-08-31 04:00 Wed ~ 2022-09-07 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Bounty ",
@@ -2103,7 +2103,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-03-13T18:59",
 		"startG":"2023-03-06T19:00",
-		"title":"2x Bounty <br>G: 2023-03-06 19:00 ~ 2023-03-13 18:59 7d (UTC y-m-d)<br>Jp: 2022-09-07 04:00 ~ 2022-09-14 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2023-03-06 19:00 Mon ~ 2023-03-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-09-07 04:00 Wed ~ 2022-09-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -2116,7 +2116,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-03-13T18:59",
 		"startG":"2023-03-06T19:00",
-		"title":"2x Lesson <br>G: 2023-03-06 19:00 ~ 2023-03-13 18:59 7d (UTC y-m-d)<br>Jp: 2022-09-07 04:00 ~ 2022-09-14 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2023-03-06 19:00 Mon ~ 2023-03-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-09-07 04:00 Wed ~ 2022-09-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -2129,7 +2129,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-03-17T18:59",
 		"startG":"2023-03-10T19:00",
-		"title":"2x Normal <br>G: 2023-03-10 19:00 ~ 2023-03-17 18:59 7d (UTC y-m-d)<br>Jp: 2022-09-11 04:00 ~ 2022-09-18 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2023-03-10 19:00 Fri ~ 2023-03-17 18:59 Fri 7d (UTC y-m-d)<br>Jp: 2022-09-11 04:00 Sun ~ 2022-09-18 03:59 Sun 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -2142,7 +2142,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-03-20T18:59",
 		"startG":"2023-03-17T19:00",
-		"title":"2x Hard <br>G: 2023-03-17 19:00 ~ 2023-03-20 18:59 3d (UTC y-m-d)<br>Jp: 2022-09-18 04:00 ~ 2022-09-21 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2023-03-17 19:00 Fri ~ 2023-03-20 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2022-09-18 04:00 Sun ~ 2022-09-21 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Comm ",
@@ -2155,7 +2155,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-03-27T18:59",
 		"startG":"2023-03-20T19:00",
-		"title":"2x Comm <br>G: 2023-03-20 19:00 ~ 2023-03-27 18:59 7d (UTC y-m-d)<br>Jp: 2022-09-21 04:00 ~ 2022-09-28 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2023-03-20 19:00 Mon ~ 2023-03-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-09-21 04:00 Wed ~ 2022-09-28 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -2168,7 +2168,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-03-27T18:59",
 		"startG":"2023-03-20T19:00",
-		"title":"2x Scrimm <br>G: 2023-03-20 19:00 ~ 2023-03-27 18:59 7d (UTC y-m-d)<br>Jp: 2022-09-21 04:00 ~ 2022-09-28 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2023-03-20 19:00 Mon ~ 2023-03-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-09-21 04:00 Wed ~ 2022-09-28 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -2181,7 +2181,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-04-10T18:59",
 		"startG":"2023-04-03T19:00",
-		"title":"2x Comm <br>G: 2023-04-03 19:00 ~ 2023-04-10 18:59 7d (UTC y-m-d)<br>Jp: 2022-10-05 04:00 ~ 2022-10-12 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2023-04-03 19:00 Mon ~ 2023-04-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-10-05 04:00 Wed ~ 2022-10-12 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -2194,7 +2194,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-04-21T18:59",
 		"startG":"2023-04-14T19:00",
-		"title":"2x Normal <br>G: 2023-04-14 19:00 ~ 2023-04-21 18:59 7d (UTC y-m-d)<br>Jp: 2022-10-16 04:00 ~ 2022-10-23 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2023-04-14 19:00 Fri ~ 2023-04-21 18:59 Fri 7d (UTC y-m-d)<br>Jp: 2022-10-16 04:00 Sun ~ 2022-10-23 03:59 Sun 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -2207,7 +2207,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-04-24T18:59",
 		"startG":"2023-04-21T19:00",
-		"title":"2x Hard <br>G: 2023-04-21 19:00 ~ 2023-04-24 18:59 3d (UTC y-m-d)<br>Jp: 2022-10-23 04:00 ~ 2022-10-26 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2023-04-21 19:00 Fri ~ 2023-04-24 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2022-10-23 04:00 Sun ~ 2022-10-26 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Lesson ",
@@ -2220,7 +2220,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-05-01T18:59",
 		"startG":"2023-04-24T19:00",
-		"title":"2x Lesson <br>G: 2023-04-24 19:00 ~ 2023-05-01 18:59 7d (UTC y-m-d)<br>Jp: 2022-10-26 04:00 ~ 2022-11-02 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2023-04-24 19:00 Mon ~ 2023-05-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-10-26 04:00 Wed ~ 2022-11-02 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -2233,7 +2233,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-05-01T18:59",
 		"startG":"2023-04-24T19:00",
-		"title":"2x Scrimm <br>G: 2023-04-24 19:00 ~ 2023-05-01 18:59 7d (UTC y-m-d)<br>Jp: 2022-10-26 04:00 ~ 2022-11-02 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2023-04-24 19:00 Mon ~ 2023-05-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-10-26 04:00 Wed ~ 2022-11-02 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Bounty ",
@@ -2246,7 +2246,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-05-08T18:59",
 		"startG":"2023-05-01T19:00",
-		"title":"2x Bounty <br>G: 2023-05-01 19:00 ~ 2023-05-08 18:59 7d (UTC y-m-d)<br>Jp: 2022-11-02 04:00 ~ 2022-11-09 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2023-05-01 19:00 Mon ~ 2023-05-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-02 04:00 Wed ~ 2022-11-09 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -2259,7 +2259,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-05-15T18:59",
 		"startG":"2023-05-08T19:00",
-		"title":"2x Normal <br>G: 2023-05-08 19:00 ~ 2023-05-15 18:59 7d (UTC y-m-d)<br>Jp: 2022-11-09 04:00 ~ 2022-11-16 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2023-05-08 19:00 Mon ~ 2023-05-15 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-09 04:00 Wed ~ 2022-11-16 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -2272,7 +2272,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-05-18T18:59",
 		"startG":"2023-05-15T19:00",
-		"title":"2x Hard <br>G: 2023-05-15 19:00 ~ 2023-05-18 18:59 3d (UTC y-m-d)<br>Jp: 2022-11-16 04:00 ~ 2022-11-19 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2023-05-15 19:00 Mon ~ 2023-05-18 18:59 Thu 3d (UTC y-m-d)<br>Jp: 2022-11-16 04:00 Wed ~ 2022-11-19 03:59 Sat 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Comm ",
@@ -2285,7 +2285,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-05-29T18:59",
 		"startG":"2023-05-15T19:00",
-		"title":"2x Comm <br>G: 2023-05-15 19:00 ~ 2023-05-29 18:59 14d (UTC y-m-d)<br>Jp: 2022-11-16 04:00 ~ 2022-11-30 03:59 14d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2023-05-15 19:00 Mon ~ 2023-05-29 18:59 Mon 14d (UTC y-m-d)<br>Jp: 2022-11-16 04:00 Wed ~ 2022-11-30 03:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"2x Lesson ",
@@ -2298,7 +2298,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-06-05T18:59",
 		"startG":"2023-05-29T19:00",
-		"title":"2x Lesson <br>G: 2023-05-29 19:00 ~ 2023-06-05 18:59 7d (UTC y-m-d)<br>Jp: 2022-11-30 04:00 ~ 2022-12-07 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2023-05-29 19:00 Mon ~ 2023-06-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-30 04:00 Wed ~ 2022-12-07 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -2311,7 +2311,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-06-05T18:59",
 		"startG":"2023-05-29T19:00",
-		"title":"2x Scrimm <br>G: 2023-05-29 19:00 ~ 2023-06-05 18:59 7d (UTC y-m-d)<br>Jp: 2022-11-30 04:00 ~ 2022-12-07 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2023-05-29 19:00 Mon ~ 2023-06-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-30 04:00 Wed ~ 2022-12-07 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -2324,7 +2324,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-06-12T18:59",
 		"startG":"2023-06-05T19:00",
-		"title":"2x Comm <br>G: 2023-06-05 19:00 ~ 2023-06-12 18:59 7d (UTC y-m-d)<br>Jp: 2022-12-07 04:00 ~ 2022-12-14 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2023-06-05 19:00 Mon ~ 2023-06-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-07 04:00 Wed ~ 2022-12-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -2337,7 +2337,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-06-12T18:59",
 		"startG":"2023-06-09T19:00",
-		"title":"2x Normal <br>G: 2023-06-09 19:00 ~ 2023-06-12 18:59 3d (UTC y-m-d)<br>Jp: 2022-12-11 04:00 ~ 2022-12-14 03:59 3d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2023-06-09 19:00 Fri ~ 2023-06-12 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2022-12-11 04:00 Sun ~ 2022-12-14 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Bounty ",
@@ -2350,7 +2350,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-06-19T18:59",
 		"startG":"2023-06-12T19:00",
-		"title":"2x Bounty <br>G: 2023-06-12 19:00 ~ 2023-06-19 18:59 7d (UTC y-m-d)<br>Jp: 2022-12-14 04:00 ~ 2022-12-21 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2023-06-12 19:00 Mon ~ 2023-06-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-14 04:00 Wed ~ 2022-12-21 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -2363,7 +2363,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-06-23T18:59",
 		"startG":"2023-06-16T19:00",
-		"title":"2x Normal <br>G: 2023-06-16 19:00 ~ 2023-06-23 18:59 7d (UTC y-m-d)<br>Jp: 2022-12-18 04:00 ~ 2022-12-25 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2023-06-16 19:00 Fri ~ 2023-06-23 18:59 Fri 7d (UTC y-m-d)<br>Jp: 2022-12-18 04:00 Sun ~ 2022-12-25 03:59 Sun 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -2376,7 +2376,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-06-26T18:59",
 		"startG":"2023-06-23T19:00",
-		"title":"2x Hard <br>G: 2023-06-23 19:00 ~ 2023-06-26 18:59 3d (UTC y-m-d)<br>Jp: 2022-12-25 04:00 ~ 2022-12-28 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2023-06-23 19:00 Fri ~ 2023-06-26 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2022-12-25 04:00 Sun ~ 2022-12-28 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Bounty ",
@@ -2389,7 +2389,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-07-03T18:59",
 		"startG":"2023-06-26T19:00",
-		"title":"2x Bounty <br>G: 2023-06-26 19:00 ~ 2023-07-03 18:59 7d (UTC y-m-d)<br>Jp: 2022-12-28 04:00 ~ 2023-01-04 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2023-06-26 19:00 Mon ~ 2023-07-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-28 04:00 Wed ~ 2023-01-04 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -2402,7 +2402,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-07-10T18:59",
 		"startG":"2023-07-03T19:00",
-		"title":"2x Lesson <br>G: 2023-07-03 19:00 ~ 2023-07-10 18:59 7d (UTC y-m-d)<br>Jp: 2023-01-04 04:00 ~ 2023-01-11 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2023-07-03 19:00 Mon ~ 2023-07-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-01-04 04:00 Wed ~ 2023-01-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -2415,7 +2415,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-07-10T18:59",
 		"startG":"2023-07-03T19:00",
-		"title":"2x Scrimm <br>G: 2023-07-03 19:00 ~ 2023-07-10 18:59 7d (UTC y-m-d)<br>Jp: 2023-01-04 04:00 ~ 2023-01-11 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2023-07-03 19:00 Mon ~ 2023-07-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-01-04 04:00 Wed ~ 2023-01-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -2428,7 +2428,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-07-16T18:59",
 		"startG":"2023-07-10T19:00",
-		"title":"2x Comm <br>G: 2023-07-10 19:00 ~ 2023-07-16 18:59 6d (UTC y-m-d)<br>Jp: 2023-01-11 04:00 ~ 2023-01-17 03:59 6d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2023-07-10 19:00 Mon ~ 2023-07-16 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2023-01-11 04:00 Wed ~ 2023-01-17 03:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"2x Normal ",
@@ -2441,7 +2441,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-07-20T18:59",
 		"startG":"2023-07-13T19:00",
-		"title":"2x Normal <br>G: 2023-07-13 19:00 ~ 2023-07-20 18:59 7d (UTC y-m-d)<br>Jp: 2023-01-14 04:00 ~ 2023-01-21 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2023-07-13 19:00 Thu ~ 2023-07-20 18:59 Thu 7d (UTC y-m-d)<br>Jp: 2023-01-14 04:00 Sat ~ 2023-01-21 03:59 Sat 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -2454,7 +2454,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-07-23T18:59",
 		"startG":"2023-07-20T19:00",
-		"title":"2x Hard <br>G: 2023-07-20 19:00 ~ 2023-07-23 18:59 3d (UTC y-m-d)<br>Jp: 2023-01-21 04:00 ~ 2023-01-24 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2023-07-20 19:00 Thu ~ 2023-07-23 18:59 Sun 3d (UTC y-m-d)<br>Jp: 2023-01-21 04:00 Sat ~ 2023-01-24 03:59 Tue 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>3x Comm </b>",
@@ -2467,7 +2467,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-07-30T18:59",
 		"startG":"2023-07-23T19:00",
-		"title":"<b>3x Comm </b><br>G: 2023-07-23 19:00 ~ 2023-07-30 18:59 7d (UTC y-m-d)<br>Jp: 2023-01-24 04:00 ~ 2023-01-31 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2023-07-23 19:00 Sun ~ 2023-07-30 18:59 Sun 7d (UTC y-m-d)<br>Jp: 2023-01-24 04:00 Tue ~ 2023-01-31 03:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Bounty </b>",
@@ -2480,7 +2480,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-07-30T18:59",
 		"startG":"2023-07-23T19:00",
-		"title":"<b>3x Bounty </b><br>G: 2023-07-23 19:00 ~ 2023-07-30 18:59 7d (UTC y-m-d)<br>Jp: 2023-01-24 04:00 ~ 2023-01-31 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Bounty </b><br>G: 2023-07-23 19:00 Sun ~ 2023-07-30 18:59 Sun 7d (UTC y-m-d)<br>Jp: 2023-01-24 04:00 Tue ~ 2023-01-31 03:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -2493,7 +2493,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-07-29T18:59",
 		"startG":"2023-07-27T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2023-07-27 19:00 ~ 2023-07-29 18:59 2d (UTC y-m-d)<br>Jp: 2023-01-28 04:00 ~ 2023-01-30 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2023-07-27 19:00 Thu ~ 2023-07-29 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2023-01-28 04:00 Sat ~ 2023-01-30 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>3x Normal </b>",
@@ -2506,7 +2506,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-04T18:59",
 		"startG":"2023-07-30T19:00",
-		"title":"<b>3x Normal </b><br>G: 2023-07-30 19:00 ~ 2023-08-04 18:59 5d (UTC y-m-d)<br>Jp: 2023-01-31 04:00 ~ 2023-02-05 03:59 5d (JST y-m-d)",
+		"title":"<b>3x Normal </b><br>G: 2023-07-30 19:00 Sun ~ 2023-08-04 18:59 Fri 5d (UTC y-m-d)<br>Jp: 2023-01-31 04:00 Tue ~ 2023-02-05 03:59 Sun 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<b>3x Lesson </b>",
@@ -2519,7 +2519,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-07T18:59",
 		"startG":"2023-07-30T19:00",
-		"title":"<b>3x Lesson </b><br>G: 2023-07-30 19:00 ~ 2023-08-07 18:59 8d (UTC y-m-d)<br>Jp: 2023-01-31 04:00 ~ 2023-02-08 03:59 8d (JST y-m-d)",
+		"title":"<b>3x Lesson </b><br>G: 2023-07-30 19:00 Sun ~ 2023-08-07 18:59 Mon 8d (UTC y-m-d)<br>Jp: 2023-01-31 04:00 Tue ~ 2023-02-08 03:59 Wed 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"<b>3x Scrimm </b>",
@@ -2532,7 +2532,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-07T18:59",
 		"startG":"2023-07-30T19:00",
-		"title":"<b>3x Scrimm </b><br>G: 2023-07-30 19:00 ~ 2023-08-07 18:59 8d (UTC y-m-d)<br>Jp: 2023-01-31 04:00 ~ 2023-02-08 03:59 8d (JST y-m-d)",
+		"title":"<b>3x Scrimm </b><br>G: 2023-07-30 19:00 Sun ~ 2023-08-07 18:59 Mon 8d (UTC y-m-d)<br>Jp: 2023-01-31 04:00 Tue ~ 2023-02-08 03:59 Wed 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -2545,7 +2545,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-05T18:59",
 		"startG":"2023-08-03T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2023-08-03 19:00 ~ 2023-08-05 18:59 2d (UTC y-m-d)<br>Jp: 2023-02-04 04:00 ~ 2023-02-06 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2023-08-03 19:00 Thu ~ 2023-08-05 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2023-02-04 04:00 Sat ~ 2023-02-06 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>3x Hard </b>",
@@ -2558,7 +2558,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-07T18:59",
 		"startG":"2023-08-04T19:00",
-		"title":"<b>3x Hard </b><br>G: 2023-08-04 19:00 ~ 2023-08-07 18:59 3d (UTC y-m-d)<br>Jp: 2023-02-05 04:00 ~ 2023-02-08 03:59 3d (JST y-m-d)",
+		"title":"<b>3x Hard </b><br>G: 2023-08-04 19:00 Fri ~ 2023-08-07 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2023-02-05 04:00 Sun ~ 2023-02-08 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>3x Comm </b>",
@@ -2571,7 +2571,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-14T18:59",
 		"startG":"2023-08-07T19:00",
-		"title":"<b>3x Comm </b><br>G: 2023-08-07 19:00 ~ 2023-08-14 18:59 7d (UTC y-m-d)<br>Jp: 2023-02-08 04:00 ~ 2023-02-15 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2023-08-07 19:00 Mon ~ 2023-08-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-02-08 04:00 Wed ~ 2023-02-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Bounty </b>",
@@ -2584,7 +2584,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-14T18:59",
 		"startG":"2023-08-07T19:00",
-		"title":"<b>3x Bounty </b><br>G: 2023-08-07 19:00 ~ 2023-08-14 18:59 7d (UTC y-m-d)<br>Jp: 2023-02-08 04:00 ~ 2023-02-15 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Bounty </b><br>G: 2023-08-07 19:00 Mon ~ 2023-08-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-02-08 04:00 Wed ~ 2023-02-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -2597,7 +2597,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-12T18:59",
 		"startG":"2023-08-10T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2023-08-10 19:00 ~ 2023-08-12 18:59 2d (UTC y-m-d)<br>Jp: 2023-02-11 04:00 ~ 2023-02-13 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2023-08-10 19:00 Thu ~ 2023-08-12 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2023-02-11 04:00 Sat ~ 2023-02-13 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>3x Normal </b>",
@@ -2610,7 +2610,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-18T18:59",
 		"startG":"2023-08-14T19:00",
-		"title":"<b>3x Normal </b><br>G: 2023-08-14 19:00 ~ 2023-08-18 18:59 4d (UTC y-m-d)<br>Jp: 2023-02-15 04:00 ~ 2023-02-19 03:59 4d (JST y-m-d)",
+		"title":"<b>3x Normal </b><br>G: 2023-08-14 19:00 Mon ~ 2023-08-18 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2023-02-15 04:00 Wed ~ 2023-02-19 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"<b>3x Lesson </b>",
@@ -2623,7 +2623,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-21T18:59",
 		"startG":"2023-08-14T19:00",
-		"title":"<b>3x Lesson </b><br>G: 2023-08-14 19:00 ~ 2023-08-21 18:59 7d (UTC y-m-d)<br>Jp: 2023-02-15 04:00 ~ 2023-02-22 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Lesson </b><br>G: 2023-08-14 19:00 Mon ~ 2023-08-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-02-15 04:00 Wed ~ 2023-02-22 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Scrimm </b>",
@@ -2636,7 +2636,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-21T18:59",
 		"startG":"2023-08-14T19:00",
-		"title":"<b>3x Scrimm </b><br>G: 2023-08-14 19:00 ~ 2023-08-21 18:59 7d (UTC y-m-d)<br>Jp: 2023-02-15 04:00 ~ 2023-02-22 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Scrimm </b><br>G: 2023-08-14 19:00 Mon ~ 2023-08-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-02-15 04:00 Wed ~ 2023-02-22 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -2649,7 +2649,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-19T18:59",
 		"startG":"2023-08-17T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2023-08-17 19:00 ~ 2023-08-19 18:59 2d (UTC y-m-d)<br>Jp: 2023-02-18 04:00 ~ 2023-02-20 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2023-08-17 19:00 Thu ~ 2023-08-19 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2023-02-18 04:00 Sat ~ 2023-02-20 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>3x Hard </b>",
@@ -2662,7 +2662,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-21T18:59",
 		"startG":"2023-08-18T19:00",
-		"title":"<b>3x Hard </b><br>G: 2023-08-18 19:00 ~ 2023-08-21 18:59 3d (UTC y-m-d)<br>Jp: 2023-02-19 04:00 ~ 2023-02-22 03:59 3d (JST y-m-d)",
+		"title":"<b>3x Hard </b><br>G: 2023-08-18 19:00 Fri ~ 2023-08-21 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2023-02-19 04:00 Sun ~ 2023-02-22 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Comm ",
@@ -2675,7 +2675,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-08-28T18:59",
 		"startG":"2023-08-21T19:00",
-		"title":"2x Comm <br>G: 2023-08-21 19:00 ~ 2023-08-28 18:59 7d (UTC y-m-d)<br>Jp: 2023-02-22 04:00 ~ 2023-03-01 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2023-08-21 19:00 Mon ~ 2023-08-28 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-02-22 04:00 Wed ~ 2023-03-01 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -2688,7 +2688,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-09-04T18:59",
 		"startG":"2023-08-28T19:00",
-		"title":"2x Lesson <br>G: 2023-08-28 19:00 ~ 2023-09-04 18:59 7d (UTC y-m-d)<br>Jp: 2023-03-01 04:00 ~ 2023-03-08 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2023-08-28 19:00 Mon ~ 2023-09-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-01 04:00 Wed ~ 2023-03-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -2701,7 +2701,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-09-04T18:59",
 		"startG":"2023-08-28T19:00",
-		"title":"2x Scrimm <br>G: 2023-08-28 19:00 ~ 2023-09-04 18:59 7d (UTC y-m-d)<br>Jp: 2023-03-01 04:00 ~ 2023-03-08 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2023-08-28 19:00 Mon ~ 2023-09-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-01 04:00 Wed ~ 2023-03-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Bounty ",
@@ -2714,7 +2714,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-09-11T18:59",
 		"startG":"2023-09-04T19:00",
-		"title":"2x Bounty <br>G: 2023-09-04 19:00 ~ 2023-09-11 18:59 7d (UTC y-m-d)<br>Jp: 2023-03-08 04:00 ~ 2023-03-15 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2023-09-04 19:00 Mon ~ 2023-09-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-08 04:00 Wed ~ 2023-03-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -2727,7 +2727,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-09-15T18:59",
 		"startG":"2023-09-09T19:00",
-		"title":"2x Normal <br>G: 2023-09-09 19:00 ~ 2023-09-15 18:59 6d (UTC y-m-d)<br>Jp: 2023-03-13 04:00 ~ 2023-03-19 03:59 6d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2023-09-09 19:00 Sat ~ 2023-09-15 18:59 Fri 6d (UTC y-m-d)<br>Jp: 2023-03-13 04:00 Mon ~ 2023-03-19 03:59 Sun 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"2x Hard ",
@@ -2740,7 +2740,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-09-18T18:59",
 		"startG":"2023-09-15T19:00",
-		"title":"2x Hard <br>G: 2023-09-15 19:00 ~ 2023-09-18 18:59 3d (UTC y-m-d)<br>Jp: 2023-03-19 04:00 ~ 2023-03-22 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2023-09-15 19:00 Fri ~ 2023-09-18 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2023-03-19 04:00 Sun ~ 2023-03-22 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Bounty ",
@@ -2753,7 +2753,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-09-25T18:59",
 		"startG":"2023-09-18T19:00",
-		"title":"2x Bounty <br>G: 2023-09-18 19:00 ~ 2023-09-25 18:59 7d (UTC y-m-d)<br>Jp: 2023-03-22 04:00 ~ 2023-03-29 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2023-09-18 19:00 Mon ~ 2023-09-25 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-22 04:00 Wed ~ 2023-03-29 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -2766,7 +2766,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-10-02T18:59",
 		"startG":"2023-09-25T19:00",
-		"title":"2x Comm <br>G: 2023-09-25 19:00 ~ 2023-10-02 18:59 7d (UTC y-m-d)<br>Jp: 2023-03-29 04:00 ~ 2023-04-05 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2023-09-25 19:00 Mon ~ 2023-10-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-29 04:00 Wed ~ 2023-04-05 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -2779,7 +2779,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-10-09T18:59",
 		"startG":"2023-10-02T19:00",
-		"title":"2x Normal <br>G: 2023-10-02 19:00 ~ 2023-10-09 18:59 7d (UTC y-m-d)<br>Jp: 2023-04-05 04:00 ~ 2023-04-12 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2023-10-02 19:00 Mon ~ 2023-10-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-04-05 04:00 Wed ~ 2023-04-12 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -2792,7 +2792,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-10-09T18:59",
 		"startG":"2023-10-02T19:00",
-		"title":"2x Scrimm <br>G: 2023-10-02 19:00 ~ 2023-10-09 18:59 7d (UTC y-m-d)<br>Jp: 2023-04-05 04:00 ~ 2023-04-12 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2023-10-02 19:00 Mon ~ 2023-10-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-04-05 04:00 Wed ~ 2023-04-12 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -2805,7 +2805,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-10-16T18:59",
 		"startG":"2023-10-09T19:00",
-		"title":"2x Lesson <br>G: 2023-10-09 19:00 ~ 2023-10-16 18:59 7d (UTC y-m-d)<br>Jp: 2023-04-12 04:00 ~ 2023-04-19 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2023-10-09 19:00 Mon ~ 2023-10-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-04-12 04:00 Wed ~ 2023-04-19 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -2818,7 +2818,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-10-23T18:59",
 		"startG":"2023-10-16T19:00",
-		"title":"2x Comm <br>G: 2023-10-16 19:00 ~ 2023-10-23 18:59 7d (UTC y-m-d)<br>Jp: 2023-04-19 04:00 ~ 2023-04-26 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2023-10-16 19:00 Mon ~ 2023-10-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-04-19 04:00 Wed ~ 2023-04-26 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -2831,7 +2831,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-10-23T18:59",
 		"startG":"2023-10-18T19:00",
-		"title":"2x Hard <br>G: 2023-10-18 19:00 ~ 2023-10-23 18:59 5d (UTC y-m-d)<br>Jp: 2023-04-21 04:00 ~ 2023-04-26 03:59 5d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2023-10-18 19:00 Wed ~ 2023-10-23 18:59 Mon 5d (UTC y-m-d)<br>Jp: 2023-04-21 04:00 Fri ~ 2023-04-26 03:59 Wed 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"2x Bounty ",
@@ -2844,7 +2844,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-10-30T18:59",
 		"startG":"2023-10-23T19:00",
-		"title":"2x Bounty <br>G: 2023-10-23 19:00 ~ 2023-10-30 18:59 7d (UTC y-m-d)<br>Jp: 2023-04-26 04:00 ~ 2023-05-03 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2023-10-23 19:00 Mon ~ 2023-10-30 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-04-26 04:00 Wed ~ 2023-05-03 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -2857,7 +2857,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-11-06T18:59",
 		"startG":"2023-10-30T19:00",
-		"title":"2x Comm <br>G: 2023-10-30 19:00 ~ 2023-11-06 18:59 7d (UTC y-m-d)<br>Jp: 2023-05-03 04:00 ~ 2023-05-10 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2023-10-30 19:00 Mon ~ 2023-11-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-03 04:00 Wed ~ 2023-05-10 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -2870,7 +2870,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-11-13T18:59",
 		"startG":"2023-11-06T19:00",
-		"title":"2x Lesson <br>G: 2023-11-06 19:00 ~ 2023-11-13 18:59 7d (UTC y-m-d)<br>Jp: 2023-05-10 04:00 ~ 2023-05-17 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2023-11-06 19:00 Mon ~ 2023-11-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-10 04:00 Wed ~ 2023-05-17 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -2883,7 +2883,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-11-13T18:59",
 		"startG":"2023-11-06T19:00",
-		"title":"2x Scrimm <br>G: 2023-11-06 19:00 ~ 2023-11-13 18:59 7d (UTC y-m-d)<br>Jp: 2023-05-10 04:00 ~ 2023-05-17 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2023-11-06 19:00 Mon ~ 2023-11-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-10 04:00 Wed ~ 2023-05-17 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -2896,7 +2896,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-11-17T18:59",
 		"startG":"2023-11-13T19:00",
-		"title":"2x Normal <br>G: 2023-11-13 19:00 ~ 2023-11-17 18:59 4d (UTC y-m-d)<br>Jp: 2023-05-17 04:00 ~ 2023-05-21 03:59 4d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2023-11-13 19:00 Mon ~ 2023-11-17 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2023-05-17 04:00 Wed ~ 2023-05-21 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"2x Hard ",
@@ -2909,7 +2909,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-11-20T18:59",
 		"startG":"2023-11-17T19:00",
-		"title":"2x Hard <br>G: 2023-11-17 19:00 ~ 2023-11-20 18:59 3d (UTC y-m-d)<br>Jp: 2023-05-21 04:00 ~ 2023-05-24 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2023-11-17 19:00 Fri ~ 2023-11-20 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2023-05-21 04:00 Sun ~ 2023-05-24 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Bounty ",
@@ -2922,7 +2922,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-11-27T18:59",
 		"startG":"2023-11-20T19:00",
-		"title":"2x Bounty <br>G: 2023-11-20 19:00 ~ 2023-11-27 18:59 7d (UTC y-m-d)<br>Jp: 2023-05-24 04:00 ~ 2023-05-31 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2023-11-20 19:00 Mon ~ 2023-11-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-24 04:00 Wed ~ 2023-05-31 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -2935,7 +2935,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-12-04T18:59",
 		"startG":"2023-11-27T19:00",
-		"title":"2x Comm <br>G: 2023-11-27 19:00 ~ 2023-12-04 18:59 7d (UTC y-m-d)<br>Jp: 2023-05-31 04:00 ~ 2023-06-07 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2023-11-27 19:00 Mon ~ 2023-12-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-31 04:00 Wed ~ 2023-06-07 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -2948,7 +2948,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-12-11T18:59",
 		"startG":"2023-12-04T19:00",
-		"title":"2x Lesson <br>G: 2023-12-04 19:00 ~ 2023-12-11 18:59 7d (UTC y-m-d)<br>Jp: 2023-06-07 04:00 ~ 2023-06-14 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2023-12-04 19:00 Mon ~ 2023-12-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-07 04:00 Wed ~ 2023-06-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -2961,7 +2961,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-12-11T18:59",
 		"startG":"2023-12-04T19:00",
-		"title":"2x Scrimm <br>G: 2023-12-04 19:00 ~ 2023-12-11 18:59 7d (UTC y-m-d)<br>Jp: 2023-06-07 04:00 ~ 2023-06-14 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2023-12-04 19:00 Mon ~ 2023-12-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-07 04:00 Wed ~ 2023-06-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -2974,7 +2974,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-12-15T18:59",
 		"startG":"2023-12-11T19:00",
-		"title":"2x Normal <br>G: 2023-12-11 19:00 ~ 2023-12-15 18:59 4d (UTC y-m-d)<br>Jp: 2023-06-14 04:00 ~ 2023-06-18 03:59 4d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2023-12-11 19:00 Mon ~ 2023-12-15 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2023-06-14 04:00 Wed ~ 2023-06-18 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"2x Hard ",
@@ -2987,7 +2987,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-12-18T18:59",
 		"startG":"2023-12-15T19:00",
-		"title":"2x Hard <br>G: 2023-12-15 19:00 ~ 2023-12-18 18:59 3d (UTC y-m-d)<br>Jp: 2023-06-18 04:00 ~ 2023-06-21 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2023-12-15 19:00 Fri ~ 2023-12-18 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2023-06-18 04:00 Sun ~ 2023-06-21 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Bounty ",
@@ -3000,7 +3000,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2023-12-25T18:59",
 		"startG":"2023-12-18T19:00",
-		"title":"2x Bounty <br>G: 2023-12-18 19:00 ~ 2023-12-25 18:59 7d (UTC y-m-d)<br>Jp: 2023-06-21 04:00 ~ 2023-06-28 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2023-12-18 19:00 Mon ~ 2023-12-25 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-21 04:00 Wed ~ 2023-06-28 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -3013,7 +3013,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-01-01T18:59",
 		"startG":"2023-12-25T19:00",
-		"title":"2x Comm <br>G: 2023-12-25 19:00 ~ 2024-01-01 18:59 7d (UTC y-m-d)<br>Jp: 2023-06-28 04:00 ~ 2023-07-05 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2023-12-25 19:00 Mon ~ 2024-01-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-28 04:00 Wed ~ 2023-07-05 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -3026,7 +3026,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-01-08T18:59",
 		"startG":"2024-01-01T19:00",
-		"title":"2x Normal <br>G: 2024-01-01 19:00 ~ 2024-01-08 18:59 7d (UTC y-m-d)<br>Jp: 2023-07-05 04:00 ~ 2023-07-12 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2024-01-01 19:00 Mon ~ 2024-01-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-07-05 04:00 Wed ~ 2023-07-12 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -3039,7 +3039,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-01-13T18:59",
 		"startG":"2024-01-08T19:00",
-		"title":"2x Hard <br>G: 2024-01-08 19:00 ~ 2024-01-13 18:59 5d (UTC y-m-d)<br>Jp: 2023-07-12 04:00 ~ 2023-07-17 03:59 5d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2024-01-08 19:00 Mon ~ 2024-01-13 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2023-07-12 04:00 Wed ~ 2023-07-17 03:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"2x Lesson ",
@@ -3052,7 +3052,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-01-20T18:59",
 		"startG":"2024-01-13T19:00",
-		"title":"2x Lesson <br>G: 2024-01-13 19:00 ~ 2024-01-20 18:59 7d (UTC y-m-d)<br>Jp: 2023-07-17 04:00 ~ 2023-07-24 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2024-01-13 19:00 Sat ~ 2024-01-20 18:59 Sat 7d (UTC y-m-d)<br>Jp: 2023-07-17 04:00 Mon ~ 2023-07-24 03:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -3065,7 +3065,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-01-20T18:59",
 		"startG":"2024-01-13T19:00",
-		"title":"2x Scrimm <br>G: 2024-01-13 19:00 ~ 2024-01-20 18:59 7d (UTC y-m-d)<br>Jp: 2023-07-17 04:00 ~ 2023-07-24 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2024-01-13 19:00 Sat ~ 2024-01-20 18:59 Sat 7d (UTC y-m-d)<br>Jp: 2023-07-17 04:00 Mon ~ 2023-07-24 03:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -3078,7 +3078,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-01-20T18:59",
 		"startG":"2024-01-15T19:00",
-		"title":"2x Comm <br>G: 2024-01-15 19:00 ~ 2024-01-20 18:59 5d (UTC y-m-d)<br>Jp: 2023-07-19 04:00 ~ 2023-07-24 03:59 5d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-01-15 19:00 Mon ~ 2024-01-20 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2023-07-19 04:00 Wed ~ 2023-07-24 03:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<b>3x Comm </b>",
@@ -3091,7 +3091,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-01-29T18:59",
 		"startG":"2024-01-20T19:00",
-		"title":"<b>3x Comm </b><br>G: 2024-01-20 19:00 ~ 2024-01-29 18:59 9d (UTC y-m-d)<br>Jp: 2023-07-24 04:00 ~ 2023-08-02 03:59 9d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2024-01-20 19:00 Sat ~ 2024-01-29 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2023-07-24 04:00 Mon ~ 2023-08-02 03:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<b>3x Bounty </b>",
@@ -3104,7 +3104,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-01-29T18:59",
 		"startG":"2024-01-20T19:00",
-		"title":"<b>3x Bounty </b><br>G: 2024-01-20 19:00 ~ 2024-01-29 18:59 9d (UTC y-m-d)<br>Jp: 2023-07-24 04:00 ~ 2023-08-02 03:59 9d (JST y-m-d)",
+		"title":"<b>3x Bounty </b><br>G: 2024-01-20 19:00 Sat ~ 2024-01-29 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2023-07-24 04:00 Mon ~ 2023-08-02 03:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3117,7 +3117,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-01-27T18:59",
 		"startG":"2024-01-25T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-01-25 19:00 ~ 2024-01-27 18:59 2d (UTC y-m-d)<br>Jp: 2023-07-29 04:00 ~ 2023-07-31 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-01-25 19:00 Thu ~ 2024-01-27 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2023-07-29 04:00 Sat ~ 2023-07-31 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>3x Normal </b>",
@@ -3130,7 +3130,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-02-02T18:59",
 		"startG":"2024-01-29T19:00",
-		"title":"<b>3x Normal </b><br>G: 2024-01-29 19:00 ~ 2024-02-02 18:59 4d (UTC y-m-d)<br>Jp: 2023-08-02 04:00 ~ 2023-08-06 03:59 4d (JST y-m-d)",
+		"title":"<b>3x Normal </b><br>G: 2024-01-29 19:00 Mon ~ 2024-02-02 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2023-08-02 04:00 Wed ~ 2023-08-06 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"<b>3x Lesson </b>",
@@ -3143,7 +3143,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-02-12T18:59",
 		"startG":"2024-01-29T19:00",
-		"title":"<b>3x Lesson </b><br>G: 2024-01-29 19:00 ~ 2024-02-12 18:59 14d (UTC y-m-d)<br>Jp: 2023-08-02 04:00 ~ 2023-08-16 03:59 14d (JST y-m-d)",
+		"title":"<b>3x Lesson </b><br>G: 2024-01-29 19:00 Mon ~ 2024-02-12 18:59 Mon 14d (UTC y-m-d)<br>Jp: 2023-08-02 04:00 Wed ~ 2023-08-16 03:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<b>3x Scrimm </b>",
@@ -3156,7 +3156,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-02-12T18:59",
 		"startG":"2024-01-29T19:00",
-		"title":"<b>3x Scrimm </b><br>G: 2024-01-29 19:00 ~ 2024-02-12 18:59 14d (UTC y-m-d)<br>Jp: 2023-08-02 04:00 ~ 2023-08-16 03:59 14d (JST y-m-d)",
+		"title":"<b>3x Scrimm </b><br>G: 2024-01-29 19:00 Mon ~ 2024-02-12 18:59 Mon 14d (UTC y-m-d)<br>Jp: 2023-08-02 04:00 Wed ~ 2023-08-16 03:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3169,7 +3169,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-02-03T18:59",
 		"startG":"2024-02-01T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-02-01 19:00 ~ 2024-02-03 18:59 2d (UTC y-m-d)<br>Jp: 2023-08-05 04:00 ~ 2023-08-07 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-02-01 19:00 Thu ~ 2024-02-03 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2023-08-05 04:00 Sat ~ 2023-08-07 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>3x Hard </b>",
@@ -3182,7 +3182,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-02-05T18:59",
 		"startG":"2024-02-02T19:00",
-		"title":"<b>3x Hard </b><br>G: 2024-02-02 19:00 ~ 2024-02-05 18:59 3d (UTC y-m-d)<br>Jp: 2023-08-06 04:00 ~ 2023-08-09 03:59 3d (JST y-m-d)",
+		"title":"<b>3x Hard </b><br>G: 2024-02-02 19:00 Fri ~ 2024-02-05 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2023-08-06 04:00 Sun ~ 2023-08-09 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>3x Normal </b>",
@@ -3195,7 +3195,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-02-09T18:59",
 		"startG":"2024-02-05T19:00",
-		"title":"<b>3x Normal </b><br>G: 2024-02-05 19:00 ~ 2024-02-09 18:59 4d (UTC y-m-d)<br>Jp: 2023-08-09 04:00 ~ 2023-08-13 03:59 4d (JST y-m-d)",
+		"title":"<b>3x Normal </b><br>G: 2024-02-05 19:00 Mon ~ 2024-02-09 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2023-08-09 04:00 Wed ~ 2023-08-13 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3208,7 +3208,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-02-10T18:59",
 		"startG":"2024-02-08T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-02-08 19:00 ~ 2024-02-10 18:59 2d (UTC y-m-d)<br>Jp: 2023-08-12 04:00 ~ 2023-08-14 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-02-08 19:00 Thu ~ 2024-02-10 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2023-08-12 04:00 Sat ~ 2023-08-14 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>3x Hard </b>",
@@ -3221,7 +3221,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-02-12T18:59",
 		"startG":"2024-02-09T19:00",
-		"title":"<b>3x Hard </b><br>G: 2024-02-09 19:00 ~ 2024-02-12 18:59 3d (UTC y-m-d)<br>Jp: 2023-08-13 04:00 ~ 2023-08-16 03:59 3d (JST y-m-d)",
+		"title":"<b>3x Hard </b><br>G: 2024-02-09 19:00 Fri ~ 2024-02-12 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2023-08-13 04:00 Sun ~ 2023-08-16 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>3x Comm </b>",
@@ -3234,7 +3234,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-02-19T18:59",
 		"startG":"2024-02-12T19:00",
-		"title":"<b>3x Comm </b><br>G: 2024-02-12 19:00 ~ 2024-02-19 18:59 7d (UTC y-m-d)<br>Jp: 2023-08-16 04:00 ~ 2023-08-23 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2024-02-12 19:00 Mon ~ 2024-02-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-16 04:00 Wed ~ 2023-08-23 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Bounty </b>",
@@ -3247,7 +3247,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-02-19T18:59",
 		"startG":"2024-02-12T19:00",
-		"title":"<b>3x Bounty </b><br>G: 2024-02-12 19:00 ~ 2024-02-19 18:59 7d (UTC y-m-d)<br>Jp: 2023-08-16 04:00 ~ 2023-08-23 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Bounty </b><br>G: 2024-02-12 19:00 Mon ~ 2024-02-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-16 04:00 Wed ~ 2023-08-23 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3260,7 +3260,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-02-17T18:59",
 		"startG":"2024-02-15T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-02-15 19:00 ~ 2024-02-17 18:59 2d (UTC y-m-d)<br>Jp: 2023-08-19 04:00 ~ 2023-08-21 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-02-15 19:00 Thu ~ 2024-02-17 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2023-08-19 04:00 Sat ~ 2023-08-21 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"2x Bounty ",
@@ -3273,7 +3273,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-02-26T18:59",
 		"startG":"2024-02-19T19:00",
-		"title":"2x Bounty <br>G: 2024-02-19 19:00 ~ 2024-02-26 18:59 7d (UTC y-m-d)<br>Jp: 2023-08-23 04:00 ~ 2023-08-30 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2024-02-19 19:00 Mon ~ 2024-02-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-23 04:00 Wed ~ 2023-08-30 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -3286,7 +3286,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-03-04T18:59",
 		"startG":"2024-02-26T19:00",
-		"title":"2x Comm <br>G: 2024-02-26 19:00 ~ 2024-03-04 18:59 7d (UTC y-m-d)<br>Jp: 2023-08-30 04:00 ~ 2023-09-06 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-02-26 19:00 Mon ~ 2024-03-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-30 04:00 Wed ~ 2023-09-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -3299,7 +3299,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-03-11T18:59",
 		"startG":"2024-03-04T19:00",
-		"title":"2x Lesson <br>G: 2024-03-04 19:00 ~ 2024-03-11 18:59 7d (UTC y-m-d)<br>Jp: 2023-09-06 04:00 ~ 2023-09-13 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2024-03-04 19:00 Mon ~ 2024-03-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-09-06 04:00 Wed ~ 2023-09-13 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -3312,7 +3312,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-03-11T18:59",
 		"startG":"2024-03-04T19:00",
-		"title":"2x Scrimm <br>G: 2024-03-04 19:00 ~ 2024-03-11 18:59 7d (UTC y-m-d)<br>Jp: 2023-09-06 04:00 ~ 2023-09-13 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2024-03-04 19:00 Mon ~ 2024-03-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-09-06 04:00 Wed ~ 2023-09-13 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -3325,7 +3325,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-03-15T18:59",
 		"startG":"2024-03-11T19:00",
-		"title":"2x Normal <br>G: 2024-03-11 19:00 ~ 2024-03-15 18:59 4d (UTC y-m-d)<br>Jp: 2023-09-13 04:00 ~ 2023-09-17 03:59 4d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2024-03-11 19:00 Mon ~ 2024-03-15 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2023-09-13 04:00 Wed ~ 2023-09-17 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"2x Hard ",
@@ -3338,7 +3338,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-03-18T18:59",
 		"startG":"2024-03-15T19:00",
-		"title":"2x Hard <br>G: 2024-03-15 19:00 ~ 2024-03-18 18:59 3d (UTC y-m-d)<br>Jp: 2023-09-17 04:00 ~ 2023-09-20 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2024-03-15 19:00 Fri ~ 2024-03-18 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2023-09-17 04:00 Sun ~ 2023-09-20 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Bounty ",
@@ -3351,7 +3351,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-03-25T18:59",
 		"startG":"2024-03-18T19:00",
-		"title":"2x Bounty <br>G: 2024-03-18 19:00 ~ 2024-03-25 18:59 7d (UTC y-m-d)<br>Jp: 2023-09-20 04:00 ~ 2023-09-27 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2024-03-18 19:00 Mon ~ 2024-03-25 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-09-20 04:00 Wed ~ 2023-09-27 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -3364,7 +3364,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-04-01T18:59",
 		"startG":"2024-03-25T19:00",
-		"title":"2x Lesson <br>G: 2024-03-25 19:00 ~ 2024-04-01 18:59 7d (UTC y-m-d)<br>Jp: 2023-09-27 04:00 ~ 2023-10-04 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2024-03-25 19:00 Mon ~ 2024-04-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-09-27 04:00 Wed ~ 2023-10-04 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -3377,7 +3377,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-04-01T18:59",
 		"startG":"2024-03-25T19:00",
-		"title":"2x Scrimm <br>G: 2024-03-25 19:00 ~ 2024-04-01 18:59 7d (UTC y-m-d)<br>Jp: 2023-09-27 04:00 ~ 2023-10-04 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2024-03-25 19:00 Mon ~ 2024-04-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-09-27 04:00 Wed ~ 2023-10-04 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -3390,7 +3390,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-04-08T18:59",
 		"startG":"2024-04-01T19:00",
-		"title":"2x Comm <br>G: 2024-04-01 19:00 ~ 2024-04-08 18:59 7d (UTC y-m-d)<br>Jp: 2023-10-04 04:00 ~ 2023-10-11 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-04-01 19:00 Mon ~ 2024-04-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-10-04 04:00 Wed ~ 2023-10-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -3403,7 +3403,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-04-17T18:59",
 		"startG":"2024-04-08T19:00",
-		"title":"2x Normal <br>G: 2024-04-08 19:00 ~ 2024-04-17 18:59 9d (UTC y-m-d)<br>Jp: 2023-10-11 04:00 ~ 2023-10-20 03:59 9d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2024-04-08 19:00 Mon ~ 2024-04-17 18:59 Wed 9d (UTC y-m-d)<br>Jp: 2023-10-11 04:00 Wed ~ 2023-10-20 03:59 Fri 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"2x Comm ",
@@ -3416,7 +3416,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-04-21T18:59",
 		"startG":"2024-04-15T19:00",
-		"title":"2x Comm <br>G: 2024-04-15 19:00 ~ 2024-04-21 18:59 6d (UTC y-m-d)<br>Jp: 2023-10-18 04:00 ~ 2023-10-24 03:59 6d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-04-15 19:00 Mon ~ 2024-04-21 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2023-10-18 04:00 Wed ~ 2023-10-24 03:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"2x Hard ",
@@ -3429,7 +3429,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-04-21T18:59",
 		"startG":"2024-04-17T19:00",
-		"title":"2x Hard <br>G: 2024-04-17 19:00 ~ 2024-04-21 18:59 4d (UTC y-m-d)<br>Jp: 2023-10-20 04:00 ~ 2023-10-24 03:59 4d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2024-04-17 19:00 Wed ~ 2024-04-21 18:59 Sun 4d (UTC y-m-d)<br>Jp: 2023-10-20 04:00 Fri ~ 2023-10-24 03:59 Tue 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"2x Bounty ",
@@ -3442,7 +3442,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-05-01T18:59",
 		"startG":"2024-04-22T19:00",
-		"title":"2x Bounty <br>G: 2024-04-22 19:00 ~ 2024-05-01 18:59 9d (UTC y-m-d)<br>Jp: 2023-10-25 04:00 ~ 2023-11-03 03:59 9d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2024-04-22 19:00 Mon ~ 2024-05-01 18:59 Wed 9d (UTC y-m-d)<br>Jp: 2023-10-25 04:00 Wed ~ 2023-11-03 03:59 Fri 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"2x Lesson ",
@@ -3455,7 +3455,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-05-06T18:59",
 		"startG":"2024-04-29T19:00",
-		"title":"2x Lesson <br>G: 2024-04-29 19:00 ~ 2024-05-06 18:59 7d (UTC y-m-d)<br>Jp: 2023-11-01 04:00 ~ 2023-11-08 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2024-04-29 19:00 Mon ~ 2024-05-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-01 04:00 Wed ~ 2023-11-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -3468,7 +3468,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-05-06T18:59",
 		"startG":"2024-04-29T19:00",
-		"title":"2x Scrimm <br>G: 2024-04-29 19:00 ~ 2024-05-06 18:59 7d (UTC y-m-d)<br>Jp: 2023-11-01 04:00 ~ 2023-11-08 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2024-04-29 19:00 Mon ~ 2024-05-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-01 04:00 Wed ~ 2023-11-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -3481,7 +3481,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-05-13T18:59",
 		"startG":"2024-05-06T19:00",
-		"title":"2x Comm <br>G: 2024-05-06 19:00 ~ 2024-05-13 18:59 7d (UTC y-m-d)<br>Jp: 2023-11-08 04:00 ~ 2023-11-15 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-05-06 19:00 Mon ~ 2024-05-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-08 04:00 Wed ~ 2023-11-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -3494,7 +3494,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-05-17T18:59",
 		"startG":"2024-05-13T19:00",
-		"title":"2x Normal <br>G: 2024-05-13 19:00 ~ 2024-05-17 18:59 4d (UTC y-m-d)<br>Jp: 2023-11-15 04:00 ~ 2023-11-19 03:59 4d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2024-05-13 19:00 Mon ~ 2024-05-17 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2023-11-15 04:00 Wed ~ 2023-11-19 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"2x Hard ",
@@ -3507,7 +3507,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-05-20T18:59",
 		"startG":"2024-05-17T19:00",
-		"title":"2x Hard <br>G: 2024-05-17 19:00 ~ 2024-05-20 18:59 3d (UTC y-m-d)<br>Jp: 2023-11-19 04:00 ~ 2023-11-22 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2024-05-17 19:00 Fri ~ 2024-05-20 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2023-11-19 04:00 Sun ~ 2023-11-22 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Normal ",
@@ -3520,7 +3520,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-05-27T18:59",
 		"startG":"2024-05-20T19:00",
-		"title":"2x Normal <br>G: 2024-05-20 19:00 ~ 2024-05-27 18:59 7d (UTC y-m-d)<br>Jp: 2023-11-22 04:00 ~ 2023-11-29 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2024-05-20 19:00 Mon ~ 2024-05-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-22 04:00 Wed ~ 2023-11-29 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3533,7 +3533,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-04-27T18:59",
 		"startG":"2024-04-25T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-04-25 19:00 ~ 2024-04-27 18:59 2d (UTC y-m-d)<br>Jp: 2023-10-28 04:00 ~ 2023-10-30 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-04-25 19:00 Thu ~ 2024-04-27 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2023-10-28 04:00 Sat ~ 2023-10-30 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3546,7 +3546,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-05-04T18:59",
 		"startG":"2024-05-01T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-05-01 19:00 ~ 2024-05-04 18:59 3d (UTC y-m-d)<br>Jp: 2023-11-03 04:00 ~ 2023-11-06 03:59 3d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-05-01 19:00 Wed ~ 2024-05-04 18:59 Sat 3d (UTC y-m-d)<br>Jp: 2023-11-03 04:00 Fri ~ 2023-11-06 03:59 Mon 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3559,7 +3559,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-05-11T18:59",
 		"startG":"2024-05-09T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-05-09 19:00 ~ 2024-05-11 18:59 2d (UTC y-m-d)<br>Jp: 2023-11-11 04:00 ~ 2023-11-13 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-05-09 19:00 Thu ~ 2024-05-11 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2023-11-11 04:00 Sat ~ 2023-11-13 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3572,7 +3572,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-05-18T18:59",
 		"startG":"2024-05-16T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-05-16 19:00 ~ 2024-05-18 18:59 2d (UTC y-m-d)<br>Jp: 2023-11-18 04:00 ~ 2023-11-20 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-05-16 19:00 Thu ~ 2024-05-18 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2023-11-18 04:00 Sat ~ 2023-11-20 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"2x Bounty ",
@@ -3585,7 +3585,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-06-03T18:59",
 		"startG":"2024-05-27T19:00",
-		"title":"2x Bounty <br>G: 2024-05-27 19:00 ~ 2024-06-03 18:59 7d (UTC y-m-d)<br>Jp: 2023-11-29 04:00 ~ 2023-12-06 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2024-05-27 19:00 Mon ~ 2024-06-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-29 04:00 Wed ~ 2023-12-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -3598,7 +3598,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-06-03T18:59",
 		"startG":"2024-05-27T19:00",
-		"title":"2x Hard <br>G: 2024-05-27 19:00 ~ 2024-06-03 18:59 7d (UTC y-m-d)<br>Jp: 2023-11-29 04:00 ~ 2023-12-06 03:59 7d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2024-05-27 19:00 Mon ~ 2024-06-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-29 04:00 Wed ~ 2023-12-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -3611,7 +3611,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-06-10T18:59",
 		"startG":"2024-06-03T19:00",
-		"title":"2x Comm <br>G: 2024-06-03 19:00 ~ 2024-06-10 18:59 7d (UTC y-m-d)<br>Jp: 2023-12-06 04:00 ~ 2023-12-13 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-06-03 19:00 Mon ~ 2024-06-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-12-06 04:00 Wed ~ 2023-12-13 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -3624,7 +3624,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-06-17T18:59",
 		"startG":"2024-06-10T19:00",
-		"title":"2x Lesson <br>G: 2024-06-10 19:00 ~ 2024-06-17 18:59 7d (UTC y-m-d)<br>Jp: 2023-12-13 04:00 ~ 2023-12-20 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2024-06-10 19:00 Mon ~ 2024-06-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-12-13 04:00 Wed ~ 2023-12-20 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -3637,7 +3637,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-06-17T18:59",
 		"startG":"2024-06-10T19:00",
-		"title":"2x Scrimm <br>G: 2024-06-10 19:00 ~ 2024-06-17 18:59 7d (UTC y-m-d)<br>Jp: 2023-12-13 04:00 ~ 2023-12-20 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2024-06-10 19:00 Mon ~ 2024-06-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-12-13 04:00 Wed ~ 2023-12-20 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -3650,7 +3650,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-06-24T18:59",
 		"startG":"2024-06-17T19:00",
-		"title":"2x Comm <br>G: 2024-06-17 19:00 ~ 2024-06-24 18:59 7d (UTC y-m-d)<br>Jp: 2023-12-20 04:00 ~ 2023-12-27 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-06-17 19:00 Mon ~ 2024-06-24 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-12-20 04:00 Wed ~ 2023-12-27 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Bounty ",
@@ -3663,7 +3663,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-07-01T18:59",
 		"startG":"2024-06-24T19:00",
-		"title":"2x Bounty <br>G: 2024-06-24 19:00 ~ 2024-07-01 18:59 7d (UTC y-m-d)<br>Jp: 2023-12-27 04:00 ~ 2024-01-03 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2024-06-24 19:00 Mon ~ 2024-07-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-12-27 04:00 Wed ~ 2024-01-03 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -3676,7 +3676,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-07-08T18:59",
 		"startG":"2024-07-01T19:00",
-		"title":"2x Lesson <br>G: 2024-07-01 19:00 ~ 2024-07-08 18:59 7d (UTC y-m-d)<br>Jp: 2024-01-03 04:00 ~ 2024-01-10 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2024-07-01 19:00 Mon ~ 2024-07-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-03 04:00 Wed ~ 2024-01-10 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -3689,7 +3689,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-07-08T18:59",
 		"startG":"2024-07-01T19:00",
-		"title":"2x Scrimm <br>G: 2024-07-01 19:00 ~ 2024-07-08 18:59 7d (UTC y-m-d)<br>Jp: 2024-01-03 04:00 ~ 2024-01-10 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2024-07-01 19:00 Mon ~ 2024-07-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-03 04:00 Wed ~ 2024-01-10 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -3702,7 +3702,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-07-15T18:59",
 		"startG":"2024-07-08T19:00",
-		"title":"2x Comm <br>G: 2024-07-08 19:00 ~ 2024-07-15 18:59 7d (UTC y-m-d)<br>Jp: 2024-01-10 04:00 ~ 2024-01-17 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-07-08 19:00 Mon ~ 2024-07-15 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-10 04:00 Wed ~ 2024-01-17 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -3715,7 +3715,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-07-19T18:59",
 		"startG":"2024-07-15T19:00",
-		"title":"2x Normal <br>G: 2024-07-15 19:00 ~ 2024-07-19 18:59 4d (UTC y-m-d)<br>Jp: 2024-01-17 04:00 ~ 2024-01-21 03:59 4d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2024-07-15 19:00 Mon ~ 2024-07-19 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2024-01-17 04:00 Wed ~ 2024-01-21 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"2x Hard ",
@@ -3728,7 +3728,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-07-22T18:59",
 		"startG":"2024-07-19T19:00",
-		"title":"2x Hard <br>G: 2024-07-19 19:00 ~ 2024-07-22 18:59 3d (UTC y-m-d)<br>Jp: 2024-01-21 04:00 ~ 2024-01-24 03:59 3d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2024-07-19 19:00 Fri ~ 2024-07-22 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2024-01-21 04:00 Sun ~ 2024-01-24 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>3x Bounty </b>",
@@ -3741,7 +3741,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-07-29T18:59",
 		"startG":"2024-07-22T19:00",
-		"title":"<b>3x Bounty </b><br>G: 2024-07-22 19:00 ~ 2024-07-29 18:59 7d (UTC y-m-d)<br>Jp: 2024-01-24 04:00 ~ 2024-01-31 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Bounty </b><br>G: 2024-07-22 19:00 Mon ~ 2024-07-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-24 04:00 Wed ~ 2024-01-31 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Lesson </b>",
@@ -3754,7 +3754,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-07-29T18:59",
 		"startG":"2024-07-22T19:00",
-		"title":"<b>3x Lesson </b><br>G: 2024-07-22 19:00 ~ 2024-07-29 18:59 7d (UTC y-m-d)<br>Jp: 2024-01-24 04:00 ~ 2024-01-31 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Lesson </b><br>G: 2024-07-22 19:00 Mon ~ 2024-07-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-24 04:00 Wed ~ 2024-01-31 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Scrimm </b>",
@@ -3767,7 +3767,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-07-29T18:59",
 		"startG":"2024-07-22T19:00",
-		"title":"<b>3x Scrimm </b><br>G: 2024-07-22 19:00 ~ 2024-07-29 18:59 7d (UTC y-m-d)<br>Jp: 2024-01-24 04:00 ~ 2024-01-31 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Scrimm </b><br>G: 2024-07-22 19:00 Mon ~ 2024-07-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-24 04:00 Wed ~ 2024-01-31 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Comm </b>",
@@ -3780,7 +3780,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-05T18:59",
 		"startG":"2024-07-29T19:00",
-		"title":"<b>3x Comm </b><br>G: 2024-07-29 19:00 ~ 2024-08-05 18:59 7d (UTC y-m-d)<br>Jp: 2024-01-31 04:00 ~ 2024-02-07 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2024-07-29 19:00 Mon ~ 2024-08-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-31 04:00 Wed ~ 2024-02-07 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Hard </b>",
@@ -3793,7 +3793,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-05T18:59",
 		"startG":"2024-07-29T19:00",
-		"title":"<b>3x Hard </b><br>G: 2024-07-29 19:00 ~ 2024-08-05 18:59 7d (UTC y-m-d)<br>Jp: 2024-01-31 04:00 ~ 2024-02-07 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Hard </b><br>G: 2024-07-29 19:00 Mon ~ 2024-08-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-31 04:00 Wed ~ 2024-02-07 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Bounty </b>",
@@ -3806,7 +3806,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-12T18:59",
 		"startG":"2024-08-05T19:00",
-		"title":"<b>3x Bounty </b><br>G: 2024-08-05 19:00 ~ 2024-08-12 18:59 7d (UTC y-m-d)<br>Jp: 2024-02-07 04:00 ~ 2024-02-14 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Bounty </b><br>G: 2024-08-05 19:00 Mon ~ 2024-08-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-07 04:00 Wed ~ 2024-02-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Lesson </b>",
@@ -3819,7 +3819,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-12T18:59",
 		"startG":"2024-08-05T19:00",
-		"title":"<b>3x Lesson </b><br>G: 2024-08-05 19:00 ~ 2024-08-12 18:59 7d (UTC y-m-d)<br>Jp: 2024-02-07 04:00 ~ 2024-02-14 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Lesson </b><br>G: 2024-08-05 19:00 Mon ~ 2024-08-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-07 04:00 Wed ~ 2024-02-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Scrimm </b>",
@@ -3832,7 +3832,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-12T18:59",
 		"startG":"2024-08-05T19:00",
-		"title":"<b>3x Scrimm </b><br>G: 2024-08-05 19:00 ~ 2024-08-12 18:59 7d (UTC y-m-d)<br>Jp: 2024-02-07 04:00 ~ 2024-02-14 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Scrimm </b><br>G: 2024-08-05 19:00 Mon ~ 2024-08-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-07 04:00 Wed ~ 2024-02-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Normal </b>",
@@ -3845,7 +3845,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-19T18:59",
 		"startG":"2024-08-05T19:00",
-		"title":"<b>3x Normal </b><br>G: 2024-08-05 19:00 ~ 2024-08-19 18:59 14d (UTC y-m-d)<br>Jp: 2024-02-07 04:00 ~ 2024-02-21 03:59 14d (JST y-m-d)",
+		"title":"<b>3x Normal </b><br>G: 2024-08-05 19:00 Mon ~ 2024-08-19 18:59 Mon 14d (UTC y-m-d)<br>Jp: 2024-02-07 04:00 Wed ~ 2024-02-21 03:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<b>3x Comm </b>",
@@ -3858,7 +3858,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-19T18:59",
 		"startG":"2024-08-12T19:00",
-		"title":"<b>3x Comm </b><br>G: 2024-08-12 19:00 ~ 2024-08-19 18:59 7d (UTC y-m-d)<br>Jp: 2024-02-14 04:00 ~ 2024-02-21 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2024-08-12 19:00 Mon ~ 2024-08-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-14 04:00 Wed ~ 2024-02-21 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3871,7 +3871,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-07-27T18:59",
 		"startG":"2024-07-25T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-07-25 19:00 ~ 2024-07-27 18:59 2d (UTC y-m-d)<br>Jp: 2024-01-27 04:00 ~ 2024-01-29 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-07-25 19:00 Thu ~ 2024-07-27 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-01-27 04:00 Sat ~ 2024-01-29 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3884,7 +3884,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-03T18:59",
 		"startG":"2024-08-01T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-08-01 19:00 ~ 2024-08-03 18:59 2d (UTC y-m-d)<br>Jp: 2024-02-03 04:00 ~ 2024-02-05 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-08-01 19:00 Thu ~ 2024-08-03 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-02-03 04:00 Sat ~ 2024-02-05 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3897,7 +3897,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-11T18:59",
 		"startG":"2024-08-08T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-08-08 19:00 ~ 2024-08-11 18:59 3d (UTC y-m-d)<br>Jp: 2024-02-10 04:00 ~ 2024-02-13 03:59 3d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-08-08 19:00 Thu ~ 2024-08-11 18:59 Sun 3d (UTC y-m-d)<br>Jp: 2024-02-10 04:00 Sat ~ 2024-02-13 03:59 Tue 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3910,7 +3910,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-17T18:59",
 		"startG":"2024-08-15T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-08-15 19:00 ~ 2024-08-17 18:59 2d (UTC y-m-d)<br>Jp: 2024-02-17 04:00 ~ 2024-02-19 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-08-15 19:00 Thu ~ 2024-08-17 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-02-17 04:00 Sat ~ 2024-02-19 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3923,7 +3923,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-27T18:59",
 		"startG":"2024-08-22T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-08-22 19:00 ~ 2024-08-27 18:59 5d (UTC y-m-d)<br>Jp: 2024-02-24 04:00 ~ 2024-02-29 03:59 5d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-08-22 19:00 Thu ~ 2024-08-27 18:59 Tue 5d (UTC y-m-d)<br>Jp: 2024-02-24 04:00 Sat ~ 2024-02-29 03:59 Thu 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -3936,7 +3936,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-31T18:59",
 		"startG":"2024-08-29T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-08-29 19:00 ~ 2024-08-31 18:59 2d (UTC y-m-d)<br>Jp: 2024-03-02 04:00 ~ 2024-03-04 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-08-29 19:00 Thu ~ 2024-08-31 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-03-02 04:00 Sat ~ 2024-03-04 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"2x Bounty ",
@@ -3949,7 +3949,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-08-26T18:59",
 		"startG":"2024-08-19T19:00",
-		"title":"2x Bounty <br>G: 2024-08-19 19:00 ~ 2024-08-26 18:59 7d (UTC y-m-d)<br>Jp: 2024-02-21 04:00 ~ 2024-02-28 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2024-08-19 19:00 Mon ~ 2024-08-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-21 04:00 Wed ~ 2024-02-28 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -3962,7 +3962,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-09-02T18:59",
 		"startG":"2024-08-26T19:00",
-		"title":"2x Comm <br>G: 2024-08-26 19:00 ~ 2024-09-02 18:59 7d (UTC y-m-d)<br>Jp: 2024-02-28 04:00 ~ 2024-03-06 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-08-26 19:00 Mon ~ 2024-09-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-28 04:00 Wed ~ 2024-03-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -3975,7 +3975,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-09-09T18:59",
 		"startG":"2024-09-02T19:00",
-		"title":"2x Lesson <br>G: 2024-09-02 19:00 ~ 2024-09-09 18:59 7d (UTC y-m-d)<br>Jp: 2024-03-06 04:00 ~ 2024-03-13 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2024-09-02 19:00 Mon ~ 2024-09-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-03-06 04:00 Wed ~ 2024-03-13 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -3988,7 +3988,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-09-09T18:59",
 		"startG":"2024-09-02T19:00",
-		"title":"2x Scrimm <br>G: 2024-09-02 19:00 ~ 2024-09-09 18:59 7d (UTC y-m-d)<br>Jp: 2024-03-06 04:00 ~ 2024-03-13 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2024-09-02 19:00 Mon ~ 2024-09-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-03-06 04:00 Wed ~ 2024-03-13 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -4001,7 +4001,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-09-16T18:59",
 		"startG":"2024-09-09T19:00",
-		"title":"2x Normal <br>G: 2024-09-09 19:00 ~ 2024-09-16 18:59 7d (UTC y-m-d)<br>Jp: 2024-03-13 04:00 ~ 2024-03-20 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2024-09-09 19:00 Mon ~ 2024-09-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-03-13 04:00 Wed ~ 2024-03-20 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x  Comm ",
@@ -4014,7 +4014,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-09-23T18:59",
 		"startG":"2024-09-16T19:00",
-		"title":"2x  Comm <br>G: 2024-09-16 19:00 ~ 2024-09-23 18:59 7d (UTC y-m-d)<br>Jp: 2024-03-20 04:00 ~ 2024-03-27 03:59 7d (JST y-m-d)",
+		"title":"2x  Comm <br>G: 2024-09-16 19:00 Mon ~ 2024-09-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-03-20 04:00 Wed ~ 2024-03-27 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -4027,7 +4027,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-09-23T18:59",
 		"startG":"2024-09-16T19:00",
-		"title":"2x Hard <br>G: 2024-09-16 19:00 ~ 2024-09-23 18:59 7d (UTC y-m-d)<br>Jp: 2024-03-20 04:00 ~ 2024-03-27 03:59 7d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2024-09-16 19:00 Mon ~ 2024-09-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-03-20 04:00 Wed ~ 2024-03-27 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4040,7 +4040,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-09-28T18:59",
 		"startG":"2024-09-26T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-09-26 19:00 ~ 2024-09-28 18:59 2d (UTC y-m-d)<br>Jp: 2024-03-30 04:00 ~ 2024-04-01 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-09-26 19:00 Thu ~ 2024-09-28 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-03-30 04:00 Sat ~ 2024-04-01 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4053,7 +4053,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-10-05T18:59",
 		"startG":"2024-10-03T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-10-03 19:00 ~ 2024-10-05 18:59 2d (UTC y-m-d)<br>Jp: 2024-04-06 04:00 ~ 2024-04-08 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-10-03 19:00 Thu ~ 2024-10-05 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-04-06 04:00 Sat ~ 2024-04-08 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"2x Bounty ",
@@ -4066,7 +4066,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-09-30T18:59",
 		"startG":"2024-09-23T19:00",
-		"title":"2x Bounty <br>G: 2024-09-23 19:00 ~ 2024-09-30 18:59 7d (UTC y-m-d)<br>Jp: 2024-03-27 04:00 ~ 2024-04-03 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2024-09-23 19:00 Mon ~ 2024-09-30 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-03-27 04:00 Wed ~ 2024-04-03 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -4079,7 +4079,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-10-08T18:59",
 		"startG":"2024-09-30T19:00",
-		"title":"2x Lesson <br>G: 2024-09-30 19:00 ~ 2024-10-08 18:59 8d (UTC y-m-d)<br>Jp: 2024-04-03 04:00 ~ 2024-04-11 03:59 8d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2024-09-30 19:00 Mon ~ 2024-10-08 18:59 Tue 8d (UTC y-m-d)<br>Jp: 2024-04-03 04:00 Wed ~ 2024-04-11 03:59 Thu 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"2x Scrimm ",
@@ -4092,7 +4092,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-10-08T18:59",
 		"startG":"2024-09-30T19:00",
-		"title":"2x Scrimm <br>G: 2024-09-30 19:00 ~ 2024-10-08 18:59 8d (UTC y-m-d)<br>Jp: 2024-04-03 04:00 ~ 2024-04-11 03:59 8d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2024-09-30 19:00 Mon ~ 2024-10-08 18:59 Tue 8d (UTC y-m-d)<br>Jp: 2024-04-03 04:00 Wed ~ 2024-04-11 03:59 Thu 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"2x Normal ",
@@ -4105,7 +4105,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-10-14T18:59",
 		"startG":"2024-10-08T19:00",
-		"title":"2x Normal <br>G: 2024-10-08 19:00 ~ 2024-10-14 18:59 6d (UTC y-m-d)<br>Jp: 2024-04-11 04:00 ~ 2024-04-17 03:59 6d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2024-10-08 19:00 Tue ~ 2024-10-14 18:59 Mon 6d (UTC y-m-d)<br>Jp: 2024-04-11 04:00 Thu ~ 2024-04-17 03:59 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"2x Hard ",
@@ -4118,7 +4118,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-10-21T18:59",
 		"startG":"2024-10-14T19:00",
-		"title":"2x Hard <br>G: 2024-10-14 19:00 ~ 2024-10-21 18:59 7d (UTC y-m-d)<br>Jp: 2024-04-17 04:00 ~ 2024-04-24 03:59 7d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2024-10-14 19:00 Mon ~ 2024-10-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-04-17 04:00 Wed ~ 2024-04-24 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -4131,7 +4131,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-10-21T18:59",
 		"startG":"2024-10-14T19:00",
-		"title":"2x Comm <br>G: 2024-10-14 19:00 ~ 2024-10-21 18:59 7d (UTC y-m-d)<br>Jp: 2024-04-17 04:00 ~ 2024-04-24 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-10-14 19:00 Mon ~ 2024-10-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-04-17 04:00 Wed ~ 2024-04-24 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4144,7 +4144,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-10-27T18:59",
 		"startG":"2024-10-24T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-10-24 19:00 ~ 2024-10-27 18:59 3d (UTC y-m-d)<br>Jp: 2024-04-27 04:00 ~ 2024-04-30 03:59 3d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-10-24 19:00 Thu ~ 2024-10-27 18:59 Sun 3d (UTC y-m-d)<br>Jp: 2024-04-27 04:00 Sat ~ 2024-04-30 03:59 Tue 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4157,7 +4157,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-11-03T18:59",
 		"startG":"2024-10-30T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-10-30 19:00 ~ 2024-11-03 18:59 4d (UTC y-m-d)<br>Jp: 2024-05-03 04:00 ~ 2024-05-07 03:59 4d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-10-30 19:00 Wed ~ 2024-11-03 18:59 Sun 4d (UTC y-m-d)<br>Jp: 2024-05-03 04:00 Fri ~ 2024-05-07 03:59 Tue 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"2x Lesson ",
@@ -4170,7 +4170,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-10-28T18:59",
 		"startG":"2024-10-21T19:00",
-		"title":"2x Lesson <br>G: 2024-10-21 19:00 ~ 2024-10-28 18:59 7d (UTC y-m-d)<br>Jp: 2024-04-24 04:00 ~ 2024-05-01 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2024-10-21 19:00 Mon ~ 2024-10-28 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-04-24 04:00 Wed ~ 2024-05-01 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -4183,7 +4183,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-10-28T18:59",
 		"startG":"2024-10-21T19:00",
-		"title":"2x Scrimm <br>G: 2024-10-21 19:00 ~ 2024-10-28 18:59 7d (UTC y-m-d)<br>Jp: 2024-04-24 04:00 ~ 2024-05-01 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2024-10-21 19:00 Mon ~ 2024-10-28 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-04-24 04:00 Wed ~ 2024-05-01 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -4196,7 +4196,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-11-04T18:59",
 		"startG":"2024-10-28T19:00",
-		"title":"2x Comm <br>G: 2024-10-28 19:00 ~ 2024-11-04 18:59 7d (UTC y-m-d)<br>Jp: 2024-05-01 04:00 ~ 2024-05-08 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-10-28 19:00 Mon ~ 2024-11-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-01 04:00 Wed ~ 2024-05-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Bounty ",
@@ -4209,7 +4209,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-11-04T18:59",
 		"startG":"2024-10-28T19:00",
-		"title":"2x Bounty <br>G: 2024-10-28 19:00 ~ 2024-11-04 18:59 7d (UTC y-m-d)<br>Jp: 2024-05-01 04:00 ~ 2024-05-08 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2024-10-28 19:00 Mon ~ 2024-11-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-01 04:00 Wed ~ 2024-05-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -4222,7 +4222,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-11-11T18:59",
 		"startG":"2024-11-04T19:00",
-		"title":"2x Normal <br>G: 2024-11-04 19:00 ~ 2024-11-11 18:59 7d (UTC y-m-d)<br>Jp: 2024-05-08 04:00 ~ 2024-05-15 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2024-11-04 19:00 Mon ~ 2024-11-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-08 04:00 Wed ~ 2024-05-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -4235,7 +4235,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-11-18T18:59",
 		"startG":"2024-11-11T19:00",
-		"title":"2x Hard <br>G: 2024-11-11 19:00 ~ 2024-11-18 18:59 7d (UTC y-m-d)<br>Jp: 2024-05-15 04:00 ~ 2024-05-22 03:59 7d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2024-11-11 19:00 Mon ~ 2024-11-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-15 04:00 Wed ~ 2024-05-22 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Bounty ",
@@ -4248,7 +4248,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-11-19T18:59",
 		"startG":"2024-11-18T19:00",
-		"title":"2x Bounty <br>G: 2024-11-18 19:00 ~ 2024-11-19 18:59 1d (UTC y-m-d)<br>Jp: 2024-05-22 04:00 ~ 2024-05-23 03:59 1d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2024-11-18 19:00 Mon ~ 2024-11-19 18:59 Tue 1d (UTC y-m-d)<br>Jp: 2024-05-22 04:00 Wed ~ 2024-05-23 03:59 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"2x Comm ",
@@ -4261,7 +4261,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-12-02T18:59",
 		"startG":"2024-11-25T19:00",
-		"title":"2x Comm <br>G: 2024-11-25 19:00 ~ 2024-12-02 18:59 7d (UTC y-m-d)<br>Jp: 2024-05-29 04:00 ~ 2024-06-05 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-11-25 19:00 Mon ~ 2024-12-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-29 04:00 Wed ~ 2024-06-05 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -4274,7 +4274,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-12-02T18:59",
 		"startG":"2024-11-25T19:00",
-		"title":"2x Lesson <br>G: 2024-11-25 19:00 ~ 2024-12-02 18:59 7d (UTC y-m-d)<br>Jp: 2024-05-29 04:00 ~ 2024-06-05 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2024-11-25 19:00 Mon ~ 2024-12-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-29 04:00 Wed ~ 2024-06-05 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -4287,7 +4287,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-12-02T18:59",
 		"startG":"2024-11-25T19:00",
-		"title":"2x Scrimm <br>G: 2024-11-25 19:00 ~ 2024-12-02 18:59 7d (UTC y-m-d)<br>Jp: 2024-05-29 04:00 ~ 2024-06-05 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2024-11-25 19:00 Mon ~ 2024-12-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-29 04:00 Wed ~ 2024-06-05 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -4300,7 +4300,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-12-09T18:59",
 		"startG":"2024-12-02T19:00",
-		"title":"2x Normal <br>G: 2024-12-02 19:00 ~ 2024-12-09 18:59 7d (UTC y-m-d)<br>Jp: 2024-06-05 04:00 ~ 2024-06-12 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2024-12-02 19:00 Mon ~ 2024-12-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-06-05 04:00 Wed ~ 2024-06-12 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -4313,7 +4313,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-12-16T18:59",
 		"startG":"2024-12-09T19:00",
-		"title":"2x Hard <br>G: 2024-12-09 19:00 ~ 2024-12-16 18:59 7d (UTC y-m-d)<br>Jp: 2024-06-12 04:00 ~ 2024-06-19 03:59 7d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2024-12-09 19:00 Mon ~ 2024-12-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-06-12 04:00 Wed ~ 2024-06-19 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -4326,7 +4326,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-12-16T18:59",
 		"startG":"2024-12-09T19:00",
-		"title":"2x Comm <br>G: 2024-12-09 19:00 ~ 2024-12-16 18:59 7d (UTC y-m-d)<br>Jp: 2024-06-12 04:00 ~ 2024-06-19 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2024-12-09 19:00 Mon ~ 2024-12-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-06-12 04:00 Wed ~ 2024-06-19 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -4339,7 +4339,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-12-23T18:59",
 		"startG":"2024-12-16T19:00",
-		"title":"2x Normal <br>G: 2024-12-16 19:00 ~ 2024-12-23 18:59 7d (UTC y-m-d)<br>Jp: 2024-06-19 04:00 ~ 2024-06-26 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2024-12-16 19:00 Mon ~ 2024-12-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-06-19 04:00 Wed ~ 2024-06-26 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4352,7 +4352,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-12-28T18:59",
 		"startG":"2024-12-26T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-12-26 19:00 ~ 2024-12-28 18:59 2d (UTC y-m-d)<br>Jp: 2024-06-29 04:00 ~ 2024-07-01 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-12-26 19:00 Thu ~ 2024-12-28 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-06-29 04:00 Sat ~ 2024-07-01 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4365,7 +4365,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-01-04T18:59",
 		"startG":"2025-01-02T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-01-02 19:00 ~ 2025-01-04 18:59 2d (UTC y-m-d)<br>Jp: 2024-07-06 04:00 ~ 2024-07-08 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-01-02 19:00 Thu ~ 2025-01-04 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-07-06 04:00 Sat ~ 2024-07-08 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"2x Lesson ",
@@ -4378,7 +4378,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-12-30T18:59",
 		"startG":"2024-12-23T19:00",
-		"title":"2x Lesson <br>G: 2024-12-23 19:00 ~ 2024-12-30 18:59 7d (UTC y-m-d)<br>Jp: 2024-06-26 04:00 ~ 2024-07-03 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2024-12-23 19:00 Mon ~ 2024-12-30 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-06-26 04:00 Wed ~ 2024-07-03 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -4391,7 +4391,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-12-30T18:59",
 		"startG":"2024-12-23T19:00",
-		"title":"2x Scrimm <br>G: 2024-12-23 19:00 ~ 2024-12-30 18:59 7d (UTC y-m-d)<br>Jp: 2024-06-26 04:00 ~ 2024-07-03 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2024-12-23 19:00 Mon ~ 2024-12-30 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-06-26 04:00 Wed ~ 2024-07-03 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -4404,7 +4404,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-01-06T18:59",
 		"startG":"2024-12-30T19:00",
-		"title":"2x Normal <br>G: 2024-12-30 19:00 ~ 2025-01-06 18:59 7d (UTC y-m-d)<br>Jp: 2024-07-03 04:00 ~ 2024-07-10 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2024-12-30 19:00 Mon ~ 2025-01-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-07-03 04:00 Wed ~ 2024-07-10 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -4417,7 +4417,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-01-13T18:59",
 		"startG":"2025-01-06T19:00",
-		"title":"2x Hard <br>G: 2025-01-06 19:00 ~ 2025-01-13 18:59 7d (UTC y-m-d)<br>Jp: 2024-07-10 04:00 ~ 2024-07-17 03:59 7d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2025-01-06 19:00 Mon ~ 2025-01-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-07-10 04:00 Wed ~ 2024-07-17 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Bounty ",
@@ -4430,7 +4430,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-01-13T18:59",
 		"startG":"2025-01-06T19:00",
-		"title":"2x Bounty <br>G: 2025-01-06 19:00 ~ 2025-01-13 18:59 7d (UTC y-m-d)<br>Jp: 2024-07-10 04:00 ~ 2024-07-17 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2025-01-06 19:00 Mon ~ 2025-01-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-07-10 04:00 Wed ~ 2024-07-17 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -4443,7 +4443,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-01-18T18:59",
 		"startG":"2025-01-13T19:00",
-		"title":"2x Comm <br>G: 2025-01-13 19:00 ~ 2025-01-18 18:59 5d (UTC y-m-d)<br>Jp: 2024-07-17 04:00 ~ 2024-07-22 03:59 5d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2025-01-13 19:00 Mon ~ 2025-01-18 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2024-07-17 04:00 Wed ~ 2024-07-22 03:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<b>3x Bounty </b>",
@@ -4456,7 +4456,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-01-27T18:59",
 		"startG":"2025-01-18T19:00",
-		"title":"<b>3x Bounty </b><br>G: 2025-01-18 19:00 ~ 2025-01-27 18:59 9d (UTC y-m-d)<br>Jp: 2024-07-22 04:00 ~ 2024-07-31 03:59 9d (JST y-m-d)",
+		"title":"<b>3x Bounty </b><br>G: 2025-01-18 19:00 Sat ~ 2025-01-27 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2024-07-22 04:00 Mon ~ 2024-07-31 03:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<b>3x Lesson </b>",
@@ -4469,7 +4469,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-01-27T18:59",
 		"startG":"2025-01-18T19:00",
-		"title":"<b>3x Lesson </b><br>G: 2025-01-18 19:00 ~ 2025-01-27 18:59 9d (UTC y-m-d)<br>Jp: 2024-07-22 04:00 ~ 2024-07-31 03:59 9d (JST y-m-d)",
+		"title":"<b>3x Lesson </b><br>G: 2025-01-18 19:00 Sat ~ 2025-01-27 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2024-07-22 04:00 Mon ~ 2024-07-31 03:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<b>3x Scrimm </b>",
@@ -4482,7 +4482,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-01-27T18:59",
 		"startG":"2025-01-18T19:00",
-		"title":"<b>3x Scrimm </b><br>G: 2025-01-18 19:00 ~ 2025-01-27 18:59 9d (UTC y-m-d)<br>Jp: 2024-07-22 04:00 ~ 2024-07-31 03:59 9d (JST y-m-d)",
+		"title":"<b>3x Scrimm </b><br>G: 2025-01-18 19:00 Sat ~ 2025-01-27 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2024-07-22 04:00 Mon ~ 2024-07-31 03:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<b>3x Normal </b>",
@@ -4495,7 +4495,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-01-31T18:59",
 		"startG":"2025-01-27T19:00",
-		"title":"<b>3x Normal </b><br>G: 2025-01-27 19:00 ~ 2025-01-31 18:59 4d (UTC y-m-d)<br>Jp: 2024-07-31 04:00 ~ 2024-08-04 03:59 4d (JST y-m-d)",
+		"title":"<b>3x Normal </b><br>G: 2025-01-27 19:00 Mon ~ 2025-01-31 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2024-07-31 04:00 Wed ~ 2024-08-04 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"<b>3x Comm </b>",
@@ -4508,7 +4508,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-03T18:59",
 		"startG":"2025-01-27T19:00",
-		"title":"<b>3x Comm </b><br>G: 2025-01-27 19:00 ~ 2025-02-03 18:59 7d (UTC y-m-d)<br>Jp: 2024-07-31 04:00 ~ 2024-08-07 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2025-01-27 19:00 Mon ~ 2025-02-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-07-31 04:00 Wed ~ 2024-08-07 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Hard </b>",
@@ -4521,7 +4521,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-03T18:59",
 		"startG":"2025-01-31T19:00",
-		"title":"<b>3x Hard </b><br>G: 2025-01-31 19:00 ~ 2025-02-03 18:59 3d (UTC y-m-d)<br>Jp: 2024-08-04 04:00 ~ 2024-08-07 03:59 3d (JST y-m-d)",
+		"title":"<b>3x Hard </b><br>G: 2025-01-31 19:00 Fri ~ 2025-02-03 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2024-08-04 04:00 Sun ~ 2024-08-07 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>3x Bounty </b>",
@@ -4534,7 +4534,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-10T18:59",
 		"startG":"2025-02-03T19:00",
-		"title":"<b>3x Bounty </b><br>G: 2025-02-03 19:00 ~ 2025-02-10 18:59 7d (UTC y-m-d)<br>Jp: 2024-08-07 04:00 ~ 2024-08-14 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Bounty </b><br>G: 2025-02-03 19:00 Mon ~ 2025-02-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-07 04:00 Wed ~ 2024-08-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Lesson </b>",
@@ -4547,7 +4547,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-10T18:59",
 		"startG":"2025-02-03T19:00",
-		"title":"<b>3x Lesson </b><br>G: 2025-02-03 19:00 ~ 2025-02-10 18:59 7d (UTC y-m-d)<br>Jp: 2024-08-07 04:00 ~ 2024-08-14 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Lesson </b><br>G: 2025-02-03 19:00 Mon ~ 2025-02-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-07 04:00 Wed ~ 2024-08-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Scrimm </b>",
@@ -4560,7 +4560,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-10T18:59",
 		"startG":"2025-02-03T19:00",
-		"title":"<b>3x Scrimm </b><br>G: 2025-02-03 19:00 ~ 2025-02-10 18:59 7d (UTC y-m-d)<br>Jp: 2024-08-07 04:00 ~ 2024-08-14 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Scrimm </b><br>G: 2025-02-03 19:00 Mon ~ 2025-02-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-07 04:00 Wed ~ 2024-08-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Normal </b>",
@@ -4573,7 +4573,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-14T18:59",
 		"startG":"2025-02-10T19:00",
-		"title":"<b>3x Normal </b><br>G: 2025-02-10 19:00 ~ 2025-02-14 18:59 4d (UTC y-m-d)<br>Jp: 2024-08-14 04:00 ~ 2024-08-18 03:59 4d (JST y-m-d)",
+		"title":"<b>3x Normal </b><br>G: 2025-02-10 19:00 Mon ~ 2025-02-14 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2024-08-14 04:00 Wed ~ 2024-08-18 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"<b>3x Comm </b>",
@@ -4586,7 +4586,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-17T18:59",
 		"startG":"2025-02-10T19:00",
-		"title":"<b>3x Comm </b><br>G: 2025-02-10 19:00 ~ 2025-02-17 18:59 7d (UTC y-m-d)<br>Jp: 2024-08-14 04:00 ~ 2024-08-21 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2025-02-10 19:00 Mon ~ 2025-02-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-14 04:00 Wed ~ 2024-08-21 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Hard </b>",
@@ -4599,7 +4599,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-17T18:59",
 		"startG":"2025-02-14T19:00",
-		"title":"<b>3x Hard </b><br>G: 2025-02-14 19:00 ~ 2025-02-17 18:59 3d (UTC y-m-d)<br>Jp: 2024-08-18 04:00 ~ 2024-08-21 03:59 3d (JST y-m-d)",
+		"title":"<b>3x Hard </b><br>G: 2025-02-14 19:00 Fri ~ 2025-02-17 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2024-08-18 04:00 Sun ~ 2024-08-21 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4612,7 +4612,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-01-25T18:59",
 		"startG":"2025-01-23T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-01-23 19:00 ~ 2025-01-25 18:59 2d (UTC y-m-d)<br>Jp: 2024-07-27 04:00 ~ 2024-07-29 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-01-23 19:00 Thu ~ 2025-01-25 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-07-27 04:00 Sat ~ 2024-07-29 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4625,7 +4625,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-01T18:59",
 		"startG":"2025-01-30T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-01-30 19:00 ~ 2025-02-01 18:59 2d (UTC y-m-d)<br>Jp: 2024-08-03 04:00 ~ 2024-08-05 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-01-30 19:00 Thu ~ 2025-02-01 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-08-03 04:00 Sat ~ 2024-08-05 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4638,7 +4638,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-09T18:59",
 		"startG":"2025-02-06T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-02-06 19:00 ~ 2025-02-09 18:59 3d (UTC y-m-d)<br>Jp: 2024-08-10 04:00 ~ 2024-08-13 03:59 3d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-02-06 19:00 Thu ~ 2025-02-09 18:59 Sun 3d (UTC y-m-d)<br>Jp: 2024-08-10 04:00 Sat ~ 2024-08-13 03:59 Tue 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4651,7 +4651,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-15T18:59",
 		"startG":"2025-02-13T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-02-13 19:00 ~ 2025-02-15 18:59 2d (UTC y-m-d)<br>Jp: 2024-08-17 04:00 ~ 2024-08-19 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-02-13 19:00 Thu ~ 2025-02-15 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-08-17 04:00 Sat ~ 2024-08-19 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"2x Bounty ",
@@ -4664,7 +4664,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-24T18:59",
 		"startG":"2025-02-17T19:00",
-		"title":"2x Bounty <br>G: 2025-02-17 19:00 ~ 2025-02-24 18:59 7d (UTC y-m-d)<br>Jp: 2024-08-21 04:00 ~ 2024-08-28 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2025-02-17 19:00 Mon ~ 2025-02-24 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-21 04:00 Wed ~ 2024-08-28 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -4677,7 +4677,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-03-03T18:59",
 		"startG":"2025-02-24T19:00",
-		"title":"2x Comm <br>G: 2025-02-24 19:00 ~ 2025-03-03 18:59 7d (UTC y-m-d)<br>Jp: 2024-08-28 04:00 ~ 2024-09-04 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2025-02-24 19:00 Mon ~ 2025-03-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-28 04:00 Wed ~ 2024-09-04 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -4690,7 +4690,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-03-10T18:59",
 		"startG":"2025-03-03T19:00",
-		"title":"2x Normal <br>G: 2025-03-03 19:00 ~ 2025-03-10 18:59 7d (UTC y-m-d)<br>Jp: 2024-09-04 04:00 ~ 2024-09-11 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2025-03-03 19:00 Mon ~ 2025-03-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-04 04:00 Wed ~ 2024-09-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -4703,7 +4703,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-03-10T18:59",
 		"startG":"2025-03-03T19:00",
-		"title":"2x Lesson <br>G: 2025-03-03 19:00 ~ 2025-03-10 18:59 7d (UTC y-m-d)<br>Jp: 2024-09-04 04:00 ~ 2024-09-11 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2025-03-03 19:00 Mon ~ 2025-03-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-04 04:00 Wed ~ 2024-09-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -4716,7 +4716,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-03-17T18:59",
 		"startG":"2025-03-10T19:00",
-		"title":"2x Hard <br>G: 2025-03-10 19:00 ~ 2025-03-17 18:59 7d (UTC y-m-d)<br>Jp: 2024-09-11 04:00 ~ 2024-09-18 03:59 7d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2025-03-10 19:00 Mon ~ 2025-03-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-11 04:00 Wed ~ 2024-09-18 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -4729,7 +4729,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-03-17T18:59",
 		"startG":"2025-03-10T19:00",
-		"title":"2x Scrimm <br>G: 2025-03-10 19:00 ~ 2025-03-17 18:59 7d (UTC y-m-d)<br>Jp: 2024-09-11 04:00 ~ 2024-09-18 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2025-03-10 19:00 Mon ~ 2025-03-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-11 04:00 Wed ~ 2024-09-18 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -4742,7 +4742,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-03-24T18:59",
 		"startG":"2025-03-17T19:00",
-		"title":"2x Comm <br>G: 2025-03-17 19:00 ~ 2025-03-24 18:59 7d (UTC y-m-d)<br>Jp: 2024-09-18 04:00 ~ 2024-09-25 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2025-03-17 19:00 Mon ~ 2025-03-24 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-18 04:00 Wed ~ 2024-09-25 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4755,7 +4755,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-02-22T18:59",
 		"startG":"2025-02-20T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-02-20 19:00 ~ 2025-02-22 18:59 2d (UTC y-m-d)<br>Jp: 2024-08-24 04:00 ~ 2024-08-26 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-02-20 19:00 Thu ~ 2025-02-22 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-08-24 04:00 Sat ~ 2024-08-26 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4768,7 +4768,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-03-01T18:59",
 		"startG":"2025-02-27T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-02-27 19:00 ~ 2025-03-01 18:59 2d (UTC y-m-d)<br>Jp: 2024-08-31 04:00 ~ 2024-09-02 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-02-27 19:00 Thu ~ 2025-03-01 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-08-31 04:00 Sat ~ 2024-09-02 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"2x Bounty ",
@@ -4781,7 +4781,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-03-31T18:59",
 		"startG":"2025-03-24T19:00",
-		"title":"2x Bounty <br>G: 2025-03-24 19:00 ~ 2025-03-31 18:59 7d (UTC y-m-d)<br>Jp: 2024-09-25 04:00 ~ 2024-10-02 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2025-03-24 19:00 Mon ~ 2025-03-31 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-25 04:00 Wed ~ 2024-10-02 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -4794,7 +4794,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-04-08T18:59",
 		"startG":"2025-03-31T19:00",
-		"title":"2x Comm <br>G: 2025-03-31 19:00 ~ 2025-04-08 18:59 8d (UTC y-m-d)<br>Jp: 2024-10-02 04:00 ~ 2024-10-10 03:59 8d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2025-03-31 19:00 Mon ~ 2025-04-08 18:59 Tue 8d (UTC y-m-d)<br>Jp: 2024-10-02 04:00 Wed ~ 2024-10-10 03:59 Thu 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"2x Lesson ",
@@ -4807,7 +4807,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-04-08T18:59",
 		"startG":"2025-03-31T19:00",
-		"title":"2x Lesson <br>G: 2025-03-31 19:00 ~ 2025-04-08 18:59 8d (UTC y-m-d)<br>Jp: 2024-10-02 04:00 ~ 2024-10-10 03:59 8d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2025-03-31 19:00 Mon ~ 2025-04-08 18:59 Tue 8d (UTC y-m-d)<br>Jp: 2024-10-02 04:00 Wed ~ 2024-10-10 03:59 Thu 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"2x Hard ",
@@ -4820,7 +4820,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-04-14T18:59",
 		"startG":"2025-04-08T19:00",
-		"title":"2x Hard <br>G: 2025-04-08 19:00 ~ 2025-04-14 18:59 6d (UTC y-m-d)<br>Jp: 2024-10-10 04:00 ~ 2024-10-16 03:59 6d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2025-04-08 19:00 Tue ~ 2025-04-14 18:59 Mon 6d (UTC y-m-d)<br>Jp: 2024-10-10 04:00 Thu ~ 2024-10-16 03:59 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"2x Normal ",
@@ -4833,7 +4833,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-04-21T18:59",
 		"startG":"2025-04-14T19:00",
-		"title":"2x Normal <br>G: 2025-04-14 19:00 ~ 2025-04-21 18:59 7d (UTC y-m-d)<br>Jp: 2024-10-16 04:00 ~ 2024-10-23 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2025-04-14 19:00 Mon ~ 2025-04-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-10-16 04:00 Wed ~ 2024-10-23 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -4846,7 +4846,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-04-21T18:59",
 		"startG":"2025-04-14T19:00",
-		"title":"2x Scrimm <br>G: 2025-04-14 19:00 ~ 2025-04-21 18:59 7d (UTC y-m-d)<br>Jp: 2024-10-16 04:00 ~ 2024-10-23 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2025-04-14 19:00 Mon ~ 2025-04-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-10-16 04:00 Wed ~ 2024-10-23 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4859,7 +4859,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-03-29T18:59",
 		"startG":"2025-03-27T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-03-27 19:00 ~ 2025-03-29 18:59 2d (UTC y-m-d)<br>Jp: 2024-09-28 04:00 ~ 2024-09-30 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-03-27 19:00 Thu ~ 2025-03-29 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-09-28 04:00 Sat ~ 2024-09-30 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4872,7 +4872,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-04-05T18:59",
 		"startG":"2025-04-03T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-04-03 19:00 ~ 2025-04-05 18:59 2d (UTC y-m-d)<br>Jp: 2024-10-05 04:00 ~ 2024-10-07 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-04-03 19:00 Thu ~ 2025-04-05 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-10-05 04:00 Sat ~ 2024-10-07 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"2x Bounty ",
@@ -4885,7 +4885,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-04-28T18:59",
 		"startG":"2025-04-21T19:00",
-		"title":"2x Bounty <br>G: 2025-04-21 19:00 ~ 2025-04-28 18:59 7d (UTC y-m-d)<br>Jp: 2024-10-23 04:00 ~ 2024-10-30 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2025-04-21 19:00 Mon ~ 2025-04-28 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-10-23 04:00 Wed ~ 2024-10-30 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -4898,7 +4898,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-05-05T18:59",
 		"startG":"2025-04-28T19:00",
-		"title":"2x Comm <br>G: 2025-04-28 19:00 ~ 2025-05-05 18:59 7d (UTC y-m-d)<br>Jp: 2024-10-30 04:00 ~ 2024-11-06 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2025-04-28 19:00 Mon ~ 2025-05-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-10-30 04:00 Wed ~ 2024-11-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -4911,7 +4911,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-05-05T18:59",
 		"startG":"2025-04-28T19:00",
-		"title":"2x Lesson <br>G: 2025-04-28 19:00 ~ 2025-05-05 18:59 7d (UTC y-m-d)<br>Jp: 2024-10-30 04:00 ~ 2024-11-06 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2025-04-28 19:00 Mon ~ 2025-05-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-10-30 04:00 Wed ~ 2024-11-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -4924,7 +4924,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-05-12T18:59",
 		"startG":"2025-05-05T19:00",
-		"title":"2x Normal <br>G: 2025-05-05 19:00 ~ 2025-05-12 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-06 04:00 ~ 2024-11-13 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2025-05-05 19:00 Mon ~ 2025-05-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-06 04:00 Wed ~ 2024-11-13 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -4937,7 +4937,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-05-19T18:59",
 		"startG":"2025-05-12T19:00",
-		"title":"2x Hard <br>G: 2025-05-12 19:00 ~ 2025-05-19 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-13 04:00 ~ 2024-11-20 03:59 7d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2025-05-12 19:00 Mon ~ 2025-05-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-13 04:00 Wed ~ 2024-11-20 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -4950,7 +4950,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-05-19T18:59",
 		"startG":"2025-05-12T19:00",
-		"title":"2x Scrimm <br>G: 2025-05-12 19:00 ~ 2025-05-19 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-13 04:00 ~ 2024-11-20 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2025-05-12 19:00 Mon ~ 2025-05-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-13 04:00 Wed ~ 2024-11-20 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4963,7 +4963,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-04-26T18:59",
 		"startG":"2025-04-24T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-04-24 19:00 ~ 2025-04-26 18:59 2d (UTC y-m-d)<br>Jp: 2024-10-26 04:00 ~ 2024-10-28 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-04-24 19:00 Thu ~ 2025-04-26 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-10-26 04:00 Sat ~ 2024-10-28 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -4976,7 +4976,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-05-04T18:59",
 		"startG":"2025-05-01T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-05-01 19:00 ~ 2025-05-04 18:59 3d (UTC y-m-d)<br>Jp: 2024-11-02 04:00 ~ 2024-11-05 03:59 3d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-05-01 19:00 Thu ~ 2025-05-04 18:59 Sun 3d (UTC y-m-d)<br>Jp: 2024-11-02 04:00 Sat ~ 2024-11-05 03:59 Tue 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"2x Bounty ",
@@ -4989,7 +4989,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-05-26T18:59",
 		"startG":"2025-05-19T19:00",
-		"title":"2x Bounty <br>G: 2025-05-19 19:00 ~ 2025-05-26 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-20 04:00 ~ 2024-11-27 03:59 7d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2025-05-19 19:00 Mon ~ 2025-05-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-20 04:00 Wed ~ 2024-11-27 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -5002,7 +5002,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-06-02T18:59",
 		"startG":"2025-05-26T19:00",
-		"title":"2x Hard <br>G: 2025-05-26 19:00 ~ 2025-06-02 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-27 04:00 ~ 2024-12-04 03:59 7d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2025-05-26 19:00 Mon ~ 2025-06-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-27 04:00 Wed ~ 2024-12-04 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -5015,7 +5015,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-06-09T18:59",
 		"startG":"2025-06-02T19:00",
-		"title":"2x Lesson <br>G: 2025-06-02 19:00 ~ 2025-06-09 18:59 7d (UTC y-m-d)<br>Jp: 2024-12-04 04:00 ~ 2024-12-11 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2025-06-02 19:00 Mon ~ 2025-06-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-12-04 04:00 Wed ~ 2024-12-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Scrimm ",
@@ -5028,7 +5028,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-06-09T18:59",
 		"startG":"2025-06-02T19:00",
-		"title":"2x Scrimm <br>G: 2025-06-02 19:00 ~ 2025-06-09 18:59 7d (UTC y-m-d)<br>Jp: 2024-12-04 04:00 ~ 2024-12-11 03:59 7d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2025-06-02 19:00 Mon ~ 2025-06-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-12-04 04:00 Wed ~ 2024-12-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -5041,7 +5041,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-06-16T18:59",
 		"startG":"2025-06-09T19:00",
-		"title":"2x Normal <br>G: 2025-06-09 19:00 ~ 2025-06-16 18:59 7d (UTC y-m-d)<br>Jp: 2024-12-11 04:00 ~ 2024-12-18 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2025-06-09 19:00 Mon ~ 2025-06-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-12-11 04:00 Wed ~ 2024-12-18 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Comm ",
@@ -5054,7 +5054,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-06-22T18:59",
 		"startG":"2025-06-16T19:00",
-		"title":"2x Comm <br>G: 2025-06-16 19:00 ~ 2025-06-22 18:59 6d (UTC y-m-d)<br>Jp: 2024-12-18 04:00 ~ 2024-12-24 03:59 6d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2025-06-16 19:00 Mon ~ 2025-06-22 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2024-12-18 04:00 Wed ~ 2024-12-24 03:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"2x Bounty ",
@@ -5067,7 +5067,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-06-30T18:59",
 		"startG":"2025-06-22T19:00",
-		"title":"2x Bounty <br>G: 2025-06-22 19:00 ~ 2025-06-30 18:59 8d (UTC y-m-d)<br>Jp: 2024-12-24 04:00 ~ 2025-01-01 03:59 8d (JST y-m-d)",
+		"title":"2x Bounty <br>G: 2025-06-22 19:00 Sun ~ 2025-06-30 18:59 Mon 8d (UTC y-m-d)<br>Jp: 2024-12-24 04:00 Tue ~ 2025-01-01 03:59 Wed 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"2x Comm ",
@@ -5080,7 +5080,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-07-07T18:59",
 		"startG":"2025-06-30T19:00",
-		"title":"2x Comm <br>G: 2025-06-30 19:00 ~ 2025-07-07 18:59 7d (UTC y-m-d)<br>Jp: 2025-01-01 04:00 ~ 2025-01-08 03:59 7d (JST y-m-d)",
+		"title":"2x Comm <br>G: 2025-06-30 19:00 Mon ~ 2025-07-07 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-01-01 04:00 Wed ~ 2025-01-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Normal ",
@@ -5093,7 +5093,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-07-14T18:59",
 		"startG":"2025-07-07T19:00",
-		"title":"2x Normal <br>G: 2025-07-07 19:00 ~ 2025-07-14 18:59 7d (UTC y-m-d)<br>Jp: 2025-01-08 04:00 ~ 2025-01-15 03:59 7d (JST y-m-d)",
+		"title":"2x Normal <br>G: 2025-07-07 19:00 Mon ~ 2025-07-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-01-08 04:00 Wed ~ 2025-01-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Lesson ",
@@ -5106,7 +5106,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-07-14T18:59",
 		"startG":"2025-07-07T19:00",
-		"title":"2x Lesson <br>G: 2025-07-07 19:00 ~ 2025-07-14 18:59 7d (UTC y-m-d)<br>Jp: 2025-01-08 04:00 ~ 2025-01-15 03:59 7d (JST y-m-d)",
+		"title":"2x Lesson <br>G: 2025-07-07 19:00 Mon ~ 2025-07-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-01-08 04:00 Wed ~ 2025-01-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"2x Hard ",
@@ -5119,7 +5119,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-07-19T18:59",
 		"startG":"2025-07-14T19:00",
-		"title":"2x Hard <br>G: 2025-07-14 19:00 ~ 2025-07-19 18:59 5d (UTC y-m-d)<br>Jp: 2025-01-15 04:00 ~ 2025-01-20 03:59 5d (JST y-m-d)",
+		"title":"2x Hard <br>G: 2025-07-14 19:00 Mon ~ 2025-07-19 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2025-01-15 04:00 Wed ~ 2025-01-20 03:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"2x Scrimm ",
@@ -5132,7 +5132,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-07-19T18:59",
 		"startG":"2025-07-14T19:00",
-		"title":"2x Scrimm <br>G: 2025-07-14 19:00 ~ 2025-07-19 18:59 5d (UTC y-m-d)<br>Jp: 2025-01-15 04:00 ~ 2025-01-20 03:59 5d (JST y-m-d)",
+		"title":"2x Scrimm <br>G: 2025-07-14 19:00 Mon ~ 2025-07-19 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2025-01-15 04:00 Wed ~ 2025-01-20 03:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -5145,7 +5145,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-06-28T18:59",
 		"startG":"2025-06-26T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-06-26 19:00 ~ 2025-06-28 18:59 2d (UTC y-m-d)<br>Jp: 2024-12-28 04:00 ~ 2024-12-30 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-06-26 19:00 Thu ~ 2025-06-28 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2024-12-28 04:00 Sat ~ 2024-12-30 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -5158,7 +5158,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2024-07-04T18:59",
 		"startG":"2024-07-02T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2024-07-02 19:00 ~ 2024-07-04 18:59 2d (UTC y-m-d)<br>Jp: 2024-01-04 04:00 ~ 2024-01-06 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2024-07-02 19:00 Tue ~ 2024-07-04 18:59 Thu 2d (UTC y-m-d)<br>Jp: 2024-01-04 04:00 Thu ~ 2024-01-06 03:59 Sat 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>3x Bounty </b>",
@@ -5171,7 +5171,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-07-26T18:59",
 		"startG":"2025-07-19T19:00",
-		"title":"<b>3x Bounty </b><br>G: 2025-07-19 19:00 ~ 2025-07-26 18:59 7d (UTC y-m-d)<br>Jp: 2025-01-20 04:00 ~ 2025-01-27 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Bounty </b><br>G: 2025-07-19 19:00 Sat ~ 2025-07-26 18:59 Sat 7d (UTC y-m-d)<br>Jp: 2025-01-20 04:00 Mon ~ 2025-01-27 03:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Lesson </b>",
@@ -5184,7 +5184,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-07-26T18:59",
 		"startG":"2025-07-19T19:00",
-		"title":"<b>3x Lesson </b><br>G: 2025-07-19 19:00 ~ 2025-07-26 18:59 7d (UTC y-m-d)<br>Jp: 2025-01-20 04:00 ~ 2025-01-27 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Lesson </b><br>G: 2025-07-19 19:00 Sat ~ 2025-07-26 18:59 Sat 7d (UTC y-m-d)<br>Jp: 2025-01-20 04:00 Mon ~ 2025-01-27 03:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Normal </b>",
@@ -5197,7 +5197,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-07-30T18:59",
 		"startG":"2025-07-26T19:00",
-		"title":"<b>3x Normal </b><br>G: 2025-07-26 19:00 ~ 2025-07-30 18:59 4d (UTC y-m-d)<br>Jp: 2025-01-27 04:00 ~ 2025-01-31 03:59 4d (JST y-m-d)",
+		"title":"<b>3x Normal </b><br>G: 2025-07-26 19:00 Sat ~ 2025-07-30 18:59 Wed 4d (UTC y-m-d)<br>Jp: 2025-01-27 04:00 Mon ~ 2025-01-31 03:59 Fri 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"<b>3x Hard </b>",
@@ -5210,7 +5210,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-02T18:59",
 		"startG":"2025-07-30T19:00",
-		"title":"<b>3x Hard </b><br>G: 2025-07-30 19:00 ~ 2025-08-02 18:59 3d (UTC y-m-d)<br>Jp: 2025-01-31 04:00 ~ 2025-02-03 03:59 3d (JST y-m-d)",
+		"title":"<b>3x Hard </b><br>G: 2025-07-30 19:00 Wed ~ 2025-08-02 18:59 Sat 3d (UTC y-m-d)<br>Jp: 2025-01-31 04:00 Fri ~ 2025-02-03 03:59 Mon 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>3x Comm </b>",
@@ -5223,7 +5223,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-11T18:59",
 		"startG":"2025-08-02T19:00",
-		"title":"<b>3x Comm </b><br>G: 2025-08-02 19:00 ~ 2025-08-11 18:59 9d (UTC y-m-d)<br>Jp: 2025-02-03 04:00 ~ 2025-02-12 03:59 9d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2025-08-02 19:00 Sat ~ 2025-08-11 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2025-02-03 04:00 Mon ~ 2025-02-12 03:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<b>3x Lesson </b>",
@@ -5236,7 +5236,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-11T18:59",
 		"startG":"2025-08-02T19:00",
-		"title":"<b>3x Lesson </b><br>G: 2025-08-02 19:00 ~ 2025-08-11 18:59 9d (UTC y-m-d)<br>Jp: 2025-02-03 04:00 ~ 2025-02-12 03:59 9d (JST y-m-d)",
+		"title":"<b>3x Lesson </b><br>G: 2025-08-02 19:00 Sat ~ 2025-08-11 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2025-02-03 04:00 Mon ~ 2025-02-12 03:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<b>3x Scrimm </b>",
@@ -5249,7 +5249,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-11T18:59",
 		"startG":"2025-08-02T19:00",
-		"title":"<b>3x Scrimm </b><br>G: 2025-08-02 19:00 ~ 2025-08-11 18:59 9d (UTC y-m-d)<br>Jp: 2025-02-03 04:00 ~ 2025-02-12 03:59 9d (JST y-m-d)",
+		"title":"<b>3x Scrimm </b><br>G: 2025-08-02 19:00 Sat ~ 2025-08-11 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2025-02-03 04:00 Mon ~ 2025-02-12 03:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<b>3x Bounty </b>",
@@ -5262,7 +5262,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-18T18:59",
 		"startG":"2025-08-11T19:00",
-		"title":"<b>3x Bounty </b><br>G: 2025-08-11 19:00 ~ 2025-08-18 18:59 7d (UTC y-m-d)<br>Jp: 2025-02-12 04:00 ~ 2025-02-19 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Bounty </b><br>G: 2025-08-11 19:00 Mon ~ 2025-08-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-02-12 04:00 Wed ~ 2025-02-19 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Normal </b>",
@@ -5275,7 +5275,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-15T18:59",
 		"startG":"2025-08-11T19:00",
-		"title":"<b>3x Normal </b><br>G: 2025-08-11 19:00 ~ 2025-08-15 18:59 4d (UTC y-m-d)<br>Jp: 2025-02-12 04:00 ~ 2025-02-16 03:59 4d (JST y-m-d)",
+		"title":"<b>3x Normal </b><br>G: 2025-08-11 19:00 Mon ~ 2025-08-15 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2025-02-12 04:00 Wed ~ 2025-02-16 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"<b>3x Hard </b>",
@@ -5288,7 +5288,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-18T18:59",
 		"startG":"2025-08-15T19:00",
-		"title":"<b>3x Hard </b><br>G: 2025-08-15 19:00 ~ 2025-08-18 18:59 3d (UTC y-m-d)<br>Jp: 2025-02-16 04:00 ~ 2025-02-19 03:59 3d (JST y-m-d)",
+		"title":"<b>3x Hard </b><br>G: 2025-08-15 19:00 Fri ~ 2025-08-18 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2025-02-16 04:00 Sun ~ 2025-02-19 03:59 Wed 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"<b>3x Comm </b>",
@@ -5301,7 +5301,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-25T18:59",
 		"startG":"2025-08-18T19:00",
-		"title":"<b>3x Comm </b><br>G: 2025-08-18 19:00 ~ 2025-08-25 18:59 7d (UTC y-m-d)<br>Jp: 2025-02-19 04:00 ~ 2025-02-26 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Comm </b><br>G: 2025-08-18 19:00 Mon ~ 2025-08-25 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-02-19 04:00 Wed ~ 2025-02-26 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>3x Scrimm </b>",
@@ -5314,7 +5314,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-25T18:59",
 		"startG":"2025-08-18T19:00",
-		"title":"<b>3x Scrimm </b><br>G: 2025-08-18 19:00 ~ 2025-08-25 18:59 7d (UTC y-m-d)<br>Jp: 2025-02-19 04:00 ~ 2025-02-26 03:59 7d (JST y-m-d)",
+		"title":"<b>3x Scrimm </b><br>G: 2025-08-18 19:00 Mon ~ 2025-08-25 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-02-19 04:00 Wed ~ 2025-02-26 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -5327,7 +5327,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-07-26T18:59",
 		"startG":"2025-07-24T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-07-24 19:00 ~ 2025-07-26 18:59 2d (UTC y-m-d)<br>Jp: 2025-01-25 04:00 ~ 2025-01-27 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-07-24 19:00 Thu ~ 2025-07-26 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2025-01-25 04:00 Sat ~ 2025-01-27 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -5340,7 +5340,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-02T18:59",
 		"startG":"2025-07-31T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-07-31 19:00 ~ 2025-08-02 18:59 2d (UTC y-m-d)<br>Jp: 2025-02-01 04:00 ~ 2025-02-03 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-07-31 19:00 Thu ~ 2025-08-02 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2025-02-01 04:00 Sat ~ 2025-02-03 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -5353,7 +5353,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-09T18:59",
 		"startG":"2025-08-07T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-08-07 19:00 ~ 2025-08-09 18:59 2d (UTC y-m-d)<br>Jp: 2025-02-08 04:00 ~ 2025-02-10 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-08-07 19:00 Thu ~ 2025-08-09 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2025-02-08 04:00 Sat ~ 2025-02-10 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -5366,7 +5366,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-16T18:59",
 		"startG":"2025-08-14T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-08-14 19:00 ~ 2025-08-16 18:59 2d (UTC y-m-d)<br>Jp: 2025-02-15 04:00 ~ 2025-02-17 03:59 2d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-08-14 19:00 Thu ~ 2025-08-16 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2025-02-15 04:00 Sat ~ 2025-02-17 03:59 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"<b>2x XP</b></b>",
@@ -5379,7 +5379,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-08-24T18:59",
 		"startG":"2025-08-21T19:00",
-		"title":"<b>2x XP</b></b><br>G: 2025-08-21 19:00 ~ 2025-08-24 18:59 3d (UTC y-m-d)<br>Jp: 2025-02-22 04:00 ~ 2025-02-25 03:59 3d (JST y-m-d)",
+		"title":"<b>2x XP</b></b><br>G: 2025-08-21 19:00 Thu ~ 2025-08-24 18:59 Sun 3d (UTC y-m-d)<br>Jp: 2025-02-22 04:00 Sat ~ 2025-02-25 03:59 Tue 3d (JST y-m-d)",
 		"duration":3},
 	{
 		"content":"[JFD] Shooting Red Outdoors",
@@ -5392,7 +5392,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-09-12T14:59",
 		"startG":"2022-09-06T02:00",
-		"title":"[JFD] Shooting Red Outdoors<br>G: 2022-09-06 02:00 ~ 2022-09-12 14:59 7d (UTC y-m-d)<br>Jp: 2022-03-09 11:00 ~ 2022-03-15 23:59 7d (JST y-m-d)",
+		"title":"[JFD] Shooting Red Outdoors<br>G: 2022-09-06 02:00 Tue ~ 2022-09-12 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-09 11:00 Wed ~ 2022-03-15 23:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Defense Blue Outdoors",
@@ -5405,7 +5405,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-09-26T18:59",
 		"startG":"2022-09-20T02:00",
-		"title":"[JFD] Defense Blue Outdoors<br>G: 2022-09-20 02:00 ~ 2022-09-26 18:59 7d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 ~ 2022-03-30 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Defense Blue Outdoors<br>G: 2022-09-20 02:00 Tue ~ 2022-09-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 Wed ~ 2022-03-30 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Assault Yellow Outdoors",
@@ -5418,7 +5418,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-11-14T18:59",
 		"startG":"2022-11-08T02:00",
-		"title":"[JFD] Assault Yellow Outdoors<br>G: 2022-11-08 02:00 ~ 2022-11-14 18:59 7d (UTC y-m-d)<br>Jp: 2022-05-11 11:00 ~ 2022-05-18 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Assault Yellow Outdoors<br>G: 2022-11-08 02:00 Tue ~ 2022-11-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-05-11 11:00 Wed ~ 2022-05-18 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Shooting Yellow Indoors",
@@ -5431,7 +5431,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-12-12T18:59",
 		"startG":"2022-12-06T02:00",
-		"title":"[JFD] Shooting Yellow Indoors<br>G: 2022-12-06 02:00 ~ 2022-12-12 18:59 7d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 ~ 2022-06-15 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Shooting Yellow Indoors<br>G: 2022-12-06 02:00 Tue ~ 2022-12-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 Wed ~ 2022-06-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Defense Red Indoors",
@@ -5444,7 +5444,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-01-09T18:59",
 		"startG":"2023-01-03T02:00",
-		"title":"[JFD] Defense Red Indoors<br>G: 2023-01-03 02:00 ~ 2023-01-09 18:59 7d (UTC y-m-d)<br>Jp: 2022-07-06 11:00 ~ 2022-07-13 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Defense Red Indoors<br>G: 2023-01-03 02:00 Tue ~ 2023-01-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-07-06 11:00 Wed ~ 2022-07-13 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Assault Blue Indoors",
@@ -5457,7 +5457,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-02-05T18:59",
 		"startG":"2023-01-31T02:00",
-		"title":"[JFD] Assault Blue Indoors<br>G: 2023-01-31 02:00 ~ 2023-02-05 18:59 6d (UTC y-m-d)<br>Jp: 2022-08-03 11:00 ~ 2022-08-09 03:59 6d (JST y-m-d)",
+		"title":"[JFD] Assault Blue Indoors<br>G: 2023-01-31 02:00 Tue ~ 2023-02-05 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2022-08-03 11:00 Wed ~ 2022-08-09 03:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"[JFD] Shooting Blue Urban",
@@ -5470,7 +5470,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-03-27T18:59",
 		"startG":"2023-03-21T02:00",
-		"title":"[JFD] Shooting Blue Urban<br>G: 2023-03-21 02:00 ~ 2023-03-27 18:59 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 ~ 2022-09-28 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Shooting Blue Urban<br>G: 2023-03-21 02:00 Tue ~ 2023-03-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 Wed ~ 2022-09-28 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Defense Yellow Urban",
@@ -5483,7 +5483,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-04-17T18:59",
 		"startG":"2023-04-11T02:00",
-		"title":"[JFD] Defense Yellow Urban<br>G: 2023-04-11 02:00 ~ 2023-04-17 18:59 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 ~ 2022-10-19 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Defense Yellow Urban<br>G: 2023-04-11 02:00 Tue ~ 2023-04-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 Wed ~ 2022-10-19 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Assault Red Urban",
@@ -5496,7 +5496,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-05-15T18:59",
 		"startG":"2023-05-09T02:00",
-		"title":"[JFD] Assault Red Urban<br>G: 2023-05-09 02:00 ~ 2023-05-15 18:59 7d (UTC y-m-d)<br>Jp: 2022-11-09 11:00 ~ 2022-11-16 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Assault Red Urban<br>G: 2023-05-09 02:00 Tue ~ 2023-05-15 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-09 11:00 Wed ~ 2022-11-16 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Shooting Red Indoors",
@@ -5509,7 +5509,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-06-05T18:59",
 		"startG":"2023-05-30T02:00",
-		"title":"[JFD] Shooting Red Indoors<br>G: 2023-05-30 02:00 ~ 2023-06-05 18:59 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 ~ 2022-12-07 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Shooting Red Indoors<br>G: 2023-05-30 02:00 Tue ~ 2023-06-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 Wed ~ 2022-12-07 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Defense Blue Indoors",
@@ -5522,7 +5522,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-07-03T18:59",
 		"startG":"2023-06-27T02:00",
-		"title":"[JFD] Defense Blue Indoors<br>G: 2023-06-27 02:00 ~ 2023-07-03 18:59 7d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 ~ 2023-01-04 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Defense Blue Indoors<br>G: 2023-06-27 02:00 Tue ~ 2023-07-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 Wed ~ 2023-01-04 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Assault Yellow Indoors",
@@ -5535,7 +5535,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-08-21T18:59",
 		"startG":"2023-08-15T02:00",
-		"title":"[JFD] Assault Yellow Indoors<br>G: 2023-08-15 02:00 ~ 2023-08-21 18:59 7d (UTC y-m-d)<br>Jp: 2023-02-15 11:00 ~ 2023-02-22 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Assault Yellow Indoors<br>G: 2023-08-15 02:00 Tue ~ 2023-08-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-02-15 11:00 Wed ~ 2023-02-22 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Shooting Blue Outdoors",
@@ -5548,7 +5548,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-09-11T18:59",
 		"startG":"2023-09-05T02:00",
-		"title":"[JFD] Shooting Blue Outdoors<br>G: 2023-09-05 02:00 ~ 2023-09-11 18:59 7d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 ~ 2023-03-15 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Shooting Blue Outdoors<br>G: 2023-09-05 02:00 Tue ~ 2023-09-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 Wed ~ 2023-03-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Defense Yellow Outdoors",
@@ -5561,7 +5561,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-10-09T18:59",
 		"startG":"2023-10-03T02:00",
-		"title":"[JFD] Defense Yellow Outdoors<br>G: 2023-10-03 02:00 ~ 2023-10-09 18:59 7d (UTC y-m-d)<br>Jp: 2023-04-05 11:00 ~ 2023-04-12 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Defense Yellow Outdoors<br>G: 2023-10-03 02:00 Tue ~ 2023-10-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-04-05 11:00 Wed ~ 2023-04-12 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Assault Red Outdoors",
@@ -5574,7 +5574,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-11-13T18:59",
 		"startG":"2023-11-07T02:00",
-		"title":"[JFD] Assault Red Outdoors<br>G: 2023-11-07 02:00 ~ 2023-11-13 18:59 7d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 ~ 2023-05-17 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Assault Red Outdoors<br>G: 2023-11-07 02:00 Tue ~ 2023-11-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 Wed ~ 2023-05-17 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Shooting Yellow Urban",
@@ -5587,7 +5587,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-12-11T18:59",
 		"startG":"2023-12-04T02:00",
-		"title":"[JFD] Shooting Yellow Urban<br>G: 2023-12-04 02:00 ~ 2023-12-11 18:59 8d (UTC y-m-d)<br>Jp: 2023-06-06 11:00 ~ 2023-06-14 03:59 8d (JST y-m-d)",
+		"title":"[JFD] Shooting Yellow Urban<br>G: 2023-12-04 02:00 Mon ~ 2023-12-11 18:59 Mon 8d (UTC y-m-d)<br>Jp: 2023-06-06 11:00 Tue ~ 2023-06-14 03:59 Wed 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"[JFD] Defense Red Urban",
@@ -5600,7 +5600,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-12-25T18:59",
 		"startG":"2023-12-19T02:00",
-		"title":"[JFD] Defense Red Urban<br>G: 2023-12-19 02:00 ~ 2023-12-25 18:59 7d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 ~ 2023-06-28 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Defense Red Urban<br>G: 2023-12-19 02:00 Tue ~ 2023-12-25 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 Wed ~ 2023-06-28 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Assault Blue Urban",
@@ -5613,7 +5613,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-02-12T18:59",
 		"startG":"2024-02-06T02:00",
-		"title":"[JFD] Assault Blue Urban<br>G: 2024-02-06 02:00 ~ 2024-02-12 18:59 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 ~ 2023-08-16 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Assault Blue Urban<br>G: 2024-02-06 02:00 Tue ~ 2024-02-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 Wed ~ 2023-08-16 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Shooting Red Indoors",
@@ -5626,7 +5626,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-03-11T18:59",
 		"startG":"2024-03-05T02:00",
-		"title":"[JFD] Shooting Red Indoors<br>G: 2024-03-05 02:00 ~ 2024-03-11 18:59 7d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 ~ 2023-09-13 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Shooting Red Indoors<br>G: 2024-03-05 02:00 Tue ~ 2024-03-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 Wed ~ 2023-09-13 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Defense Purple Urban",
@@ -5639,7 +5639,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-04-15T18:59",
 		"startG":"2024-04-09T02:00",
-		"title":"[JFD] Defense Purple Urban<br>G: 2024-04-09 02:00 ~ 2024-04-15 18:59 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 ~ 2023-10-18 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Defense Purple Urban<br>G: 2024-04-09 02:00 Tue ~ 2024-04-15 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 Wed ~ 2023-10-18 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Escort Blue Outdoors",
@@ -5652,7 +5652,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-05-13T18:59",
 		"startG":"2024-05-07T02:00",
-		"title":"[JFD] Escort Blue Outdoors<br>G: 2024-05-07 02:00 ~ 2024-05-13 18:59 7d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 ~ 2023-11-15 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Escort Blue Outdoors<br>G: 2024-05-07 02:00 Tue ~ 2024-05-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 Wed ~ 2023-11-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Assault Yellow Indoors",
@@ -5665,7 +5665,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-06-10T18:59",
 		"startG":"2024-06-04T02:00",
-		"title":"[JFD] Assault Yellow Indoors<br>G: 2024-06-04 02:00 ~ 2024-06-10 18:59 7d (UTC y-m-d)<br>Jp: 2023-12-06 11:00 ~ 2023-12-13 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Assault Yellow Indoors<br>G: 2024-06-04 02:00 Tue ~ 2024-06-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-12-06 11:00 Wed ~ 2023-12-13 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Assault Yellow Indoors",
@@ -5678,7 +5678,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-12-15T18:59",
 		"startG":"2024-12-09T05:00",
-		"title":"[JFD] Assault Yellow Indoors<br>G: 2024-12-09 05:00 ~ 2024-12-15 18:59 7d (UTC y-m-d)<br>Jp: 2024-06-11 14:00 ~ 2024-06-18 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Assault Yellow Indoors<br>G: 2024-12-09 05:00 Mon ~ 2024-12-15 18:59 Sun 7d (UTC y-m-d)<br>Jp: 2024-06-11 14:00 Tue ~ 2024-06-18 03:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Shooting Yellow Urban",
@@ -5691,7 +5691,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-07-12T18:59",
 		"startG":"2024-07-09T02:00",
-		"title":"[JFD] Shooting Yellow Urban<br>G: 2024-07-09 02:00 ~ 2024-07-12 18:59 4d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 ~ 2024-01-14 03:59 4d (JST y-m-d)",
+		"title":"[JFD] Shooting Yellow Urban<br>G: 2024-07-09 02:00 Tue ~ 2024-07-12 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 Wed ~ 2024-01-14 03:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"[JFD] Defense Red Outdoors",
@@ -5704,7 +5704,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-08-12T18:59",
 		"startG":"2024-08-06T02:00",
-		"title":"[JFD] Defense Red Outdoors<br>G: 2024-08-06 02:00 ~ 2024-08-12 18:59 7d (UTC y-m-d)<br>Jp: 2024-02-07 11:00 ~ 2024-02-14 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Defense Red Outdoors<br>G: 2024-08-06 02:00 Tue ~ 2024-08-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-07 11:00 Wed ~ 2024-02-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Escort Yellow Urban",
@@ -5717,7 +5717,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-09-09T18:59",
 		"startG":"2024-09-03T02:00",
-		"title":"[JFD] Escort Yellow Urban<br>G: 2024-09-03 02:00 ~ 2024-09-09 18:59 7d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 ~ 2024-03-13 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Escort Yellow Urban<br>G: 2024-09-03 02:00 Tue ~ 2024-09-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 Wed ~ 2024-03-13 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Assault Purple Urban",
@@ -5730,7 +5730,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-10-14T18:59",
 		"startG":"2024-10-09T02:00",
-		"title":"[JFD] Assault Purple Urban<br>G: 2024-10-09 02:00 ~ 2024-10-14 18:59 6d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 ~ 2024-04-17 03:59 6d (JST y-m-d)",
+		"title":"[JFD] Assault Purple Urban<br>G: 2024-10-09 02:00 Wed ~ 2024-10-14 18:59 Mon 6d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 Thu ~ 2024-04-17 03:59 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"[JFD] Shooting Yellow Urban",
@@ -5743,7 +5743,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-11-11T18:59",
 		"startG":"2024-11-05T02:00",
-		"title":"[JFD] Shooting Yellow Urban<br>G: 2024-11-05 02:00 ~ 2024-11-11 18:59 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 ~ 2024-05-15 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Shooting Yellow Urban<br>G: 2024-11-05 02:00 Tue ~ 2024-11-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 Wed ~ 2024-05-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Defense Red Indoors",
@@ -5756,7 +5756,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-12-09T18:59",
 		"startG":"2024-12-03T02:00",
-		"title":"[JFD] Defense Red Indoors<br>G: 2024-12-03 02:00 ~ 2024-12-09 18:59 7d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 ~ 2024-06-12 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Defense Red Indoors<br>G: 2024-12-03 02:00 Tue ~ 2024-12-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-06-12 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Escort Purple Urban",
@@ -5769,7 +5769,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-01-13T18:59",
 		"startG":"2025-01-07T02:00",
-		"title":"[JFD] Escort Purple Urban<br>G: 2025-01-07 02:00 ~ 2025-01-13 18:59 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 ~ 2024-07-17 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Escort Purple Urban<br>G: 2025-01-07 02:00 Tue ~ 2025-01-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 Wed ~ 2024-07-17 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Assault Blue Urban",
@@ -5782,7 +5782,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-02-10T18:59",
 		"startG":"2025-02-04T02:00",
-		"title":"[JFD] Assault Blue Urban<br>G: 2025-02-04 02:00 ~ 2025-02-10 18:59 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 ~ 2024-08-14 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Assault Blue Urban<br>G: 2025-02-04 02:00 Tue ~ 2025-02-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 Wed ~ 2024-08-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Shooting Blue Indoors",
@@ -5795,7 +5795,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-03-10T18:59",
 		"startG":"2025-03-04T02:00",
-		"title":"[JFD] Shooting Blue Indoors<br>G: 2025-03-04 02:00 ~ 2025-03-10 18:59 7d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 ~ 2024-09-11 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Shooting Blue Indoors<br>G: 2025-03-04 02:00 Tue ~ 2025-03-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Defense Yellow Indoors",
@@ -5808,7 +5808,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-04-14T18:59",
 		"startG":"2025-04-09T02:00",
-		"title":"[JFD] Defense Yellow Indoors<br>G: 2025-04-09 02:00 ~ 2025-04-14 18:59 6d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 ~ 2024-10-16 03:59 6d (JST y-m-d)",
+		"title":"[JFD] Defense Yellow Indoors<br>G: 2025-04-09 02:00 Wed ~ 2025-04-14 18:59 Mon 6d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 Thu ~ 2024-10-16 03:59 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"[JFD] Escort Red Indoors",
@@ -5821,7 +5821,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-05-12T18:59",
 		"startG":"2025-05-06T02:00",
-		"title":"[JFD] Escort Red Indoors<br>G: 2025-05-06 02:00 ~ 2025-05-12 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-13 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Escort Red Indoors<br>G: 2025-05-06 02:00 Tue ~ 2025-05-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 Wed ~ 2024-11-13 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Assault Red Urban",
@@ -5834,7 +5834,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-06-09T18:59",
 		"startG":"2025-06-03T02:00",
-		"title":"[JFD] Assault Red Urban<br>G: 2025-06-03 02:00 ~ 2025-06-09 18:59 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 ~ 2024-12-11 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Assault Red Urban<br>G: 2025-06-03 02:00 Tue ~ 2025-06-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 Wed ~ 2024-12-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Shooting Purple Urban",
@@ -5847,7 +5847,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-07-14T18:59",
 		"startG":"2025-07-08T02:00",
-		"title":"[JFD] Shooting Purple Urban<br>G: 2025-07-08 02:00 ~ 2025-07-14 18:59 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 ~ 2025-01-15 03:59 7d (JST y-m-d)",
+		"title":"[JFD] Shooting Purple Urban<br>G: 2025-07-08 02:00 Tue ~ 2025-07-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 Wed ~ 2025-01-15 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Binah Outdoors",
@@ -5860,7 +5860,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2021-08-21T14:59",
 		"startG":"2021-08-14T19:00",
-		"title":"[TA] Binah Outdoors<br>G: 2021-08-14 19:00 ~ 2021-08-21 14:59 7d (UTC y-m-d)<br>Jp: 2021-02-15 04:00 ~ 2021-02-21 23:59 7d (JST y-m-d)",
+		"title":"[TA] Binah Outdoors<br>G: 2021-08-14 19:00 Sat ~ 2021-08-21 14:59 Sat 7d (UTC y-m-d)<br>Jp: 2021-02-15 04:00 Mon ~ 2021-02-21 23:59 Sun 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Chesed Indoors",
@@ -5873,7 +5873,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2021-09-14T14:59",
 		"startG":"2021-09-08T05:30",
-		"title":"[TA] Chesed Indoors<br>G: 2021-09-08 05:30 ~ 2021-09-14 14:59 7d (UTC y-m-d)<br>Jp: 2021-03-11 14:30 ~ 2021-03-17 23:59 7d (JST y-m-d)",
+		"title":"[TA] Chesed Indoors<br>G: 2021-09-08 05:30 Wed ~ 2021-09-14 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-03-11 14:30 Thu ~ 2021-03-17 23:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] ShiroKuro Urban",
@@ -5886,7 +5886,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2021-09-28T14:59",
 		"startG":"2021-09-22T03:00",
-		"title":"[TA] ShiroKuro Urban<br>G: 2021-09-22 03:00 ~ 2021-09-28 14:59 7d (UTC y-m-d)<br>Jp: 2021-03-25 12:00 ~ 2021-03-31 23:59 7d (JST y-m-d)",
+		"title":"[TA] ShiroKuro Urban<br>G: 2021-09-22 03:00 Wed ~ 2021-09-28 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-03-25 12:00 Thu ~ 2021-03-31 23:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Binah Urban",
@@ -5899,7 +5899,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2021-10-12T14:59",
 		"startG":"2021-10-06T03:00",
-		"title":"[TA] Binah Urban<br>G: 2021-10-06 03:00 ~ 2021-10-12 14:59 7d (UTC y-m-d)<br>Jp: 2021-04-08 12:00 ~ 2021-04-14 23:59 7d (JST y-m-d)",
+		"title":"[TA] Binah Urban<br>G: 2021-10-06 03:00 Wed ~ 2021-10-12 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-04-08 12:00 Thu ~ 2021-04-14 23:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Chesed Outdoors",
@@ -5912,7 +5912,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2021-11-02T14:59",
 		"startG":"2021-10-27T03:30",
-		"title":"[TA] Chesed Outdoors<br>G: 2021-10-27 03:30 ~ 2021-11-02 14:59 7d (UTC y-m-d)<br>Jp: 2021-04-29 12:30 ~ 2021-05-05 23:59 7d (JST y-m-d)",
+		"title":"[TA] Chesed Outdoors<br>G: 2021-10-27 03:30 Wed ~ 2021-11-02 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-04-29 12:30 Thu ~ 2021-05-05 23:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] ShiroKuro Urban",
@@ -5925,7 +5925,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2021-11-16T14:59",
 		"startG":"2021-11-10T03:30",
-		"title":"[TA] ShiroKuro Urban<br>G: 2021-11-10 03:30 ~ 2021-11-16 14:59 7d (UTC y-m-d)<br>Jp: 2021-05-13 12:30 ~ 2021-05-19 23:59 7d (JST y-m-d)",
+		"title":"[TA] ShiroKuro Urban<br>G: 2021-11-10 03:30 Wed ~ 2021-11-16 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-05-13 12:30 Thu ~ 2021-05-19 23:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hieronymus Indoors",
@@ -5938,7 +5938,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2021-11-30T14:59",
 		"startG":"2021-11-24T03:30",
-		"title":"[TA] Hieronymus Indoors<br>G: 2021-11-24 03:30 ~ 2021-11-30 14:59 7d (UTC y-m-d)<br>Jp: 2021-05-27 12:30 ~ 2021-06-02 23:59 7d (JST y-m-d)",
+		"title":"[TA] Hieronymus Indoors<br>G: 2021-11-24 03:30 Wed ~ 2021-11-30 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-05-27 12:30 Thu ~ 2021-06-02 23:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Binah Outdoors",
@@ -5951,7 +5951,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2021-12-14T14:59",
 		"startG":"2021-12-08T03:30",
-		"title":"[TA] Binah Outdoors<br>G: 2021-12-08 03:30 ~ 2021-12-14 14:59 7d (UTC y-m-d)<br>Jp: 2021-06-10 12:30 ~ 2021-06-16 23:59 7d (JST y-m-d)",
+		"title":"[TA] Binah Outdoors<br>G: 2021-12-08 03:30 Wed ~ 2021-12-14 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-06-10 12:30 Thu ~ 2021-06-16 23:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hieronymus Indoors",
@@ -5964,7 +5964,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2021-12-25T14:59",
 		"startG":"2021-12-22T03:30",
-		"title":"[TA] Hieronymus Indoors<br>G: 2021-12-22 03:30 ~ 2021-12-25 14:59 4d (UTC y-m-d)<br>Jp: 2021-06-24 12:30 ~ 2021-06-27 23:59 4d (JST y-m-d)",
+		"title":"[TA] Hieronymus Indoors<br>G: 2021-12-22 03:30 Wed ~ 2021-12-25 14:59 Sat 4d (UTC y-m-d)<br>Jp: 2021-06-24 12:30 Thu ~ 2021-06-27 23:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"[TA] ShiroKuro Indoors",
@@ -5977,7 +5977,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-01-04T14:59",
 		"startG":"2021-12-28T03:30",
-		"title":"[TA] ShiroKuro Indoors<br>G: 2021-12-28 03:30 ~ 2022-01-04 14:59 8d (UTC y-m-d)<br>Jp: 2021-06-30 12:30 ~ 2021-07-07 23:59 8d (JST y-m-d)",
+		"title":"[TA] ShiroKuro Indoors<br>G: 2021-12-28 03:30 Tue ~ 2022-01-04 14:59 Tue 8d (UTC y-m-d)<br>Jp: 2021-06-30 12:30 Wed ~ 2021-07-07 23:59 Wed 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"[TA] Chesed Indoors",
@@ -5990,7 +5990,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-01-18T14:59",
 		"startG":"2022-01-12T03:30",
-		"title":"[TA] Chesed Indoors<br>G: 2022-01-12 03:30 ~ 2022-01-18 14:59 7d (UTC y-m-d)<br>Jp: 2021-07-15 12:30 ~ 2021-07-21 23:59 7d (JST y-m-d)",
+		"title":"[TA] Chesed Indoors<br>G: 2022-01-12 03:30 Wed ~ 2022-01-18 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-07-15 12:30 Thu ~ 2021-07-21 23:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] KAITEN FX Mk.0 Outdoors",
@@ -6003,7 +6003,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-02-01T14:59",
 		"startG":"2022-01-26T03:30",
-		"title":"[TA] KAITEN FX Mk.0 Outdoors<br>G: 2022-01-26 03:30 ~ 2022-02-01 14:59 7d (UTC y-m-d)<br>Jp: 2021-07-29 12:30 ~ 2021-08-04 23:59 7d (JST y-m-d)",
+		"title":"[TA] KAITEN FX Mk.0 Outdoors<br>G: 2022-01-26 03:30 Wed ~ 2022-02-01 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-07-29 12:30 Thu ~ 2021-08-04 23:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] ShiroKuro Urban",
@@ -6016,7 +6016,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-02-15T14:59",
 		"startG":"2022-02-09T03:30",
-		"title":"[TA] ShiroKuro Urban<br>G: 2022-02-09 03:30 ~ 2022-02-15 14:59 7d (UTC y-m-d)<br>Jp: 2021-08-12 12:30 ~ 2021-08-18 23:59 7d (JST y-m-d)",
+		"title":"[TA] ShiroKuro Urban<br>G: 2022-02-09 03:30 Wed ~ 2022-02-15 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-08-12 12:30 Thu ~ 2021-08-18 23:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hieronymus Urban",
@@ -6029,7 +6029,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-03-01T14:59",
 		"startG":"2022-02-23T03:30",
-		"title":"[TA] Hieronymus Urban<br>G: 2022-02-23 03:30 ~ 2022-03-01 14:59 7d (UTC y-m-d)<br>Jp: 2021-08-26 12:30 ~ 2021-09-01 23:59 7d (JST y-m-d)",
+		"title":"[TA] Hieronymus Urban<br>G: 2022-02-23 03:30 Wed ~ 2022-03-01 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-08-26 12:30 Thu ~ 2021-09-01 23:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Chesed Outdoors",
@@ -6042,7 +6042,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-03-15T14:59",
 		"startG":"2022-03-09T03:30",
-		"title":"[TA] Chesed Outdoors<br>G: 2022-03-09 03:30 ~ 2022-03-15 14:59 7d (UTC y-m-d)<br>Jp: 2021-09-09 12:30 ~ 2021-09-15 23:59 7d (JST y-m-d)",
+		"title":"[TA] Chesed Outdoors<br>G: 2022-03-09 03:30 Wed ~ 2022-03-15 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-09-09 12:30 Thu ~ 2021-09-15 23:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hieronymus Urban",
@@ -6055,7 +6055,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-03-26T14:59",
 		"startG":"2022-03-23T03:30",
-		"title":"[TA] Hieronymus Urban<br>G: 2022-03-23 03:30 ~ 2022-03-26 14:59 4d (UTC y-m-d)<br>Jp: 2021-09-23 12:30 ~ 2021-09-26 23:59 4d (JST y-m-d)",
+		"title":"[TA] Hieronymus Urban<br>G: 2022-03-23 03:30 Wed ~ 2022-03-26 14:59 Sat 4d (UTC y-m-d)<br>Jp: 2021-09-23 12:30 Thu ~ 2021-09-26 23:59 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"[TA] KAITEN FX Mk.0 Outdoors",
@@ -6068,7 +6068,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-04-04T14:59",
 		"startG":"2022-03-29T03:30",
-		"title":"[TA] KAITEN FX Mk.0 Outdoors<br>G: 2022-03-29 03:30 ~ 2022-04-04 14:59 7d (UTC y-m-d)<br>Jp: 2021-09-29 12:30 ~ 2021-10-05 23:59 7d (JST y-m-d)",
+		"title":"[TA] KAITEN FX Mk.0 Outdoors<br>G: 2022-03-29 03:30 Tue ~ 2022-04-04 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2021-09-29 12:30 Wed ~ 2021-10-05 23:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] ShiroKuro Indoors",
@@ -6081,7 +6081,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-04-18T14:59",
 		"startG":"2022-04-11T03:30",
-		"title":"[TA] ShiroKuro Indoors<br>G: 2022-04-11 03:30 ~ 2022-04-18 14:59 8d (UTC y-m-d)<br>Jp: 2021-10-12 12:30 ~ 2021-10-19 23:59 8d (JST y-m-d)",
+		"title":"[TA] ShiroKuro Indoors<br>G: 2022-04-11 03:30 Mon ~ 2022-04-18 14:59 Mon 8d (UTC y-m-d)<br>Jp: 2021-10-12 12:30 Tue ~ 2021-10-19 23:59 Tue 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"[TA] Perorodzilla Indoors",
@@ -6094,7 +6094,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-05-02T14:59",
 		"startG":"2022-04-26T03:30",
-		"title":"[TA] Perorodzilla Indoors<br>G: 2022-04-26 03:30 ~ 2022-05-02 14:59 7d (UTC y-m-d)<br>Jp: 2021-10-27 12:30 ~ 2021-11-02 23:59 7d (JST y-m-d)",
+		"title":"[TA] Perorodzilla Indoors<br>G: 2022-04-26 03:30 Tue ~ 2022-05-02 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2021-10-27 12:30 Wed ~ 2021-11-02 23:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] KAITEN FX Mk.0 Urban",
@@ -6107,7 +6107,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-05-16T14:59",
 		"startG":"2022-05-09T03:30",
-		"title":"[TA] KAITEN FX Mk.0 Urban<br>G: 2022-05-09 03:30 ~ 2022-05-16 14:59 8d (UTC y-m-d)<br>Jp: 2021-11-09 12:30 ~ 2021-11-16 23:59 8d (JST y-m-d)",
+		"title":"[TA] KAITEN FX Mk.0 Urban<br>G: 2022-05-09 03:30 Mon ~ 2022-05-16 14:59 Mon 8d (UTC y-m-d)<br>Jp: 2021-11-09 12:30 Tue ~ 2021-11-16 23:59 Tue 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"[TA] Perorodzilla Indoors",
@@ -6120,7 +6120,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-05-27T14:59",
 		"startG":"2022-05-24T03:30",
-		"title":"[TA] Perorodzilla Indoors<br>G: 2022-05-24 03:30 ~ 2022-05-27 14:59 4d (UTC y-m-d)<br>Jp: 2021-11-24 12:30 ~ 2021-11-27 23:59 4d (JST y-m-d)",
+		"title":"[TA] Perorodzilla Indoors<br>G: 2022-05-24 03:30 Tue ~ 2022-05-27 14:59 Fri 4d (UTC y-m-d)<br>Jp: 2021-11-24 12:30 Wed ~ 2021-11-27 23:59 Sat 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"[TA] Binah Outdoors",
@@ -6133,7 +6133,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-06-06T14:59",
 		"startG":"2022-05-30T03:30",
-		"title":"[TA] Binah Outdoors<br>G: 2022-05-30 03:30 ~ 2022-06-06 14:59 8d (UTC y-m-d)<br>Jp: 2021-11-30 12:30 ~ 2021-12-07 23:59 8d (JST y-m-d)",
+		"title":"[TA] Binah Outdoors<br>G: 2022-05-30 03:30 Mon ~ 2022-06-06 14:59 Mon 8d (UTC y-m-d)<br>Jp: 2021-11-30 12:30 Tue ~ 2021-12-07 23:59 Tue 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"[TA] Hieronymus Indoors",
@@ -6146,7 +6146,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-06-20T14:59",
 		"startG":"2022-06-14T03:30",
-		"title":"[TA] Hieronymus Indoors<br>G: 2022-06-14 03:30 ~ 2022-06-20 14:59 7d (UTC y-m-d)<br>Jp: 2021-12-15 12:30 ~ 2021-12-21 23:59 7d (JST y-m-d)",
+		"title":"[TA] Hieronymus Indoors<br>G: 2022-06-14 03:30 Tue ~ 2022-06-20 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2021-12-15 12:30 Wed ~ 2021-12-21 23:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Chesed Outdoors",
@@ -6159,7 +6159,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-07-04T14:59",
 		"startG":"2022-06-28T03:30",
-		"title":"[TA] Chesed Outdoors<br>G: 2022-06-28 03:30 ~ 2022-07-04 14:59 7d (UTC y-m-d)<br>Jp: 2021-12-29 12:30 ~ 2022-01-04 23:59 7d (JST y-m-d)",
+		"title":"[TA] Chesed Outdoors<br>G: 2022-06-28 03:30 Tue ~ 2022-07-04 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2021-12-29 12:30 Wed ~ 2022-01-04 23:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Perorodzilla Outdoors",
@@ -6172,7 +6172,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-07-18T14:59",
 		"startG":"2022-07-12T03:30",
-		"title":"[TA] Perorodzilla Outdoors<br>G: 2022-07-12 03:30 ~ 2022-07-18 14:59 7d (UTC y-m-d)<br>Jp: 2022-01-12 12:30 ~ 2022-01-18 23:59 7d (JST y-m-d)",
+		"title":"[TA] Perorodzilla Outdoors<br>G: 2022-07-12 03:30 Tue ~ 2022-07-18 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-01-12 12:30 Wed ~ 2022-01-18 23:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hod Urban",
@@ -6185,7 +6185,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-08-08T14:59",
 		"startG":"2022-08-02T03:00",
-		"title":"[TA] Hod Urban<br>G: 2022-08-02 03:00 ~ 2022-08-08 14:59 7d (UTC y-m-d)<br>Jp: 2022-02-02 12:00 ~ 2022-02-08 23:59 7d (JST y-m-d)",
+		"title":"[TA] Hod Urban<br>G: 2022-08-02 03:00 Tue ~ 2022-08-08 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-02-02 12:00 Wed ~ 2022-02-08 23:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] ShiroKuro Urban",
@@ -6198,7 +6198,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-08-22T14:59",
 		"startG":"2022-08-16T03:00",
-		"title":"[TA] ShiroKuro Urban<br>G: 2022-08-16 03:00 ~ 2022-08-22 14:59 7d (UTC y-m-d)<br>Jp: 2022-02-16 12:00 ~ 2022-02-22 23:59 7d (JST y-m-d)",
+		"title":"[TA] ShiroKuro Urban<br>G: 2022-08-16 03:00 Tue ~ 2022-08-22 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-02-16 12:00 Wed ~ 2022-02-22 23:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] KAITEN FX Mk.0 Outdoors",
@@ -6211,7 +6211,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-09-05T14:59",
 		"startG":"2022-08-30T02:00",
-		"title":"[TA] KAITEN FX Mk.0 Outdoors<br>G: 2022-08-30 02:00 ~ 2022-09-05 14:59 7d (UTC y-m-d)<br>Jp: 2022-03-02 11:00 ~ 2022-03-08 23:59 7d (JST y-m-d)",
+		"title":"[TA] KAITEN FX Mk.0 Outdoors<br>G: 2022-08-30 02:00 Tue ~ 2022-09-05 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-02 11:00 Wed ~ 2022-03-08 23:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Binah Urban",
@@ -6224,7 +6224,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-09-19T14:59",
 		"startG":"2022-09-13T02:00",
-		"title":"[TA] Binah Urban<br>G: 2022-09-13 02:00 ~ 2022-09-19 14:59 7d (UTC y-m-d)<br>Jp: 2022-03-16 11:00 ~ 2022-03-22 23:59 7d (JST y-m-d)",
+		"title":"[TA] Binah Urban<br>G: 2022-09-13 02:00 Tue ~ 2022-09-19 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-16 11:00 Wed ~ 2022-03-22 23:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hod Urban",
@@ -6237,7 +6237,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-10-03T18:59",
 		"startG":"2022-09-27T02:00",
-		"title":"[TA] Hod Urban<br>G: 2022-09-27 02:00 ~ 2022-10-03 18:59 7d (UTC y-m-d)<br>Jp: 2022-03-30 11:00 ~ 2022-04-06 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hod Urban<br>G: 2022-09-27 02:00 Tue ~ 2022-10-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-30 11:00 Wed ~ 2022-04-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Chesed Indoors",
@@ -6250,7 +6250,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-10-17T18:59",
 		"startG":"2022-10-11T02:00",
-		"title":"[TA] Chesed Indoors<br>G: 2022-10-11 02:00 ~ 2022-10-17 18:59 7d (UTC y-m-d)<br>Jp: 2022-04-13 11:00 ~ 2022-04-20 03:59 7d (JST y-m-d)",
+		"title":"[TA] Chesed Indoors<br>G: 2022-10-11 02:00 Tue ~ 2022-10-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-04-13 11:00 Wed ~ 2022-04-20 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Perorodzilla Indoors",
@@ -6263,7 +6263,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-11-07T18:59",
 		"startG":"2022-11-01T02:00",
-		"title":"[TA] Perorodzilla Indoors<br>G: 2022-11-01 02:00 ~ 2022-11-07 18:59 7d (UTC y-m-d)<br>Jp: 2022-05-04 11:00 ~ 2022-05-11 03:59 7d (JST y-m-d)",
+		"title":"[TA] Perorodzilla Indoors<br>G: 2022-11-01 02:00 Tue ~ 2022-11-07 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-05-04 11:00 Wed ~ 2022-05-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] ShiroKuro Indoors",
@@ -6276,7 +6276,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-11-20T18:59",
 		"startG":"2022-11-15T02:00",
-		"title":"[TA] ShiroKuro Indoors<br>G: 2022-11-15 02:00 ~ 2022-11-20 18:59 6d (UTC y-m-d)<br>Jp: 2022-05-18 11:00 ~ 2022-05-24 03:59 6d (JST y-m-d)",
+		"title":"[TA] ShiroKuro Indoors<br>G: 2022-11-15 02:00 Tue ~ 2022-11-20 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2022-05-18 11:00 Wed ~ 2022-05-24 03:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"[TA] KAITEN FX Mk.0 Urban",
@@ -6289,7 +6289,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-12-05T18:59",
 		"startG":"2022-11-29T02:00",
-		"title":"[TA] KAITEN FX Mk.0 Urban<br>G: 2022-11-29 02:00 ~ 2022-12-05 18:59 7d (UTC y-m-d)<br>Jp: 2022-06-01 11:00 ~ 2022-06-08 03:59 7d (JST y-m-d)",
+		"title":"[TA] KAITEN FX Mk.0 Urban<br>G: 2022-11-29 02:00 Tue ~ 2022-12-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-06-01 11:00 Wed ~ 2022-06-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hieronymus Indoors",
@@ -6302,7 +6302,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2022-12-19T18:59",
 		"startG":"2022-12-13T02:00",
-		"title":"[TA] Hieronymus Indoors<br>G: 2022-12-13 02:00 ~ 2022-12-19 18:59 7d (UTC y-m-d)<br>Jp: 2022-06-15 11:00 ~ 2022-06-22 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hieronymus Indoors<br>G: 2022-12-13 02:00 Tue ~ 2022-12-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-06-15 11:00 Wed ~ 2022-06-22 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Binah Outdoors",
@@ -6315,7 +6315,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-01-16T18:59",
 		"startG":"2023-01-10T02:00",
-		"title":"[TA] Binah Outdoors<br>G: 2023-01-10 02:00 ~ 2023-01-16 18:59 7d (UTC y-m-d)<br>Jp: 2022-07-13 11:00 ~ 2022-07-20 03:59 7d (JST y-m-d)",
+		"title":"[TA] Binah Outdoors<br>G: 2023-01-10 02:00 Tue ~ 2023-01-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-07-13 11:00 Wed ~ 2022-07-20 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Chesed Outdoors",
@@ -6328,7 +6328,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-01-30T18:59",
 		"startG":"2023-01-24T02:00",
-		"title":"[TA] Chesed Outdoors<br>G: 2023-01-24 02:00 ~ 2023-01-30 18:59 7d (UTC y-m-d)<br>Jp: 2022-07-27 11:00 ~ 2022-08-03 03:59 7d (JST y-m-d)",
+		"title":"[TA] Chesed Outdoors<br>G: 2023-01-24 02:00 Tue ~ 2023-01-30 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-07-27 11:00 Wed ~ 2022-08-03 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Perorodzilla Outdoors",
@@ -6341,7 +6341,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-02-13T18:59",
 		"startG":"2023-02-06T02:00",
-		"title":"[TA] Perorodzilla Outdoors<br>G: 2023-02-06 02:00 ~ 2023-02-13 18:59 8d (UTC y-m-d)<br>Jp: 2022-08-09 11:00 ~ 2022-08-17 03:59 8d (JST y-m-d)",
+		"title":"[TA] Perorodzilla Outdoors<br>G: 2023-02-06 02:00 Mon ~ 2023-02-13 18:59 Mon 8d (UTC y-m-d)<br>Jp: 2022-08-09 11:00 Tue ~ 2022-08-17 03:59 Wed 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"[TA] Hieronymus Urban",
@@ -6354,7 +6354,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-03-06T18:59",
 		"startG":"2023-02-28T02:00",
-		"title":"[TA] Hieronymus Urban<br>G: 2023-02-28 02:00 ~ 2023-03-06 18:59 7d (UTC y-m-d)<br>Jp: 2022-08-31 11:00 ~ 2022-09-07 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hieronymus Urban<br>G: 2023-02-28 02:00 Tue ~ 2023-03-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-08-31 11:00 Wed ~ 2022-09-07 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hod Urban",
@@ -6367,7 +6367,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-03-20T18:59",
 		"startG":"2023-03-14T02:00",
-		"title":"[TA] Hod Urban<br>G: 2023-03-14 02:00 ~ 2023-03-20 18:59 7d (UTC y-m-d)<br>Jp: 2022-09-14 11:00 ~ 2022-09-21 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hod Urban<br>G: 2023-03-14 02:00 Tue ~ 2023-03-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-09-14 11:00 Wed ~ 2022-09-21 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] ShiroKuro Urban",
@@ -6380,7 +6380,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-04-10T18:59",
 		"startG":"2023-04-04T02:00",
-		"title":"[TA] ShiroKuro Urban<br>G: 2023-04-04 02:00 ~ 2023-04-10 18:59 7d (UTC y-m-d)<br>Jp: 2022-10-05 11:00 ~ 2022-10-12 03:59 7d (JST y-m-d)",
+		"title":"[TA] ShiroKuro Urban<br>G: 2023-04-04 02:00 Tue ~ 2023-04-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-10-05 11:00 Wed ~ 2022-10-12 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] KAITEN FX Mk.0 Outdoors",
@@ -6393,7 +6393,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-04-24T18:59",
 		"startG":"2023-04-18T02:00",
-		"title":"[TA] KAITEN FX Mk.0 Outdoors<br>G: 2023-04-18 02:00 ~ 2023-04-24 18:59 7d (UTC y-m-d)<br>Jp: 2022-10-19 11:00 ~ 2022-10-26 03:59 7d (JST y-m-d)",
+		"title":"[TA] KAITEN FX Mk.0 Outdoors<br>G: 2023-04-18 02:00 Tue ~ 2023-04-24 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-10-19 11:00 Wed ~ 2022-10-26 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Goz Indoors",
@@ -6406,7 +6406,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-05-08T18:59",
 		"startG":"2023-05-02T02:00",
-		"title":"[TA] Goz Indoors<br>G: 2023-05-02 02:00 ~ 2023-05-08 18:59 7d (UTC y-m-d)<br>Jp: 2022-11-02 11:00 ~ 2022-11-09 03:59 7d (JST y-m-d)",
+		"title":"[TA] Goz Indoors<br>G: 2023-05-02 02:00 Tue ~ 2023-05-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-02 11:00 Wed ~ 2022-11-09 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Binah Urban",
@@ -6419,7 +6419,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-05-22T18:59",
 		"startG":"2023-05-16T02:00",
-		"title":"[TA] Binah Urban<br>G: 2023-05-16 02:00 ~ 2023-05-22 18:59 7d (UTC y-m-d)<br>Jp: 2022-11-16 11:00 ~ 2022-11-23 03:59 7d (JST y-m-d)",
+		"title":"[TA] Binah Urban<br>G: 2023-05-16 02:00 Tue ~ 2023-05-22 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-16 11:00 Wed ~ 2022-11-23 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Chesed Indoors",
@@ -6432,7 +6432,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-06-12T18:59",
 		"startG":"2023-06-06T02:00",
-		"title":"[TA] Chesed Indoors<br>G: 2023-06-06 02:00 ~ 2023-06-12 18:59 7d (UTC y-m-d)<br>Jp: 2022-12-07 11:00 ~ 2022-12-14 03:59 7d (JST y-m-d)",
+		"title":"[TA] Chesed Indoors<br>G: 2023-06-06 02:00 Tue ~ 2023-06-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-07 11:00 Wed ~ 2022-12-14 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Perorodzilla Indoors",
@@ -6445,7 +6445,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-06-26T18:59",
 		"startG":"2023-06-20T02:00",
-		"title":"[TA] Perorodzilla Indoors<br>G: 2023-06-20 02:00 ~ 2023-06-26 18:59 7d (UTC y-m-d)<br>Jp: 2022-12-21 11:00 ~ 2022-12-28 03:59 7d (JST y-m-d)",
+		"title":"[TA] Perorodzilla Indoors<br>G: 2023-06-20 02:00 Tue ~ 2023-06-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-21 11:00 Wed ~ 2022-12-28 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hieronymus Indoors",
@@ -6458,7 +6458,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-07-10T18:59",
 		"startG":"2023-07-04T02:00",
-		"title":"[TA] Hieronymus Indoors<br>G: 2023-07-04 02:00 ~ 2023-07-10 18:59 7d (UTC y-m-d)<br>Jp: 2023-01-04 11:00 ~ 2023-01-11 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hieronymus Indoors<br>G: 2023-07-04 02:00 Tue ~ 2023-07-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-01-04 11:00 Wed ~ 2023-01-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] ShiroKuro Indoors",
@@ -6471,7 +6471,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-07-23T18:59",
 		"startG":"2023-07-18T02:00",
-		"title":"[TA] ShiroKuro Indoors<br>G: 2023-07-18 02:00 ~ 2023-07-23 18:59 6d (UTC y-m-d)<br>Jp: 2023-01-18 11:00 ~ 2023-01-24 03:59 6d (JST y-m-d)",
+		"title":"[TA] ShiroKuro Indoors<br>G: 2023-07-18 02:00 Tue ~ 2023-07-23 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2023-01-18 11:00 Wed ~ 2023-01-24 03:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"[TA] Hieronymus Urban",
@@ -6484,7 +6484,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-09-04T18:59",
 		"startG":"2023-08-29T02:00",
-		"title":"[TA] Hieronymus Urban<br>G: 2023-08-29 02:00 ~ 2023-09-04 18:59 7d (UTC y-m-d)<br>Jp: 2023-03-01 11:00 ~ 2023-03-08 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hieronymus Urban<br>G: 2023-08-29 02:00 Tue ~ 2023-09-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-01 11:00 Wed ~ 2023-03-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Goz Indoors",
@@ -6497,7 +6497,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-09-18T18:59",
 		"startG":"2023-09-12T02:00",
-		"title":"[TA] Goz Indoors<br>G: 2023-09-12 02:00 ~ 2023-09-18 18:59 7d (UTC y-m-d)<br>Jp: 2023-03-15 11:00 ~ 2023-03-22 03:59 7d (JST y-m-d)",
+		"title":"[TA] Goz Indoors<br>G: 2023-09-12 02:00 Tue ~ 2023-09-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-15 11:00 Wed ~ 2023-03-22 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Binah Outdoors",
@@ -6510,7 +6510,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-10-02T18:59",
 		"startG":"2023-09-26T02:00",
-		"title":"[TA] Binah Outdoors<br>G: 2023-09-26 02:00 ~ 2023-10-02 18:59 7d (UTC y-m-d)<br>Jp: 2023-03-29 11:00 ~ 2023-04-05 03:59 7d (JST y-m-d)",
+		"title":"[TA] Binah Outdoors<br>G: 2023-09-26 02:00 Tue ~ 2023-10-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-29 11:00 Wed ~ 2023-04-05 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Chesed Indoors",
@@ -6523,7 +6523,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-10-16T18:59",
 		"startG":"2023-10-10T02:00",
-		"title":"[TA] Chesed Indoors<br>G: 2023-10-10 02:00 ~ 2023-10-16 18:59 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 ~ 2023-04-19 03:59 7d (JST y-m-d)",
+		"title":"[TA] Chesed Indoors<br>G: 2023-10-10 02:00 Tue ~ 2023-10-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 Wed ~ 2023-04-19 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] ShiroKuro Urban",
@@ -6536,7 +6536,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-11-06T18:59",
 		"startG":"2023-10-31T02:00",
-		"title":"[TA] ShiroKuro Urban<br>G: 2023-10-31 02:00 ~ 2023-11-06 18:59 7d (UTC y-m-d)<br>Jp: 2023-05-03 11:00 ~ 2023-05-10 03:59 7d (JST y-m-d)",
+		"title":"[TA] ShiroKuro Urban<br>G: 2023-10-31 02:00 Tue ~ 2023-11-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-03 11:00 Wed ~ 2023-05-10 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] KAITEN FX Mk.0 Outdoors",
@@ -6549,7 +6549,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-11-20T18:59",
 		"startG":"2023-11-14T02:00",
-		"title":"[TA] KAITEN FX Mk.0 Outdoors<br>G: 2023-11-14 02:00 ~ 2023-11-20 18:59 7d (UTC y-m-d)<br>Jp: 2023-05-17 11:00 ~ 2023-05-24 03:59 7d (JST y-m-d)",
+		"title":"[TA] KAITEN FX Mk.0 Outdoors<br>G: 2023-11-14 02:00 Tue ~ 2023-11-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-17 11:00 Wed ~ 2023-05-24 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Perorodzilla Outdoors",
@@ -6562,7 +6562,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-12-04T18:59",
 		"startG":"2023-11-28T02:00",
-		"title":"[TA] Perorodzilla Outdoors<br>G: 2023-11-28 02:00 ~ 2023-12-04 18:59 7d (UTC y-m-d)<br>Jp: 2023-05-31 11:00 ~ 2023-06-07 03:59 7d (JST y-m-d)",
+		"title":"[TA] Perorodzilla Outdoors<br>G: 2023-11-28 02:00 Tue ~ 2023-12-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-31 11:00 Wed ~ 2023-06-07 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hod Indoors",
@@ -6575,7 +6575,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2023-12-18T18:59",
 		"startG":"2023-12-12T02:00",
-		"title":"[TA] Hod Indoors<br>G: 2023-12-12 02:00 ~ 2023-12-18 18:59 7d (UTC y-m-d)<br>Jp: 2023-06-14 11:00 ~ 2023-06-21 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hod Indoors<br>G: 2023-12-12 02:00 Tue ~ 2023-12-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-14 11:00 Wed ~ 2023-06-21 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Gregorius Indoors",
@@ -6588,7 +6588,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-01-08T18:59",
 		"startG":"2024-01-02T02:00",
-		"title":"[TA] Gregorius Indoors<br>G: 2024-01-02 02:00 ~ 2024-01-08 18:59 7d (UTC y-m-d)<br>Jp: 2023-07-05 11:00 ~ 2023-07-12 03:59 7d (JST y-m-d)",
+		"title":"[TA] Gregorius Indoors<br>G: 2024-01-02 02:00 Tue ~ 2024-01-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-07-05 11:00 Wed ~ 2023-07-12 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Goz Outdoors",
@@ -6601,7 +6601,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-02-05T18:59",
 		"startG":"2024-01-30T02:00",
-		"title":"[TA] Goz Outdoors<br>G: 2024-01-30 02:00 ~ 2024-02-05 18:59 7d (UTC y-m-d)<br>Jp: 2023-08-02 11:00 ~ 2023-08-09 03:59 7d (JST y-m-d)",
+		"title":"[TA] Goz Outdoors<br>G: 2024-01-30 02:00 Tue ~ 2024-02-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-02 11:00 Wed ~ 2023-08-09 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hovercraft Outdoors",
@@ -6614,7 +6614,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-03-04T18:59",
 		"startG":"2024-02-27T02:00",
-		"title":"[TA] Hovercraft Outdoors<br>G: 2024-02-27 02:00 ~ 2024-03-04 18:59 7d (UTC y-m-d)<br>Jp: 2023-08-30 11:00 ~ 2023-09-06 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hovercraft Outdoors<br>G: 2024-02-27 02:00 Tue ~ 2024-03-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-30 11:00 Wed ~ 2023-09-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Binah Urban",
@@ -6627,7 +6627,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-04-08T18:59",
 		"startG":"2024-04-02T02:00",
-		"title":"[TA] Binah Urban<br>G: 2024-04-02 02:00 ~ 2024-04-08 18:59 7d (UTC y-m-d)<br>Jp: 2023-10-04 11:00 ~ 2023-10-11 03:59 7d (JST y-m-d)",
+		"title":"[TA] Binah Urban<br>G: 2024-04-02 02:00 Tue ~ 2024-04-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-10-04 11:00 Wed ~ 2023-10-11 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Chesed Outdoors",
@@ -6640,7 +6640,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-05-06T18:59",
 		"startG":"2024-04-30T02:00",
-		"title":"[TA] Chesed Outdoors<br>G: 2024-04-30 02:00 ~ 2024-05-06 18:59 7d (UTC y-m-d)<br>Jp: 2023-11-01 11:00 ~ 2023-11-08 03:59 7d (JST y-m-d)",
+		"title":"[TA] Chesed Outdoors<br>G: 2024-04-30 02:00 Tue ~ 2024-05-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-01 11:00 Wed ~ 2023-11-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Kurokage Urban",
@@ -6653,7 +6653,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-06-03T18:59",
 		"startG":"2024-05-28T02:00",
-		"title":"[TA] Kurokage Urban<br>G: 2024-05-28 02:00 ~ 2024-06-03 18:59 7d (UTC y-m-d)<br>Jp: 2023-11-29 11:00 ~ 2023-12-06 03:59 7d (JST y-m-d)",
+		"title":"[TA] Kurokage Urban<br>G: 2024-05-28 02:00 Tue ~ 2024-06-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-29 11:00 Wed ~ 2023-12-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hovercraft Outdoors",
@@ -6666,7 +6666,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-07-08T18:59",
 		"startG":"2024-07-02T02:00",
-		"title":"[TA] Hovercraft Outdoors<br>G: 2024-07-02 02:00 ~ 2024-07-08 18:59 7d (UTC y-m-d)<br>Jp: 2024-01-03 11:00 ~ 2024-01-10 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hovercraft Outdoors<br>G: 2024-07-02 02:00 Tue ~ 2024-07-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-03 11:00 Wed ~ 2024-01-10 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hieronymus Indoors",
@@ -6679,7 +6679,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-08-05T18:59",
 		"startG":"2024-07-30T02:00",
-		"title":"[TA] Hieronymus Indoors<br>G: 2024-07-30 02:00 ~ 2024-08-05 18:59 7d (UTC y-m-d)<br>Jp: 2024-01-31 11:00 ~ 2024-02-07 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hieronymus Indoors<br>G: 2024-07-30 02:00 Tue ~ 2024-08-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-31 11:00 Wed ~ 2024-02-07 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Chesed Indoors",
@@ -6692,7 +6692,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-09-02T18:59",
 		"startG":"2024-08-27T02:00",
-		"title":"[TA] Chesed Indoors<br>G: 2024-08-27 02:00 ~ 2024-09-02 18:59 7d (UTC y-m-d)<br>Jp: 2024-02-28 11:00 ~ 2024-03-06 03:59 7d (JST y-m-d)",
+		"title":"[TA] Chesed Indoors<br>G: 2024-08-27 02:00 Tue ~ 2024-09-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-28 11:00 Wed ~ 2024-03-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Perorodzilla Indoors",
@@ -6705,7 +6705,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-10-08T18:59",
 		"startG":"2024-10-01T02:00",
-		"title":"[TA] Perorodzilla Indoors<br>G: 2024-10-01 02:00 ~ 2024-10-08 18:59 8d (UTC y-m-d)<br>Jp: 2024-04-03 11:00 ~ 2024-04-11 03:59 8d (JST y-m-d)",
+		"title":"[TA] Perorodzilla Indoors<br>G: 2024-10-01 02:00 Tue ~ 2024-10-08 18:59 Tue 8d (UTC y-m-d)<br>Jp: 2024-04-03 11:00 Wed ~ 2024-04-11 03:59 Thu 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"[TA] Hod Urban",
@@ -6718,7 +6718,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-11-04T18:59",
 		"startG":"2024-10-29T02:00",
-		"title":"[TA] Hod Urban<br>G: 2024-10-29 02:00 ~ 2024-11-04 18:59 7d (UTC y-m-d)<br>Jp: 2024-05-01 11:00 ~ 2024-05-08 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hod Urban<br>G: 2024-10-29 02:00 Tue ~ 2024-11-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-01 11:00 Wed ~ 2024-05-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Goz Indoors",
@@ -6731,7 +6731,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-12-02T18:59",
 		"startG":"2024-11-26T02:00",
-		"title":"[TA] Goz Indoors<br>G: 2024-11-26 02:00 ~ 2024-12-02 18:59 7d (UTC y-m-d)<br>Jp: 2024-05-29 11:00 ~ 2024-06-05 03:59 7d (JST y-m-d)",
+		"title":"[TA] Goz Indoors<br>G: 2024-11-26 02:00 Tue ~ 2024-12-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-29 11:00 Wed ~ 2024-06-05 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Binah Outdoors",
@@ -6744,7 +6744,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-01-06T18:59",
 		"startG":"2024-12-31T02:00",
-		"title":"[TA] Binah Outdoors<br>G: 2024-12-31 02:00 ~ 2025-01-06 18:59 7d (UTC y-m-d)<br>Jp: 2024-07-03 11:00 ~ 2024-07-10 03:59 7d (JST y-m-d)",
+		"title":"[TA] Binah Outdoors<br>G: 2024-12-31 02:00 Tue ~ 2025-01-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-07-03 11:00 Wed ~ 2024-07-10 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Perorodzilla Outdoors",
@@ -6757,7 +6757,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-02-03T18:59",
 		"startG":"2025-01-28T02:00",
-		"title":"[TA] Perorodzilla Outdoors<br>G: 2025-01-28 02:00 ~ 2025-02-03 18:59 7d (UTC y-m-d)<br>Jp: 2024-07-31 11:00 ~ 2024-08-07 03:59 7d (JST y-m-d)",
+		"title":"[TA] Perorodzilla Outdoors<br>G: 2025-01-28 02:00 Tue ~ 2025-02-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-07-31 11:00 Wed ~ 2024-08-07 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] ShiroKuro Indoors",
@@ -6770,7 +6770,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-03-03T18:59",
 		"startG":"2025-02-25T02:00",
-		"title":"[TA] ShiroKuro Indoors<br>G: 2025-02-25 02:00 ~ 2025-03-03 18:59 7d (UTC y-m-d)<br>Jp: 2024-08-28 11:00 ~ 2024-09-04 03:59 7d (JST y-m-d)",
+		"title":"[TA] ShiroKuro Indoors<br>G: 2025-02-25 02:00 Tue ~ 2025-03-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-28 11:00 Wed ~ 2024-09-04 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] KAITEN FX Mk.0 Urban",
@@ -6783,7 +6783,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-04-08T18:59",
 		"startG":"2025-04-01T02:00",
-		"title":"[TA] KAITEN FX Mk.0 Urban<br>G: 2025-04-01 02:00 ~ 2025-04-08 18:59 8d (UTC y-m-d)<br>Jp: 2024-10-02 11:00 ~ 2024-10-10 03:59 8d (JST y-m-d)",
+		"title":"[TA] KAITEN FX Mk.0 Urban<br>G: 2025-04-01 02:00 Tue ~ 2025-04-08 18:59 Tue 8d (UTC y-m-d)<br>Jp: 2024-10-02 11:00 Wed ~ 2024-10-10 03:59 Thu 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"[TA] Gregorius Indoors",
@@ -6796,7 +6796,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-05-05T18:59",
 		"startG":"2025-04-29T02:00",
-		"title":"[TA] Gregorius Indoors<br>G: 2025-04-29 02:00 ~ 2025-05-05 18:59 7d (UTC y-m-d)<br>Jp: 2024-10-30 11:00 ~ 2024-11-06 03:59 7d (JST y-m-d)",
+		"title":"[TA] Gregorius Indoors<br>G: 2025-04-29 02:00 Tue ~ 2025-05-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-10-30 11:00 Wed ~ 2024-11-06 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hieronymus Urban",
@@ -6809,7 +6809,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-06-02T18:59",
 		"startG":"2025-05-27T02:00",
-		"title":"[TA] Hieronymus Urban<br>G: 2025-05-27 02:00 ~ 2025-06-02 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-27 11:00 ~ 2024-12-04 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hieronymus Urban<br>G: 2025-05-27 02:00 Tue ~ 2025-06-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-27 11:00 Wed ~ 2024-12-04 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Hovercraft Outdoors",
@@ -6822,7 +6822,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-07-07T18:59",
 		"startG":"2025-07-01T02:00",
-		"title":"[TA] Hovercraft Outdoors<br>G: 2025-07-01 02:00 ~ 2025-07-07 18:59 7d (UTC y-m-d)<br>Jp: 2025-01-01 11:00 ~ 2025-01-08 03:59 7d (JST y-m-d)",
+		"title":"[TA] Hovercraft Outdoors<br>G: 2025-07-01 02:00 Tue ~ 2025-07-07 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-01-01 11:00 Wed ~ 2025-01-08 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[TA] Geburah Outdoors",
@@ -6835,7 +6835,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-08-02T18:59",
 		"startG":"2025-07-27T02:00",
-		"title":"[TA] Geburah Outdoors<br>G: 2025-07-27 02:00 ~ 2025-08-02 18:59 7d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 ~ 2025-02-03 03:59 7d (JST y-m-d)",
+		"title":"[TA] Geburah Outdoors<br>G: 2025-07-27 02:00 Sun ~ 2025-08-02 18:59 Sat 7d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-03 03:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] Binah Urban (Yellow Tor + Red/Blue)",
@@ -6848,7 +6848,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-01-01T18:59",
 		"startG":"2023-12-26T02:00",
-		"title":"[GA] Binah Urban (Yellow Tor + Red/Blue)<br>G: 2023-12-26 02:00 ~ 2024-01-01 18:59 7d (UTC y-m-d)<br>Jp: 2023-06-28 11:00 ~ 2023-07-05 03:59 7d (JST y-m-d)",
+		"title":"[GA] Binah Urban (Yellow Tor + Red/Blue)<br>G: 2023-12-26 02:00 Tue ~ 2024-01-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-28 11:00 Wed ~ 2023-07-05 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] KAITEN Urban (Red Tor + Yellow/Blue)",
@@ -6861,7 +6861,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-01-15T18:59",
 		"startG":"2024-01-09T02:00",
-		"title":"[GA] KAITEN Urban (Red Tor + Yellow/Blue)<br>G: 2024-01-09 02:00 ~ 2024-01-15 18:59 7d (UTC y-m-d)<br>Jp: 2023-07-12 11:00 ~ 2023-07-19 03:59 7d (JST y-m-d)",
+		"title":"[GA] KAITEN Urban (Red Tor + Yellow/Blue)<br>G: 2024-01-09 02:00 Tue ~ 2024-01-15 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-07-12 11:00 Wed ~ 2023-07-19 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] Perorodzilla Outdoors (Blue Tor + Red/Yellow)",
@@ -6874,7 +6874,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-02-19T18:59",
 		"startG":"2024-02-13T02:00",
-		"title":"[GA] Perorodzilla Outdoors (Blue Tor + Red/Yellow)<br>G: 2024-02-13 02:00 ~ 2024-02-19 18:59 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 ~ 2023-08-23 03:59 7d (JST y-m-d)",
+		"title":"[GA] Perorodzilla Outdoors (Blue Tor + Red/Yellow)<br>G: 2024-02-13 02:00 Tue ~ 2024-02-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 Wed ~ 2023-08-23 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] ShiroKuro Indoors (Yellow Tor + Red/Blue)",
@@ -6887,7 +6887,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-03-18T18:59",
 		"startG":"2024-03-12T02:00",
-		"title":"[GA] ShiroKuro Indoors (Yellow Tor + Red/Blue)<br>G: 2024-03-12 02:00 ~ 2024-03-18 18:59 7d (UTC y-m-d)<br>Jp: 2023-09-13 11:00 ~ 2023-09-20 03:59 7d (JST y-m-d)",
+		"title":"[GA] ShiroKuro Indoors (Yellow Tor + Red/Blue)<br>G: 2024-03-12 02:00 Tue ~ 2024-03-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-09-13 11:00 Wed ~ 2023-09-20 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] KAITEN Outdoors (Blue Tor + Red/Yellow)",
@@ -6900,7 +6900,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-04-21T18:59",
 		"startG":"2024-04-15T02:00",
-		"title":"[GA] KAITEN Outdoors (Blue Tor + Red/Yellow)<br>G: 2024-04-15 02:00 ~ 2024-04-21 18:59 7d (UTC y-m-d)<br>Jp: 2023-10-17 11:00 ~ 2023-10-24 03:59 7d (JST y-m-d)",
+		"title":"[GA] KAITEN Outdoors (Blue Tor + Red/Yellow)<br>G: 2024-04-15 02:00 Mon ~ 2024-04-21 18:59 Sun 7d (UTC y-m-d)<br>Jp: 2023-10-17 11:00 Tue ~ 2023-10-24 03:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] Hod Urban (Yellow Tor + Red/Blue)",
@@ -6913,7 +6913,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-05-20T18:59",
 		"startG":"2024-05-14T02:00",
-		"title":"[GA] Hod Urban (Yellow Tor + Red/Blue)<br>G: 2024-05-14 02:00 ~ 2024-05-20 18:59 7d (UTC y-m-d)<br>Jp: 2023-11-15 11:00 ~ 2023-11-22 03:59 7d (JST y-m-d)",
+		"title":"[GA] Hod Urban (Yellow Tor + Red/Blue)<br>G: 2024-05-14 02:00 Tue ~ 2024-05-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-15 11:00 Wed ~ 2023-11-22 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] Goz Outdoors (Yellow Tor + Red/Blue)",
@@ -6926,7 +6926,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-06-17T18:59",
 		"startG":"2024-06-11T02:00",
-		"title":"[GA] Goz Outdoors (Yellow Tor + Red/Blue)<br>G: 2024-06-11 02:00 ~ 2024-06-17 18:59 7d (UTC y-m-d)<br>Jp: 2023-12-13 11:00 ~ 2023-12-20 03:59 7d (JST y-m-d)",
+		"title":"[GA] Goz Outdoors (Yellow Tor + Red/Blue)<br>G: 2024-06-11 02:00 Tue ~ 2024-06-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-12-13 11:00 Wed ~ 2023-12-20 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] ShiroKuro Urban (Red Tor + Yellow/Blue)",
@@ -6939,7 +6939,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-07-22T18:59",
 		"startG":"2024-07-16T02:00",
-		"title":"[GA] ShiroKuro Urban (Red Tor + Yellow/Blue)<br>G: 2024-07-16 02:00 ~ 2024-07-22 18:59 7d (UTC y-m-d)<br>Jp: 2024-01-17 11:00 ~ 2024-01-24 03:59 7d (JST y-m-d)",
+		"title":"[GA] ShiroKuro Urban (Red Tor + Yellow/Blue)<br>G: 2024-07-16 02:00 Tue ~ 2024-07-22 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-17 11:00 Wed ~ 2024-01-24 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] KAITEN Outdoors (Red Tor + Yellow/Blue)",
@@ -6952,7 +6952,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-08-19T18:59",
 		"startG":"2024-08-13T02:00",
-		"title":"[GA] KAITEN Outdoors (Red Tor + Yellow/Blue)<br>G: 2024-08-13 02:00 ~ 2024-08-19 18:59 7d (UTC y-m-d)<br>Jp: 2024-02-14 11:00 ~ 2024-02-21 03:59 7d (JST y-m-d)",
+		"title":"[GA] KAITEN Outdoors (Red Tor + Yellow/Blue)<br>G: 2024-08-13 02:00 Tue ~ 2024-08-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-14 11:00 Wed ~ 2024-02-21 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] Binah Urban (Blue Tor + Red/Yellow)",
@@ -6965,7 +6965,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-09-16T18:59",
 		"startG":"2024-09-10T02:00",
-		"title":"[GA] Binah Urban (Blue Tor + Red/Yellow)<br>G: 2024-09-10 02:00 ~ 2024-09-16 18:59 7d (UTC y-m-d)<br>Jp: 2024-03-13 11:00 ~ 2024-03-20 03:59 7d (JST y-m-d)",
+		"title":"[GA] Binah Urban (Blue Tor + Red/Yellow)<br>G: 2024-09-10 02:00 Tue ~ 2024-09-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-03-13 11:00 Wed ~ 2024-03-20 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] Gregorius Indoors (Yellow Tor + Red/Blue)",
@@ -6978,7 +6978,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-10-21T18:59",
 		"startG":"2024-10-15T02:00",
-		"title":"[GA] Gregorius Indoors (Yellow Tor + Red/Blue)<br>G: 2024-10-15 02:00 ~ 2024-10-21 18:59 7d (UTC y-m-d)<br>Jp: 2024-04-17 11:00 ~ 2024-04-24 03:59 7d (JST y-m-d)",
+		"title":"[GA] Gregorius Indoors (Yellow Tor + Red/Blue)<br>G: 2024-10-15 02:00 Tue ~ 2024-10-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-04-17 11:00 Wed ~ 2024-04-24 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] Hieronymus Urban (Blue Tor + Red/Yellow)",
@@ -6991,7 +6991,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-11-18T18:59",
 		"startG":"2024-11-12T02:00",
-		"title":"[GA] Hieronymus Urban (Blue Tor + Red/Yellow)<br>G: 2024-11-12 02:00 ~ 2024-11-18 18:59 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 ~ 2024-05-22 03:59 7d (JST y-m-d)",
+		"title":"[GA] Hieronymus Urban (Blue Tor + Red/Yellow)<br>G: 2024-11-12 02:00 Tue ~ 2024-11-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 Wed ~ 2024-05-22 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] Hovercraft Outdoors (Red Tor + Yellow/Blue)",
@@ -7004,7 +7004,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-12-16T18:59",
 		"startG":"2024-12-10T02:00",
-		"title":"[GA] Hovercraft Outdoors (Red Tor + Yellow/Blue)<br>G: 2024-12-10 02:00 ~ 2024-12-16 18:59 7d (UTC y-m-d)<br>Jp: 2024-06-12 11:00 ~ 2024-06-19 03:59 7d (JST y-m-d)",
+		"title":"[GA] Hovercraft Outdoors (Red Tor + Yellow/Blue)<br>G: 2024-12-10 02:00 Tue ~ 2024-12-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-06-12 11:00 Wed ~ 2024-06-19 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] ShiroKuro Indoors (Yellow Tor + Red/Purple)",
@@ -7017,7 +7017,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-01-18T18:59",
 		"startG":"2025-01-14T02:00",
-		"title":"[GA] ShiroKuro Indoors (Yellow Tor + Red/Purple)<br>G: 2025-01-14 02:00 ~ 2025-01-18 18:59 5d (UTC y-m-d)<br>Jp: 2024-07-17 11:00 ~ 2024-07-22 03:59 5d (JST y-m-d)",
+		"title":"[GA] ShiroKuro Indoors (Yellow Tor + Red/Purple)<br>G: 2025-01-14 02:00 Tue ~ 2025-01-18 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2024-07-17 11:00 Wed ~ 2024-07-22 03:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"[GA] Goz Outdoors (Yellow Tor + Red/Blue)",
@@ -7030,7 +7030,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-02-17T18:59",
 		"startG":"2025-02-11T02:00",
-		"title":"[GA] Goz Outdoors (Yellow Tor + Red/Blue)<br>G: 2025-02-11 02:00 ~ 2025-02-17 18:59 7d (UTC y-m-d)<br>Jp: 2024-08-14 11:00 ~ 2024-08-21 03:59 7d (JST y-m-d)",
+		"title":"[GA] Goz Outdoors (Yellow Tor + Red/Blue)<br>G: 2025-02-11 02:00 Tue ~ 2025-02-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-14 11:00 Wed ~ 2024-08-21 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] Perorodzilla Outdoors (Purple Tor + Yellow/Blue)",
@@ -7043,7 +7043,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-03-17T18:59",
 		"startG":"2025-03-11T02:00",
-		"title":"[GA] Perorodzilla Outdoors (Purple Tor + Yellow/Blue)<br>G: 2025-03-11 02:00 ~ 2025-03-17 18:59 7d (UTC y-m-d)<br>Jp: 2024-09-11 11:00 ~ 2024-09-18 03:59 7d (JST y-m-d)",
+		"title":"[GA] Perorodzilla Outdoors (Purple Tor + Yellow/Blue)<br>G: 2025-03-11 02:00 Tue ~ 2025-03-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-11 11:00 Wed ~ 2024-09-18 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] Kurokage Urban (Purple Tor + Red/Blue)",
@@ -7056,7 +7056,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-04-21T18:59",
 		"startG":"2025-04-15T02:00",
-		"title":"[GA] Kurokage Urban (Purple Tor + Red/Blue)<br>G: 2025-04-15 02:00 ~ 2025-04-21 18:59 7d (UTC y-m-d)<br>Jp: 2024-10-16 11:00 ~ 2024-10-23 03:59 7d (JST y-m-d)",
+		"title":"[GA] Kurokage Urban (Purple Tor + Red/Blue)<br>G: 2025-04-15 02:00 Tue ~ 2025-04-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-10-16 11:00 Wed ~ 2024-10-23 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] Chesed Outdoors (Blue Tor + Yellow/Purple)",
@@ -7069,7 +7069,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-05-19T18:59",
 		"startG":"2025-05-13T02:00",
-		"title":"[GA] Chesed Outdoors (Blue Tor + Yellow/Purple)<br>G: 2025-05-13 02:00 ~ 2025-05-19 18:59 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 ~ 2024-11-20 03:59 7d (JST y-m-d)",
+		"title":"[GA] Chesed Outdoors (Blue Tor + Yellow/Purple)<br>G: 2025-05-13 02:00 Tue ~ 2025-05-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 Wed ~ 2024-11-20 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] Binah Urban (Yellow Tor + Blue/Purple)",
@@ -7082,7 +7082,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-06-16T18:59",
 		"startG":"2025-06-10T02:00",
-		"title":"[GA] Binah Urban (Yellow Tor + Blue/Purple)<br>G: 2025-06-10 02:00 ~ 2025-06-16 18:59 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 ~ 2024-12-18 03:59 7d (JST y-m-d)",
+		"title":"[GA] Binah Urban (Yellow Tor + Blue/Purple)<br>G: 2025-06-10 02:00 Tue ~ 2025-06-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 Wed ~ 2024-12-18 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA] KAITEN Urban (Red Tor + Yellow/Blue)",
@@ -7095,7 +7095,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-07-19T18:59",
 		"startG":"2025-07-15T02:00",
-		"title":"[GA] KAITEN Urban (Red Tor + Yellow/Blue)<br>G: 2025-07-15 02:00 ~ 2025-07-19 18:59 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 ~ 2025-01-20 03:59 5d (JST y-m-d)",
+		"title":"[GA] KAITEN Urban (Red Tor + Yellow/Blue)<br>G: 2025-07-15 02:00 Tue ~ 2025-07-19 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 Wed ~ 2025-01-20 03:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"[GA] Gregorius Indoors (Blue Tor + Red/Yellow)",
@@ -7108,7 +7108,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-08-18T18:59",
 		"startG":"2025-08-12T02:00",
-		"title":"[GA] Gregorius Indoors (Blue Tor + Red/Yellow)<br>G: 2025-08-12 02:00 ~ 2025-08-18 18:59 7d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 ~ 2025-02-19 03:59 7d (JST y-m-d)",
+		"title":"[GA] Gregorius Indoors (Blue Tor + Red/Yellow)<br>G: 2025-08-12 02:00 Tue ~ 2025-08-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 Wed ~ 2025-02-19 03:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[LBA] S1 The Fury of Set Blue",
@@ -7121,7 +7121,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-10-21T18:59",
 		"startG":"2024-09-25T02:00",
-		"title":"[LBA] S1 The Fury of Set Blue<br>G: 2024-09-25 02:00 ~ 2024-10-21 18:59 27d (UTC y-m-d)<br>Jp: 2024-03-28 11:00 ~ 2024-04-24 03:59 27d (JST y-m-d)",
+		"title":"[LBA] S1 The Fury of Set Blue<br>G: 2024-09-25 02:00 Wed ~ 2024-10-21 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2024-03-28 11:00 Thu ~ 2024-04-24 03:59 Wed 27d (JST y-m-d)",
 		"duration":27},
 	{
 		"content":"[LBA] S2 The Fury of Set Red",
@@ -7134,7 +7134,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-11-18T18:59",
 		"startG":"2024-10-23T02:00",
-		"title":"[LBA] S2 The Fury of Set Red<br>G: 2024-10-23 02:00 ~ 2024-11-18 18:59 27d (UTC y-m-d)<br>Jp: 2024-04-25 11:00 ~ 2024-05-22 03:59 27d (JST y-m-d)",
+		"title":"[LBA] S2 The Fury of Set Red<br>G: 2024-10-23 02:00 Wed ~ 2024-11-18 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2024-04-25 11:00 Thu ~ 2024-05-22 03:59 Wed 27d (JST y-m-d)",
 		"duration":27},
 	{
 		"content":"[LBA] S3 The Fury of Set Blue",
@@ -7147,7 +7147,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2024-12-23T18:59",
 		"startG":"2024-11-20T02:00",
-		"title":"[LBA] S3 The Fury of Set Blue<br>G: 2024-11-20 02:00 ~ 2024-12-23 18:59 34d (UTC y-m-d)<br>Jp: 2024-05-23 11:00 ~ 2024-06-26 03:59 34d (JST y-m-d)",
+		"title":"[LBA] S3 The Fury of Set Blue<br>G: 2024-11-20 02:00 Wed ~ 2024-12-23 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2024-05-23 11:00 Thu ~ 2024-06-26 03:59 Wed 34d (JST y-m-d)",
 		"duration":34},
 	{
 		"content":"[LBA] S4 The Fury of Set Red",
@@ -7160,7 +7160,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-01-18T18:59",
 		"startG":"2024-12-25T02:00",
-		"title":"[LBA] S4 The Fury of Set Red<br>G: 2024-12-25 02:00 ~ 2025-01-18 18:59 25d (UTC y-m-d)<br>Jp: 2024-06-27 11:00 ~ 2024-07-22 03:59 25d (JST y-m-d)",
+		"title":"[LBA] S4 The Fury of Set Red<br>G: 2024-12-25 02:00 Wed ~ 2025-01-18 18:59 Sat 25d (UTC y-m-d)<br>Jp: 2024-06-27 11:00 Thu ~ 2024-07-22 03:59 Mon 25d (JST y-m-d)",
 		"duration":25},
 	{
 		"content":"[LBA] S5 The Fury of Set Blue",
@@ -7173,7 +7173,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-02-17T18:59",
 		"startG":"2025-01-20T02:00",
-		"title":"[LBA] S5 The Fury of Set Blue<br>G: 2025-01-20 02:00 ~ 2025-02-17 18:59 29d (UTC y-m-d)<br>Jp: 2024-07-23 11:00 ~ 2024-08-21 03:59 29d (JST y-m-d)",
+		"title":"[LBA] S5 The Fury of Set Blue<br>G: 2025-01-20 02:00 Mon ~ 2025-02-17 18:59 Mon 29d (UTC y-m-d)<br>Jp: 2024-07-23 11:00 Tue ~ 2024-08-21 03:59 Wed 29d (JST y-m-d)",
 		"duration":29},
 	{
 		"content":"[LBA] S6 The Fury of Set Red",
@@ -7186,7 +7186,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-03-24T18:59",
 		"startG":"2025-02-19T02:00",
-		"title":"[LBA] S6 The Fury of Set Red<br>G: 2025-02-19 02:00 ~ 2025-03-24 18:59 34d (UTC y-m-d)<br>Jp: 2024-08-22 11:00 ~ 2024-09-25 03:59 34d (JST y-m-d)",
+		"title":"[LBA] S6 The Fury of Set Red<br>G: 2025-02-19 02:00 Wed ~ 2025-03-24 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2024-08-22 11:00 Thu ~ 2024-09-25 03:59 Wed 34d (JST y-m-d)",
 		"duration":34},
 	{
 		"content":"[LBA] S7 The Fury of Set Blue",
@@ -7199,7 +7199,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-04-21T18:59",
 		"startG":"2025-03-26T02:00",
-		"title":"[LBA] S7 The Fury of Set Blue<br>G: 2025-03-26 02:00 ~ 2025-04-21 18:59 27d (UTC y-m-d)<br>Jp: 2024-09-26 11:00 ~ 2024-10-23 03:59 27d (JST y-m-d)",
+		"title":"[LBA] S7 The Fury of Set Blue<br>G: 2025-03-26 02:00 Wed ~ 2025-04-21 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2024-09-26 11:00 Thu ~ 2024-10-23 03:59 Wed 27d (JST y-m-d)",
 		"duration":27},
 	{
 		"content":"[LBA] S8 Chokmah Blue",
@@ -7212,7 +7212,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-05-19T18:59",
 		"startG":"2025-04-23T02:00",
-		"title":"[LBA] S8 Chokmah Blue<br>G: 2025-04-23 02:00 ~ 2025-05-19 18:59 27d (UTC y-m-d)<br>Jp: 2024-10-24 11:00 ~ 2024-11-20 03:59 27d (JST y-m-d)",
+		"title":"[LBA] S8 Chokmah Blue<br>G: 2025-04-23 02:00 Wed ~ 2025-05-19 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2024-10-24 11:00 Thu ~ 2024-11-20 03:59 Wed 27d (JST y-m-d)",
 		"duration":27},
 	{
 		"content":"[LBA] S9 The Fury of Set Red",
@@ -7225,7 +7225,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-06-22T18:59",
 		"startG":"2025-05-21T02:00",
-		"title":"[LBA] S9 The Fury of Set Red<br>G: 2025-05-21 02:00 ~ 2025-06-22 18:59 33d (UTC y-m-d)<br>Jp: 2024-11-21 11:00 ~ 2024-12-24 03:59 33d (JST y-m-d)",
+		"title":"[LBA] S9 The Fury of Set Red<br>G: 2025-05-21 02:00 Wed ~ 2025-06-22 18:59 Sun 33d (UTC y-m-d)<br>Jp: 2024-11-21 11:00 Thu ~ 2024-12-24 03:59 Tue 33d (JST y-m-d)",
 		"duration":33},
 	{
 		"content":"[LBA] S10 Chokmah Yellow",
@@ -7238,7 +7238,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-07-19T18:59",
 		"startG":"2025-06-24T02:00",
-		"title":"[LBA] S10 Chokmah Yellow<br>G: 2025-06-24 02:00 ~ 2025-07-19 18:59 26d (UTC y-m-d)<br>Jp: 2024-12-25 11:00 ~ 2025-01-20 03:59 26d (JST y-m-d)",
+		"title":"[LBA] S10 Chokmah Yellow<br>G: 2025-06-24 02:00 Tue ~ 2025-07-19 18:59 Sat 26d (UTC y-m-d)<br>Jp: 2024-12-25 11:00 Wed ~ 2025-01-20 03:59 Mon 26d (JST y-m-d)",
 		"duration":26},
 	{
 		"content":"[LBA] S11 The Fury of Set Blue",
@@ -7251,7 +7251,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-08-25T18:59",
 		"startG":"2025-07-21T02:00",
-		"title":"[LBA] S11 The Fury of Set Blue<br>G: 2025-07-21 02:00 ~ 2025-08-25 18:59 36d (UTC y-m-d)<br>Jp: 2025-01-21 11:00 ~ 2025-02-26 03:59 36d (JST y-m-d)",
+		"title":"[LBA] S11 The Fury of Set Blue<br>G: 2025-07-21 02:00 Mon ~ 2025-08-25 18:59 Mon 36d (UTC y-m-d)<br>Jp: 2025-01-21 11:00 Tue ~ 2025-02-26 03:59 Wed 36d (JST y-m-d)",
 		"duration":36},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)",
@@ -7264,7 +7264,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-08-11T03:00",
 		"startG":"2021-08-04T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)<br>G: 2021-08-04 03:00 ~ 2021-08-11 03:00 7d (UTC y-m-d)<br>Jp: 2021-02-04 12:00 ~ 2021-02-11 12:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)<br>G: 2021-08-04 03:00 Wed ~ 2021-08-11 03:00 Wed 7d (UTC y-m-d)<br>Jp: 2021-02-04 12:00 Thu ~ 2021-02-11 12:00 Thu 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro\" title=\"Mashiro\">Mashiro</a> (New)",
@@ -7277,7 +7277,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-08-25T03:00",
 		"startG":"2021-08-15T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro\" title=\"Mashiro\">Mashiro</a> (New)<br>G: 2021-08-15 03:00 ~ 2021-08-25 03:00 10d (UTC y-m-d)<br>Jp: 2021-02-15 12:00 ~ 2021-02-25 12:00 10d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro\" title=\"Mashiro\">Mashiro</a> (New)<br>G: 2021-08-15 03:00 Sun ~ 2021-08-25 03:00 Wed 10d (UTC y-m-d)<br>Jp: 2021-02-15 12:00 Mon ~ 2021-02-25 12:00 Thu 10d (JST y-m-d)",
 		"duration":10},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a> (New)",
@@ -7290,7 +7290,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-09-08T03:00",
 		"startG":"2021-08-25T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a> (New)<br>G: 2021-08-25 03:00 ~ 2021-09-08 03:00 14d (UTC y-m-d)<br>Jp: 2021-02-25 12:00 ~ 2021-03-11 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a> (New)<br>G: 2021-08-25 03:00 Wed ~ 2021-09-08 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-02-25 12:00 Thu ~ 2021-03-11 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna\" title=\"Haruna\">Haruna</a> (New)",
@@ -7303,7 +7303,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-09-15T03:00",
 		"startG":"2021-09-08T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna\" title=\"Haruna\">Haruna</a> (New)<br>G: 2021-09-08 03:00 ~ 2021-09-15 03:00 7d (UTC y-m-d)<br>Jp: 2021-03-11 12:00 ~ 2021-03-18 12:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna\" title=\"Haruna\">Haruna</a> (New)<br>G: 2021-09-08 03:00 Wed ~ 2021-09-15 03:00 Wed 7d (UTC y-m-d)<br>Jp: 2021-03-11 12:00 Thu ~ 2021-03-18 12:00 Thu 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru\" title=\"Aru\">Aru</a> (New)",
@@ -7316,7 +7316,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-09-22T03:00",
 		"startG":"2021-09-15T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru\" title=\"Aru\">Aru</a> (New)<br>G: 2021-09-15 03:00 ~ 2021-09-22 03:00 7d (UTC y-m-d)<br>Jp: 2021-03-18 12:00 ~ 2021-03-25 12:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru\" title=\"Aru\">Aru</a> (New)<br>G: 2021-09-15 03:00 Wed ~ 2021-09-22 03:00 Wed 7d (UTC y-m-d)<br>Jp: 2021-03-18 12:00 Thu ~ 2021-03-25 12:00 Thu 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a> (New)",
@@ -7329,7 +7329,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-10-06T03:00",
 		"startG":"2021-09-22T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a> (New)<br>G: 2021-09-22 03:00 ~ 2021-10-06 03:00 14d (UTC y-m-d)<br>Jp: 2021-03-25 12:00 ~ 2021-04-08 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a> (New)<br>G: 2021-09-22 03:00 Wed ~ 2021-10-06 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-03-25 12:00 Thu ~ 2021-04-08 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a> (New)",
@@ -7342,7 +7342,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-10-20T03:00",
 		"startG":"2021-10-06T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a> (New)<br>G: 2021-10-06 03:00 ~ 2021-10-20 03:00 14d (UTC y-m-d)<br>Jp: 2021-04-08 12:00 ~ 2021-04-22 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a> (New)<br>G: 2021-10-06 03:00 Wed ~ 2021-10-20 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-04-08 12:00 Thu ~ 2021-04-22 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin\" title=\"Karin\">Karin</a> (New)",
@@ -7355,7 +7355,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-10-27T03:00",
 		"startG":"2021-10-20T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin\" title=\"Karin\">Karin</a> (New)<br>G: 2021-10-20 03:00 ~ 2021-10-27 03:00 7d (UTC y-m-d)<br>Jp: 2021-04-22 12:00 ~ 2021-04-29 12:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin\" title=\"Karin\">Karin</a> (New)<br>G: 2021-10-20 03:00 Wed ~ 2021-10-27 03:00 Wed 7d (UTC y-m-d)<br>Jp: 2021-04-22 12:00 Thu ~ 2021-04-29 12:00 Thu 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a> (New)",
@@ -7368,7 +7368,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-11-10T03:00",
 		"startG":"2021-10-27T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a> (New)<br>G: 2021-10-27 03:00 ~ 2021-11-10 03:00 14d (UTC y-m-d)<br>Jp: 2021-04-29 12:00 ~ 2021-05-13 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a> (New)<br>G: 2021-10-27 03:00 Wed ~ 2021-11-10 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-04-29 12:00 Thu ~ 2021-05-13 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a> (New)",
@@ -7381,7 +7381,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-11-24T03:00",
 		"startG":"2021-11-10T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a> (New)<br>G: 2021-11-10 03:00 ~ 2021-11-24 03:00 14d (UTC y-m-d)<br>Jp: 2021-05-13 12:00 ~ 2021-05-27 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a> (New)<br>G: 2021-11-10 03:00 Wed ~ 2021-11-24 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-05-13 12:00 Thu ~ 2021-05-27 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a> (New)",
@@ -7394,7 +7394,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-12-08T03:00",
 		"startG":"2021-11-24T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a> (New)<br>G: 2021-11-24 03:00 ~ 2021-12-08 03:00 14d (UTC y-m-d)<br>Jp: 2021-05-27 12:00 ~ 2021-06-10 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a> (New)<br>G: 2021-11-24 03:00 Wed ~ 2021-12-08 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-05-27 12:00 Thu ~ 2021-06-10 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a> (New)",
@@ -7407,7 +7407,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-12-22T03:00",
 		"startG":"2021-12-08T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a> (New)<br>G: 2021-12-08 03:00 ~ 2021-12-22 03:00 14d (UTC y-m-d)<br>Jp: 2021-06-10 12:00 ~ 2021-06-24 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a> (New)<br>G: 2021-12-08 03:00 Wed ~ 2021-12-22 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-06-10 12:00 Thu ~ 2021-06-24 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi\" title=\"Hifumi\">Hifumi</a> (New)",
@@ -7420,7 +7420,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2021-12-28T03:00",
 		"startG":"2021-12-22T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi\" title=\"Hifumi\">Hifumi</a> (New)<br>G: 2021-12-22 03:00 ~ 2021-12-28 03:00 6d (UTC y-m-d)<br>Jp: 2021-06-24 12:00 ~ 2021-06-30 12:00 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi\" title=\"Hifumi\">Hifumi</a> (New)<br>G: 2021-12-22 03:00 Wed ~ 2021-12-28 03:00 Tue 6d (UTC y-m-d)<br>Jp: 2021-06-24 12:00 Thu ~ 2021-06-30 12:00 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa (Swimsuit)\">Azusa (Swimsuit)</a> [L] (New)",
@@ -7433,7 +7433,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-01-12T03:00",
 		"startG":"2021-12-28T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa (Swimsuit)\">Azusa (Swimsuit)</a> [L] (New)<br>G: 2021-12-28 03:00 ~ 2022-01-12 03:00 15d (UTC y-m-d)<br>Jp: 2021-06-30 12:00 ~ 2021-07-15 12:00 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa (Swimsuit)\">Azusa (Swimsuit)</a> [L] (New)<br>G: 2021-12-28 03:00 Tue ~ 2022-01-12 03:00 Wed 15d (UTC y-m-d)<br>Jp: 2021-06-30 12:00 Wed ~ 2021-07-15 12:00 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro (Swimsuit)\">Mashiro (Swimsuit)</a> [L] (New)",
@@ -7446,7 +7446,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-01-12T03:00",
 		"startG":"2021-12-28T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro (Swimsuit)\">Mashiro (Swimsuit)</a> [L] (New)<br>G: 2021-12-28 03:00 ~ 2022-01-12 03:00 15d (UTC y-m-d)<br>Jp: 2021-06-30 12:00 ~ 2021-07-15 12:00 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro (Swimsuit)\">Mashiro (Swimsuit)</a> [L] (New)<br>G: 2021-12-28 03:00 Tue ~ 2022-01-12 03:00 Wed 15d (UTC y-m-d)<br>Jp: 2021-06-30 12:00 Wed ~ 2021-07-15 12:00 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi (Swimsuit)\">Hifumi (Swimsuit)</a> (New)",
@@ -7459,7 +7459,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-01-26T03:00",
 		"startG":"2022-01-12T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi (Swimsuit)\">Hifumi (Swimsuit)</a> (New)<br>G: 2022-01-12 03:00 ~ 2022-01-26 03:00 14d (UTC y-m-d)<br>Jp: 2021-07-15 12:00 ~ 2021-07-29 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi (Swimsuit)\">Hifumi (Swimsuit)</a> (New)<br>G: 2022-01-12 03:00 Wed ~ 2022-01-26 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-07-15 12:00 Thu ~ 2021-07-29 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L] (New)",
@@ -7472,7 +7472,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-02-09T03:00",
 		"startG":"2022-01-26T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L] (New)<br>G: 2022-01-26 03:00 ~ 2022-02-09 03:00 14d (UTC y-m-d)<br>Jp: 2021-07-29 12:00 ~ 2021-08-12 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L] (New)<br>G: 2022-01-26 03:00 Wed ~ 2022-02-09 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-07-29 12:00 Thu ~ 2021-08-12 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L] (New)",
@@ -7485,7 +7485,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-02-09T03:00",
 		"startG":"2022-01-26T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L] (New)<br>G: 2022-01-26 03:00 ~ 2022-02-09 03:00 14d (UTC y-m-d)<br>Jp: 2021-07-29 12:00 ~ 2021-08-12 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L] (New)<br>G: 2022-01-26 03:00 Wed ~ 2022-02-09 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-07-29 12:00 Thu ~ 2021-08-12 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko (Riding)\">Shiroko (Riding)</a> (New)",
@@ -7498,7 +7498,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-02-23T03:00",
 		"startG":"2022-02-09T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko (Riding)\">Shiroko (Riding)</a> (New)<br>G: 2022-02-09 03:00 ~ 2022-02-23 03:00 14d (UTC y-m-d)<br>Jp: 2021-08-12 12:00 ~ 2021-08-26 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko (Riding)\">Shiroko (Riding)</a> (New)<br>G: 2022-02-09 03:00 Wed ~ 2022-02-23 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-08-12 12:00 Thu ~ 2021-08-26 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a> (New)",
@@ -7511,7 +7511,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-03-09T03:00",
 		"startG":"2022-02-23T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a> (New)<br>G: 2022-02-23 03:00 ~ 2022-03-09 03:00 14d (UTC y-m-d)<br>Jp: 2021-08-26 12:00 ~ 2021-09-09 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a> (New)<br>G: 2022-02-23 03:00 Wed ~ 2022-03-09 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-08-26 12:00 Thu ~ 2021-09-09 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya (Casual)\">Saya (Casual)</a> (New)",
@@ -7524,7 +7524,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-03-23T03:00",
 		"startG":"2022-03-09T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya (Casual)\">Saya (Casual)</a> (New)<br>G: 2022-03-09 03:00 ~ 2022-03-23 03:00 14d (UTC y-m-d)<br>Jp: 2021-09-09 12:00 ~ 2021-09-23 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya (Casual)\">Saya (Casual)</a> (New)<br>G: 2022-03-09 03:00 Wed ~ 2022-03-23 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-09-09 12:00 Thu ~ 2021-09-23 12:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hibiki\" title=\"Hibiki\">Hibiki</a> (New)",
@@ -7537,7 +7537,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-03-29T03:00",
 		"startG":"2022-03-23T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hibiki\" title=\"Hibiki\">Hibiki</a> (New)<br>G: 2022-03-23 03:00 ~ 2022-03-29 03:00 6d (UTC y-m-d)<br>Jp: 2021-09-23 12:00 ~ 2021-09-29 12:00 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hibiki\" title=\"Hibiki\">Hibiki</a> (New)<br>G: 2022-03-23 03:00 Wed ~ 2022-03-29 03:00 Tue 6d (UTC y-m-d)<br>Jp: 2021-09-23 12:00 Thu ~ 2021-09-29 12:00 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L] (New)",
@@ -7550,7 +7550,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-04-11T03:00",
 		"startG":"2022-03-29T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L] (New)<br>G: 2022-03-29 03:00 ~ 2022-04-11 03:00 13d (UTC y-m-d)<br>Jp: 2021-09-29 12:00 ~ 2021-10-12 12:00 13d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L] (New)<br>G: 2022-03-29 03:00 Tue ~ 2022-04-11 03:00 Mon 13d (UTC y-m-d)<br>Jp: 2021-09-29 12:00 Wed ~ 2021-10-12 12:00 Tue 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L] (New)",
@@ -7563,7 +7563,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-04-11T03:00",
 		"startG":"2022-03-29T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L] (New)<br>G: 2022-03-29 03:00 ~ 2022-04-11 03:00 13d (UTC y-m-d)<br>Jp: 2021-09-29 12:00 ~ 2021-10-12 12:00 13d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L] (New)<br>G: 2022-03-29 03:00 Tue ~ 2022-04-11 03:00 Mon 13d (UTC y-m-d)<br>Jp: 2021-09-29 12:00 Wed ~ 2021-10-12 12:00 Tue 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna (Bunny Girl)\">Asuna (Bunny Girl)</a> (New)",
@@ -7576,7 +7576,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-04-26T03:00",
 		"startG":"2022-04-11T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna (Bunny Girl)\">Asuna (Bunny Girl)</a> (New)<br>G: 2022-04-11 03:00 ~ 2022-04-26 03:00 15d (UTC y-m-d)<br>Jp: 2021-10-12 12:00 ~ 2021-10-27 12:00 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna (Bunny Girl)\">Asuna (Bunny Girl)</a> (New)<br>G: 2022-04-11 03:00 Mon ~ 2022-04-26 03:00 Tue 15d (UTC y-m-d)<br>Jp: 2021-10-12 12:00 Tue ~ 2021-10-27 12:00 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a> (New)",
@@ -7589,7 +7589,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-05-03T03:00",
 		"startG":"2022-04-26T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a> (New)<br>G: 2022-04-26 03:00 ~ 2022-05-03 03:00 7d (UTC y-m-d)<br>Jp: 2021-10-27 12:00 ~ 2021-11-03 12:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a> (New)<br>G: 2022-04-26 03:00 Tue ~ 2022-05-03 03:00 Tue 7d (UTC y-m-d)<br>Jp: 2021-10-27 12:00 Wed ~ 2021-11-03 12:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hatsune_Miku\" title=\"Hatsune Miku\">Hatsune Miku</a> [L], Collab character (New)",
@@ -7602,7 +7602,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-05-17T03:00",
 		"startG":"2022-05-03T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hatsune_Miku\" title=\"Hatsune Miku\">Hatsune Miku</a> [L], Collab character (New)<br>G: 2022-05-03 03:00 ~ 2022-05-17 03:00 14d (UTC y-m-d)<br>Jp: 2021-11-03 12:00 ~ 2021-11-17 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hatsune_Miku\" title=\"Hatsune Miku\">Hatsune Miku</a> [L], Collab character (New)<br>G: 2022-05-03 03:00 Tue ~ 2022-05-17 03:00 Tue 14d (UTC y-m-d)<br>Jp: 2021-11-03 12:00 Wed ~ 2021-11-17 12:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a> (New)",
@@ -7615,7 +7615,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-05-30T03:00",
 		"startG":"2022-05-17T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a> (New)<br>G: 2022-05-17 03:00 ~ 2022-05-30 03:00 13d (UTC y-m-d)<br>Jp: 2021-11-17 12:00 ~ 2021-11-30 12:00 13d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a> (New)<br>G: 2022-05-17 03:00 Tue ~ 2022-05-30 03:00 Mon 13d (UTC y-m-d)<br>Jp: 2021-11-17 12:00 Wed ~ 2021-11-30 12:00 Tue 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino (Hot Spring)\">Cherino (Hot Spring)</a> (New)",
@@ -7628,7 +7628,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-06-14T03:00",
 		"startG":"2022-05-30T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino (Hot Spring)\">Cherino (Hot Spring)</a> (New)<br>G: 2022-05-30 03:00 ~ 2022-06-14 03:00 15d (UTC y-m-d)<br>Jp: 2021-11-30 12:00 ~ 2021-12-15 12:00 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino (Hot Spring)\">Cherino (Hot Spring)</a> (New)<br>G: 2022-05-30 03:00 Mon ~ 2022-06-14 03:00 Tue 15d (UTC y-m-d)<br>Jp: 2021-11-30 12:00 Tue ~ 2021-12-15 12:00 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu (Hot Spring)\">Chinatsu (Hot Spring)</a> (New)",
@@ -7641,7 +7641,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-06-14T03:00",
 		"startG":"2022-05-30T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu (Hot Spring)\">Chinatsu (Hot Spring)</a> (New)<br>G: 2022-05-30 03:00 ~ 2022-06-14 03:00 15d (UTC y-m-d)<br>Jp: 2021-11-30 12:00 ~ 2021-12-15 12:00 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu (Hot Spring)\">Chinatsu (Hot Spring)</a> (New)<br>G: 2022-05-30 03:00 Mon ~ 2022-06-14 03:00 Tue 15d (UTC y-m-d)<br>Jp: 2021-11-30 12:00 Tue ~ 2021-12-15 12:00 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka (Hot Spring)\">Nodoka (Hot Spring)</a> (New)",
@@ -7654,7 +7654,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-06-28T03:00",
 		"startG":"2022-06-14T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka (Hot Spring)\">Nodoka (Hot Spring)</a> (New)<br>G: 2022-06-14 03:00 ~ 2022-06-28 03:00 14d (UTC y-m-d)<br>Jp: 2021-12-15 12:00 ~ 2021-12-29 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka (Hot Spring)\">Nodoka (Hot Spring)</a> (New)<br>G: 2022-06-14 03:00 Tue ~ 2022-06-28 03:00 Tue 14d (UTC y-m-d)<br>Jp: 2021-12-15 12:00 Wed ~ 2021-12-29 12:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru (New Year)\">Aru (New Year)</a> [L] (New)",
@@ -7667,7 +7667,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-07-12T03:00",
 		"startG":"2022-06-28T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru (New Year)\">Aru (New Year)</a> [L] (New)<br>G: 2022-06-28 03:00 ~ 2022-07-12 03:00 14d (UTC y-m-d)<br>Jp: 2021-12-29 12:00 ~ 2022-01-12 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru (New Year)\">Aru (New Year)</a> [L] (New)<br>G: 2022-06-28 03:00 Tue ~ 2022-07-12 03:00 Tue 14d (UTC y-m-d)<br>Jp: 2021-12-29 12:00 Wed ~ 2022-01-12 12:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki (New Year)\">Mutsuki (New Year)</a> [L] (New)",
@@ -7680,7 +7680,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-07-12T03:00",
 		"startG":"2022-06-28T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki (New Year)\">Mutsuki (New Year)</a> [L] (New)<br>G: 2022-06-28 03:00 ~ 2022-07-12 03:00 14d (UTC y-m-d)<br>Jp: 2021-12-29 12:00 ~ 2022-01-12 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki (New Year)\">Mutsuki (New Year)</a> [L] (New)<br>G: 2022-06-28 03:00 Tue ~ 2022-07-12 03:00 Tue 14d (UTC y-m-d)<br>Jp: 2021-12-29 12:00 Wed ~ 2022-01-12 12:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika (New Year)\">Serika (New Year)</a> (New)",
@@ -7693,7 +7693,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-07-26T03:00",
 		"startG":"2022-07-12T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika (New Year)\">Serika (New Year)</a> (New)<br>G: 2022-07-12 03:00 ~ 2022-07-26 03:00 14d (UTC y-m-d)<br>Jp: 2022-01-12 12:00 ~ 2022-01-26 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika (New Year)\">Serika (New Year)</a> (New)<br>G: 2022-07-12 03:00 Tue ~ 2022-07-26 03:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-01-12 12:00 Wed ~ 2022-01-26 12:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo\" title=\"Wakamo\">Wakamo</a> [L Bluefes]",
@@ -7706,7 +7706,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-07-30T03:00",
 		"startG":"2022-07-26T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo\" title=\"Wakamo\">Wakamo</a> [L Bluefes]<br>G: 2022-07-26 03:00 ~ 2022-07-30 03:00 4d (UTC y-m-d)<br>Jp: 2022-01-26 12:00 ~ 2022-01-30 12:00 4d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo\" title=\"Wakamo\">Wakamo</a> [L Bluefes]<br>G: 2022-07-26 03:00 Tue ~ 2022-07-30 03:00 Sat 4d (UTC y-m-d)<br>Jp: 2022-01-26 12:00 Wed ~ 2022-01-30 12:00 Sun 4d (JST y-m-d)",
 		"duration":4},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a> (New)",
@@ -7719,7 +7719,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-08-09T03:00",
 		"startG":"2022-07-30T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a> (New)<br>G: 2022-07-30 03:00 ~ 2022-08-09 03:00 10d (UTC y-m-d)<br>Jp: 2022-01-30 12:00 ~ 2022-02-09 12:00 10d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a> (New)<br>G: 2022-07-30 03:00 Sat ~ 2022-08-09 03:00 Tue 10d (UTC y-m-d)<br>Jp: 2022-01-30 12:00 Sun ~ 2022-02-09 12:00 Wed 10d (JST y-m-d)",
 		"duration":10},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a> (New)",
@@ -7732,7 +7732,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-08-09T03:00",
 		"startG":"2022-07-30T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a> (New)<br>G: 2022-07-30 03:00 ~ 2022-08-09 03:00 10d (UTC y-m-d)<br>Jp: 2022-01-30 12:00 ~ 2022-02-09 12:00 10d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a> (New)<br>G: 2022-07-30 03:00 Sat ~ 2022-08-09 03:00 Tue 10d (UTC y-m-d)<br>Jp: 2022-01-30 12:00 Sun ~ 2022-02-09 12:00 Wed 10d (JST y-m-d)",
 		"duration":10},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a> (New)",
@@ -7745,7 +7745,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-08-16T03:00",
 		"startG":"2022-08-09T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a> (New)<br>G: 2022-08-09 03:00 ~ 2022-08-16 03:00 7d (UTC y-m-d)<br>Jp: 2022-02-09 12:00 ~ 2022-02-16 12:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a> (New)<br>G: 2022-08-09 03:00 Tue ~ 2022-08-16 03:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-02-09 12:00 Wed ~ 2022-02-16 12:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a>",
@@ -7758,7 +7758,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-08-16T03:00",
 		"startG":"2022-08-09T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a><br>G: 2022-08-09 03:00 ~ 2022-08-16 03:00 7d (UTC y-m-d)<br>Jp: 2022-02-09 12:00 ~ 2022-02-16 12:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a><br>G: 2022-08-09 03:00 Tue ~ 2022-08-16 03:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-02-09 12:00 Wed ~ 2022-02-16 12:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a>",
@@ -7771,7 +7771,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-08-23T03:00",
 		"startG":"2022-08-16T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a><br>G: 2022-08-16 03:00 ~ 2022-08-23 03:00 7d (UTC y-m-d)<br>Jp: 2022-02-16 12:00 ~ 2022-02-23 12:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a><br>G: 2022-08-16 03:00 Tue ~ 2022-08-23 03:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-02-16 12:00 Wed ~ 2022-02-23 12:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna\" title=\"Haruna\">Haruna</a>",
@@ -7784,7 +7784,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-08-23T03:00",
 		"startG":"2022-08-16T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna\" title=\"Haruna\">Haruna</a><br>G: 2022-08-16 03:00 ~ 2022-08-23 03:00 7d (UTC y-m-d)<br>Jp: 2022-02-16 12:00 ~ 2022-02-23 12:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna\" title=\"Haruna\">Haruna</a><br>G: 2022-08-16 03:00 Tue ~ 2022-08-23 03:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-02-16 12:00 Wed ~ 2022-02-23 12:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a> (New)",
@@ -7797,7 +7797,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-09-06T03:00",
 		"startG":"2022-08-23T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a> (New)<br>G: 2022-08-23 03:00 ~ 2022-09-06 03:00 14d (UTC y-m-d)<br>Jp: 2022-02-23 12:00 ~ 2022-03-09 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a> (New)<br>G: 2022-08-23 03:00 Tue ~ 2022-09-06 03:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-02-23 12:00 Wed ~ 2022-03-09 12:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a> (New)",
@@ -7810,7 +7810,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-09-06T03:00",
 		"startG":"2022-08-23T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a> (New)<br>G: 2022-08-23 03:00 ~ 2022-09-06 03:00 14d (UTC y-m-d)<br>Jp: 2022-02-23 12:00 ~ 2022-03-09 12:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a> (New)<br>G: 2022-08-23 03:00 Tue ~ 2022-09-06 03:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-02-23 12:00 Wed ~ 2022-03-09 12:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a> (New)",
@@ -7823,7 +7823,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-09-13T02:00",
 		"startG":"2022-09-06T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a> (New)<br>G: 2022-09-06 03:00 ~ 2022-09-13 02:00 7d (UTC y-m-d)<br>Jp: 2022-03-09 12:00 ~ 2022-03-16 11:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a> (New)<br>G: 2022-09-06 03:00 Tue ~ 2022-09-13 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-03-09 12:00 Wed ~ 2022-03-16 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a>",
@@ -7836,7 +7836,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-09-13T02:00",
 		"startG":"2022-09-06T03:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a><br>G: 2022-09-06 03:00 ~ 2022-09-13 02:00 7d (UTC y-m-d)<br>Jp: 2022-03-09 12:00 ~ 2022-03-16 11:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a><br>G: 2022-09-06 03:00 Tue ~ 2022-09-13 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-03-09 12:00 Wed ~ 2022-03-16 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori\" title=\"Iori\">Iori</a> (New)",
@@ -7849,7 +7849,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-09-20T02:00",
 		"startG":"2022-09-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori\" title=\"Iori\">Iori</a> (New)<br>G: 2022-09-13 02:00 ~ 2022-09-20 02:00 7d (UTC y-m-d)<br>Jp: 2022-03-16 11:00 ~ 2022-03-23 11:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori\" title=\"Iori\">Iori</a> (New)<br>G: 2022-09-13 02:00 Tue ~ 2022-09-20 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-03-16 11:00 Wed ~ 2022-03-23 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a>",
@@ -7862,7 +7862,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-09-20T02:00",
 		"startG":"2022-09-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a><br>G: 2022-09-13 02:00 ~ 2022-09-20 02:00 7d (UTC y-m-d)<br>Jp: 2022-03-16 11:00 ~ 2022-03-23 11:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a><br>G: 2022-09-13 02:00 Tue ~ 2022-09-20 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-03-16 11:00 Wed ~ 2022-03-23 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako\" title=\"Miyako\">Miyako</a> (New)",
@@ -7875,7 +7875,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-10-04T02:00",
 		"startG":"2022-09-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako\" title=\"Miyako\">Miyako</a> (New)<br>G: 2022-09-20 02:00 ~ 2022-10-04 02:00 14d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 ~ 2022-04-06 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako\" title=\"Miyako\">Miyako</a> (New)<br>G: 2022-09-20 02:00 Tue ~ 2022-10-04 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 Wed ~ 2022-04-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki\" title=\"Saki\">Saki</a> (New)",
@@ -7888,7 +7888,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-10-04T02:00",
 		"startG":"2022-09-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki\" title=\"Saki\">Saki</a> (New)<br>G: 2022-09-20 02:00 ~ 2022-10-04 02:00 14d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 ~ 2022-04-06 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki\" title=\"Saki\">Saki</a> (New)<br>G: 2022-09-20 02:00 Tue ~ 2022-10-04 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 Wed ~ 2022-04-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a> (New)",
@@ -7901,7 +7901,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-10-18T02:00",
 		"startG":"2022-10-04T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a> (New)<br>G: 2022-10-04 02:00 ~ 2022-10-18 02:00 14d (UTC y-m-d)<br>Jp: 2022-04-06 11:00 ~ 2022-04-20 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a> (New)<br>G: 2022-10-04 02:00 Tue ~ 2022-10-18 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-04-06 11:00 Wed ~ 2022-04-20 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsurugi\" title=\"Tsurugi\">Tsurugi</a> (New)",
@@ -7914,7 +7914,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-10-18T02:00",
 		"startG":"2022-10-04T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsurugi\" title=\"Tsurugi\">Tsurugi</a> (New)<br>G: 2022-10-04 02:00 ~ 2022-10-18 02:00 14d (UTC y-m-d)<br>Jp: 2022-04-06 11:00 ~ 2022-04-20 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsurugi\" title=\"Tsurugi\">Tsurugi</a> (New)<br>G: 2022-10-04 02:00 Tue ~ 2022-10-18 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-04-06 11:00 Wed ~ 2022-04-20 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro (Swimsuit)\">Mashiro (Swimsuit)</a> [L]",
@@ -7927,7 +7927,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-10-25T02:00",
 		"startG":"2022-10-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro (Swimsuit)\">Mashiro (Swimsuit)</a> [L]<br>G: 2022-10-18 02:00 ~ 2022-10-25 02:00 7d (UTC y-m-d)<br>Jp: 2022-04-20 11:00 ~ 2022-04-27 11:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro (Swimsuit)\">Mashiro (Swimsuit)</a> [L]<br>G: 2022-10-18 02:00 Tue ~ 2022-10-25 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-04-20 11:00 Wed ~ 2022-04-27 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa (Swimsuit)\">Azusa (Swimsuit)</a> [L]",
@@ -7940,7 +7940,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-10-25T02:00",
 		"startG":"2022-10-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa (Swimsuit)\">Azusa (Swimsuit)</a> [L]<br>G: 2022-10-18 02:00 ~ 2022-10-25 02:00 7d (UTC y-m-d)<br>Jp: 2022-04-20 11:00 ~ 2022-04-27 11:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa (Swimsuit)\">Azusa (Swimsuit)</a> [L]<br>G: 2022-10-18 02:00 Tue ~ 2022-10-25 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-04-20 11:00 Wed ~ 2022-04-27 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi (Swimsuit)\">Hifumi (Swimsuit)</a>",
@@ -7953,7 +7953,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-10-25T02:00",
 		"startG":"2022-10-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi (Swimsuit)\">Hifumi (Swimsuit)</a><br>G: 2022-10-18 02:00 ~ 2022-10-25 02:00 7d (UTC y-m-d)<br>Jp: 2022-04-20 11:00 ~ 2022-04-27 11:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi (Swimsuit)\">Hifumi (Swimsuit)</a><br>G: 2022-10-18 02:00 Tue ~ 2022-10-25 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2022-04-20 11:00 Wed ~ 2022-04-27 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a> (New)",
@@ -7966,7 +7966,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-11-08T02:00",
 		"startG":"2022-10-25T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a> (New)<br>G: 2022-10-25 02:00 ~ 2022-11-08 02:00 14d (UTC y-m-d)<br>Jp: 2022-04-27 11:00 ~ 2022-05-11 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a> (New)<br>G: 2022-10-25 02:00 Tue ~ 2022-11-08 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-04-27 11:00 Wed ~ 2022-05-11 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a> (New)",
@@ -7979,7 +7979,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-11-08T02:00",
 		"startG":"2022-10-25T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a> (New)<br>G: 2022-10-25 02:00 ~ 2022-11-08 02:00 14d (UTC y-m-d)<br>Jp: 2022-04-27 11:00 ~ 2022-05-11 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a> (New)<br>G: 2022-10-25 02:00 Tue ~ 2022-11-08 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-04-27 11:00 Wed ~ 2022-05-11 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a> (New)",
@@ -7992,7 +7992,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-11-21T02:00",
 		"startG":"2022-11-08T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a> (New)<br>G: 2022-11-08 02:00 ~ 2022-11-21 02:00 13d (UTC y-m-d)<br>Jp: 2022-05-11 11:00 ~ 2022-05-24 11:00 13d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a> (New)<br>G: 2022-11-08 02:00 Tue ~ 2022-11-21 02:00 Mon 13d (UTC y-m-d)<br>Jp: 2022-05-11 11:00 Wed ~ 2022-05-24 11:00 Tue 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a>",
@@ -8005,7 +8005,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-11-21T02:00",
 		"startG":"2022-11-08T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a><br>G: 2022-11-08 02:00 ~ 2022-11-21 02:00 13d (UTC y-m-d)<br>Jp: 2022-05-11 11:00 ~ 2022-05-24 11:00 13d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a><br>G: 2022-11-08 02:00 Tue ~ 2022-11-21 02:00 Mon 13d (UTC y-m-d)<br>Jp: 2022-05-11 11:00 Wed ~ 2022-05-24 11:00 Tue 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaki\" title=\"Misaki\">Misaki</a> (New)",
@@ -8018,7 +8018,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-12-06T02:00",
 		"startG":"2022-11-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaki\" title=\"Misaki\">Misaki</a> (New)<br>G: 2022-11-21 02:00 ~ 2022-12-06 02:00 15d (UTC y-m-d)<br>Jp: 2022-05-24 11:00 ~ 2022-06-08 11:00 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaki\" title=\"Misaki\">Misaki</a> (New)<br>G: 2022-11-21 02:00 Mon ~ 2022-12-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2022-05-24 11:00 Tue ~ 2022-06-08 11:00 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori\" title=\"Hiyori\">Hiyori</a> (New)",
@@ -8031,7 +8031,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-12-06T02:00",
 		"startG":"2022-11-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori\" title=\"Hiyori\">Hiyori</a> (New)<br>G: 2022-11-21 02:00 ~ 2022-12-06 02:00 15d (UTC y-m-d)<br>Jp: 2022-05-24 11:00 ~ 2022-06-08 11:00 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori\" title=\"Hiyori\">Hiyori</a> (New)<br>G: 2022-11-21 02:00 Mon ~ 2022-12-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2022-05-24 11:00 Tue ~ 2022-06-08 11:00 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Atsuko\" title=\"Atsuko\">Atsuko</a> (New)",
@@ -8044,7 +8044,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-12-20T02:00",
 		"startG":"2022-12-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Atsuko\" title=\"Atsuko\">Atsuko</a> (New)<br>G: 2022-12-06 02:00 ~ 2022-12-20 02:00 14d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 ~ 2022-06-22 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Atsuko\" title=\"Atsuko\">Atsuko</a> (New)<br>G: 2022-12-06 02:00 Tue ~ 2022-12-20 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 Wed ~ 2022-06-22 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a>",
@@ -8057,7 +8057,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2022-12-20T02:00",
 		"startG":"2022-12-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a><br>G: 2022-12-06 02:00 ~ 2022-12-20 02:00 14d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 ~ 2022-06-22 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a><br>G: 2022-12-06 02:00 Tue ~ 2022-12-20 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 Wed ~ 2022-06-22 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo (Swimsuit)\">Wakamo (Swimsuit)</a> (New)",
@@ -8070,7 +8070,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-01-03T02:00",
 		"startG":"2022-12-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo (Swimsuit)\">Wakamo (Swimsuit)</a> (New)<br>G: 2022-12-20 02:00 ~ 2023-01-03 02:00 14d (UTC y-m-d)<br>Jp: 2022-06-22 11:00 ~ 2022-07-06 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo (Swimsuit)\">Wakamo (Swimsuit)</a> (New)<br>G: 2022-12-20 02:00 Tue ~ 2023-01-03 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-06-22 11:00 Wed ~ 2022-07-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi (Swimsuit)\">Nonomi (Swimsuit)</a> (New)",
@@ -8083,7 +8083,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-01-03T02:00",
 		"startG":"2022-12-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi (Swimsuit)\">Nonomi (Swimsuit)</a> (New)<br>G: 2022-12-20 02:00 ~ 2023-01-03 02:00 14d (UTC y-m-d)<br>Jp: 2022-06-22 11:00 ~ 2022-07-06 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi (Swimsuit)\">Nonomi (Swimsuit)</a> (New)<br>G: 2022-12-20 02:00 Tue ~ 2023-01-03 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-06-22 11:00 Wed ~ 2022-07-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>",
@@ -8096,7 +8096,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-01-17T02:00",
 		"startG":"2023-01-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a><br>G: 2023-01-03 02:00 ~ 2023-01-17 02:00 14d (UTC y-m-d)<br>Jp: 2022-07-06 11:00 ~ 2022-07-20 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a><br>G: 2023-01-03 02:00 Tue ~ 2023-01-17 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-07-06 11:00 Wed ~ 2022-07-20 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina\" title=\"Hina\">Hina</a> (New)",
@@ -8109,7 +8109,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-01-17T02:00",
 		"startG":"2023-01-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina\" title=\"Hina\">Hina</a> (New)<br>G: 2023-01-03 02:00 ~ 2023-01-17 02:00 14d (UTC y-m-d)<br>Jp: 2022-07-06 11:00 ~ 2022-07-20 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina\" title=\"Hina\">Hina</a> (New)<br>G: 2023-01-03 02:00 Tue ~ 2023-01-17 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-07-06 11:00 Wed ~ 2022-07-20 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino_(Swimsuit)\" title=\"Hoshino (Swimsuit)\">Hoshino (Swimsuit)</a> [L Bluefes]",
@@ -8122,7 +8122,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-01-22T02:00",
 		"startG":"2023-01-17T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino_(Swimsuit)\" title=\"Hoshino (Swimsuit)\">Hoshino (Swimsuit)</a> [L Bluefes]<br>G: 2023-01-17 02:00 ~ 2023-01-22 02:00 5d (UTC y-m-d)<br>Jp: 2022-07-20 11:00 ~ 2022-07-25 11:00 5d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino_(Swimsuit)\" title=\"Hoshino (Swimsuit)\">Hoshino (Swimsuit)</a> [L Bluefes]<br>G: 2023-01-17 02:00 Tue ~ 2023-01-22 02:00 Sun 5d (UTC y-m-d)<br>Jp: 2022-07-20 11:00 Wed ~ 2022-07-25 11:00 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna (Swimsuit)\">Izuna (Swimsuit)</a> [L] (New)",
@@ -8135,7 +8135,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-01-31T02:00",
 		"startG":"2023-01-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna (Swimsuit)\">Izuna (Swimsuit)</a> [L] (New)<br>G: 2023-01-22 02:00 ~ 2023-01-31 02:00 9d (UTC y-m-d)<br>Jp: 2022-07-25 11:00 ~ 2022-08-03 11:00 9d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna (Swimsuit)\">Izuna (Swimsuit)</a> [L] (New)<br>G: 2023-01-22 02:00 Sun ~ 2023-01-31 02:00 Tue 9d (UTC y-m-d)<br>Jp: 2022-07-25 11:00 Mon ~ 2022-08-03 11:00 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise (Swimsuit)\">Chise (Swimsuit)</a> [L] (New)",
@@ -8148,7 +8148,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-01-31T02:00",
 		"startG":"2023-01-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise (Swimsuit)\">Chise (Swimsuit)</a> [L] (New)<br>G: 2023-01-22 02:00 ~ 2023-01-31 02:00 9d (UTC y-m-d)<br>Jp: 2022-07-25 11:00 ~ 2022-08-03 11:00 9d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise (Swimsuit)\">Chise (Swimsuit)</a> [L] (New)<br>G: 2023-01-22 02:00 Sun ~ 2023-01-31 02:00 Tue 9d (UTC y-m-d)<br>Jp: 2022-07-25 11:00 Mon ~ 2022-08-03 11:00 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko (Riding)\">Shiroko (Riding)</a>",
@@ -8161,7 +8161,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-02-06T02:00",
 		"startG":"2023-01-31T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko (Riding)\">Shiroko (Riding)</a><br>G: 2023-01-31 02:00 ~ 2023-02-06 02:00 6d (UTC y-m-d)<br>Jp: 2022-08-03 11:00 ~ 2022-08-09 11:00 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko (Riding)\">Shiroko (Riding)</a><br>G: 2023-01-31 02:00 Tue ~ 2023-02-06 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2022-08-03 11:00 Wed ~ 2022-08-09 11:00 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a>",
@@ -8174,7 +8174,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-02-06T02:00",
 		"startG":"2023-01-31T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a><br>G: 2023-01-31 02:00 ~ 2023-02-06 02:00 6d (UTC y-m-d)<br>Jp: 2022-08-03 11:00 ~ 2022-08-09 11:00 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a><br>G: 2023-01-31 02:00 Tue ~ 2023-02-06 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2022-08-03 11:00 Wed ~ 2022-08-09 11:00 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a> (New)",
@@ -8187,7 +8187,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-02-21T02:00",
 		"startG":"2023-02-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a> (New)<br>G: 2023-02-06 02:00 ~ 2023-02-21 02:00 15d (UTC y-m-d)<br>Jp: 2022-08-09 11:00 ~ 2022-08-24 11:00 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a> (New)<br>G: 2023-02-06 02:00 Mon ~ 2023-02-21 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2022-08-09 11:00 Tue ~ 2022-08-24 11:00 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru\" title=\"Aru\">Aru</a>",
@@ -8200,7 +8200,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-02-21T02:00",
 		"startG":"2023-02-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru\" title=\"Aru\">Aru</a><br>G: 2023-02-06 02:00 ~ 2023-02-21 02:00 15d (UTC y-m-d)<br>Jp: 2022-08-09 11:00 ~ 2022-08-24 11:00 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru\" title=\"Aru\">Aru</a><br>G: 2023-02-06 02:00 Mon ~ 2023-02-21 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2022-08-09 11:00 Tue ~ 2022-08-24 11:00 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moe\" title=\"Moe\">Moe</a> (New)",
@@ -8213,7 +8213,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-03-07T02:00",
 		"startG":"2023-02-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moe\" title=\"Moe\">Moe</a> (New)<br>G: 2023-02-21 02:00 ~ 2023-03-07 02:00 14d (UTC y-m-d)<br>Jp: 2022-08-24 11:00 ~ 2022-09-07 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moe\" title=\"Moe\">Moe</a> (New)<br>G: 2023-02-21 02:00 Tue ~ 2023-03-07 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-08-24 11:00 Wed ~ 2022-09-07 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a> (New)",
@@ -8226,7 +8226,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-03-07T02:00",
 		"startG":"2023-02-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a> (New)<br>G: 2023-02-21 02:00 ~ 2023-03-07 02:00 14d (UTC y-m-d)<br>Jp: 2022-08-24 11:00 ~ 2022-09-07 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a> (New)<br>G: 2023-02-21 02:00 Tue ~ 2023-03-07 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-08-24 11:00 Wed ~ 2022-09-07 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L]",
@@ -8239,7 +8239,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-03-14T01:59",
 		"startG":"2023-03-07T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L]<br>G: 2023-03-07 02:00 ~ 2023-03-14 01:59 7d (UTC y-m-d)<br>Jp: 2022-09-07 11:00 ~ 2022-09-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L]<br>G: 2023-03-07 02:00 Tue ~ 2023-03-14 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-09-07 11:00 Wed ~ 2022-09-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L]",
@@ -8252,7 +8252,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-03-14T01:59",
 		"startG":"2023-03-07T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L]<br>G: 2023-03-07 02:00 ~ 2023-03-14 01:59 7d (UTC y-m-d)<br>Jp: 2022-09-07 11:00 ~ 2022-09-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L]<br>G: 2023-03-07 02:00 Tue ~ 2023-03-14 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-09-07 11:00 Wed ~ 2022-09-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a>",
@@ -8265,7 +8265,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-03-21T01:59",
 		"startG":"2023-03-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a><br>G: 2023-03-14 02:00 ~ 2023-03-21 01:59 7d (UTC y-m-d)<br>Jp: 2022-09-14 11:00 ~ 2022-09-21 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a><br>G: 2023-03-14 02:00 Tue ~ 2023-03-21 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-09-14 11:00 Wed ~ 2022-09-21 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun\" title=\"Shun\">Shun</a> (New)",
@@ -8278,7 +8278,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-03-21T01:59",
 		"startG":"2023-03-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun\" title=\"Shun\">Shun</a> (New)<br>G: 2023-03-14 02:00 ~ 2023-03-21 01:59 7d (UTC y-m-d)<br>Jp: 2022-09-14 11:00 ~ 2022-09-21 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun\" title=\"Shun\">Shun</a> (New)<br>G: 2023-03-14 02:00 Tue ~ 2023-03-21 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-09-14 11:00 Wed ~ 2022-09-21 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a> (New)",
@@ -8291,7 +8291,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-03-28T01:59",
 		"startG":"2023-03-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a> (New)<br>G: 2023-03-21 02:00 ~ 2023-03-28 01:59 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 ~ 2022-09-28 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a> (New)<br>G: 2023-03-21 02:00 Tue ~ 2023-03-28 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 Wed ~ 2022-09-28 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a>",
@@ -8304,7 +8304,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-03-28T01:59",
 		"startG":"2023-03-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a><br>G: 2023-03-21 02:00 ~ 2023-03-28 01:59 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 ~ 2022-09-28 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a><br>G: 2023-03-21 02:00 Tue ~ 2023-03-28 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 Wed ~ 2022-09-28 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya (Casual)\">Saya (Casual)</a>",
@@ -8317,7 +8317,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-03-28T01:59",
 		"startG":"2023-03-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya (Casual)\">Saya (Casual)</a><br>G: 2023-03-21 02:00 ~ 2023-03-28 01:59 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 ~ 2022-09-28 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya (Casual)\">Saya (Casual)</a><br>G: 2023-03-21 02:00 Tue ~ 2023-03-28 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 Wed ~ 2022-09-28 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Utaha_(Cheerleader)\" title=\"Utaha (Cheerleader)\">Utaha (Cheerleader)</a> (New)",
@@ -8330,7 +8330,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-04-11T01:59",
 		"startG":"2023-03-28T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Utaha_(Cheerleader)\" title=\"Utaha (Cheerleader)\">Utaha (Cheerleader)</a> (New)<br>G: 2023-03-28 02:00 ~ 2023-04-11 01:59 14d (UTC y-m-d)<br>Jp: 2022-09-28 11:00 ~ 2022-10-12 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Utaha_(Cheerleader)\" title=\"Utaha (Cheerleader)\">Utaha (Cheerleader)</a> (New)<br>G: 2023-03-28 02:00 Tue ~ 2023-04-11 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-09-28 11:00 Wed ~ 2022-10-12 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a> (New)",
@@ -8343,7 +8343,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-04-11T01:59",
 		"startG":"2023-03-28T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a> (New)<br>G: 2023-03-28 02:00 ~ 2023-04-11 01:59 14d (UTC y-m-d)<br>Jp: 2022-09-28 11:00 ~ 2022-10-12 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a> (New)<br>G: 2023-03-28 02:00 Tue ~ 2023-04-11 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-09-28 11:00 Wed ~ 2022-10-12 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane (Bunny Girl)\">Akane (Bunny Girl)</a> (New)",
@@ -8356,7 +8356,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-04-18T01:59",
 		"startG":"2023-04-11T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane (Bunny Girl)\">Akane (Bunny Girl)</a> (New)<br>G: 2023-04-11 02:00 ~ 2023-04-18 01:59 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 ~ 2022-10-19 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane (Bunny Girl)\">Akane (Bunny Girl)</a> (New)<br>G: 2023-04-11 02:00 Tue ~ 2023-04-18 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 Wed ~ 2022-10-19 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L]",
@@ -8369,7 +8369,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-04-18T01:59",
 		"startG":"2023-04-11T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L]<br>G: 2023-04-11 02:00 ~ 2023-04-18 01:59 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 ~ 2022-10-19 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L]<br>G: 2023-04-11 02:00 Tue ~ 2023-04-18 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 Wed ~ 2022-10-19 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L]",
@@ -8382,7 +8382,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-04-18T01:59",
 		"startG":"2023-04-11T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L]<br>G: 2023-04-11 02:00 ~ 2023-04-18 01:59 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 ~ 2022-10-19 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L]<br>G: 2023-04-11 02:00 Tue ~ 2023-04-18 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 Wed ~ 2022-10-19 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna (Bunny Girl)\">Asuna (Bunny Girl)</a>",
@@ -8395,7 +8395,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-04-18T01:59",
 		"startG":"2023-04-11T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna (Bunny Girl)\">Asuna (Bunny Girl)</a><br>G: 2023-04-11 02:00 ~ 2023-04-18 01:59 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 ~ 2022-10-19 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna (Bunny Girl)\">Asuna (Bunny Girl)</a><br>G: 2023-04-11 02:00 Tue ~ 2023-04-18 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 Wed ~ 2022-10-19 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hibiki\" title=\"Hibiki\">Hibiki</a>",
@@ -8408,7 +8408,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-04-25T01:59",
 		"startG":"2023-04-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hibiki\" title=\"Hibiki\">Hibiki</a><br>G: 2023-04-18 02:00 ~ 2023-04-25 01:59 7d (UTC y-m-d)<br>Jp: 2022-10-19 11:00 ~ 2022-10-26 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hibiki\" title=\"Hibiki\">Hibiki</a><br>G: 2023-04-18 02:00 Tue ~ 2023-04-25 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-10-19 11:00 Wed ~ 2022-10-26 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a>",
@@ -8421,7 +8421,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-04-25T01:59",
 		"startG":"2023-04-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a><br>G: 2023-04-18 02:00 ~ 2023-04-25 01:59 7d (UTC y-m-d)<br>Jp: 2022-10-19 11:00 ~ 2022-10-26 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a><br>G: 2023-04-18 02:00 Tue ~ 2023-04-25 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-10-19 11:00 Wed ~ 2022-10-26 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Sportswear)\" title=\"Yuuka (Sportswear)\">Yuuka (Sportswear)</a> [L] (New)",
@@ -8434,7 +8434,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-05-09T01:59",
 		"startG":"2023-04-25T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Sportswear)\" title=\"Yuuka (Sportswear)\">Yuuka (Sportswear)</a> [L] (New)<br>G: 2023-04-25 02:00 ~ 2023-05-09 01:59 14d (UTC y-m-d)<br>Jp: 2022-10-26 11:00 ~ 2022-11-09 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Sportswear)\" title=\"Yuuka (Sportswear)\">Yuuka (Sportswear)</a> [L] (New)<br>G: 2023-04-25 02:00 Tue ~ 2023-05-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-10-26 11:00 Wed ~ 2022-11-09 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Sportswear)\" title=\"Mari (Sportswear)\">Mari (Sportswear)</a> [L] (New)",
@@ -8447,7 +8447,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-05-09T01:59",
 		"startG":"2023-04-25T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Sportswear)\" title=\"Mari (Sportswear)\">Mari (Sportswear)</a> [L] (New)<br>G: 2023-04-25 02:00 ~ 2023-05-09 01:59 14d (UTC y-m-d)<br>Jp: 2022-10-26 11:00 ~ 2022-11-09 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Sportswear)\" title=\"Mari (Sportswear)\">Mari (Sportswear)</a> [L] (New)<br>G: 2023-04-25 02:00 Tue ~ 2023-05-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-10-26 11:00 Wed ~ 2022-11-09 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a>",
@@ -8460,7 +8460,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-05-16T01:59",
 		"startG":"2023-05-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a><br>G: 2023-05-09 02:00 ~ 2023-05-16 01:59 7d (UTC y-m-d)<br>Jp: 2022-11-09 11:00 ~ 2022-11-16 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koharu\" title=\"Koharu\">Koharu</a><br>G: 2023-05-09 02:00 Tue ~ 2023-05-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-11-09 11:00 Wed ~ 2022-11-16 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Maki\" title=\"Maki\">Maki</a> (New)",
@@ -8473,7 +8473,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-05-16T01:59",
 		"startG":"2023-05-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Maki\" title=\"Maki\">Maki</a> (New)<br>G: 2023-05-09 02:00 ~ 2023-05-16 01:59 7d (UTC y-m-d)<br>Jp: 2022-11-09 11:00 ~ 2022-11-16 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Maki\" title=\"Maki\">Maki</a> (New)<br>G: 2023-05-09 02:00 Tue ~ 2023-05-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-11-09 11:00 Wed ~ 2022-11-16 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Himari\" title=\"Himari\">Himari</a> (New)",
@@ -8486,7 +8486,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-05-30T01:59",
 		"startG":"2023-05-16T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Himari\" title=\"Himari\">Himari</a> (New)<br>G: 2023-05-16 02:00 ~ 2023-05-30 01:59 14d (UTC y-m-d)<br>Jp: 2022-11-16 11:00 ~ 2022-11-30 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Himari\" title=\"Himari\">Himari</a> (New)<br>G: 2023-05-16 02:00 Tue ~ 2023-05-30 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-11-16 11:00 Wed ~ 2022-11-30 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi\" title=\"Eimi\">Eimi</a> (New)",
@@ -8499,7 +8499,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-05-30T01:59",
 		"startG":"2023-05-16T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi\" title=\"Eimi\">Eimi</a> (New)<br>G: 2023-05-16 02:00 ~ 2023-05-30 01:59 14d (UTC y-m-d)<br>Jp: 2022-11-16 11:00 ~ 2022-11-30 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi\" title=\"Eimi\">Eimi</a> (New)<br>G: 2023-05-16 02:00 Tue ~ 2023-05-30 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-11-16 11:00 Wed ~ 2022-11-30 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure\" title=\"Shigure\">Shigure</a> (New)",
@@ -8512,7 +8512,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-06-06T01:59",
 		"startG":"2023-05-30T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure\" title=\"Shigure\">Shigure</a> (New)<br>G: 2023-05-30 02:00 ~ 2023-06-06 01:59 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 ~ 2022-12-07 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure\" title=\"Shigure\">Shigure</a> (New)<br>G: 2023-05-30 02:00 Tue ~ 2023-06-06 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 Wed ~ 2022-12-07 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino (Hot Spring)\">Cherino (Hot Spring)</a>",
@@ -8525,7 +8525,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-06-06T01:59",
 		"startG":"2023-05-30T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino (Hot Spring)\">Cherino (Hot Spring)</a><br>G: 2023-05-30 02:00 ~ 2023-06-06 01:59 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 ~ 2022-12-07 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino (Hot Spring)\">Cherino (Hot Spring)</a><br>G: 2023-05-30 02:00 Tue ~ 2023-06-06 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 Wed ~ 2022-12-07 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu (Hot Spring)\">Chinatsu (Hot Spring)</a>",
@@ -8538,7 +8538,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-06-06T01:59",
 		"startG":"2023-05-30T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu (Hot Spring)\">Chinatsu (Hot Spring)</a><br>G: 2023-05-30 02:00 ~ 2023-06-06 01:59 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 ~ 2022-12-07 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu (Hot Spring)\">Chinatsu (Hot Spring)</a><br>G: 2023-05-30 02:00 Tue ~ 2023-06-06 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 Wed ~ 2022-12-07 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka (Hot Spring)\">Nodoka (Hot Spring)</a>",
@@ -8551,7 +8551,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-06-06T01:59",
 		"startG":"2023-05-30T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka (Hot Spring)\">Nodoka (Hot Spring)</a><br>G: 2023-05-30 02:00 ~ 2023-06-06 01:59 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 ~ 2022-12-07 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka (Hot Spring)\">Nodoka (Hot Spring)</a><br>G: 2023-05-30 02:00 Tue ~ 2023-06-06 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 Wed ~ 2022-12-07 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a>",
@@ -8564,7 +8564,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-06-13T01:59",
 		"startG":"2023-06-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a><br>G: 2023-06-06 02:00 ~ 2023-06-13 01:59 7d (UTC y-m-d)<br>Jp: 2022-12-07 11:00 ~ 2022-12-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu\" title=\"Arisu\">Arisu</a><br>G: 2023-06-06 02:00 Tue ~ 2023-06-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-12-07 11:00 Wed ~ 2022-12-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a>",
@@ -8577,7 +8577,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-06-13T01:59",
 		"startG":"2023-06-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a><br>G: 2023-06-06 02:00 ~ 2023-06-13 01:59 7d (UTC y-m-d)<br>Jp: 2022-12-07 11:00 ~ 2022-12-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuzu\" title=\"Yuzu\">Yuzu</a><br>G: 2023-06-06 02:00 Tue ~ 2023-06-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-12-07 11:00 Wed ~ 2022-12-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a>",
@@ -8590,7 +8590,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-06-13T01:59",
 		"startG":"2023-06-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a><br>G: 2023-06-06 02:00 ~ 2023-06-13 01:59 7d (UTC y-m-d)<br>Jp: 2022-12-07 11:00 ~ 2022-12-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori\" title=\"Midori\">Midori</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi\" title=\"Momoi\">Momoi</a><br>G: 2023-06-06 02:00 Tue ~ 2023-06-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2022-12-07 11:00 Wed ~ 2022-12-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serina_(Christmas)\" title=\"Serina (Christmas)\">Serina (Christmas)</a> (New)",
@@ -8603,7 +8603,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-06-27T01:59",
 		"startG":"2023-06-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serina_(Christmas)\" title=\"Serina (Christmas)\">Serina (Christmas)</a> (New)<br>G: 2023-06-13 02:00 ~ 2023-06-27 01:59 14d (UTC y-m-d)<br>Jp: 2022-12-14 11:00 ~ 2022-12-28 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serina_(Christmas)\" title=\"Serina (Christmas)\">Serina (Christmas)</a> (New)<br>G: 2023-06-13 02:00 Tue ~ 2023-06-27 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-12-14 11:00 Wed ~ 2022-12-28 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanae_(Christmas)\" title=\"Hanae (Christmas)\">Hanae (Christmas)</a> (New)",
@@ -8616,7 +8616,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-06-27T01:59",
 		"startG":"2023-06-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanae_(Christmas)\" title=\"Hanae (Christmas)\">Hanae (Christmas)</a> (New)<br>G: 2023-06-13 02:00 ~ 2023-06-27 01:59 14d (UTC y-m-d)<br>Jp: 2022-12-14 11:00 ~ 2022-12-28 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanae_(Christmas)\" title=\"Hanae (Christmas)\">Hanae (Christmas)</a> (New)<br>G: 2023-06-13 02:00 Tue ~ 2023-06-27 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-12-14 11:00 Wed ~ 2022-12-28 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(New_Year)\" title=\"Haruna (New Year)\">Haruna (New Year)</a> [L] (New)",
@@ -8629,7 +8629,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-07-11T01:59",
 		"startG":"2023-06-27T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(New_Year)\" title=\"Haruna (New Year)\">Haruna (New Year)</a> [L] (New)<br>G: 2023-06-27 02:00 ~ 2023-07-11 01:59 14d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 ~ 2023-01-11 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(New_Year)\" title=\"Haruna (New Year)\">Haruna (New Year)</a> [L] (New)<br>G: 2023-06-27 02:00 Tue ~ 2023-07-11 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 Wed ~ 2023-01-11 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuuka_(New_Year)\" title=\"Fuuka (New Year)\">Fuuka (New Year)</a> [L] (New)",
@@ -8642,7 +8642,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-07-11T01:59",
 		"startG":"2023-06-27T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuuka_(New_Year)\" title=\"Fuuka (New Year)\">Fuuka (New Year)</a> [L] (New)<br>G: 2023-06-27 02:00 ~ 2023-07-11 01:59 14d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 ~ 2023-01-11 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuuka_(New_Year)\" title=\"Fuuka (New Year)\">Fuuka (New Year)</a> [L] (New)<br>G: 2023-06-27 02:00 Tue ~ 2023-07-11 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 Wed ~ 2023-01-11 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mine\" title=\"Mine\">Mine</a> (New)",
@@ -8655,7 +8655,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-07-24T01:59",
 		"startG":"2023-07-11T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mine\" title=\"Mine\">Mine</a> (New)<br>G: 2023-07-11 02:00 ~ 2023-07-24 01:59 13d (UTC y-m-d)<br>Jp: 2023-01-11 11:00 ~ 2023-01-24 10:59 13d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mine\" title=\"Mine\">Mine</a> (New)<br>G: 2023-07-11 02:00 Tue ~ 2023-07-24 01:59 Mon 13d (UTC y-m-d)<br>Jp: 2023-01-11 11:00 Wed ~ 2023-01-24 10:59 Tue 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a>",
@@ -8668,7 +8668,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-07-24T01:59",
 		"startG":"2023-07-11T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a><br>G: 2023-07-11 02:00 ~ 2023-07-24 01:59 13d (UTC y-m-d)<br>Jp: 2023-01-11 11:00 ~ 2023-01-24 10:59 13d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a><br>G: 2023-07-11 02:00 Tue ~ 2023-07-24 01:59 Mon 13d (UTC y-m-d)<br>Jp: 2023-01-11 11:00 Wed ~ 2023-01-24 10:59 Tue 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a>",
@@ -8681,7 +8681,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-07-24T01:59",
 		"startG":"2023-07-11T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a><br>G: 2023-07-11 02:00 ~ 2023-07-24 01:59 13d (UTC y-m-d)<br>Jp: 2023-01-11 11:00 ~ 2023-01-24 10:59 13d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a><br>G: 2023-07-11 02:00 Tue ~ 2023-07-24 01:59 Mon 13d (UTC y-m-d)<br>Jp: 2023-01-11 11:00 Wed ~ 2023-01-24 10:59 Tue 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mika\" title=\"Mika\">Mika</a> [L Bluefes]",
@@ -8694,7 +8694,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-07-31T01:59",
 		"startG":"2023-07-24T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mika\" title=\"Mika\">Mika</a> [L Bluefes]<br>G: 2023-07-24 02:00 ~ 2023-07-31 01:59 7d (UTC y-m-d)<br>Jp: 2023-01-24 11:00 ~ 2023-01-31 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mika\" title=\"Mika\">Mika</a> [L Bluefes]<br>G: 2023-07-24 02:00 Mon ~ 2023-07-31 01:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-01-24 11:00 Tue ~ 2023-01-31 10:59 Tue 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Megu\" title=\"Megu\">Megu</a> (New)",
@@ -8707,7 +8707,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-08-10T01:59",
 		"startG":"2023-07-31T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Megu\" title=\"Megu\">Megu</a> (New)<br>G: 2023-07-31 02:00 ~ 2023-08-10 01:59 10d (UTC y-m-d)<br>Jp: 2023-01-31 11:00 ~ 2023-02-10 10:59 10d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Megu\" title=\"Megu\">Megu</a> (New)<br>G: 2023-07-31 02:00 Mon ~ 2023-08-10 01:59 Thu 10d (UTC y-m-d)<br>Jp: 2023-01-31 11:00 Tue ~ 2023-02-10 10:59 Fri 10d (JST y-m-d)",
 		"duration":10},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanna\" title=\"Kanna\">Kanna</a> (New)",
@@ -8720,7 +8720,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-08-10T01:59",
 		"startG":"2023-07-31T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanna\" title=\"Kanna\">Kanna</a> (New)<br>G: 2023-07-31 02:00 ~ 2023-08-10 01:59 10d (UTC y-m-d)<br>Jp: 2023-01-31 11:00 ~ 2023-02-10 10:59 10d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanna\" title=\"Kanna\">Kanna</a> (New)<br>G: 2023-07-31 02:00 Mon ~ 2023-08-10 01:59 Thu 10d (UTC y-m-d)<br>Jp: 2023-01-31 11:00 Tue ~ 2023-02-10 10:59 Fri 10d (JST y-m-d)",
 		"duration":10},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako\" title=\"Sakurako\">Sakurako</a> (New)",
@@ -8733,7 +8733,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-08-22T01:59",
 		"startG":"2023-08-10T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako\" title=\"Sakurako\">Sakurako</a> (New)<br>G: 2023-08-10 02:00 ~ 2023-08-22 01:59 12d (UTC y-m-d)<br>Jp: 2023-02-10 11:00 ~ 2023-02-22 10:59 12d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako\" title=\"Sakurako\">Sakurako</a> (New)<br>G: 2023-08-10 02:00 Thu ~ 2023-08-22 01:59 Tue 12d (UTC y-m-d)<br>Jp: 2023-02-10 11:00 Fri ~ 2023-02-22 10:59 Wed 12d (JST y-m-d)",
 		"duration":12},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a>",
@@ -8746,7 +8746,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-08-22T01:59",
 		"startG":"2023-08-10T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a><br>G: 2023-08-10 02:00 ~ 2023-08-22 01:59 12d (UTC y-m-d)<br>Jp: 2023-02-10 11:00 ~ 2023-02-22 10:59 12d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a><br>G: 2023-08-10 02:00 Thu ~ 2023-08-22 01:59 Tue 12d (UTC y-m-d)<br>Jp: 2023-02-10 11:00 Fri ~ 2023-02-22 10:59 Wed 12d (JST y-m-d)",
 		"duration":12},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a>",
@@ -8759,7 +8759,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-08-22T01:59",
 		"startG":"2023-08-10T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a><br>G: 2023-08-10 02:00 ~ 2023-08-22 01:59 12d (UTC y-m-d)<br>Jp: 2023-02-10 11:00 ~ 2023-02-22 10:59 12d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a><br>G: 2023-08-10 02:00 Thu ~ 2023-08-22 01:59 Tue 12d (UTC y-m-d)<br>Jp: 2023-02-10 11:00 Fri ~ 2023-02-22 10:59 Wed 12d (JST y-m-d)",
 		"duration":12},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki\" title=\"Toki\">Toki</a> [L] (New)",
@@ -8772,7 +8772,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-09-05T01:59",
 		"startG":"2023-08-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki\" title=\"Toki\">Toki</a> [L] (New)<br>G: 2023-08-22 02:00 ~ 2023-09-05 01:59 14d (UTC y-m-d)<br>Jp: 2023-02-22 11:00 ~ 2023-03-08 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki\" title=\"Toki\">Toki</a> [L] (New)<br>G: 2023-08-22 02:00 Tue ~ 2023-09-05 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-02-22 11:00 Wed ~ 2023-03-08 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagisa\" title=\"Nagisa\">Nagisa</a> [L] (New)",
@@ -8785,7 +8785,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-09-05T01:59",
 		"startG":"2023-08-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagisa\" title=\"Nagisa\">Nagisa</a> [L] (New)<br>G: 2023-08-22 02:00 ~ 2023-09-05 01:59 14d (UTC y-m-d)<br>Jp: 2023-02-22 11:00 ~ 2023-03-08 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagisa\" title=\"Nagisa\">Nagisa</a> [L] (New)<br>G: 2023-08-22 02:00 Tue ~ 2023-09-05 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-02-22 11:00 Wed ~ 2023-03-08 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koyuki\" title=\"Koyuki\">Koyuki</a> (New)",
@@ -8798,7 +8798,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-09-19T01:59",
 		"startG":"2023-09-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koyuki\" title=\"Koyuki\">Koyuki</a> (New)<br>G: 2023-09-05 02:00 ~ 2023-09-19 01:59 14d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 ~ 2023-03-22 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koyuki\" title=\"Koyuki\">Koyuki</a> (New)<br>G: 2023-09-05 02:00 Tue ~ 2023-09-19 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 Wed ~ 2023-03-22 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)",
@@ -8811,7 +8811,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-09-19T01:59",
 		"startG":"2023-09-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)<br>G: 2023-09-05 02:00 ~ 2023-09-19 01:59 14d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 ~ 2023-03-22 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)<br>G: 2023-09-05 02:00 Tue ~ 2023-09-19 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 Wed ~ 2023-03-22 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(New_Year)\" title=\"Kayoko (New Year)\">Kayoko (New Year)</a> (New)",
@@ -8824,7 +8824,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-03T01:59",
 		"startG":"2023-09-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(New_Year)\" title=\"Kayoko (New Year)\">Kayoko (New Year)</a> (New)<br>G: 2023-09-19 02:00 ~ 2023-10-03 01:59 14d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 ~ 2023-04-05 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(New_Year)\" title=\"Kayoko (New Year)\">Kayoko (New Year)</a> (New)<br>G: 2023-09-19 02:00 Tue ~ 2023-10-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 Wed ~ 2023-04-05 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka (New Year)\">Haruka (New Year)</a> (New)",
@@ -8837,7 +8837,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-03T01:59",
 		"startG":"2023-09-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka (New Year)\">Haruka (New Year)</a> (New)<br>G: 2023-09-19 02:00 ~ 2023-10-03 01:59 14d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 ~ 2023-04-05 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka (New Year)\">Haruka (New Year)</a> (New)<br>G: 2023-09-19 02:00 Tue ~ 2023-10-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 Wed ~ 2023-04-05 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru (New Year)\">Aru (New Year)</a> [L]",
@@ -8850,7 +8850,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-03T01:59",
 		"startG":"2023-09-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru (New Year)\">Aru (New Year)</a> [L]<br>G: 2023-09-19 02:00 ~ 2023-10-03 01:59 14d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 ~ 2023-04-05 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru (New Year)\">Aru (New Year)</a> [L]<br>G: 2023-09-19 02:00 Tue ~ 2023-10-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 Wed ~ 2023-04-05 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki (New Year)\">Mutsuki (New Year)</a> [L]",
@@ -8863,7 +8863,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-03T01:59",
 		"startG":"2023-09-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki (New Year)\">Mutsuki (New Year)</a> [L]<br>G: 2023-09-19 02:00 ~ 2023-10-03 01:59 14d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 ~ 2023-04-05 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki (New Year)\">Mutsuki (New Year)</a> [L]<br>G: 2023-09-19 02:00 Tue ~ 2023-10-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 Wed ~ 2023-04-05 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika (New Year)\">Serika (New Year)</a>",
@@ -8876,7 +8876,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-03T01:59",
 		"startG":"2023-09-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika (New Year)\">Serika (New Year)</a><br>G: 2023-09-19 02:00 ~ 2023-10-03 01:59 14d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 ~ 2023-04-05 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika (New Year)\">Serika (New Year)</a><br>G: 2023-09-19 02:00 Tue ~ 2023-10-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 Wed ~ 2023-04-05 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a>",
@@ -8889,7 +8889,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-10T01:59",
 		"startG":"2023-10-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a><br>G: 2023-10-03 02:00 ~ 2023-10-10 01:59 7d (UTC y-m-d)<br>Jp: 2023-04-05 11:00 ~ 2023-04-12 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a><br>G: 2023-10-03 02:00 Tue ~ 2023-10-10 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-04-05 11:00 Wed ~ 2023-04-12 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a>",
@@ -8902,7 +8902,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-10T01:59",
 		"startG":"2023-10-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a><br>G: 2023-10-03 02:00 ~ 2023-10-10 01:59 7d (UTC y-m-d)<br>Jp: 2023-04-05 11:00 ~ 2023-04-12 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a><br>G: 2023-10-03 02:00 Tue ~ 2023-10-10 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-04-05 11:00 Wed ~ 2023-04-12 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaho\" title=\"Kaho\">Kaho</a> (New)",
@@ -8915,7 +8915,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-17T01:59",
 		"startG":"2023-10-10T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaho\" title=\"Kaho\">Kaho</a> (New)<br>G: 2023-10-10 02:00 ~ 2023-10-17 01:59 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 ~ 2023-04-19 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaho\" title=\"Kaho\">Kaho</a> (New)<br>G: 2023-10-10 02:00 Tue ~ 2023-10-17 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 Wed ~ 2023-04-19 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a>",
@@ -8928,7 +8928,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-17T01:59",
 		"startG":"2023-10-10T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a><br>G: 2023-10-10 02:00 ~ 2023-10-17 01:59 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 ~ 2023-04-19 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a><br>G: 2023-10-10 02:00 Tue ~ 2023-10-17 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 Wed ~ 2023-04-19 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a>",
@@ -8941,7 +8941,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-17T01:59",
 		"startG":"2023-10-10T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a><br>G: 2023-10-10 02:00 ~ 2023-10-17 01:59 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 ~ 2023-04-19 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a><br>G: 2023-10-10 02:00 Tue ~ 2023-10-17 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 Wed ~ 2023-04-19 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a>",
@@ -8954,7 +8954,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-17T01:59",
 		"startG":"2023-10-10T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a><br>G: 2023-10-10 02:00 ~ 2023-10-17 01:59 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 ~ 2023-04-19 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a><br>G: 2023-10-10 02:00 Tue ~ 2023-10-17 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 Wed ~ 2023-04-19 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a>",
@@ -8967,7 +8967,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-24T01:59",
 		"startG":"2023-10-17T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a><br>G: 2023-10-17 02:00 ~ 2023-10-24 01:59 7d (UTC y-m-d)<br>Jp: 2023-04-19 11:00 ~ 2023-04-26 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a><br>G: 2023-10-17 02:00 Tue ~ 2023-10-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-04-19 11:00 Wed ~ 2023-04-26 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a>",
@@ -8980,7 +8980,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-10-24T01:59",
 		"startG":"2023-10-17T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a><br>G: 2023-10-17 02:00 ~ 2023-10-24 01:59 7d (UTC y-m-d)<br>Jp: 2023-04-19 11:00 ~ 2023-04-26 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a><br>G: 2023-10-17 02:00 Tue ~ 2023-10-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-04-19 11:00 Wed ~ 2023-04-26 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Maid)\" title=\"Arisu (Maid)\">Arisu (Maid)</a> (New)",
@@ -8993,7 +8993,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-11-07T01:59",
 		"startG":"2023-10-24T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Maid)\" title=\"Arisu (Maid)\">Arisu (Maid)</a> (New)<br>G: 2023-10-24 02:00 ~ 2023-11-07 01:59 14d (UTC y-m-d)<br>Jp: 2023-04-26 11:00 ~ 2023-05-10 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Maid)\" title=\"Arisu (Maid)\">Arisu (Maid)</a> (New)<br>G: 2023-10-24 02:00 Tue ~ 2023-11-07 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-04-26 11:00 Wed ~ 2023-05-10 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki_(Bunny_Girl)\" title=\"Toki (Bunny Girl)\">Toki (Bunny Girl)</a> (New)",
@@ -9006,7 +9006,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-11-07T01:59",
 		"startG":"2023-10-24T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki_(Bunny_Girl)\" title=\"Toki (Bunny Girl)\">Toki (Bunny Girl)</a> (New)<br>G: 2023-10-24 02:00 ~ 2023-11-07 01:59 14d (UTC y-m-d)<br>Jp: 2023-04-26 11:00 ~ 2023-05-10 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki_(Bunny_Girl)\" title=\"Toki (Bunny Girl)\">Toki (Bunny Girl)</a> (New)<br>G: 2023-10-24 02:00 Tue ~ 2023-11-07 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-04-26 11:00 Wed ~ 2023-05-10 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reisa\" title=\"Reisa\">Reisa</a> (New)",
@@ -9019,7 +9019,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-11-14T02:00",
 		"startG":"2023-11-07T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reisa\" title=\"Reisa\">Reisa</a> (New)<br>G: 2023-11-07 02:00 ~ 2023-11-14 02:00 7d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 ~ 2023-05-17 11:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reisa\" title=\"Reisa\">Reisa</a> (New)<br>G: 2023-11-07 02:00 Tue ~ 2023-11-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 Wed ~ 2023-05-17 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a>",
@@ -9032,7 +9032,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-11-14T02:00",
 		"startG":"2023-11-07T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a><br>G: 2023-11-07 02:00 ~ 2023-11-14 02:00 7d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 ~ 2023-05-17 11:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a><br>G: 2023-11-07 02:00 Tue ~ 2023-11-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 Wed ~ 2023-05-17 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a>",
@@ -9045,7 +9045,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-11-14T02:00",
 		"startG":"2023-11-07T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a><br>G: 2023-11-07 02:00 ~ 2023-11-14 02:00 7d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 ~ 2023-05-17 11:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a><br>G: 2023-11-07 02:00 Tue ~ 2023-11-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 Wed ~ 2023-05-17 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa (Swimsuit)\">Azusa (Swimsuit)</a> [L]",
@@ -9058,7 +9058,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-11-21T01:59",
 		"startG":"2023-11-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa (Swimsuit)\">Azusa (Swimsuit)</a> [L]<br>G: 2023-11-14 02:00 ~ 2023-11-21 01:59 7d (UTC y-m-d)<br>Jp: 2023-05-17 11:00 ~ 2023-05-24 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa (Swimsuit)\">Azusa (Swimsuit)</a> [L]<br>G: 2023-11-14 02:00 Tue ~ 2023-11-21 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-05-17 11:00 Wed ~ 2023-05-24 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro (Swimsuit)\">Mashiro (Swimsuit)</a> [L]",
@@ -9071,7 +9071,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-11-21T01:59",
 		"startG":"2023-11-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro (Swimsuit)\">Mashiro (Swimsuit)</a> [L]<br>G: 2023-11-14 02:00 ~ 2023-11-21 01:59 7d (UTC y-m-d)<br>Jp: 2023-05-17 11:00 ~ 2023-05-24 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro (Swimsuit)\">Mashiro (Swimsuit)</a> [L]<br>G: 2023-11-14 02:00 Tue ~ 2023-11-21 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-05-17 11:00 Wed ~ 2023-05-24 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi (Swimsuit)\">Hifumi (Swimsuit)</a>",
@@ -9084,7 +9084,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-11-21T01:59",
 		"startG":"2023-11-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi (Swimsuit)\">Hifumi (Swimsuit)</a><br>G: 2023-11-14 02:00 ~ 2023-11-21 01:59 7d (UTC y-m-d)<br>Jp: 2023-05-17 11:00 ~ 2023-05-24 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi (Swimsuit)\">Hifumi (Swimsuit)</a><br>G: 2023-11-14 02:00 Tue ~ 2023-11-21 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-05-17 11:00 Wed ~ 2023-05-24 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rumi\" title=\"Rumi\">Rumi</a> (New)",
@@ -9097,7 +9097,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-12-05T01:59",
 		"startG":"2023-11-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rumi\" title=\"Rumi\">Rumi</a> (New)<br>G: 2023-11-21 02:00 ~ 2023-12-05 01:59 14d (UTC y-m-d)<br>Jp: 2023-05-24 11:00 ~ 2023-06-07 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rumi\" title=\"Rumi\">Rumi</a> (New)<br>G: 2023-11-21 02:00 Tue ~ 2023-12-05 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-05-24 11:00 Wed ~ 2023-06-07 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mina\" title=\"Mina\">Mina</a> (New)",
@@ -9110,7 +9110,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-12-05T01:59",
 		"startG":"2023-11-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mina\" title=\"Mina\">Mina</a> (New)<br>G: 2023-11-21 02:00 ~ 2023-12-05 01:59 14d (UTC y-m-d)<br>Jp: 2023-05-24 11:00 ~ 2023-06-07 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mina\" title=\"Mina\">Mina</a> (New)<br>G: 2023-11-21 02:00 Tue ~ 2023-12-05 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-05-24 11:00 Wed ~ 2023-06-07 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Minori\" title=\"Minori\">Minori</a> (New)",
@@ -9123,7 +9123,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-12-12T01:59",
 		"startG":"2023-12-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Minori\" title=\"Minori\">Minori</a> (New)<br>G: 2023-12-05 02:00 ~ 2023-12-12 01:59 7d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 ~ 2023-06-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Minori\" title=\"Minori\">Minori</a> (New)<br>G: 2023-12-05 02:00 Tue ~ 2023-12-12 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 Wed ~ 2023-06-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako\" title=\"Miyako\">Miyako</a>",
@@ -9136,7 +9136,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-12-12T01:59",
 		"startG":"2023-12-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako\" title=\"Miyako\">Miyako</a><br>G: 2023-12-05 02:00 ~ 2023-12-12 01:59 7d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 ~ 2023-06-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako\" title=\"Miyako\">Miyako</a><br>G: 2023-12-05 02:00 Tue ~ 2023-12-12 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 Wed ~ 2023-06-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki\" title=\"Saki\">Saki</a>",
@@ -9149,7 +9149,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-12-12T01:59",
 		"startG":"2023-12-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki\" title=\"Saki\">Saki</a><br>G: 2023-12-05 02:00 ~ 2023-12-12 01:59 7d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 ~ 2023-06-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki\" title=\"Saki\">Saki</a><br>G: 2023-12-05 02:00 Tue ~ 2023-12-12 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 Wed ~ 2023-06-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a>",
@@ -9162,7 +9162,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-12-19T01:59",
 		"startG":"2023-12-12T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a><br>G: 2023-12-12 02:00 ~ 2023-12-19 01:59 7d (UTC y-m-d)<br>Jp: 2023-06-14 11:00 ~ 2023-06-21 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a><br>G: 2023-12-12 02:00 Tue ~ 2023-12-19 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-06-14 11:00 Wed ~ 2023-06-21 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moe\" title=\"Moe\">Moe</a>",
@@ -9175,7 +9175,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2023-12-19T01:59",
 		"startG":"2023-12-12T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moe\" title=\"Moe\">Moe</a><br>G: 2023-12-12 02:00 ~ 2023-12-19 01:59 7d (UTC y-m-d)<br>Jp: 2023-06-14 11:00 ~ 2023-06-21 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moe\" title=\"Moe\">Moe</a><br>G: 2023-12-12 02:00 Tue ~ 2023-12-19 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-06-14 11:00 Wed ~ 2023-06-21 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako_(Swimsuit)\" title=\"Miyako (Swimsuit)\">Miyako (Swimsuit)</a> (New)",
@@ -9188,7 +9188,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-01-02T01:59",
 		"startG":"2023-12-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako_(Swimsuit)\" title=\"Miyako (Swimsuit)\">Miyako (Swimsuit)</a> (New)<br>G: 2023-12-19 02:00 ~ 2024-01-02 01:59 14d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 ~ 2023-07-05 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako_(Swimsuit)\" title=\"Miyako (Swimsuit)\">Miyako (Swimsuit)</a> (New)<br>G: 2023-12-19 02:00 Tue ~ 2024-01-02 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 Wed ~ 2023-07-05 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki_(Swimsuit)\" title=\"Saki (Swimsuit)\">Saki (Swimsuit)</a> (New)",
@@ -9201,7 +9201,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-01-02T01:59",
 		"startG":"2023-12-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki_(Swimsuit)\" title=\"Saki (Swimsuit)\">Saki (Swimsuit)</a> (New)<br>G: 2023-12-19 02:00 ~ 2024-01-02 01:59 14d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 ~ 2023-07-05 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki_(Swimsuit)\" title=\"Saki (Swimsuit)\">Saki (Swimsuit)</a> (New)<br>G: 2023-12-19 02:00 Tue ~ 2024-01-02 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 Wed ~ 2023-07-05 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L]",
@@ -9214,7 +9214,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-01-09T01:59",
 		"startG":"2024-01-02T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L]<br>G: 2024-01-02 02:00 ~ 2024-01-09 01:59 7d (UTC y-m-d)<br>Jp: 2023-07-05 11:00 ~ 2023-07-12 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L]<br>G: 2024-01-02 02:00 Tue ~ 2024-01-09 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-07-05 11:00 Wed ~ 2023-07-12 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L]",
@@ -9227,7 +9227,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-01-09T01:59",
 		"startG":"2024-01-02T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L]<br>G: 2024-01-02 02:00 ~ 2024-01-09 01:59 7d (UTC y-m-d)<br>Jp: 2023-07-05 11:00 ~ 2023-07-12 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L]<br>G: 2024-01-02 02:00 Tue ~ 2024-01-09 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-07-05 11:00 Wed ~ 2023-07-12 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko (Riding)\">Shiroko (Riding)</a>",
@@ -9240,7 +9240,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-01-14T01:59",
 		"startG":"2024-01-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko (Riding)\">Shiroko (Riding)</a><br>G: 2024-01-09 02:00 ~ 2024-01-14 01:59 5d (UTC y-m-d)<br>Jp: 2023-07-12 11:00 ~ 2023-07-17 10:59 5d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko (Riding)\">Shiroko (Riding)</a><br>G: 2024-01-09 02:00 Tue ~ 2024-01-14 01:59 Sun 5d (UTC y-m-d)<br>Jp: 2023-07-12 11:00 Wed ~ 2023-07-17 10:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a>",
@@ -9253,7 +9253,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-01-14T01:59",
 		"startG":"2024-01-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a><br>G: 2024-01-09 02:00 ~ 2024-01-14 01:59 5d (UTC y-m-d)<br>Jp: 2023-07-12 11:00 ~ 2023-07-17 10:59 5d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa\" title=\"Azusa\">Azusa</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako\" title=\"Hanako\">Hanako</a><br>G: 2024-01-09 02:00 Tue ~ 2024-01-14 01:59 Sun 5d (UTC y-m-d)<br>Jp: 2023-07-12 11:00 Wed ~ 2023-07-17 10:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Swimsuit)\" title=\"Shiroko (Swimsuit)\">Shiroko (Swimsuit)</a> (New)",
@@ -9266,7 +9266,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-01-21T01:59",
 		"startG":"2024-01-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Swimsuit)\" title=\"Shiroko (Swimsuit)\">Shiroko (Swimsuit)</a> (New)<br>G: 2024-01-14 02:00 ~ 2024-01-21 01:59 7d (UTC y-m-d)<br>Jp: 2023-07-17 11:00 ~ 2023-07-24 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Swimsuit)\" title=\"Shiroko (Swimsuit)\">Shiroko (Swimsuit)</a> (New)<br>G: 2024-01-14 02:00 Sun ~ 2024-01-21 01:59 Sun 7d (UTC y-m-d)<br>Jp: 2023-07-17 11:00 Mon ~ 2023-07-24 10:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi (Swimsuit)\">Nonomi (Swimsuit)</a>",
@@ -9279,7 +9279,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-01-21T01:59",
 		"startG":"2024-01-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi (Swimsuit)\">Nonomi (Swimsuit)</a><br>G: 2024-01-14 02:00 ~ 2024-01-21 01:59 7d (UTC y-m-d)<br>Jp: 2023-07-17 11:00 ~ 2023-07-24 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi (Swimsuit)\">Nonomi (Swimsuit)</a><br>G: 2024-01-14 02:00 Sun ~ 2024-01-21 01:59 Sun 7d (UTC y-m-d)<br>Jp: 2023-07-17 11:00 Mon ~ 2023-07-24 10:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo (Swimsuit)\">Wakamo (Swimsuit)</a>",
@@ -9292,7 +9292,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-01-21T01:59",
 		"startG":"2024-01-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo (Swimsuit)\">Wakamo (Swimsuit)</a><br>G: 2024-01-14 02:00 ~ 2024-01-21 01:59 7d (UTC y-m-d)<br>Jp: 2023-07-17 11:00 ~ 2023-07-24 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo (Swimsuit)\">Wakamo (Swimsuit)</a><br>G: 2024-01-14 02:00 Sun ~ 2024-01-21 01:59 Sun 7d (UTC y-m-d)<br>Jp: 2023-07-17 11:00 Mon ~ 2023-07-24 10:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui_(Swimsuit)\" title=\"Ui (Swimsuit)\">Ui (Swimsuit)</a> [L] (New)",
@@ -9305,7 +9305,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-01-30T01:59",
 		"startG":"2024-01-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui_(Swimsuit)\" title=\"Ui (Swimsuit)\">Ui (Swimsuit)</a> [L] (New)<br>G: 2024-01-21 02:00 ~ 2024-01-30 01:59 9d (UTC y-m-d)<br>Jp: 2023-07-24 11:00 ~ 2023-08-02 10:59 9d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui_(Swimsuit)\" title=\"Ui (Swimsuit)\">Ui (Swimsuit)</a> [L] (New)<br>G: 2024-01-21 02:00 Sun ~ 2024-01-30 01:59 Tue 9d (UTC y-m-d)<br>Jp: 2023-07-24 11:00 Mon ~ 2023-08-02 10:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata_(Swimsuit)\" title=\"Hinata (Swimsuit)\">Hinata (Swimsuit)</a> [L] (New)",
@@ -9318,7 +9318,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-01-30T01:59",
 		"startG":"2024-01-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata_(Swimsuit)\" title=\"Hinata (Swimsuit)\">Hinata (Swimsuit)</a> [L] (New)<br>G: 2024-01-21 02:00 ~ 2024-01-30 01:59 9d (UTC y-m-d)<br>Jp: 2023-07-24 11:00 ~ 2023-08-02 10:59 9d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata_(Swimsuit)\" title=\"Hinata (Swimsuit)\">Hinata (Swimsuit)</a> [L] (New)<br>G: 2024-01-21 02:00 Sun ~ 2024-01-30 01:59 Tue 9d (UTC y-m-d)<br>Jp: 2023-07-24 11:00 Mon ~ 2023-08-02 10:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako_(Swimsuit)\" title=\"Hanako (Swimsuit)\">Hanako (Swimsuit)</a> [L Bluefes]",
@@ -9331,7 +9331,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-02-06T01:59",
 		"startG":"2024-01-30T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako_(Swimsuit)\" title=\"Hanako (Swimsuit)\">Hanako (Swimsuit)</a> [L Bluefes]<br>G: 2024-01-30 02:00 ~ 2024-02-06 01:59 7d (UTC y-m-d)<br>Jp: 2023-08-02 11:00 ~ 2023-08-09 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako_(Swimsuit)\" title=\"Hanako (Swimsuit)\">Hanako (Swimsuit)</a> [L Bluefes]<br>G: 2024-01-30 02:00 Tue ~ 2024-02-06 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-08-02 11:00 Wed ~ 2023-08-09 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo\" title=\"Wakamo\">Wakamo</a> [L Bluefes]",
@@ -9344,7 +9344,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-02-06T01:59",
 		"startG":"2024-01-30T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo\" title=\"Wakamo\">Wakamo</a> [L Bluefes]<br>G: 2024-01-30 02:00 ~ 2024-02-06 01:59 7d (UTC y-m-d)<br>Jp: 2023-08-02 11:00 ~ 2023-08-09 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo\" title=\"Wakamo\">Wakamo</a> [L Bluefes]<br>G: 2024-01-30 02:00 Tue ~ 2024-02-06 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-08-02 11:00 Wed ~ 2023-08-09 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a>",
@@ -9357,7 +9357,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-02-13T01:59",
 		"startG":"2024-02-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a><br>G: 2024-02-06 02:00 ~ 2024-02-13 01:59 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 ~ 2023-08-16 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a><br>G: 2024-02-06 02:00 Tue ~ 2024-02-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 Wed ~ 2023-08-16 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya (Casual)\">Saya (Casual)</a>",
@@ -9370,7 +9370,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-02-13T01:59",
 		"startG":"2024-02-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya (Casual)\">Saya (Casual)</a><br>G: 2024-02-06 02:00 ~ 2024-02-13 01:59 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 ~ 2023-08-16 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya (Casual)\">Saya (Casual)</a><br>G: 2024-02-06 02:00 Tue ~ 2024-02-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 Wed ~ 2023-08-16 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a>",
@@ -9383,7 +9383,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-02-13T01:59",
 		"startG":"2024-02-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a><br>G: 2024-02-06 02:00 ~ 2024-02-13 01:59 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 ~ 2023-08-16 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a><br>G: 2024-02-06 02:00 Tue ~ 2024-02-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 Wed ~ 2023-08-16 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori_(Swimsuit)\" title=\"Mimori (Swimsuit)\">Mimori (Swimsuit)</a> (New)",
@@ -9396,7 +9396,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-02-20T01:59",
 		"startG":"2024-02-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori_(Swimsuit)\" title=\"Mimori (Swimsuit)\">Mimori (Swimsuit)</a> (New)<br>G: 2024-02-13 02:00 ~ 2024-02-20 01:59 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 ~ 2023-08-23 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori_(Swimsuit)\" title=\"Mimori (Swimsuit)\">Mimori (Swimsuit)</a> (New)<br>G: 2024-02-13 02:00 Tue ~ 2024-02-20 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 Wed ~ 2023-08-23 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna (Swimsuit)\">Izuna (Swimsuit)</a> [L]",
@@ -9409,7 +9409,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-02-20T01:59",
 		"startG":"2024-02-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna (Swimsuit)\">Izuna (Swimsuit)</a> [L]<br>G: 2024-02-13 02:00 ~ 2024-02-20 01:59 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 ~ 2023-08-23 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna (Swimsuit)\">Izuna (Swimsuit)</a> [L]<br>G: 2024-02-13 02:00 Tue ~ 2024-02-20 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 Wed ~ 2023-08-23 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise (Swimsuit)\">Chise (Swimsuit)</a> [L]",
@@ -9422,7 +9422,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-02-20T01:59",
 		"startG":"2024-02-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise (Swimsuit)\">Chise (Swimsuit)</a> [L]<br>G: 2024-02-13 02:00 ~ 2024-02-20 01:59 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 ~ 2023-08-23 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise (Swimsuit)\">Chise (Swimsuit)</a> [L]<br>G: 2024-02-13 02:00 Tue ~ 2024-02-20 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 Wed ~ 2023-08-23 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Meru\" title=\"Meru\">Meru</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momiji\" title=\"Momiji\">Momiji</a> (New)",
@@ -9435,7 +9435,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-03-05T01:59",
 		"startG":"2024-02-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Meru\" title=\"Meru\">Meru</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momiji\" title=\"Momiji\">Momiji</a> (New)<br>G: 2024-02-20 02:00 ~ 2024-03-05 01:59 14d (UTC y-m-d)<br>Jp: 2023-08-23 11:00 ~ 2023-09-06 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Meru\" title=\"Meru\">Meru</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momiji\" title=\"Momiji\">Momiji</a> (New)<br>G: 2024-02-20 02:00 Tue ~ 2024-03-05 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-08-23 11:00 Wed ~ 2023-09-06 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a>",
@@ -9448,7 +9448,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-03-05T01:59",
 		"startG":"2024-02-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a><br>G: 2024-02-20 02:00 ~ 2024-03-05 01:59 14d (UTC y-m-d)<br>Jp: 2023-08-23 11:00 ~ 2023-09-06 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a><br>G: 2024-02-20 02:00 Tue ~ 2024-03-05 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-08-23 11:00 Wed ~ 2023-09-06 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a>",
@@ -9461,7 +9461,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-03-05T01:59",
 		"startG":"2024-02-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a><br>G: 2024-02-20 02:00 ~ 2024-03-05 01:59 14d (UTC y-m-d)<br>Jp: 2023-08-23 11:00 ~ 2023-09-06 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a><br>G: 2024-02-20 02:00 Tue ~ 2024-03-05 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-08-23 11:00 Wed ~ 2023-09-06 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kotori_(Cheerleader)\" title=\"Kotori (Cheerleader)\">Kotori (Cheerleader)</a> (New)",
@@ -9474,7 +9474,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-03-14T01:59",
 		"startG":"2024-03-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kotori_(Cheerleader)\" title=\"Kotori (Cheerleader)\">Kotori (Cheerleader)</a> (New)<br>G: 2024-03-05 02:00 ~ 2024-03-14 01:59 9d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 ~ 2023-09-15 10:59 9d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kotori_(Cheerleader)\" title=\"Kotori (Cheerleader)\">Kotori (Cheerleader)</a> (New)<br>G: 2024-03-05 02:00 Tue ~ 2024-03-14 01:59 Thu 9d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 Wed ~ 2023-09-15 10:59 Fri 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a>",
@@ -9487,7 +9487,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-03-14T01:59",
 		"startG":"2024-03-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a><br>G: 2024-03-05 02:00 ~ 2024-03-14 01:59 9d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 ~ 2023-09-15 10:59 9d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a><br>G: 2024-03-05 02:00 Tue ~ 2024-03-14 01:59 Thu 9d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 Wed ~ 2023-09-15 10:59 Fri 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Utaha_(Cheerleader)\" title=\"Utaha (Cheerleader)\">Utaha (Cheerleader)</a>",
@@ -9500,7 +9500,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-03-14T01:59",
 		"startG":"2024-03-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Utaha_(Cheerleader)\" title=\"Utaha (Cheerleader)\">Utaha (Cheerleader)</a><br>G: 2024-03-05 02:00 ~ 2024-03-14 01:59 9d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 ~ 2023-09-15 10:59 9d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Utaha_(Cheerleader)\" title=\"Utaha (Cheerleader)\">Utaha (Cheerleader)</a><br>G: 2024-03-05 02:00 Tue ~ 2024-03-14 01:59 Thu 9d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 Wed ~ 2023-09-15 10:59 Fri 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(Sportswear)\" title=\"Haruna (Sportswear)\">Haruna (Sportswear)</a> (New)",
@@ -9513,7 +9513,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-03-26T01:59",
 		"startG":"2024-03-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(Sportswear)\" title=\"Haruna (Sportswear)\">Haruna (Sportswear)</a> (New)<br>G: 2024-03-14 02:00 ~ 2024-03-26 01:59 12d (UTC y-m-d)<br>Jp: 2023-09-15 11:00 ~ 2023-09-27 10:59 12d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(Sportswear)\" title=\"Haruna (Sportswear)\">Haruna (Sportswear)</a> (New)<br>G: 2024-03-14 02:00 Thu ~ 2024-03-26 01:59 Tue 12d (UTC y-m-d)<br>Jp: 2023-09-15 11:00 Fri ~ 2023-09-27 10:59 Wed 12d (JST y-m-d)",
 		"duration":12},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Sportswear)\" title=\"Yuuka (Sportswear)\">Yuuka (Sportswear)</a> [L]",
@@ -9526,7 +9526,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-03-26T01:59",
 		"startG":"2024-03-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Sportswear)\" title=\"Yuuka (Sportswear)\">Yuuka (Sportswear)</a> [L]<br>G: 2024-03-14 02:00 ~ 2024-03-26 01:59 12d (UTC y-m-d)<br>Jp: 2023-09-15 11:00 ~ 2023-09-27 10:59 12d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Sportswear)\" title=\"Yuuka (Sportswear)\">Yuuka (Sportswear)</a> [L]<br>G: 2024-03-14 02:00 Thu ~ 2024-03-26 01:59 Tue 12d (UTC y-m-d)<br>Jp: 2023-09-15 11:00 Fri ~ 2023-09-27 10:59 Wed 12d (JST y-m-d)",
 		"duration":12},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Sportswear)\" title=\"Mari (Sportswear)\">Mari (Sportswear)</a> [L]",
@@ -9539,7 +9539,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-03-26T01:59",
 		"startG":"2024-03-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Sportswear)\" title=\"Mari (Sportswear)\">Mari (Sportswear)</a> [L]<br>G: 2024-03-14 02:00 ~ 2024-03-26 01:59 12d (UTC y-m-d)<br>Jp: 2023-09-15 11:00 ~ 2023-09-27 10:59 12d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Sportswear)\" title=\"Mari (Sportswear)\">Mari (Sportswear)</a> [L]<br>G: 2024-03-14 02:00 Thu ~ 2024-03-26 01:59 Tue 12d (UTC y-m-d)<br>Jp: 2023-09-15 11:00 Fri ~ 2023-09-27 10:59 Wed 12d (JST y-m-d)",
 		"duration":12},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ichika\" title=\"Ichika\">Ichika</a> (New)",
@@ -9552,7 +9552,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-04-09T01:59",
 		"startG":"2024-03-26T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ichika\" title=\"Ichika\">Ichika</a> (New)<br>G: 2024-03-26 02:00 ~ 2024-04-09 01:59 14d (UTC y-m-d)<br>Jp: 2023-09-27 11:00 ~ 2023-10-11 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ichika\" title=\"Ichika\">Ichika</a> (New)<br>G: 2024-03-26 02:00 Tue ~ 2024-04-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-09-27 11:00 Wed ~ 2023-10-11 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kasumi\" title=\"Kasumi\">Kasumi</a> (New)",
@@ -9565,7 +9565,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-04-09T01:59",
 		"startG":"2024-03-26T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kasumi\" title=\"Kasumi\">Kasumi</a> (New)<br>G: 2024-03-26 02:00 ~ 2024-04-09 01:59 14d (UTC y-m-d)<br>Jp: 2023-09-27 11:00 ~ 2023-10-11 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kasumi\" title=\"Kasumi\">Kasumi</a> (New)<br>G: 2024-03-26 02:00 Tue ~ 2024-04-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-09-27 11:00 Wed ~ 2023-10-11 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure_(Hot_Spring)\" title=\"Shigure (Hot Spring)\">Shigure (Hot Spring)</a> (New)",
@@ -9578,7 +9578,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-04-16T01:59",
 		"startG":"2024-04-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure_(Hot_Spring)\" title=\"Shigure (Hot Spring)\">Shigure (Hot Spring)</a> (New)<br>G: 2024-04-09 02:00 ~ 2024-04-16 01:59 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 ~ 2023-10-18 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure_(Hot_Spring)\" title=\"Shigure (Hot Spring)\">Shigure (Hot Spring)</a> (New)<br>G: 2024-04-09 02:00 Tue ~ 2024-04-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 Wed ~ 2023-10-18 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino (Hot Spring)\">Cherino (Hot Spring)</a>",
@@ -9591,7 +9591,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-04-16T01:59",
 		"startG":"2024-04-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino (Hot Spring)\">Cherino (Hot Spring)</a><br>G: 2024-04-09 02:00 ~ 2024-04-16 01:59 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 ~ 2023-10-18 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino_(Hot_Spring)\" title=\"Cherino (Hot Spring)\">Cherino (Hot Spring)</a><br>G: 2024-04-09 02:00 Tue ~ 2024-04-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 Wed ~ 2023-10-18 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu (Hot Spring)\">Chinatsu (Hot Spring)</a>",
@@ -9604,7 +9604,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-04-16T01:59",
 		"startG":"2024-04-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu (Hot Spring)\">Chinatsu (Hot Spring)</a><br>G: 2024-04-09 02:00 ~ 2024-04-16 01:59 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 ~ 2023-10-18 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chinatsu_(Hot_Spring)\" title=\"Chinatsu (Hot Spring)\">Chinatsu (Hot Spring)</a><br>G: 2024-04-09 02:00 Tue ~ 2024-04-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 Wed ~ 2023-10-18 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka (Hot Spring)\">Nodoka (Hot Spring)</a>",
@@ -9617,7 +9617,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-04-16T01:59",
 		"startG":"2024-04-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka (Hot Spring)\">Nodoka (Hot Spring)</a><br>G: 2024-04-09 02:00 ~ 2024-04-16 01:59 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 ~ 2023-10-18 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nodoka_(Hot_Spring)\" title=\"Nodoka (Hot Spring)\">Nodoka (Hot Spring)</a><br>G: 2024-04-09 02:00 Tue ~ 2024-04-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 Wed ~ 2023-10-18 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure\" title=\"Shigure\">Shigure</a>",
@@ -9630,7 +9630,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-04-22T01:59",
 		"startG":"2024-04-16T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure\" title=\"Shigure\">Shigure</a><br>G: 2024-04-16 02:00 ~ 2024-04-22 01:59 6d (UTC y-m-d)<br>Jp: 2023-10-18 11:00 ~ 2023-10-24 10:59 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure\" title=\"Shigure\">Shigure</a><br>G: 2024-04-16 02:00 Tue ~ 2024-04-22 01:59 Mon 6d (UTC y-m-d)<br>Jp: 2023-10-18 11:00 Wed ~ 2023-10-24 10:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Megu\" title=\"Megu\">Megu</a>",
@@ -9643,7 +9643,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-04-22T01:59",
 		"startG":"2024-04-16T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Megu\" title=\"Megu\">Megu</a><br>G: 2024-04-16 02:00 ~ 2024-04-22 01:59 6d (UTC y-m-d)<br>Jp: 2023-10-18 11:00 ~ 2023-10-24 10:59 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Megu\" title=\"Megu\">Megu</a><br>G: 2024-04-16 02:00 Tue ~ 2024-04-22 01:59 Mon 6d (UTC y-m-d)<br>Jp: 2023-10-18 11:00 Wed ~ 2023-10-24 10:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaka_Mikoto\" title=\"Misaka Mikoto\">Misaka Mikoto</a> [L], Collab character (New)",
@@ -9656,7 +9656,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-05-07T01:59",
 		"startG":"2024-04-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaka_Mikoto\" title=\"Misaka Mikoto\">Misaka Mikoto</a> [L], Collab character (New)<br>G: 2024-04-22 02:00 ~ 2024-05-07 01:59 15d (UTC y-m-d)<br>Jp: 2023-10-24 11:00 ~ 2023-11-08 10:59 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaka_Mikoto\" title=\"Misaka Mikoto\">Misaka Mikoto</a> [L], Collab character (New)<br>G: 2024-04-22 02:00 Mon ~ 2024-05-07 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2023-10-24 11:00 Tue ~ 2023-11-08 10:59 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shokuhou_Misaki\" title=\"Shokuhou Misaki\">Shokuhou Misaki</a> [L], Collab character (New)",
@@ -9669,7 +9669,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-05-07T01:59",
 		"startG":"2024-04-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shokuhou_Misaki\" title=\"Shokuhou Misaki\">Shokuhou Misaki</a> [L], Collab character (New)<br>G: 2024-04-22 02:00 ~ 2024-05-07 01:59 15d (UTC y-m-d)<br>Jp: 2023-10-24 11:00 ~ 2023-11-08 10:59 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shokuhou_Misaki\" title=\"Shokuhou Misaki\">Shokuhou Misaki</a> [L], Collab character (New)<br>G: 2024-04-22 02:00 Mon ~ 2024-05-07 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2023-10-24 11:00 Tue ~ 2023-11-08 10:59 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yukari\" title=\"Yukari\">Yukari</a> (New)",
@@ -9682,7 +9682,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-05-14T01:59",
 		"startG":"2024-05-07T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yukari\" title=\"Yukari\">Yukari</a> (New)<br>G: 2024-05-07 02:00 ~ 2024-05-14 01:59 7d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 ~ 2023-11-15 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yukari\" title=\"Yukari\">Yukari</a> (New)<br>G: 2024-05-07 02:00 Tue ~ 2024-05-14 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 Wed ~ 2023-11-15 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a>",
@@ -9695,7 +9695,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-05-21T02:00",
 		"startG":"2024-05-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a><br>G: 2024-05-14 02:00 ~ 2024-05-21 02:00 7d (UTC y-m-d)<br>Jp: 2023-11-15 11:00 ~ 2023-11-22 11:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a><br>G: 2024-05-14 02:00 Tue ~ 2024-05-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2023-11-15 11:00 Wed ~ 2023-11-22 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori\" title=\"Hiyori\">Hiyori</a>",
@@ -9708,7 +9708,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-05-21T02:00",
 		"startG":"2024-05-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori\" title=\"Hiyori\">Hiyori</a><br>G: 2024-05-14 02:00 ~ 2024-05-21 02:00 7d (UTC y-m-d)<br>Jp: 2023-11-15 11:00 ~ 2023-11-22 11:00 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori\" title=\"Hiyori\">Hiyori</a><br>G: 2024-05-14 02:00 Tue ~ 2024-05-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2023-11-15 11:00 Wed ~ 2023-11-22 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Renge\" title=\"Renge\">Renge</a> (New)",
@@ -9721,7 +9721,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-06-04T02:00",
 		"startG":"2024-05-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Renge\" title=\"Renge\">Renge</a> (New)<br>G: 2024-05-21 02:00 ~ 2024-06-04 02:00 14d (UTC y-m-d)<br>Jp: 2023-11-22 11:00 ~ 2023-12-06 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Renge\" title=\"Renge\">Renge</a> (New)<br>G: 2024-05-21 02:00 Tue ~ 2024-06-04 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-11-22 11:00 Wed ~ 2023-12-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kikyou\" title=\"Kikyou\">Kikyou</a> (New)",
@@ -9734,7 +9734,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-06-04T02:00",
 		"startG":"2024-05-21T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kikyou\" title=\"Kikyou\">Kikyou</a> (New)<br>G: 2024-05-21 02:00 ~ 2024-06-04 02:00 14d (UTC y-m-d)<br>Jp: 2023-11-22 11:00 ~ 2023-12-06 11:00 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kikyou\" title=\"Kikyou\">Kikyou</a> (New)<br>G: 2024-05-21 02:00 Tue ~ 2024-06-04 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-11-22 11:00 Wed ~ 2023-12-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi_(Swimsuit)\" title=\"Eimi (Swimsuit)\">Eimi (Swimsuit)</a> (New)",
@@ -9747,7 +9747,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-06-11T01:59",
 		"startG":"2024-06-04T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi_(Swimsuit)\" title=\"Eimi (Swimsuit)\">Eimi (Swimsuit)</a> (New)<br>G: 2024-06-04 02:00 ~ 2024-06-11 01:59 7d (UTC y-m-d)<br>Jp: 2023-12-06 11:00 ~ 2023-12-13 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi_(Swimsuit)\" title=\"Eimi (Swimsuit)\">Eimi (Swimsuit)</a> (New)<br>G: 2024-06-04 02:00 Tue ~ 2024-06-11 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-12-06 11:00 Wed ~ 2023-12-13 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Himari\" title=\"Himari\">Himari</a>",
@@ -9760,7 +9760,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-06-11T01:59",
 		"startG":"2024-06-04T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Himari\" title=\"Himari\">Himari</a><br>G: 2024-06-04 02:00 ~ 2024-06-11 01:59 7d (UTC y-m-d)<br>Jp: 2023-12-06 11:00 ~ 2023-12-13 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Himari\" title=\"Himari\">Himari</a><br>G: 2024-06-04 02:00 Tue ~ 2024-06-11 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-12-06 11:00 Wed ~ 2023-12-13 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sumire\" title=\"Sumire\">Sumire</a> (New)",
@@ -9773,7 +9773,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-06-18T01:59",
 		"startG":"2024-06-11T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sumire\" title=\"Sumire\">Sumire</a> (New)<br>G: 2024-06-11 02:00 ~ 2024-06-18 01:59 7d (UTC y-m-d)<br>Jp: 2023-12-13 11:00 ~ 2023-12-20 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sumire\" title=\"Sumire\">Sumire</a> (New)<br>G: 2024-06-11 02:00 Tue ~ 2024-06-18 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-12-13 11:00 Wed ~ 2023-12-20 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi\" title=\"Eimi\">Eimi</a>",
@@ -9786,7 +9786,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-06-18T01:59",
 		"startG":"2024-06-11T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi\" title=\"Eimi\">Eimi</a><br>G: 2024-06-11 02:00 ~ 2024-06-18 01:59 7d (UTC y-m-d)<br>Jp: 2023-12-13 11:00 ~ 2023-12-20 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi\" title=\"Eimi\">Eimi</a><br>G: 2024-06-11 02:00 Tue ~ 2024-06-18 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-12-13 11:00 Wed ~ 2023-12-20 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L]",
@@ -9799,7 +9799,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-06-25T01:59",
 		"startG":"2024-06-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L]<br>G: 2024-06-18 02:00 ~ 2024-06-25 01:59 7d (UTC y-m-d)<br>Jp: 2023-12-20 11:00 ~ 2023-12-27 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L]<br>G: 2024-06-18 02:00 Tue ~ 2024-06-25 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-12-20 11:00 Wed ~ 2023-12-27 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L]",
@@ -9812,7 +9812,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-06-25T01:59",
 		"startG":"2024-06-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L]<br>G: 2024-06-18 02:00 ~ 2024-06-25 01:59 7d (UTC y-m-d)<br>Jp: 2023-12-20 11:00 ~ 2023-12-27 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L]<br>G: 2024-06-18 02:00 Tue ~ 2024-06-25 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-12-20 11:00 Wed ~ 2023-12-27 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna (Bunny Girl)\">Asuna (Bunny Girl)</a>",
@@ -9825,7 +9825,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-06-25T01:59",
 		"startG":"2024-06-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna (Bunny Girl)\">Asuna (Bunny Girl)</a><br>G: 2024-06-18 02:00 ~ 2024-06-25 01:59 7d (UTC y-m-d)<br>Jp: 2023-12-20 11:00 ~ 2023-12-27 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna (Bunny Girl)\">Asuna (Bunny Girl)</a><br>G: 2024-06-18 02:00 Tue ~ 2024-06-25 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-12-20 11:00 Wed ~ 2023-12-27 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane (Bunny Girl)\">Akane (Bunny Girl)</a>",
@@ -9838,7 +9838,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-06-25T01:59",
 		"startG":"2024-06-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane (Bunny Girl)\">Akane (Bunny Girl)</a><br>G: 2024-06-18 02:00 ~ 2024-06-25 01:59 7d (UTC y-m-d)<br>Jp: 2023-12-20 11:00 ~ 2023-12-27 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane (Bunny Girl)\">Akane (Bunny Girl)</a><br>G: 2024-06-18 02:00 Tue ~ 2024-06-25 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2023-12-20 11:00 Wed ~ 2023-12-27 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hare_(Camping)\" title=\"Hare (Camping)\">Hare (Camping)</a> (New)",
@@ -9851,7 +9851,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-07-09T01:59",
 		"startG":"2024-06-25T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hare_(Camping)\" title=\"Hare (Camping)\">Hare (Camping)</a> (New)<br>G: 2024-06-25 02:00 ~ 2024-07-09 01:59 14d (UTC y-m-d)<br>Jp: 2023-12-27 11:00 ~ 2024-01-10 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hare_(Camping)\" title=\"Hare (Camping)\">Hare (Camping)</a> (New)<br>G: 2024-06-25 02:00 Tue ~ 2024-07-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-12-27 11:00 Wed ~ 2024-01-10 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kotama_(Camping)\" title=\"Kotama (Camping)\">Kotama (Camping)</a> (New)",
@@ -9864,7 +9864,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-07-09T01:59",
 		"startG":"2024-06-25T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kotama_(Camping)\" title=\"Kotama (Camping)\">Kotama (Camping)</a> (New)<br>G: 2024-06-25 02:00 ~ 2024-07-09 01:59 14d (UTC y-m-d)<br>Jp: 2023-12-27 11:00 ~ 2024-01-10 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kotama_(Camping)\" title=\"Kotama (Camping)\">Kotama (Camping)</a> (New)<br>G: 2024-06-25 02:00 Tue ~ 2024-07-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2023-12-27 11:00 Wed ~ 2024-01-10 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru (New Year)\">Aru (New Year)</a> [L]",
@@ -9877,7 +9877,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-07-16T01:59",
 		"startG":"2024-07-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru (New Year)\">Aru (New Year)</a> [L]<br>G: 2024-07-09 02:00 ~ 2024-07-16 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 ~ 2024-01-17 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru (New Year)\">Aru (New Year)</a> [L]<br>G: 2024-07-09 02:00 Tue ~ 2024-07-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 Wed ~ 2024-01-17 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki (New Year)\">Mutsuki (New Year)</a> [L]",
@@ -9890,7 +9890,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-07-16T01:59",
 		"startG":"2024-07-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki (New Year)\">Mutsuki (New Year)</a> [L]<br>G: 2024-07-09 02:00 ~ 2024-07-16 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 ~ 2024-01-17 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki (New Year)\">Mutsuki (New Year)</a> [L]<br>G: 2024-07-09 02:00 Tue ~ 2024-07-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 Wed ~ 2024-01-17 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika (New Year)\">Serika (New Year)</a>",
@@ -9903,7 +9903,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-07-16T01:59",
 		"startG":"2024-07-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika (New Year)\">Serika (New Year)</a><br>G: 2024-07-09 02:00 ~ 2024-07-16 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 ~ 2024-01-17 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(New_Year)\" title=\"Serika (New Year)\">Serika (New Year)</a><br>G: 2024-07-09 02:00 Tue ~ 2024-07-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 Wed ~ 2024-01-17 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(New_Year)\" title=\"Kayoko (New Year)\">Kayoko (New Year)</a>",
@@ -9916,7 +9916,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-07-16T01:59",
 		"startG":"2024-07-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(New_Year)\" title=\"Kayoko (New Year)\">Kayoko (New Year)</a><br>G: 2024-07-09 02:00 ~ 2024-07-16 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 ~ 2024-01-17 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(New_Year)\" title=\"Kayoko (New Year)\">Kayoko (New Year)</a><br>G: 2024-07-09 02:00 Tue ~ 2024-07-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 Wed ~ 2024-01-17 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka (New Year)\">Haruka (New Year)</a>",
@@ -9929,7 +9929,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-07-16T01:59",
 		"startG":"2024-07-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka (New Year)\">Haruka (New Year)</a><br>G: 2024-07-09 02:00 ~ 2024-07-16 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 ~ 2024-01-17 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka (New Year)\">Haruka (New Year)</a><br>G: 2024-07-09 02:00 Tue ~ 2024-07-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 Wed ~ 2024-01-17 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaki\" title=\"Misaki\">Misaki</a>",
@@ -9942,7 +9942,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-07-23T01:59",
 		"startG":"2024-07-16T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaki\" title=\"Misaki\">Misaki</a><br>G: 2024-07-16 02:00 ~ 2024-07-23 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-17 11:00 ~ 2024-01-24 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaki\" title=\"Misaki\">Misaki</a><br>G: 2024-07-16 02:00 Tue ~ 2024-07-23 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-17 11:00 Wed ~ 2024-01-24 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Atsuko\" title=\"Atsuko\">Atsuko</a>",
@@ -9955,7 +9955,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-07-23T01:59",
 		"startG":"2024-07-16T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Atsuko\" title=\"Atsuko\">Atsuko</a><br>G: 2024-07-16 02:00 ~ 2024-07-23 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-17 11:00 ~ 2024-01-24 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Atsuko\" title=\"Atsuko\">Atsuko</a><br>G: 2024-07-16 02:00 Tue ~ 2024-07-23 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-17 11:00 Wed ~ 2024-01-24 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Makoto\" title=\"Makoto\">Makoto</a> [L] (New)",
@@ -9968,7 +9968,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-07-30T01:59",
 		"startG":"2024-07-23T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Makoto\" title=\"Makoto\">Makoto</a> [L] (New)<br>G: 2024-07-23 02:00 ~ 2024-07-30 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 ~ 2024-01-31 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Makoto\" title=\"Makoto\">Makoto</a> [L] (New)<br>G: 2024-07-23 02:00 Tue ~ 2024-07-30 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 Wed ~ 2024-01-31 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako_(Dress)\" title=\"Ako (Dress)\">Ako (Dress)</a> [L] (New)",
@@ -9981,7 +9981,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-07-30T01:59",
 		"startG":"2024-07-23T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako_(Dress)\" title=\"Ako (Dress)\">Ako (Dress)</a> [L] (New)<br>G: 2024-07-23 02:00 ~ 2024-07-30 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 ~ 2024-01-31 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako_(Dress)\" title=\"Ako (Dress)\">Ako (Dress)</a> [L] (New)<br>G: 2024-07-23 02:00 Tue ~ 2024-07-30 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 Wed ~ 2024-01-31 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a>",
@@ -9994,7 +9994,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-07-30T01:59",
 		"startG":"2024-07-23T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a><br>G: 2024-07-23 02:00 ~ 2024-07-30 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 ~ 2024-01-31 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a><br>G: 2024-07-23 02:00 Tue ~ 2024-07-30 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 Wed ~ 2024-01-31 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Dress)\" title=\"Hina (Dress)\">Hina (Dress)</a> [L Bluefes]",
@@ -10007,7 +10007,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-08-06T01:59",
 		"startG":"2024-07-30T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Dress)\" title=\"Hina (Dress)\">Hina (Dress)</a> [L Bluefes]<br>G: 2024-07-30 02:00 ~ 2024-08-06 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-31 11:00 ~ 2024-02-07 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Dress)\" title=\"Hina (Dress)\">Hina (Dress)</a> [L Bluefes]<br>G: 2024-07-30 02:00 Tue ~ 2024-08-06 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-31 11:00 Wed ~ 2024-02-07 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino_(Swimsuit)\" title=\"Hoshino (Swimsuit)\">Hoshino (Swimsuit)</a> [L Bluefes]",
@@ -10020,7 +10020,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-08-06T01:59",
 		"startG":"2024-07-30T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino_(Swimsuit)\" title=\"Hoshino (Swimsuit)\">Hoshino (Swimsuit)</a> [L Bluefes]<br>G: 2024-07-30 02:00 ~ 2024-08-06 01:59 7d (UTC y-m-d)<br>Jp: 2024-01-31 11:00 ~ 2024-02-07 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino_(Swimsuit)\" title=\"Hoshino (Swimsuit)\">Hoshino (Swimsuit)</a> [L Bluefes]<br>G: 2024-07-30 02:00 Tue ~ 2024-08-06 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-31 11:00 Wed ~ 2024-02-07 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serina_(Christmas)\" title=\"Serina (Christmas)\">Serina (Christmas)</a>",
@@ -10033,7 +10033,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-08-13T01:59",
 		"startG":"2024-08-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serina_(Christmas)\" title=\"Serina (Christmas)\">Serina (Christmas)</a><br>G: 2024-08-06 02:00 ~ 2024-08-13 01:59 7d (UTC y-m-d)<br>Jp: 2024-02-07 11:00 ~ 2024-02-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serina_(Christmas)\" title=\"Serina (Christmas)\">Serina (Christmas)</a><br>G: 2024-08-06 02:00 Tue ~ 2024-08-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-02-07 11:00 Wed ~ 2024-02-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanae_(Christmas)\" title=\"Hanae (Christmas)\">Hanae (Christmas)</a>",
@@ -10046,7 +10046,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-08-13T01:59",
 		"startG":"2024-08-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanae_(Christmas)\" title=\"Hanae (Christmas)\">Hanae (Christmas)</a><br>G: 2024-08-06 02:00 ~ 2024-08-13 01:59 7d (UTC y-m-d)<br>Jp: 2024-02-07 11:00 ~ 2024-02-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanae_(Christmas)\" title=\"Hanae (Christmas)\">Hanae (Christmas)</a><br>G: 2024-08-06 02:00 Tue ~ 2024-08-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-02-07 11:00 Wed ~ 2024-02-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a>",
@@ -10059,7 +10059,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-08-20T01:59",
 		"startG":"2024-08-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a><br>G: 2024-08-13 02:00 ~ 2024-08-20 01:59 7d (UTC y-m-d)<br>Jp: 2024-02-14 11:00 ~ 2024-02-21 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sena\" title=\"Sena\">Sena</a><br>G: 2024-08-13 02:00 Tue ~ 2024-08-20 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-02-14 11:00 Wed ~ 2024-02-21 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a>",
@@ -10072,7 +10072,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-08-20T01:59",
 		"startG":"2024-08-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a><br>G: 2024-08-13 02:00 ~ 2024-08-20 01:59 7d (UTC y-m-d)<br>Jp: 2024-02-14 11:00 ~ 2024-02-21 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chihiro\" title=\"Chihiro\">Chihiro</a><br>G: 2024-08-13 02:00 Tue ~ 2024-08-20 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-02-14 11:00 Wed ~ 2024-02-21 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mine\" title=\"Mine\">Mine</a>",
@@ -10085,7 +10085,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-08-20T01:59",
 		"startG":"2024-08-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mine\" title=\"Mine\">Mine</a><br>G: 2024-08-13 02:00 ~ 2024-08-20 01:59 7d (UTC y-m-d)<br>Jp: 2024-02-14 11:00 ~ 2024-02-21 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mine\" title=\"Mine\">Mine</a><br>G: 2024-08-13 02:00 Tue ~ 2024-08-20 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-02-14 11:00 Wed ~ 2024-02-21 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(Dress)\" title=\"Aru (Dress)\">Aru (Dress)</a> (New)",
@@ -10098,7 +10098,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-09-03T01:59",
 		"startG":"2024-08-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(Dress)\" title=\"Aru (Dress)\">Aru (Dress)</a> (New)<br>G: 2024-08-20 02:00 ~ 2024-09-03 01:59 14d (UTC y-m-d)<br>Jp: 2024-02-21 11:00 ~ 2024-03-06 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(Dress)\" title=\"Aru (Dress)\">Aru (Dress)</a> (New)<br>G: 2024-08-20 02:00 Tue ~ 2024-09-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-02-21 11:00 Wed ~ 2024-03-06 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(Dress)\" title=\"Kayoko (Dress)\">Kayoko (Dress)</a> (New)",
@@ -10111,7 +10111,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-09-03T01:59",
 		"startG":"2024-08-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(Dress)\" title=\"Kayoko (Dress)\">Kayoko (Dress)</a> (New)<br>G: 2024-08-20 02:00 ~ 2024-09-03 01:59 14d (UTC y-m-d)<br>Jp: 2024-02-21 11:00 ~ 2024-03-06 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(Dress)\" title=\"Kayoko (Dress)\">Kayoko (Dress)</a> (New)<br>G: 2024-08-20 02:00 Tue ~ 2024-09-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-02-21 11:00 Wed ~ 2024-03-06 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akari_(New_Year)\" title=\"Akari (New Year)\">Akari (New Year)</a> (New)",
@@ -10124,7 +10124,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-09-17T01:59",
 		"startG":"2024-09-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akari_(New_Year)\" title=\"Akari (New Year)\">Akari (New Year)</a> (New)<br>G: 2024-09-03 02:00 ~ 2024-09-17 01:59 14d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 ~ 2024-03-20 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akari_(New_Year)\" title=\"Akari (New Year)\">Akari (New Year)</a> (New)<br>G: 2024-09-03 02:00 Tue ~ 2024-09-17 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 Wed ~ 2024-03-20 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(New_Year)\" title=\"Haruna (New Year)\">Haruna (New Year)</a> [L]",
@@ -10137,7 +10137,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-09-17T01:59",
 		"startG":"2024-09-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(New_Year)\" title=\"Haruna (New Year)\">Haruna (New Year)</a> [L]<br>G: 2024-09-03 02:00 ~ 2024-09-17 01:59 14d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 ~ 2024-03-20 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(New_Year)\" title=\"Haruna (New Year)\">Haruna (New Year)</a> [L]<br>G: 2024-09-03 02:00 Tue ~ 2024-09-17 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 Wed ~ 2024-03-20 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuuka_(New_Year)\" title=\"Fuuka (New Year)\">Fuuka (New Year)</a> [L]",
@@ -10150,7 +10150,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-09-17T01:59",
 		"startG":"2024-09-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuuka_(New_Year)\" title=\"Fuuka (New Year)\">Fuuka (New Year)</a> [L]<br>G: 2024-09-03 02:00 ~ 2024-09-17 01:59 14d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 ~ 2024-03-20 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuuka_(New_Year)\" title=\"Fuuka (New Year)\">Fuuka (New Year)</a> [L]<br>G: 2024-09-03 02:00 Tue ~ 2024-09-17 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 Wed ~ 2024-03-20 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a>",
@@ -10163,7 +10163,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-09-24T01:59",
 		"startG":"2024-09-17T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a><br>G: 2024-09-17 02:00 ~ 2024-09-24 01:59 7d (UTC y-m-d)<br>Jp: 2024-03-20 11:00 ~ 2024-03-27 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui\" title=\"Ui\">Ui</a><br>G: 2024-09-17 02:00 Tue ~ 2024-09-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-03-20 11:00 Wed ~ 2024-03-27 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a>",
@@ -10176,7 +10176,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-09-24T01:59",
 		"startG":"2024-09-17T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a><br>G: 2024-09-17 02:00 ~ 2024-09-24 01:59 7d (UTC y-m-d)<br>Jp: 2024-03-20 11:00 ~ 2024-03-27 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a><br>G: 2024-09-17 02:00 Tue ~ 2024-09-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-03-20 11:00 Wed ~ 2024-03-27 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako\" title=\"Sakurako\">Sakurako</a>",
@@ -10189,7 +10189,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-09-24T01:59",
 		"startG":"2024-09-17T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako\" title=\"Sakurako\">Sakurako</a><br>G: 2024-09-17 02:00 ~ 2024-09-24 01:59 7d (UTC y-m-d)<br>Jp: 2024-03-20 11:00 ~ 2024-03-27 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako\" title=\"Sakurako\">Sakurako</a><br>G: 2024-09-17 02:00 Tue ~ 2024-09-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-03-20 11:00 Wed ~ 2024-03-27 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsubaki_(Guide)\" title=\"Tsubaki (Guide)\">Tsubaki (Guide)</a> (New)",
@@ -10202,7 +10202,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-09T01:59",
 		"startG":"2024-09-24T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsubaki_(Guide)\" title=\"Tsubaki (Guide)\">Tsubaki (Guide)</a> (New)<br>G: 2024-09-24 02:00 ~ 2024-10-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-03-27 11:00 ~ 2024-04-11 10:59 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsubaki_(Guide)\" title=\"Tsubaki (Guide)\">Tsubaki (Guide)</a> (New)<br>G: 2024-09-24 02:00 Tue ~ 2024-10-09 01:59 Wed 15d (UTC y-m-d)<br>Jp: 2024-03-27 11:00 Wed ~ 2024-04-11 10:59 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Umika\" title=\"Umika\">Umika</a> (New)",
@@ -10215,7 +10215,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-09T01:59",
 		"startG":"2024-09-24T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Umika\" title=\"Umika\">Umika</a> (New)<br>G: 2024-09-24 02:00 ~ 2024-10-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-03-27 11:00 ~ 2024-04-11 10:59 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Umika\" title=\"Umika\">Umika</a> (New)<br>G: 2024-09-24 02:00 Tue ~ 2024-10-09 01:59 Wed 15d (UTC y-m-d)<br>Jp: 2024-03-27 11:00 Wed ~ 2024-04-11 10:59 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a>",
@@ -10228,7 +10228,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-09T01:59",
 		"startG":"2024-09-24T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a><br>G: 2024-09-24 02:00 ~ 2024-10-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-03-27 11:00 ~ 2024-04-11 10:59 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a><br>G: 2024-09-24 02:00 Tue ~ 2024-10-09 01:59 Wed 15d (UTC y-m-d)<br>Jp: 2024-03-27 11:00 Wed ~ 2024-04-11 10:59 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a>",
@@ -10241,7 +10241,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-09T01:59",
 		"startG":"2024-09-24T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a><br>G: 2024-09-24 02:00 ~ 2024-10-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-03-27 11:00 ~ 2024-04-11 10:59 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori\" title=\"Mimori\">Mimori</a><br>G: 2024-09-24 02:00 Tue ~ 2024-10-09 01:59 Wed 15d (UTC y-m-d)<br>Jp: 2024-03-27 11:00 Wed ~ 2024-04-11 10:59 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a>",
@@ -10254,7 +10254,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-15T01:59",
 		"startG":"2024-10-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a><br>G: 2024-10-09 02:00 ~ 2024-10-15 01:59 6d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 ~ 2024-04-17 10:59 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa\" title=\"Kazusa\">Kazusa</a><br>G: 2024-10-09 02:00 Wed ~ 2024-10-15 01:59 Tue 6d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 Thu ~ 2024-04-17 10:59 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reisa\" title=\"Reisa\">Reisa</a>",
@@ -10267,7 +10267,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-15T01:59",
 		"startG":"2024-10-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reisa\" title=\"Reisa\">Reisa</a><br>G: 2024-10-09 02:00 ~ 2024-10-15 01:59 6d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 ~ 2024-04-17 10:59 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reisa\" title=\"Reisa\">Reisa</a><br>G: 2024-10-09 02:00 Wed ~ 2024-10-15 01:59 Tue 6d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 Thu ~ 2024-04-17 10:59 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a>",
@@ -10280,7 +10280,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-15T01:59",
 		"startG":"2024-10-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a><br>G: 2024-10-09 02:00 ~ 2024-10-15 01:59 6d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 ~ 2024-04-17 10:59 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu\" title=\"Natsu\">Natsu</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari\" title=\"Mari\">Mari</a><br>G: 2024-10-09 02:00 Wed ~ 2024-10-15 01:59 Tue 6d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 Thu ~ 2024-04-17 10:59 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki\" title=\"Toki\">Toki</a> [L]",
@@ -10293,7 +10293,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-22T01:59",
 		"startG":"2024-10-15T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki\" title=\"Toki\">Toki</a> [L]<br>G: 2024-10-15 02:00 ~ 2024-10-22 01:59 7d (UTC y-m-d)<br>Jp: 2024-04-17 11:00 ~ 2024-04-24 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki\" title=\"Toki\">Toki</a> [L]<br>G: 2024-10-15 02:00 Tue ~ 2024-10-22 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-04-17 11:00 Wed ~ 2024-04-24 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagisa\" title=\"Nagisa\">Nagisa</a> [L]",
@@ -10306,7 +10306,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-22T01:59",
 		"startG":"2024-10-15T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagisa\" title=\"Nagisa\">Nagisa</a> [L]<br>G: 2024-10-15 02:00 ~ 2024-10-22 01:59 7d (UTC y-m-d)<br>Jp: 2024-04-17 11:00 ~ 2024-04-24 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagisa\" title=\"Nagisa\">Nagisa</a> [L]<br>G: 2024-10-15 02:00 Tue ~ 2024-10-22 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-04-17 11:00 Wed ~ 2024-04-24 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koyuki\" title=\"Koyuki\">Koyuki</a>",
@@ -10319,7 +10319,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-22T01:59",
 		"startG":"2024-10-15T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koyuki\" title=\"Koyuki\">Koyuki</a><br>G: 2024-10-15 02:00 ~ 2024-10-22 01:59 7d (UTC y-m-d)<br>Jp: 2024-04-17 11:00 ~ 2024-04-24 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koyuki\" title=\"Koyuki\">Koyuki</a><br>G: 2024-10-15 02:00 Tue ~ 2024-10-22 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-04-17 11:00 Wed ~ 2024-04-24 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa_(Band)\" title=\"Kazusa (Band)\">Kazusa (Band)</a> [L] (New)",
@@ -10332,7 +10332,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-05T01:59",
 		"startG":"2024-10-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa_(Band)\" title=\"Kazusa (Band)\">Kazusa (Band)</a> [L] (New)<br>G: 2024-10-22 02:00 ~ 2024-11-05 01:59 14d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 ~ 2024-05-08 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa_(Band)\" title=\"Kazusa (Band)\">Kazusa (Band)</a> [L] (New)<br>G: 2024-10-22 02:00 Tue ~ 2024-11-05 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 Wed ~ 2024-05-08 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yoshimi_(Band)\" title=\"Yoshimi (Band)\">Yoshimi (Band)</a> [L] (New)",
@@ -10345,7 +10345,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-05T01:59",
 		"startG":"2024-10-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yoshimi_(Band)\" title=\"Yoshimi (Band)\">Yoshimi (Band)</a> [L] (New)<br>G: 2024-10-22 02:00 ~ 2024-11-05 01:59 14d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 ~ 2024-05-08 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yoshimi_(Band)\" title=\"Yoshimi (Band)\">Yoshimi (Band)</a> [L] (New)<br>G: 2024-10-22 02:00 Tue ~ 2024-11-05 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 Wed ~ 2024-05-08 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a>",
@@ -10358,7 +10358,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-05T01:59",
 		"startG":"2024-10-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a><br>G: 2024-10-22 02:00 ~ 2024-11-05 01:59 14d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 ~ 2024-05-08 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako\" title=\"Ako\">Ako</a><br>G: 2024-10-22 02:00 Tue ~ 2024-11-05 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 Wed ~ 2024-05-08 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirara\" title=\"Kirara\">Kirara</a> (New)",
@@ -10371,7 +10371,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-12T01:59",
 		"startG":"2024-11-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirara\" title=\"Kirara\">Kirara</a> (New)<br>G: 2024-11-05 02:00 ~ 2024-11-12 01:59 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 ~ 2024-05-15 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirara\" title=\"Kirara\">Kirara</a> (New)<br>G: 2024-11-05 02:00 Tue ~ 2024-11-12 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 Wed ~ 2024-05-15 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a>",
@@ -10384,7 +10384,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-12T01:59",
 		"startG":"2024-11-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a><br>G: 2024-11-05 02:00 ~ 2024-11-12 01:59 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 ~ 2024-05-15 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaede\" title=\"Kaede\">Kaede</a><br>G: 2024-11-05 02:00 Tue ~ 2024-11-12 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 Wed ~ 2024-05-15 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a>",
@@ -10397,7 +10397,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-12T01:59",
 		"startG":"2024-11-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a><br>G: 2024-11-05 02:00 ~ 2024-11-12 01:59 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 ~ 2024-05-15 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo\" title=\"Tsukuyo\">Tsukuyo</a><br>G: 2024-11-05 02:00 Tue ~ 2024-11-12 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 Wed ~ 2024-05-15 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaho\" title=\"Kaho\">Kaho</a>",
@@ -10410,7 +10410,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-12T01:59",
 		"startG":"2024-11-05T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaho\" title=\"Kaho\">Kaho</a><br>G: 2024-11-05 02:00 ~ 2024-11-12 01:59 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 ~ 2024-05-15 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kaho\" title=\"Kaho\">Kaho</a><br>G: 2024-11-05 02:00 Tue ~ 2024-11-12 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 Wed ~ 2024-05-15 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rumi\" title=\"Rumi\">Rumi</a>",
@@ -10423,7 +10423,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-19T01:59",
 		"startG":"2024-11-12T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rumi\" title=\"Rumi\">Rumi</a><br>G: 2024-11-12 02:00 ~ 2024-11-19 01:59 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 ~ 2024-05-22 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rumi\" title=\"Rumi\">Rumi</a><br>G: 2024-11-12 02:00 Tue ~ 2024-11-19 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 Wed ~ 2024-05-22 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mina\" title=\"Mina\">Mina</a>",
@@ -10436,7 +10436,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-19T01:59",
 		"startG":"2024-11-12T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mina\" title=\"Mina\">Mina</a><br>G: 2024-11-12 02:00 ~ 2024-11-19 01:59 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 ~ 2024-05-22 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mina\" title=\"Mina\">Mina</a><br>G: 2024-11-12 02:00 Tue ~ 2024-11-19 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 Wed ~ 2024-05-22 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun\" title=\"Shun\">Shun</a>",
@@ -10449,7 +10449,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-19T01:59",
 		"startG":"2024-11-12T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun\" title=\"Shun\">Shun</a><br>G: 2024-11-12 02:00 ~ 2024-11-19 01:59 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 ~ 2024-05-22 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun\" title=\"Shun\">Shun</a><br>G: 2024-11-12 02:00 Tue ~ 2024-11-19 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 Wed ~ 2024-05-22 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a>",
@@ -10462,7 +10462,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-19T01:59",
 		"startG":"2024-11-12T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a><br>G: 2024-11-12 02:00 ~ 2024-11-19 01:59 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 ~ 2024-05-22 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kokona\" title=\"Kokona\">Sex</a><br>G: 2024-11-12 02:00 Tue ~ 2024-11-19 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 Wed ~ 2024-05-22 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi_(Maid)\" title=\"Momoi (Maid)\">Momoi (Maid)</a> (New)",
@@ -10475,7 +10475,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-03T01:59",
 		"startG":"2024-11-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi_(Maid)\" title=\"Momoi (Maid)\">Momoi (Maid)</a> (New)<br>G: 2024-11-19 02:00 ~ 2024-12-03 01:59 14d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 ~ 2024-06-05 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi_(Maid)\" title=\"Momoi (Maid)\">Momoi (Maid)</a> (New)<br>G: 2024-11-19 02:00 Tue ~ 2024-12-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 Wed ~ 2024-06-05 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori_(Maid)\" title=\"Midori (Maid)\">Midori (Maid)</a> (New)",
@@ -10488,7 +10488,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-03T01:59",
 		"startG":"2024-11-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori_(Maid)\" title=\"Midori (Maid)\">Midori (Maid)</a> (New)<br>G: 2024-11-19 02:00 ~ 2024-12-03 01:59 14d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 ~ 2024-06-05 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori_(Maid)\" title=\"Midori (Maid)\">Midori (Maid)</a> (New)<br>G: 2024-11-19 02:00 Tue ~ 2024-12-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 Wed ~ 2024-06-05 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Maid)\" title=\"Arisu (Maid)\">Arisu (Maid)</a>",
@@ -10501,7 +10501,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-03T01:59",
 		"startG":"2024-11-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Maid)\" title=\"Arisu (Maid)\">Arisu (Maid)</a><br>G: 2024-11-19 02:00 ~ 2024-12-03 01:59 14d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 ~ 2024-06-05 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Maid)\" title=\"Arisu (Maid)\">Arisu (Maid)</a><br>G: 2024-11-19 02:00 Tue ~ 2024-12-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 Wed ~ 2024-06-05 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki_(Bunny_Girl)\" title=\"Toki (Bunny Girl)\">Toki (Bunny Girl)</a>",
@@ -10514,7 +10514,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-03T01:59",
 		"startG":"2024-11-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki_(Bunny_Girl)\" title=\"Toki (Bunny Girl)\">Toki (Bunny Girl)</a><br>G: 2024-11-19 02:00 ~ 2024-12-03 01:59 14d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 ~ 2024-06-05 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki_(Bunny_Girl)\" title=\"Toki (Bunny Girl)\">Toki (Bunny Girl)</a><br>G: 2024-11-19 02:00 Tue ~ 2024-12-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 Wed ~ 2024-06-05 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(Swimsuit)\" title=\"Serika (Swimsuit)\">Serika (Swimsuit)</a> (New)",
@@ -10527,7 +10527,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-14T01:59",
 		"startG":"2024-12-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(Swimsuit)\" title=\"Serika (Swimsuit)\">Serika (Swimsuit)</a> (New)<br>G: 2024-12-03 02:00 ~ 2024-12-14 01:59 11d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 ~ 2024-06-16 10:59 11d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(Swimsuit)\" title=\"Serika (Swimsuit)\">Serika (Swimsuit)</a> (New)<br>G: 2024-12-03 02:00 Tue ~ 2024-12-14 01:59 Sat 11d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-06-16 10:59 Sun 11d (JST y-m-d)",
 		"duration":11},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi (Swimsuit)\">Nonomi (Swimsuit)</a>",
@@ -10540,7 +10540,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-14T01:59",
 		"startG":"2024-12-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi (Swimsuit)\">Nonomi (Swimsuit)</a><br>G: 2024-12-03 02:00 ~ 2024-12-14 01:59 11d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 ~ 2024-06-16 10:59 11d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi (Swimsuit)\">Nonomi (Swimsuit)</a><br>G: 2024-12-03 02:00 Tue ~ 2024-12-14 01:59 Sat 11d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-06-16 10:59 Sun 11d (JST y-m-d)",
 		"duration":11},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo (Swimsuit)\">Wakamo (Swimsuit)</a>",
@@ -10553,7 +10553,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-14T01:59",
 		"startG":"2024-12-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo (Swimsuit)\">Wakamo (Swimsuit)</a><br>G: 2024-12-03 02:00 ~ 2024-12-14 01:59 11d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 ~ 2024-06-16 10:59 11d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo_(Swimsuit)\" title=\"Wakamo (Swimsuit)\">Wakamo (Swimsuit)</a><br>G: 2024-12-03 02:00 Tue ~ 2024-12-14 01:59 Sat 11d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-06-16 10:59 Sun 11d (JST y-m-d)",
 		"duration":11},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Swimsuit)\" title=\"Shiroko (Swimsuit)\">Shiroko (Swimsuit)</a>",
@@ -10566,7 +10566,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-14T01:59",
 		"startG":"2024-12-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Swimsuit)\" title=\"Shiroko (Swimsuit)\">Shiroko (Swimsuit)</a><br>G: 2024-12-03 02:00 ~ 2024-12-14 01:59 11d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 ~ 2024-06-16 10:59 11d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Swimsuit)\" title=\"Shiroko (Swimsuit)\">Shiroko (Swimsuit)</a><br>G: 2024-12-03 02:00 Tue ~ 2024-12-14 01:59 Sat 11d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-06-16 10:59 Sun 11d (JST y-m-d)",
 		"duration":11},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna (Swimsuit)\">Izuna (Swimsuit)</a> [L]",
@@ -10579,7 +10579,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-24T01:59",
 		"startG":"2024-12-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna (Swimsuit)\">Izuna (Swimsuit)</a> [L]<br>G: 2024-12-14 02:00 ~ 2024-12-24 01:59 10d (UTC y-m-d)<br>Jp: 2024-06-16 11:00 ~ 2024-06-26 10:59 10d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna_(Swimsuit)\" title=\"Izuna (Swimsuit)\">Izuna (Swimsuit)</a> [L]<br>G: 2024-12-14 02:00 Sat ~ 2024-12-24 01:59 Tue 10d (UTC y-m-d)<br>Jp: 2024-06-16 11:00 Sun ~ 2024-06-26 10:59 Wed 10d (JST y-m-d)",
 		"duration":10},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise (Swimsuit)\">Chise (Swimsuit)</a> [L]",
@@ -10592,7 +10592,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-24T01:59",
 		"startG":"2024-12-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise (Swimsuit)\">Chise (Swimsuit)</a> [L]<br>G: 2024-12-14 02:00 ~ 2024-12-24 01:59 10d (UTC y-m-d)<br>Jp: 2024-06-16 11:00 ~ 2024-06-26 10:59 10d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chise_(Swimsuit)\" title=\"Chise (Swimsuit)\">Chise (Swimsuit)</a> [L]<br>G: 2024-12-14 02:00 Sat ~ 2024-12-24 01:59 Tue 10d (UTC y-m-d)<br>Jp: 2024-06-16 11:00 Sun ~ 2024-06-26 10:59 Wed 10d (JST y-m-d)",
 		"duration":10},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori_(Swimsuit)\" title=\"Mimori (Swimsuit)\">Mimori (Swimsuit)</a>",
@@ -10605,7 +10605,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-24T01:59",
 		"startG":"2024-12-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori_(Swimsuit)\" title=\"Mimori (Swimsuit)\">Mimori (Swimsuit)</a><br>G: 2024-12-14 02:00 ~ 2024-12-24 01:59 10d (UTC y-m-d)<br>Jp: 2024-06-16 11:00 ~ 2024-06-26 10:59 10d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori_(Swimsuit)\" title=\"Mimori (Swimsuit)\">Mimori (Swimsuit)</a><br>G: 2024-12-14 02:00 Sat ~ 2024-12-24 01:59 Tue 10d (UTC y-m-d)<br>Jp: 2024-06-16 11:00 Sun ~ 2024-06-26 10:59 Wed 10d (JST y-m-d)",
 		"duration":10},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanna_(Swimsuit)\" title=\"Kanna (Swimsuit)\">Kanna (Swimsuit)</a> (New)",
@@ -10618,7 +10618,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-07T01:59",
 		"startG":"2024-12-24T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanna_(Swimsuit)\" title=\"Kanna (Swimsuit)\">Kanna (Swimsuit)</a> (New)<br>G: 2024-12-24 02:00 ~ 2025-01-07 01:59 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 ~ 2024-07-10 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanna_(Swimsuit)\" title=\"Kanna (Swimsuit)\">Kanna (Swimsuit)</a> (New)<br>G: 2024-12-24 02:00 Tue ~ 2025-01-07 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 Wed ~ 2024-07-10 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fubuki_(Swimsuit)\" title=\"Fubuki (Swimsuit)\">Fubuki (Swimsuit)</a> (New)",
@@ -10631,7 +10631,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-07T01:59",
 		"startG":"2024-12-24T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fubuki_(Swimsuit)\" title=\"Fubuki (Swimsuit)\">Fubuki (Swimsuit)</a> (New)<br>G: 2024-12-24 02:00 ~ 2025-01-07 01:59 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 ~ 2024-07-10 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fubuki_(Swimsuit)\" title=\"Fubuki (Swimsuit)\">Fubuki (Swimsuit)</a> (New)<br>G: 2024-12-24 02:00 Tue ~ 2025-01-07 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 Wed ~ 2024-07-10 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moe_(Swimsuit)\" title=\"Moe (Swimsuit)\">Moe (Swimsuit)</a> (New)",
@@ -10644,7 +10644,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-14T01:59",
 		"startG":"2025-01-07T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moe_(Swimsuit)\" title=\"Moe (Swimsuit)\">Moe (Swimsuit)</a> (New)<br>G: 2025-01-07 02:00 ~ 2025-01-14 01:59 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 ~ 2024-07-17 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moe_(Swimsuit)\" title=\"Moe (Swimsuit)\">Moe (Swimsuit)</a> (New)<br>G: 2025-01-07 02:00 Tue ~ 2025-01-14 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 Wed ~ 2024-07-17 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako_(Swimsuit)\" title=\"Miyako (Swimsuit)\">Miyako (Swimsuit)</a>",
@@ -10657,7 +10657,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-14T01:59",
 		"startG":"2025-01-07T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako_(Swimsuit)\" title=\"Miyako (Swimsuit)\">Miyako (Swimsuit)</a><br>G: 2025-01-07 02:00 ~ 2025-01-14 01:59 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 ~ 2024-07-17 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako_(Swimsuit)\" title=\"Miyako (Swimsuit)\">Miyako (Swimsuit)</a><br>G: 2025-01-07 02:00 Tue ~ 2025-01-14 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 Wed ~ 2024-07-17 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki_(Swimsuit)\" title=\"Saki (Swimsuit)\">Saki (Swimsuit)</a>",
@@ -10670,7 +10670,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-14T01:59",
 		"startG":"2025-01-07T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki_(Swimsuit)\" title=\"Saki (Swimsuit)\">Saki (Swimsuit)</a><br>G: 2025-01-07 02:00 ~ 2025-01-14 01:59 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 ~ 2024-07-17 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki_(Swimsuit)\" title=\"Saki (Swimsuit)\">Saki (Swimsuit)</a><br>G: 2025-01-07 02:00 Tue ~ 2025-01-14 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 Wed ~ 2024-07-17 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>",
@@ -10683,7 +10683,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-19T01:59",
 		"startG":"2025-01-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a><br>G: 2025-01-14 02:00 ~ 2025-01-19 01:59 5d (UTC y-m-d)<br>Jp: 2024-07-17 11:00 ~ 2024-07-22 10:59 5d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a><br>G: 2025-01-14 02:00 Tue ~ 2025-01-19 01:59 Sun 5d (UTC y-m-d)<br>Jp: 2024-07-17 11:00 Wed ~ 2024-07-22 10:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina\" title=\"Hina\">Hina</a>",
@@ -10696,7 +10696,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-19T01:59",
 		"startG":"2025-01-14T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina\" title=\"Hina\">Hina</a><br>G: 2025-01-14 02:00 ~ 2025-01-19 01:59 5d (UTC y-m-d)<br>Jp: 2024-07-17 11:00 ~ 2024-07-22 10:59 5d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina\" title=\"Hina\">Hina</a><br>G: 2025-01-14 02:00 Tue ~ 2025-01-19 01:59 Sun 5d (UTC y-m-d)<br>Jp: 2024-07-17 11:00 Wed ~ 2024-07-22 10:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino_(Battle)\" title=\"Hoshino (Battle)\">Hoshino (Battle)</a> [L Bluefes]",
@@ -10709,7 +10709,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-26T01:59",
 		"startG":"2025-01-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino_(Battle)\" title=\"Hoshino (Battle)\">Hoshino (Battle)</a> [L Bluefes]<br>G: 2025-01-19 02:00 ~ 2025-01-26 01:59 7d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-07-29 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino_(Battle)\" title=\"Hoshino (Battle)\">Hoshino (Battle)</a> [L Bluefes]<br>G: 2025-01-19 02:00 Sun ~ 2025-01-26 01:59 Sun 7d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 Mon ~ 2024-07-29 10:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko%EF%BC%8ATerror\" title=\"Shiroko＊Terror\">Shiroko＊Terror</a> [L Bluefes]",
@@ -10722,7 +10722,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-26T01:59",
 		"startG":"2025-01-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko%EF%BC%8ATerror\" title=\"Shiroko＊Terror\">Shiroko＊Terror</a> [L Bluefes]<br>G: 2025-01-19 02:00 ~ 2025-01-26 01:59 7d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-07-29 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko%EF%BC%8ATerror\" title=\"Shiroko＊Terror\">Shiroko＊Terror</a> [L Bluefes]<br>G: 2025-01-19 02:00 Sun ~ 2025-01-26 01:59 Sun 7d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 Mon ~ 2024-07-29 10:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mika\" title=\"Mika\">Mika</a> [L Bluefes]",
@@ -10735,7 +10735,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-26T01:59",
 		"startG":"2025-01-19T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mika\" title=\"Mika\">Mika</a> [L Bluefes]<br>G: 2025-01-19 02:00 ~ 2025-01-26 01:59 7d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-07-29 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mika\" title=\"Mika\">Mika</a> [L Bluefes]<br>G: 2025-01-19 02:00 Sun ~ 2025-01-26 01:59 Sun 7d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 Mon ~ 2024-07-29 10:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori_(Swimsuit)\" title=\"Saori (Swimsuit)\">Saori (Swimsuit)</a> [L] (New)",
@@ -10748,7 +10748,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-02-04T01:59",
 		"startG":"2025-01-26T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori_(Swimsuit)\" title=\"Saori (Swimsuit)\">Saori (Swimsuit)</a> [L] (New)<br>G: 2025-01-26 02:00 ~ 2025-02-04 01:59 9d (UTC y-m-d)<br>Jp: 2024-07-29 11:00 ~ 2024-08-07 10:59 9d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori_(Swimsuit)\" title=\"Saori (Swimsuit)\">Saori (Swimsuit)</a> [L] (New)<br>G: 2025-01-26 02:00 Sun ~ 2025-02-04 01:59 Tue 9d (UTC y-m-d)<br>Jp: 2024-07-29 11:00 Mon ~ 2024-08-07 10:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori_(Swimsuit)\" title=\"Hiyori (Swimsuit)\">Hiyori (Swimsuit)</a> [L] (New)",
@@ -10761,7 +10761,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-02-04T01:59",
 		"startG":"2025-01-26T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori_(Swimsuit)\" title=\"Hiyori (Swimsuit)\">Hiyori (Swimsuit)</a> [L] (New)<br>G: 2025-01-26 02:00 ~ 2025-02-04 01:59 9d (UTC y-m-d)<br>Jp: 2024-07-29 11:00 ~ 2024-08-07 10:59 9d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori_(Swimsuit)\" title=\"Hiyori (Swimsuit)\">Hiyori (Swimsuit)</a> [L] (New)<br>G: 2025-01-26 02:00 Sun ~ 2025-02-04 01:59 Tue 9d (UTC y-m-d)<br>Jp: 2024-07-29 11:00 Mon ~ 2024-08-07 10:59 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Meru\" title=\"Meru\">Meru</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momiji\" title=\"Momiji\">Momiji</a>",
@@ -10774,7 +10774,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-02-11T01:59",
 		"startG":"2025-02-04T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Meru\" title=\"Meru\">Meru</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momiji\" title=\"Momiji\">Momiji</a><br>G: 2025-02-04 02:00 ~ 2025-02-11 01:59 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 ~ 2024-08-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Meru\" title=\"Meru\">Meru</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momiji\" title=\"Momiji\">Momiji</a><br>G: 2025-02-04 02:00 Tue ~ 2025-02-11 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 Wed ~ 2024-08-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a>",
@@ -10787,7 +10787,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-02-11T01:59",
 		"startG":"2025-02-04T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a><br>G: 2025-02-04 02:00 ~ 2025-02-11 01:59 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 ~ 2024-08-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Cherino\" title=\"Cherino\">Cherino</a><br>G: 2025-02-04 02:00 Tue ~ 2025-02-11 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 Wed ~ 2024-08-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a>",
@@ -10800,7 +10800,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-02-11T01:59",
 		"startG":"2025-02-04T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a><br>G: 2025-02-04 02:00 ~ 2025-02-11 01:59 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 ~ 2024-08-14 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina\" title=\"Marina\">Marina</a><br>G: 2025-02-04 02:00 Tue ~ 2025-02-11 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 Wed ~ 2024-08-14 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Minori\" title=\"Minori\">Minori</a>",
@@ -10813,7 +10813,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-02-18T01:59",
 		"startG":"2025-02-11T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Minori\" title=\"Minori\">Minori</a><br>G: 2025-02-11 02:00 ~ 2025-02-18 01:59 7d (UTC y-m-d)<br>Jp: 2024-08-14 11:00 ~ 2024-08-21 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Minori\" title=\"Minori\">Minori</a><br>G: 2025-02-11 02:00 Tue ~ 2025-02-18 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-08-14 11:00 Wed ~ 2024-08-21 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure_(Hot_Spring)\" title=\"Shigure (Hot Spring)\">Shigure (Hot Spring)</a>",
@@ -10826,7 +10826,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-02-18T01:59",
 		"startG":"2025-02-11T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure_(Hot_Spring)\" title=\"Shigure (Hot Spring)\">Shigure (Hot Spring)</a><br>G: 2025-02-11 02:00 ~ 2025-02-18 01:59 7d (UTC y-m-d)<br>Jp: 2024-08-14 11:00 ~ 2024-08-21 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure_(Hot_Spring)\" title=\"Shigure (Hot Spring)\">Shigure (Hot Spring)</a><br>G: 2025-02-11 02:00 Tue ~ 2025-02-18 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-08-14 11:00 Wed ~ 2024-08-21 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina_(Qipao)\" title=\"Marina (Qipao)\">Marina (Qipao)</a> (New)",
@@ -10839,7 +10839,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-03-04T01:59",
 		"startG":"2025-02-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina_(Qipao)\" title=\"Marina (Qipao)\">Marina (Qipao)</a> (New)<br>G: 2025-02-18 02:00 ~ 2025-03-04 01:59 14d (UTC y-m-d)<br>Jp: 2024-08-21 11:00 ~ 2024-09-04 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina_(Qipao)\" title=\"Marina (Qipao)\">Marina (Qipao)</a> (New)<br>G: 2025-02-18 02:00 Tue ~ 2025-03-04 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-08-21 11:00 Wed ~ 2024-09-04 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tomoe_(Qipao)\" title=\"Tomoe (Qipao)\">Tomoe (Qipao)</a> (New)",
@@ -10852,7 +10852,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-03-04T01:59",
 		"startG":"2025-02-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tomoe_(Qipao)\" title=\"Tomoe (Qipao)\">Tomoe (Qipao)</a> (New)<br>G: 2025-02-18 02:00 ~ 2025-03-04 01:59 14d (UTC y-m-d)<br>Jp: 2024-08-21 11:00 ~ 2024-09-04 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tomoe_(Qipao)\" title=\"Tomoe (Qipao)\">Tomoe (Qipao)</a> (New)<br>G: 2025-02-18 02:00 Tue ~ 2025-03-04 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-08-21 11:00 Wed ~ 2024-09-04 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui_(Swimsuit)\" title=\"Ui (Swimsuit)\">Ui (Swimsuit)</a> [L]",
@@ -10865,7 +10865,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-03-18T01:59",
 		"startG":"2025-03-04T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui_(Swimsuit)\" title=\"Ui (Swimsuit)\">Ui (Swimsuit)</a> [L]<br>G: 2025-03-04 02:00 ~ 2025-03-18 01:59 14d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 ~ 2024-09-18 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ui_(Swimsuit)\" title=\"Ui (Swimsuit)\">Ui (Swimsuit)</a> [L]<br>G: 2025-03-04 02:00 Tue ~ 2025-03-18 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-18 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata_(Swimsuit)\" title=\"Hinata (Swimsuit)\">Hinata (Swimsuit)</a> [L]",
@@ -10878,7 +10878,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-03-18T01:59",
 		"startG":"2025-03-04T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata_(Swimsuit)\" title=\"Hinata (Swimsuit)\">Hinata (Swimsuit)</a> [L]<br>G: 2025-03-04 02:00 ~ 2025-03-18 01:59 14d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 ~ 2024-09-18 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata_(Swimsuit)\" title=\"Hinata (Swimsuit)\">Hinata (Swimsuit)</a> [L]<br>G: 2025-03-04 02:00 Tue ~ 2025-03-18 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-18 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a>",
@@ -10891,7 +10891,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-03-18T01:59",
 		"startG":"2025-03-04T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a><br>G: 2025-03-04 02:00 ~ 2025-03-18 01:59 14d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 ~ 2024-09-18 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha\" title=\"Iroha\">Iroha</a><br>G: 2025-03-04 02:00 Tue ~ 2025-03-18 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-18 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a>",
@@ -10904,7 +10904,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-03-18T01:59",
 		"startG":"2025-03-04T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a><br>G: 2025-03-04 02:00 ~ 2025-03-18 01:59 14d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 ~ 2024-09-18 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a><br>G: 2025-03-04 02:00 Tue ~ 2025-03-18 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-18 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L]",
@@ -10917,7 +10917,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-03-25T01:59",
 		"startG":"2025-03-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L]<br>G: 2025-03-18 02:00 ~ 2025-03-25 01:59 7d (UTC y-m-d)<br>Jp: 2024-09-18 11:00 ~ 2024-09-25 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L]<br>G: 2025-03-18 02:00 Tue ~ 2025-03-25 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-09-18 11:00 Wed ~ 2024-09-25 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L]",
@@ -10930,7 +10930,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-03-25T01:59",
 		"startG":"2025-03-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L]<br>G: 2025-03-18 02:00 ~ 2025-03-25 01:59 7d (UTC y-m-d)<br>Jp: 2024-09-18 11:00 ~ 2024-09-25 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L]<br>G: 2025-03-18 02:00 Tue ~ 2025-03-25 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-09-18 11:00 Wed ~ 2024-09-25 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna (Bunny Girl)\">Asuna (Bunny Girl)</a>",
@@ -10943,7 +10943,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-03-25T01:59",
 		"startG":"2025-03-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna (Bunny Girl)\">Asuna (Bunny Girl)</a><br>G: 2025-03-18 02:00 ~ 2025-03-25 01:59 7d (UTC y-m-d)<br>Jp: 2024-09-18 11:00 ~ 2024-09-25 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(Bunny_Girl)\" title=\"Asuna (Bunny Girl)\">Asuna (Bunny Girl)</a><br>G: 2025-03-18 02:00 Tue ~ 2025-03-25 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-09-18 11:00 Wed ~ 2024-09-25 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane (Bunny Girl)\">Akane (Bunny Girl)</a>",
@@ -10956,7 +10956,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-03-25T01:59",
 		"startG":"2025-03-18T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane (Bunny Girl)\">Akane (Bunny Girl)</a><br>G: 2025-03-18 02:00 ~ 2025-03-25 01:59 7d (UTC y-m-d)<br>Jp: 2024-09-18 11:00 ~ 2024-09-25 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane (Bunny Girl)\">Akane (Bunny Girl)</a><br>G: 2025-03-18 02:00 Tue ~ 2025-03-25 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-09-18 11:00 Wed ~ 2024-09-25 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kisaki\" title=\"Kisaki\">Kisaki</a> (New)",
@@ -10969,7 +10969,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-09T01:59",
 		"startG":"2025-03-25T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kisaki\" title=\"Kisaki\">Kisaki</a> (New)<br>G: 2025-03-25 02:00 ~ 2025-04-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 10:59 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kisaki\" title=\"Kisaki\">Kisaki</a> (New)<br>G: 2025-03-25 02:00 Tue ~ 2025-04-09 01:59 Wed 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 Wed ~ 2024-10-10 10:59 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reijo\" title=\"Reijo\">Reijo</a> (New)",
@@ -10982,7 +10982,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-09T01:59",
 		"startG":"2025-03-25T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reijo\" title=\"Reijo\">Reijo</a> (New)<br>G: 2025-03-25 02:00 ~ 2025-04-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 10:59 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reijo\" title=\"Reijo\">Reijo</a> (New)<br>G: 2025-03-25 02:00 Tue ~ 2025-04-09 01:59 Wed 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 Wed ~ 2024-10-10 10:59 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a>",
@@ -10995,7 +10995,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-09T01:59",
 		"startG":"2025-03-25T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a><br>G: 2025-03-25 02:00 ~ 2025-04-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 10:59 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Kid)\" title=\"Shun (Kid)\">Shun (Kid)</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kirino\" title=\"Kirino\">Kirino</a><br>G: 2025-03-25 02:00 Tue ~ 2025-04-09 01:59 Wed 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 Wed ~ 2024-10-10 10:59 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya (Casual)\">Saya (Casual)</a>",
@@ -11008,7 +11008,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-09T01:59",
 		"startG":"2025-03-25T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya (Casual)\">Saya (Casual)</a><br>G: 2025-03-25 02:00 ~ 2025-04-09 01:59 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 10:59 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saya_(Casual)\" title=\"Saya (Casual)\">Saya (Casual)</a><br>G: 2025-03-25 02:00 Tue ~ 2025-04-09 01:59 Wed 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 Wed ~ 2024-10-10 10:59 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa (Swimsuit)\">Azusa (Swimsuit)</a> [L]",
@@ -11021,7 +11021,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-15T01:59",
 		"startG":"2025-04-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa (Swimsuit)\">Azusa (Swimsuit)</a> [L]<br>G: 2025-04-09 02:00 ~ 2025-04-15 01:59 6d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 ~ 2024-10-16 10:59 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Azusa_(Swimsuit)\" title=\"Azusa (Swimsuit)\">Azusa (Swimsuit)</a> [L]<br>G: 2025-04-09 02:00 Wed ~ 2025-04-15 01:59 Tue 6d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 Thu ~ 2024-10-16 10:59 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro (Swimsuit)\">Mashiro (Swimsuit)</a> [L]",
@@ -11034,7 +11034,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-15T01:59",
 		"startG":"2025-04-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro (Swimsuit)\">Mashiro (Swimsuit)</a> [L]<br>G: 2025-04-09 02:00 ~ 2025-04-15 01:59 6d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 ~ 2024-10-16 10:59 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mashiro_(Swimsuit)\" title=\"Mashiro (Swimsuit)\">Mashiro (Swimsuit)</a> [L]<br>G: 2025-04-09 02:00 Wed ~ 2025-04-15 01:59 Tue 6d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 Thu ~ 2024-10-16 10:59 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi (Swimsuit)\">Hifumi (Swimsuit)</a>",
@@ -11047,7 +11047,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-15T01:59",
 		"startG":"2025-04-09T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi (Swimsuit)\">Hifumi (Swimsuit)</a><br>G: 2025-04-09 02:00 ~ 2025-04-15 01:59 6d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 ~ 2024-10-16 10:59 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hifumi_(Swimsuit)\" title=\"Hifumi (Swimsuit)\">Hifumi (Swimsuit)</a><br>G: 2025-04-09 02:00 Wed ~ 2025-04-15 01:59 Tue 6d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 Thu ~ 2024-10-16 10:59 Wed 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yukari\" title=\"Yukari\">Yukari</a>",
@@ -11060,7 +11060,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-22T01:59",
 		"startG":"2025-04-15T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yukari\" title=\"Yukari\">Yukari</a><br>G: 2025-04-15 02:00 ~ 2025-04-22 01:59 7d (UTC y-m-d)<br>Jp: 2024-10-16 11:00 ~ 2024-10-23 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yukari\" title=\"Yukari\">Yukari</a><br>G: 2025-04-15 02:00 Tue ~ 2025-04-22 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-10-16 11:00 Wed ~ 2024-10-23 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Renge\" title=\"Renge\">Renge</a>",
@@ -11073,7 +11073,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-22T01:59",
 		"startG":"2025-04-15T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Renge\" title=\"Renge\">Renge</a><br>G: 2025-04-15 02:00 ~ 2025-04-22 01:59 7d (UTC y-m-d)<br>Jp: 2024-10-16 11:00 ~ 2024-10-23 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Renge\" title=\"Renge\">Renge</a><br>G: 2025-04-15 02:00 Tue ~ 2025-04-22 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-10-16 11:00 Wed ~ 2024-10-23 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kikyou\" title=\"Kikyou\">Kikyou</a>",
@@ -11086,7 +11086,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-22T01:59",
 		"startG":"2025-04-15T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kikyou\" title=\"Kikyou\">Kikyou</a><br>G: 2025-04-15 02:00 ~ 2025-04-22 01:59 7d (UTC y-m-d)<br>Jp: 2024-10-16 11:00 ~ 2024-10-23 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kikyou\" title=\"Kikyou\">Kikyou</a><br>G: 2025-04-15 02:00 Tue ~ 2025-04-22 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-10-16 11:00 Wed ~ 2024-10-23 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Idol)\" title=\"Mari (Idol)\">Mari (Idol)</a> [L] (New)",
@@ -11099,7 +11099,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-06T01:59",
 		"startG":"2025-04-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Idol)\" title=\"Mari (Idol)\">Mari (Idol)</a> [L] (New)<br>G: 2025-04-22 02:00 ~ 2025-05-06 01:59 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 ~ 2024-11-06 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Idol)\" title=\"Mari (Idol)\">Mari (Idol)</a> [L] (New)<br>G: 2025-04-22 02:00 Tue ~ 2025-05-06 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 Wed ~ 2024-11-06 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako_(Idol)\" title=\"Sakurako (Idol)\">Sakurako (Idol)</a> [L] (New)",
@@ -11112,7 +11112,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-06T01:59",
 		"startG":"2025-04-22T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako_(Idol)\" title=\"Sakurako (Idol)\">Sakurako (Idol)</a> [L] (New)<br>G: 2025-04-22 02:00 ~ 2025-05-06 01:59 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 ~ 2024-11-06 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako_(Idol)\" title=\"Sakurako (Idol)\">Sakurako (Idol)</a> [L] (New)<br>G: 2025-04-22 02:00 Tue ~ 2025-05-06 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 Wed ~ 2024-11-06 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a>",
@@ -11125,7 +11125,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-13T01:59",
 		"startG":"2025-05-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a><br>G: 2025-05-06 02:00 ~ 2025-05-13 01:59 7d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-13 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hinata\" title=\"Hinata\">Hinata</a><br>G: 2025-05-06 02:00 Tue ~ 2025-05-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 Wed ~ 2024-11-13 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a>",
@@ -11138,7 +11138,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-13T01:59",
 		"startG":"2025-05-06T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a><br>G: 2025-05-06 02:00 ~ 2025-05-13 01:59 7d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-13 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a><br>G: 2025-05-06 02:00 Tue ~ 2025-05-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 Wed ~ 2024-11-13 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L]",
@@ -11151,7 +11151,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-20T01:59",
 		"startG":"2025-05-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L]<br>G: 2025-05-13 02:00 ~ 2025-05-20 01:59 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 ~ 2024-11-20 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L]<br>G: 2025-05-13 02:00 Tue ~ 2025-05-20 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 Wed ~ 2024-11-20 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L]",
@@ -11164,7 +11164,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-20T01:59",
 		"startG":"2025-05-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L]<br>G: 2025-05-13 02:00 ~ 2025-05-20 01:59 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 ~ 2024-11-20 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L]<br>G: 2025-05-13 02:00 Tue ~ 2025-05-20 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 Wed ~ 2024-11-20 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko (Riding)\">Shiroko (Riding)</a>",
@@ -11177,7 +11177,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-20T01:59",
 		"startG":"2025-05-13T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko (Riding)\">Shiroko (Riding)</a><br>G: 2025-05-13 02:00 ~ 2025-05-20 01:59 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 ~ 2024-11-20 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko_(Riding)\" title=\"Shiroko (Riding)\">Shiroko (Riding)</a><br>G: 2025-05-13 02:00 Tue ~ 2025-05-20 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 Wed ~ 2024-11-20 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Satsuki\" title=\"Satsuki\">Satsuki</a> (New)",
@@ -11190,7 +11190,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-03T01:59",
 		"startG":"2025-05-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Satsuki\" title=\"Satsuki\">Satsuki</a> (New)<br>G: 2025-05-20 02:00 ~ 2025-06-03 01:59 14d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 ~ 2024-12-04 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Satsuki\" title=\"Satsuki\">Satsuki</a> (New)<br>G: 2025-05-20 02:00 Tue ~ 2025-06-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 Wed ~ 2024-12-04 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chiaki\" title=\"Chiaki\">Chiaki</a> (New)",
@@ -11203,7 +11203,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-03T01:59",
 		"startG":"2025-05-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chiaki\" title=\"Chiaki\">Chiaki</a> (New)<br>G: 2025-05-20 02:00 ~ 2025-06-03 01:59 14d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 ~ 2024-12-04 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Chiaki\" title=\"Chiaki\">Chiaki</a> (New)<br>G: 2025-05-20 02:00 Tue ~ 2025-06-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 Wed ~ 2024-12-04 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Makoto\" title=\"Makoto\">Makoto</a> [L]",
@@ -11216,7 +11216,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-03T01:59",
 		"startG":"2025-05-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Makoto\" title=\"Makoto\">Makoto</a> [L]<br>G: 2025-05-20 02:00 ~ 2025-06-03 01:59 14d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 ~ 2024-12-04 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Makoto\" title=\"Makoto\">Makoto</a> [L]<br>G: 2025-05-20 02:00 Tue ~ 2025-06-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 Wed ~ 2024-12-04 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako_(Dress)\" title=\"Ako (Dress)\">Ako (Dress)</a> [L]",
@@ -11229,7 +11229,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-03T01:59",
 		"startG":"2025-05-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako_(Dress)\" title=\"Ako (Dress)\">Ako (Dress)</a> [L]<br>G: 2025-05-20 02:00 ~ 2025-06-03 01:59 14d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 ~ 2024-12-04 10:59 14d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ako_(Dress)\" title=\"Ako (Dress)\">Ako (Dress)</a> [L]<br>G: 2025-05-20 02:00 Tue ~ 2025-06-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 Wed ~ 2024-12-04 10:59 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kasumi\" title=\"Kasumi\">Kasumi</a>",
@@ -11242,7 +11242,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-10T01:59",
 		"startG":"2025-06-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kasumi\" title=\"Kasumi\">Kasumi</a><br>G: 2025-06-03 02:00 ~ 2025-06-10 01:59 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 ~ 2024-12-11 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kasumi\" title=\"Kasumi\">Kasumi</a><br>G: 2025-06-03 02:00 Tue ~ 2025-06-10 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 Wed ~ 2024-12-11 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ichika\" title=\"Ichika\">Ichika</a>",
@@ -11255,7 +11255,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-10T01:59",
 		"startG":"2025-06-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ichika\" title=\"Ichika\">Ichika</a><br>G: 2025-06-03 02:00 ~ 2025-06-10 01:59 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 ~ 2024-12-11 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ichika\" title=\"Ichika\">Ichika</a><br>G: 2025-06-03 02:00 Tue ~ 2025-06-10 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 Wed ~ 2024-12-11 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori\" title=\"Iori\">Iori</a>",
@@ -11268,7 +11268,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-10T01:59",
 		"startG":"2025-06-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori\" title=\"Iori\">Iori</a><br>G: 2025-06-03 02:00 ~ 2025-06-10 01:59 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 ~ 2024-12-11 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori\" title=\"Iori\">Iori</a><br>G: 2025-06-03 02:00 Tue ~ 2025-06-10 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 Wed ~ 2024-12-11 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Megu\" title=\"Megu\">Megu</a>",
@@ -11281,7 +11281,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-10T01:59",
 		"startG":"2025-06-03T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Megu\" title=\"Megu\">Megu</a><br>G: 2025-06-03 02:00 ~ 2025-06-10 01:59 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 ~ 2024-12-11 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Megu\" title=\"Megu\">Megu</a><br>G: 2025-06-03 02:00 Tue ~ 2025-06-10 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 Wed ~ 2024-12-11 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Utaha_(Cheerleader)\" title=\"Utaha (Cheerleader)\">Utaha (Cheerleader)</a>",
@@ -11294,7 +11294,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-17T01:59",
 		"startG":"2025-06-10T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Utaha_(Cheerleader)\" title=\"Utaha (Cheerleader)\">Utaha (Cheerleader)</a><br>G: 2025-06-10 02:00 ~ 2025-06-17 01:59 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 ~ 2024-12-18 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Utaha_(Cheerleader)\" title=\"Utaha (Cheerleader)\">Utaha (Cheerleader)</a><br>G: 2025-06-10 02:00 Tue ~ 2025-06-17 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 Wed ~ 2024-12-18 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kotori_(Cheerleader)\" title=\"Kotori (Cheerleader)\">Kotori (Cheerleader)</a>",
@@ -11307,7 +11307,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-17T01:59",
 		"startG":"2025-06-10T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kotori_(Cheerleader)\" title=\"Kotori (Cheerleader)\">Kotori (Cheerleader)</a><br>G: 2025-06-10 02:00 ~ 2025-06-17 01:59 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 ~ 2024-12-18 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kotori_(Cheerleader)\" title=\"Kotori (Cheerleader)\">Kotori (Cheerleader)</a><br>G: 2025-06-10 02:00 Tue ~ 2025-06-17 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 Wed ~ 2024-12-18 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a>",
@@ -11320,7 +11320,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-17T01:59",
 		"startG":"2025-06-10T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a><br>G: 2025-06-10 02:00 ~ 2025-06-17 01:59 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 ~ 2024-12-18 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a><br>G: 2025-06-10 02:00 Tue ~ 2025-06-17 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 Wed ~ 2024-12-18 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Sportswear)\" title=\"Yuuka (Sportswear)\">Yuuka (Sportswear)</a> [L]",
@@ -11333,7 +11333,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-23T01:59",
 		"startG":"2025-06-17T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Sportswear)\" title=\"Yuuka (Sportswear)\">Yuuka (Sportswear)</a> [L]<br>G: 2025-06-17 02:00 ~ 2025-06-23 01:59 6d (UTC y-m-d)<br>Jp: 2024-12-18 11:00 ~ 2024-12-24 10:59 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Sportswear)\" title=\"Yuuka (Sportswear)\">Yuuka (Sportswear)</a> [L]<br>G: 2025-06-17 02:00 Tue ~ 2025-06-23 01:59 Mon 6d (UTC y-m-d)<br>Jp: 2024-12-18 11:00 Wed ~ 2024-12-24 10:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Sportswear)\" title=\"Mari (Sportswear)\">Mari (Sportswear)</a> [L]",
@@ -11346,7 +11346,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-23T01:59",
 		"startG":"2025-06-17T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Sportswear)\" title=\"Mari (Sportswear)\">Mari (Sportswear)</a> [L]<br>G: 2025-06-17 02:00 ~ 2025-06-23 01:59 6d (UTC y-m-d)<br>Jp: 2024-12-18 11:00 ~ 2024-12-24 10:59 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Sportswear)\" title=\"Mari (Sportswear)\">Mari (Sportswear)</a> [L]<br>G: 2025-06-17 02:00 Tue ~ 2025-06-23 01:59 Mon 6d (UTC y-m-d)<br>Jp: 2024-12-18 11:00 Wed ~ 2024-12-24 10:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(Sportswear)\" title=\"Haruna (Sportswear)\">Haruna (Sportswear)</a>",
@@ -11359,7 +11359,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-23T01:59",
 		"startG":"2025-06-17T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(Sportswear)\" title=\"Haruna (Sportswear)\">Haruna (Sportswear)</a><br>G: 2025-06-17 02:00 ~ 2025-06-23 01:59 6d (UTC y-m-d)<br>Jp: 2024-12-18 11:00 ~ 2024-12-24 10:59 6d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruna_(Sportswear)\" title=\"Haruna (Sportswear)\">Haruna (Sportswear)</a><br>G: 2025-06-17 02:00 Tue ~ 2025-06-23 01:59 Mon 6d (UTC y-m-d)<br>Jp: 2024-12-18 11:00 Wed ~ 2024-12-24 10:59 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Pajama)\" title=\"Yuuka (Pajama)\">Yuuka (Pajama)</a> (New)",
@@ -11372,7 +11372,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-08T01:59",
 		"startG":"2025-06-23T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Pajama)\" title=\"Yuuka (Pajama)\">Yuuka (Pajama)</a> (New)<br>G: 2025-06-23 02:00 ~ 2025-07-08 01:59 15d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 ~ 2025-01-08 10:59 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yuuka_(Pajama)\" title=\"Yuuka (Pajama)\">Yuuka (Pajama)</a> (New)<br>G: 2025-06-23 02:00 Mon ~ 2025-07-08 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 Tue ~ 2025-01-08 10:59 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa_(Pajama)\" title=\"Noa (Pajama)\">Noa (Pajama)</a> (New)",
@@ -11385,7 +11385,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-08T01:59",
 		"startG":"2025-06-23T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa_(Pajama)\" title=\"Noa (Pajama)\">Noa (Pajama)</a> (New)<br>G: 2025-06-23 02:00 ~ 2025-07-08 01:59 15d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 ~ 2025-01-08 10:59 15d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa_(Pajama)\" title=\"Noa (Pajama)\">Noa (Pajama)</a> (New)<br>G: 2025-06-23 02:00 Mon ~ 2025-07-08 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 Tue ~ 2025-01-08 10:59 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru (New Year)\">Aru (New Year)</a> [L]",
@@ -11398,7 +11398,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-15T01:59",
 		"startG":"2025-07-08T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru (New Year)\">Aru (New Year)</a> [L]<br>G: 2025-07-08 02:00 ~ 2025-07-15 01:59 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 ~ 2025-01-15 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(New_Year)\" title=\"Aru (New Year)\">Aru (New Year)</a> [L]<br>G: 2025-07-08 02:00 Tue ~ 2025-07-15 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 Wed ~ 2025-01-15 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki (New Year)\">Mutsuki (New Year)</a> [L]",
@@ -11411,7 +11411,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-15T01:59",
 		"startG":"2025-07-08T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki (New Year)\">Mutsuki (New Year)</a> [L]<br>G: 2025-07-08 02:00 ~ 2025-07-15 01:59 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 ~ 2025-01-15 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mutsuki_(New_Year)\" title=\"Mutsuki (New Year)\">Mutsuki (New Year)</a> [L]<br>G: 2025-07-08 02:00 Tue ~ 2025-07-15 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 Wed ~ 2025-01-15 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(New_Year)\" title=\"Kayoko (New Year)\">Kayoko (New Year)</a>",
@@ -11424,7 +11424,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-15T01:59",
 		"startG":"2025-07-08T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(New_Year)\" title=\"Kayoko (New Year)\">Kayoko (New Year)</a><br>G: 2025-07-08 02:00 ~ 2025-07-15 01:59 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 ~ 2025-01-15 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(New_Year)\" title=\"Kayoko (New Year)\">Kayoko (New Year)</a><br>G: 2025-07-08 02:00 Tue ~ 2025-07-15 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 Wed ~ 2025-01-15 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka (New Year)\">Haruka (New Year)</a>",
@@ -11437,7 +11437,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-15T01:59",
 		"startG":"2025-07-08T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka (New Year)\">Haruka (New Year)</a><br>G: 2025-07-08 02:00 ~ 2025-07-15 01:59 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 ~ 2025-01-15 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka (New Year)\">Haruka (New Year)</a><br>G: 2025-07-08 02:00 Tue ~ 2025-07-15 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 Wed ~ 2025-01-15 10:59 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Maid)\" title=\"Arisu (Maid)\">Arisu (Maid)</a>",
@@ -11450,7 +11450,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-20T01:59",
 		"startG":"2025-07-15T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Maid)\" title=\"Arisu (Maid)\">Arisu (Maid)</a><br>G: 2025-07-15 02:00 ~ 2025-07-20 01:59 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 ~ 2025-01-20 10:59 5d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Maid)\" title=\"Arisu (Maid)\">Arisu (Maid)</a><br>G: 2025-07-15 02:00 Tue ~ 2025-07-20 01:59 Sun 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 Wed ~ 2025-01-20 10:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki_(Bunny_Girl)\" title=\"Toki (Bunny Girl)\">Toki (Bunny Girl)</a>",
@@ -11463,7 +11463,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-20T01:59",
 		"startG":"2025-07-15T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki_(Bunny_Girl)\" title=\"Toki (Bunny Girl)\">Toki (Bunny Girl)</a><br>G: 2025-07-15 02:00 ~ 2025-07-20 01:59 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 ~ 2025-01-20 10:59 5d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Toki_(Bunny_Girl)\" title=\"Toki (Bunny Girl)\">Toki (Bunny Girl)</a><br>G: 2025-07-15 02:00 Tue ~ 2025-07-20 01:59 Sun 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 Wed ~ 2025-01-20 10:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi_(Maid)\" title=\"Momoi (Maid)\">Momoi (Maid)</a>",
@@ -11476,7 +11476,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-20T01:59",
 		"startG":"2025-07-15T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi_(Maid)\" title=\"Momoi (Maid)\">Momoi (Maid)</a><br>G: 2025-07-15 02:00 ~ 2025-07-20 01:59 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 ~ 2025-01-20 10:59 5d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi_(Maid)\" title=\"Momoi (Maid)\">Momoi (Maid)</a><br>G: 2025-07-15 02:00 Tue ~ 2025-07-20 01:59 Sun 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 Wed ~ 2025-01-20 10:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori_(Maid)\" title=\"Midori (Maid)\">Midori (Maid)</a>",
@@ -11489,7 +11489,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-20T01:59",
 		"startG":"2025-07-15T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori_(Maid)\" title=\"Midori (Maid)\">Midori (Maid)</a><br>G: 2025-07-15 02:00 ~ 2025-07-20 01:59 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 ~ 2025-01-20 10:59 5d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Midori_(Maid)\" title=\"Midori (Maid)\">Midori (Maid)</a><br>G: 2025-07-15 02:00 Tue ~ 2025-07-20 01:59 Sun 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 Wed ~ 2025-01-20 10:59 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Seia\" title=\"Seia\">Seia</a> [L] (New)",
@@ -11502,7 +11502,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-27T01:59",
 		"startG":"2025-07-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Seia\" title=\"Seia\">Seia</a> [L] (New)<br>G: 2025-07-20 02:00 ~ 2025-07-27 01:59 7d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 ~ 2025-01-27 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Seia\" title=\"Seia\">Seia</a> [L] (New)<br>G: 2025-07-20 02:00 Sun ~ 2025-07-27 01:59 Sun 7d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-01-27 10:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(School_Uniform)\" title=\"Asuna (School Uniform)\">Asuna (School Uniform)</a> [L] (New)",
@@ -11515,7 +11515,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-27T01:59",
 		"startG":"2025-07-20T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(School_Uniform)\" title=\"Asuna (School Uniform)\">Asuna (School Uniform)</a> [L] (New)<br>G: 2025-07-20 02:00 ~ 2025-07-27 01:59 7d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 ~ 2025-01-27 10:59 7d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Asuna_(School_Uniform)\" title=\"Asuna (School Uniform)\">Asuna (School Uniform)</a> [L] (New)<br>G: 2025-07-20 02:00 Sun ~ 2025-07-27 01:59 Sun 7d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-01-27 10:59 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(School_Uniform)\" title=\"Neru (School Uniform)\">Neru (School Uniform)</a> [L Bluefes]",
@@ -11528,7 +11528,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-08-03T09:28",
 		"startG":"2025-07-27T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(School_Uniform)\" title=\"Neru (School Uniform)\">Neru (School Uniform)</a> [L Bluefes]<br>G: 2025-07-27 02:00 ~ 2025-08-03 09:28 8d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 ~ 2025-02-03 18:28 8d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(School_Uniform)\" title=\"Neru (School Uniform)\">Neru (School Uniform)</a> [L Bluefes]<br>G: 2025-07-27 02:00 Sun ~ 2025-08-03 09:28 Sun 8d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-03 18:28 Mon 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rio\" title=\"Rio\">Rio</a> [L Bluefes]",
@@ -11541,7 +11541,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-08-03T09:28",
 		"startG":"2025-07-27T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rio\" title=\"Rio\">Rio</a> [L Bluefes]<br>G: 2025-07-27 02:00 ~ 2025-08-03 09:28 8d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 ~ 2025-02-03 18:28 8d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rio\" title=\"Rio\">Rio</a> [L Bluefes]<br>G: 2025-07-27 02:00 Sun ~ 2025-08-03 09:28 Sun 8d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-03 18:28 Mon 8d (JST y-m-d)",
 		"duration":8},
 	{
 		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako_(Swimsuit)\" title=\"Hanako (Swimsuit)\">Hanako (Swimsuit)</a> [L Bluefes]",
@@ -11554,8 +11554,34 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-08-03T09:28",
 		"startG":"2025-07-27T02:00",
-		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako_(Swimsuit)\" title=\"Hanako (Swimsuit)\">Hanako (Swimsuit)</a> [L Bluefes]<br>G: 2025-07-27 02:00 ~ 2025-08-03 09:28 8d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 ~ 2025-02-03 18:28 8d (JST y-m-d)",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanako_(Swimsuit)\" title=\"Hanako (Swimsuit)\">Hanako (Swimsuit)</a> [L Bluefes]<br>G: 2025-07-27 02:00 Sun ~ 2025-08-03 09:28 Sun 8d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-03 18:28 Mon 8d (JST y-m-d)",
 		"duration":8},
+	{
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi_(Swimsuit)\" title=\"Eimi (Swimsuit)\">Eimi (Swimsuit)</a>",
+		"start":"2025-08-03T02:00",
+		"startJp":"2025-02-03T11:00",
+		"end":"2025-08-12T09:28",
+		"endJp":"2025-02-12T18:28",
+		"group":"J Gacha",
+		"subgroup":"Gacha",
+		"style":"color:black;background-color:lightgrey",
+		"endG":"2025-08-12T09:28",
+		"startG":"2025-08-03T02:00",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi_(Swimsuit)\" title=\"Eimi (Swimsuit)\">Eimi (Swimsuit)</a><br>G: 2025-08-03 02:00 Sun ~ 2025-08-12 09:28 Tue 10d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-12 18:28 Wed 10d (JST y-m-d)",
+		"duration":10},
+	{
+		"content":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Himari\" title=\"Himari\">Himari</a>",
+		"start":"2025-08-03T02:00",
+		"startJp":"2025-02-03T11:00",
+		"end":"2025-08-12T09:28",
+		"endJp":"2025-02-12T18:28",
+		"group":"J Gacha",
+		"subgroup":"Gacha",
+		"style":"color:black;background-color:lightgrey",
+		"endG":"2025-08-12T09:28",
+		"startG":"2025-08-03T02:00",
+		"title":"<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Himari\" title=\"Himari\">Himari</a><br>G: 2025-08-03 02:00 Sun ~ 2025-08-12 09:28 Tue 10d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-12 18:28 Wed 10d (JST y-m-d)",
+		"duration":10},
 	{
 		"content":"EOS",
 		"start":"2021-08-10T05:00",
@@ -11567,7 +11593,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-08-10T09:50",
 		"startG":"2021-08-10T05:00",
-		"title":"EOS<br>G: 2021-08-10 05:00 ~ 2021-08-10 09:50 1d (UTC y-m-d)<br>Jp: 2021-02-10 14:00 ~ 2021-02-10 18:50 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-08-10 05:00 Tue ~ 2021-08-10 09:50 Tue 1d (UTC y-m-d)<br>Jp: 2021-02-10 14:00 Wed ~ 2021-02-10 18:50 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11580,7 +11606,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-08-18T10:30",
 		"startG":"2021-08-18T05:00",
-		"title":"EOS<br>G: 2021-08-18 05:00 ~ 2021-08-18 10:30 1d (UTC y-m-d)<br>Jp: 2021-02-18 14:00 ~ 2021-02-18 19:30 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-08-18 05:00 Wed ~ 2021-08-18 10:30 Wed 1d (UTC y-m-d)<br>Jp: 2021-02-18 14:00 Thu ~ 2021-02-18 19:30 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11593,7 +11619,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-08-24T17:00",
 		"startG":"2021-08-25T05:00",
-		"title":"EOS<br>G: 2021-08-25 05:00 ~ 2021-08-24 17:00 NaNd (UTC y-m-d)<br>Jp: 2021-02-25 14:00 ~ 2021-02-25 02:00 NaNd (JST y-m-d)",
+		"title":"EOS<br>G: 2021-08-25 05:00 Wed ~ 2021-08-24 17:00 Tue NaNd (UTC y-m-d)<br>Jp: 2021-02-25 14:00 Thu ~ 2021-02-25 02:00 Inv NaNd (JST y-m-d)",
 		"duration":null},
 	{
 		"content":"EOS",
@@ -11606,7 +11632,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-09-01T08:00",
 		"startG":"2021-09-01T05:00",
-		"title":"EOS<br>G: 2021-09-01 05:00 ~ 2021-09-01 08:00 1d (UTC y-m-d)<br>Jp: 2021-03-04 14:00 ~ 2021-03-04 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-09-01 05:00 Wed ~ 2021-09-01 08:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-03-04 14:00 Thu ~ 2021-03-04 17:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11619,7 +11645,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-09-08T09:30",
 		"startG":"2021-09-08T05:00",
-		"title":"EOS<br>G: 2021-09-08 05:00 ~ 2021-09-08 09:30 1d (UTC y-m-d)<br>Jp: 2021-03-11 14:00 ~ 2021-03-11 18:30 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-09-08 05:00 Wed ~ 2021-09-08 09:30 Wed 1d (UTC y-m-d)<br>Jp: 2021-03-11 14:00 Thu ~ 2021-03-11 18:30 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11632,7 +11658,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-09-15T06:30",
 		"startG":"2021-09-15T03:00",
-		"title":"EOS<br>G: 2021-09-15 03:00 ~ 2021-09-15 06:30 1d (UTC y-m-d)<br>Jp: 2021-03-18 12:00 ~ 2021-03-18 15:30 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-09-15 03:00 Wed ~ 2021-09-15 06:30 Wed 1d (UTC y-m-d)<br>Jp: 2021-03-18 12:00 Thu ~ 2021-03-18 15:30 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11645,7 +11671,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-09-22T09:00",
 		"startG":"2021-09-22T03:00",
-		"title":"EOS<br>G: 2021-09-22 03:00 ~ 2021-09-22 09:00 1d (UTC y-m-d)<br>Jp: 2021-03-25 12:00 ~ 2021-03-25 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-09-22 03:00 Wed ~ 2021-09-22 09:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-03-25 12:00 Thu ~ 2021-03-25 18:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11658,7 +11684,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-09-29T13:00",
 		"startG":"2021-09-29T03:00",
-		"title":"EOS<br>G: 2021-09-29 03:00 ~ 2021-09-29 13:00 1d (UTC y-m-d)<br>Jp: 2021-04-01 12:00 ~ 2021-04-01 22:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-09-29 03:00 Wed ~ 2021-09-29 13:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-04-01 12:00 Thu ~ 2021-04-01 22:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11671,7 +11697,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-10-06T11:00",
 		"startG":"2021-10-06T03:00",
-		"title":"EOS<br>G: 2021-10-06 03:00 ~ 2021-10-06 11:00 1d (UTC y-m-d)<br>Jp: 2021-04-08 12:00 ~ 2021-04-08 20:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-10-06 03:00 Wed ~ 2021-10-06 11:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-04-08 12:00 Thu ~ 2021-04-08 20:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11684,7 +11710,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-10-13T08:00",
 		"startG":"2021-10-13T03:00",
-		"title":"EOS<br>G: 2021-10-13 03:00 ~ 2021-10-13 08:00 1d (UTC y-m-d)<br>Jp: 2021-04-15 12:00 ~ 2021-04-15 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-10-13 03:00 Wed ~ 2021-10-13 08:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-04-15 12:00 Thu ~ 2021-04-15 17:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11697,7 +11723,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-10-20T06:30",
 		"startG":"2021-10-20T03:00",
-		"title":"EOS<br>G: 2021-10-20 03:00 ~ 2021-10-20 06:30 1d (UTC y-m-d)<br>Jp: 2021-04-22 12:00 ~ 2021-04-22 15:30 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-10-20 03:00 Wed ~ 2021-10-20 06:30 Wed 1d (UTC y-m-d)<br>Jp: 2021-04-22 12:00 Thu ~ 2021-04-22 15:30 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11710,7 +11736,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-10-26T11:00",
 		"startG":"2021-10-26T03:00",
-		"title":"EOS<br>G: 2021-10-26 03:00 ~ 2021-10-26 11:00 1d (UTC y-m-d)<br>Jp: 2021-04-28 12:00 ~ 2021-04-28 20:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-10-26 03:00 Tue ~ 2021-10-26 11:00 Tue 1d (UTC y-m-d)<br>Jp: 2021-04-28 12:00 Wed ~ 2021-04-28 20:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11723,7 +11749,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-11-10T09:00",
 		"startG":"2021-11-10T03:00",
-		"title":"EOS<br>G: 2021-11-10 03:00 ~ 2021-11-10 09:00 1d (UTC y-m-d)<br>Jp: 2021-05-13 12:00 ~ 2021-05-13 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-11-10 03:00 Wed ~ 2021-11-10 09:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-05-13 12:00 Thu ~ 2021-05-13 18:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11736,7 +11762,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-11-24T11:00",
 		"startG":"2021-11-24T03:00",
-		"title":"EOS<br>G: 2021-11-24 03:00 ~ 2021-11-24 11:00 1d (UTC y-m-d)<br>Jp: 2021-05-27 12:00 ~ 2021-05-27 20:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-11-24 03:00 Wed ~ 2021-11-24 11:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-05-27 12:00 Thu ~ 2021-05-27 20:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11749,7 +11775,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-12-07T09:00",
 		"startG":"2021-12-07T03:00",
-		"title":"EOS<br>G: 2021-12-07 03:00 ~ 2021-12-07 09:00 1d (UTC y-m-d)<br>Jp: 2021-06-09 12:00 ~ 2021-06-09 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-12-07 03:00 Tue ~ 2021-12-07 09:00 Tue 1d (UTC y-m-d)<br>Jp: 2021-06-09 12:00 Wed ~ 2021-06-09 18:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11762,7 +11788,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-12-22T09:00",
 		"startG":"2021-12-22T03:00",
-		"title":"EOS<br>G: 2021-12-22 03:00 ~ 2021-12-22 09:00 1d (UTC y-m-d)<br>Jp: 2021-06-24 12:00 ~ 2021-06-24 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-12-22 03:00 Wed ~ 2021-12-22 09:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-06-24 12:00 Thu ~ 2021-06-24 18:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11775,7 +11801,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2021-12-28T11:00",
 		"startG":"2021-12-28T03:00",
-		"title":"EOS<br>G: 2021-12-28 03:00 ~ 2021-12-28 11:00 1d (UTC y-m-d)<br>Jp: 2021-06-30 12:00 ~ 2021-06-30 20:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2021-12-28 03:00 Tue ~ 2021-12-28 11:00 Tue 1d (UTC y-m-d)<br>Jp: 2021-06-30 12:00 Wed ~ 2021-06-30 20:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11788,7 +11814,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-01-05T07:00",
 		"startG":"2022-01-05T03:00",
-		"title":"EOS<br>G: 2022-01-05 03:00 ~ 2022-01-05 07:00 1d (UTC y-m-d)<br>Jp: 2021-07-08 12:00 ~ 2021-07-08 16:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-01-05 03:00 Wed ~ 2022-01-05 07:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-07-08 12:00 Thu ~ 2021-07-08 16:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11801,7 +11827,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-01-12T09:00",
 		"startG":"2022-01-12T03:00",
-		"title":"EOS<br>G: 2022-01-12 03:00 ~ 2022-01-12 09:00 1d (UTC y-m-d)<br>Jp: 2021-07-15 12:00 ~ 2021-07-15 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-01-12 03:00 Wed ~ 2022-01-12 09:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-07-15 12:00 Thu ~ 2021-07-15 18:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11814,7 +11840,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-01-26T11:00",
 		"startG":"2022-01-26T03:00",
-		"title":"EOS<br>G: 2022-01-26 03:00 ~ 2022-01-26 11:00 1d (UTC y-m-d)<br>Jp: 2021-07-29 12:00 ~ 2021-07-29 20:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-01-26 03:00 Wed ~ 2022-01-26 11:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-07-29 12:00 Thu ~ 2021-07-29 20:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11827,7 +11853,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-02-09T09:00",
 		"startG":"2022-02-09T03:00",
-		"title":"EOS<br>G: 2022-02-09 03:00 ~ 2022-02-09 09:00 1d (UTC y-m-d)<br>Jp: 2021-08-12 12:00 ~ 2021-08-12 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-02-09 03:00 Wed ~ 2022-02-09 09:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-08-12 12:00 Thu ~ 2021-08-12 18:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11840,7 +11866,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-02-23T11:00",
 		"startG":"2022-02-23T03:00",
-		"title":"EOS<br>G: 2022-02-23 03:00 ~ 2022-02-23 11:00 1d (UTC y-m-d)<br>Jp: 2021-08-26 12:00 ~ 2021-08-26 20:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-02-23 03:00 Wed ~ 2022-02-23 11:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-08-26 12:00 Thu ~ 2021-08-26 20:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11853,7 +11879,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-03-09T09:00",
 		"startG":"2022-03-09T03:00",
-		"title":"EOS<br>G: 2022-03-09 03:00 ~ 2022-03-09 09:00 1d (UTC y-m-d)<br>Jp: 2021-09-09 12:00 ~ 2021-09-09 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-03-09 03:00 Wed ~ 2022-03-09 09:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-09-09 12:00 Thu ~ 2021-09-09 18:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11866,7 +11892,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-03-29T09:00",
 		"startG":"2022-03-29T03:00",
-		"title":"EOS<br>G: 2022-03-29 03:00 ~ 2022-03-29 09:00 1d (UTC y-m-d)<br>Jp: 2021-09-29 12:00 ~ 2021-09-29 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-03-29 03:00 Tue ~ 2022-03-29 09:00 Tue 1d (UTC y-m-d)<br>Jp: 2021-09-29 12:00 Wed ~ 2021-09-29 18:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11879,7 +11905,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-03-23T13:00",
 		"startG":"2022-03-23T03:00",
-		"title":"EOS<br>G: 2022-03-23 03:00 ~ 2022-03-23 13:00 1d (UTC y-m-d)<br>Jp: 2021-09-23 12:00 ~ 2021-09-23 22:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-03-23 03:00 Wed ~ 2022-03-23 13:00 Wed 1d (UTC y-m-d)<br>Jp: 2021-09-23 12:00 Thu ~ 2021-09-23 22:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11892,7 +11918,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-04-11T09:00",
 		"startG":"2022-04-11T03:00",
-		"title":"EOS<br>G: 2022-04-11 03:00 ~ 2022-04-11 09:00 1d (UTC y-m-d)<br>Jp: 2021-10-12 12:00 ~ 2021-10-12 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-04-11 03:00 Mon ~ 2022-04-11 09:00 Mon 1d (UTC y-m-d)<br>Jp: 2021-10-12 12:00 Tue ~ 2021-10-12 18:00 Tue 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11905,7 +11931,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-04-26T11:00",
 		"startG":"2022-04-26T03:00",
-		"title":"EOS<br>G: 2022-04-26 03:00 ~ 2022-04-26 11:00 1d (UTC y-m-d)<br>Jp: 2021-10-27 12:00 ~ 2021-10-27 20:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-04-26 03:00 Tue ~ 2022-04-26 11:00 Tue 1d (UTC y-m-d)<br>Jp: 2021-10-27 12:00 Wed ~ 2021-10-27 20:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11918,7 +11944,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-05-03T09:00",
 		"startG":"2022-05-03T03:00",
-		"title":"EOS<br>G: 2022-05-03 03:00 ~ 2022-05-03 09:00 1d (UTC y-m-d)<br>Jp: 2021-11-03 12:00 ~ 2021-11-03 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-05-03 03:00 Tue ~ 2022-05-03 09:00 Tue 1d (UTC y-m-d)<br>Jp: 2021-11-03 12:00 Wed ~ 2021-11-03 18:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11931,7 +11957,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-05-17T09:00",
 		"startG":"2022-05-17T03:00",
-		"title":"EOS<br>G: 2022-05-17 03:00 ~ 2022-05-17 09:00 1d (UTC y-m-d)<br>Jp: 2021-11-17 12:00 ~ 2021-11-17 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-05-17 03:00 Tue ~ 2022-05-17 09:00 Tue 1d (UTC y-m-d)<br>Jp: 2021-11-17 12:00 Wed ~ 2021-11-17 18:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11944,7 +11970,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-05-30T13:00",
 		"startG":"2022-05-30T03:00",
-		"title":"EOS<br>G: 2022-05-30 03:00 ~ 2022-05-30 13:00 1d (UTC y-m-d)<br>Jp: 2021-11-30 12:00 ~ 2021-11-30 22:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-05-30 03:00 Mon ~ 2022-05-30 13:00 Mon 1d (UTC y-m-d)<br>Jp: 2021-11-30 12:00 Tue ~ 2021-11-30 22:00 Tue 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11957,7 +11983,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-06-14T09:00",
 		"startG":"2022-06-14T03:00",
-		"title":"EOS<br>G: 2022-06-14 03:00 ~ 2022-06-14 09:00 1d (UTC y-m-d)<br>Jp: 2021-12-15 12:00 ~ 2021-12-15 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-06-14 03:00 Tue ~ 2022-06-14 09:00 Tue 1d (UTC y-m-d)<br>Jp: 2021-12-15 12:00 Wed ~ 2021-12-15 18:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11970,7 +11996,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-06-28T11:00",
 		"startG":"2022-06-28T03:00",
-		"title":"EOS<br>G: 2022-06-28 03:00 ~ 2022-06-28 11:00 1d (UTC y-m-d)<br>Jp: 2021-12-29 12:00 ~ 2021-12-29 20:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-06-28 03:00 Tue ~ 2022-06-28 11:00 Tue 1d (UTC y-m-d)<br>Jp: 2021-12-29 12:00 Wed ~ 2021-12-29 20:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11983,7 +12009,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-07-12T09:00",
 		"startG":"2022-07-12T03:00",
-		"title":"EOS<br>G: 2022-07-12 03:00 ~ 2022-07-12 09:00 1d (UTC y-m-d)<br>Jp: 2022-01-12 12:00 ~ 2022-01-12 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-07-12 03:00 Tue ~ 2022-07-12 09:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-01-12 12:00 Wed ~ 2022-01-12 18:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -11996,7 +12022,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-07-26T14:00",
 		"startG":"2022-07-26T03:00",
-		"title":"EOS<br>G: 2022-07-26 03:00 ~ 2022-07-26 14:00 1d (UTC y-m-d)<br>Jp: 2022-01-26 12:00 ~ 2022-01-26 23:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-07-26 03:00 Tue ~ 2022-07-26 14:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-01-26 12:00 Wed ~ 2022-01-26 23:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12009,7 +12035,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-08-09T10:00",
 		"startG":"2022-08-09T03:00",
-		"title":"EOS<br>G: 2022-08-09 03:00 ~ 2022-08-09 10:00 1d (UTC y-m-d)<br>Jp: 2022-02-09 12:00 ~ 2022-02-09 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-08-09 03:00 Tue ~ 2022-08-09 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-02-09 12:00 Wed ~ 2022-02-09 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12022,7 +12048,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-08-23T10:00",
 		"startG":"2022-08-23T02:00",
-		"title":"EOS<br>G: 2022-08-23 02:00 ~ 2022-08-23 10:00 1d (UTC y-m-d)<br>Jp: 2022-02-23 11:00 ~ 2022-02-23 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-08-23 02:00 Tue ~ 2022-08-23 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-02-23 11:00 Wed ~ 2022-02-23 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12035,7 +12061,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-09-06T08:00",
 		"startG":"2022-09-06T02:00",
-		"title":"EOS<br>G: 2022-09-06 02:00 ~ 2022-09-06 08:00 1d (UTC y-m-d)<br>Jp: 2022-03-09 11:00 ~ 2022-03-09 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-09-06 02:00 Tue ~ 2022-09-06 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-03-09 11:00 Wed ~ 2022-03-09 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12048,7 +12074,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-09-20T10:00",
 		"startG":"2022-09-20T02:00",
-		"title":"EOS<br>G: 2022-09-20 02:00 ~ 2022-09-20 10:00 1d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 ~ 2022-03-23 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-09-20 02:00 Tue ~ 2022-09-20 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 Wed ~ 2022-03-23 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12061,7 +12087,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-10-04T08:00",
 		"startG":"2022-10-04T02:00",
-		"title":"EOS<br>G: 2022-10-04 02:00 ~ 2022-10-04 08:00 1d (UTC y-m-d)<br>Jp: 2022-04-06 11:00 ~ 2022-04-06 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-10-04 02:00 Tue ~ 2022-10-04 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-04-06 11:00 Wed ~ 2022-04-06 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12074,7 +12100,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-10-18T08:00",
 		"startG":"2022-10-18T02:00",
-		"title":"EOS<br>G: 2022-10-18 02:00 ~ 2022-10-18 08:00 1d (UTC y-m-d)<br>Jp: 2022-04-20 11:00 ~ 2022-04-20 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-10-18 02:00 Tue ~ 2022-10-18 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-04-20 11:00 Wed ~ 2022-04-20 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12087,7 +12113,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-10-25T10:00",
 		"startG":"2022-10-25T02:00",
-		"title":"EOS<br>G: 2022-10-25 02:00 ~ 2022-10-25 10:00 1d (UTC y-m-d)<br>Jp: 2022-04-27 11:00 ~ 2022-04-27 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-10-25 02:00 Tue ~ 2022-10-25 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-04-27 11:00 Wed ~ 2022-04-27 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12100,7 +12126,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-11-08T08:00",
 		"startG":"2022-11-08T02:00",
-		"title":"EOS<br>G: 2022-11-08 02:00 ~ 2022-11-08 08:00 1d (UTC y-m-d)<br>Jp: 2022-05-11 11:00 ~ 2022-05-11 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-11-08 02:00 Tue ~ 2022-11-08 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-05-11 11:00 Wed ~ 2022-05-11 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12113,7 +12139,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-11-21T10:00",
 		"startG":"2022-11-21T02:00",
-		"title":"EOS<br>G: 2022-11-21 02:00 ~ 2022-11-21 10:00 1d (UTC y-m-d)<br>Jp: 2022-05-24 11:00 ~ 2022-05-24 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-11-21 02:00 Mon ~ 2022-11-21 10:00 Mon 1d (UTC y-m-d)<br>Jp: 2022-05-24 11:00 Tue ~ 2022-05-24 19:00 Tue 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12126,7 +12152,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-12-06T08:00",
 		"startG":"2022-12-06T02:00",
-		"title":"EOS<br>G: 2022-12-06 02:00 ~ 2022-12-06 08:00 1d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 ~ 2022-06-08 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-12-06 02:00 Tue ~ 2022-12-06 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 Wed ~ 2022-06-08 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12139,7 +12165,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-12-06T08:00",
 		"startG":"2022-12-06T02:00",
-		"title":"EOS<br>G: 2022-12-06 02:00 ~ 2022-12-06 08:00 1d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 ~ 2022-06-08 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-12-06 02:00 Tue ~ 2022-12-06 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 Wed ~ 2022-06-08 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12152,7 +12178,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2022-12-20T10:00",
 		"startG":"2022-12-20T02:00",
-		"title":"EOS<br>G: 2022-12-20 02:00 ~ 2022-12-20 10:00 1d (UTC y-m-d)<br>Jp: 2022-06-22 11:00 ~ 2022-06-22 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2022-12-20 02:00 Tue ~ 2022-12-20 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-06-22 11:00 Wed ~ 2022-06-22 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12165,7 +12191,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-01-04T08:00",
 		"startG":"2023-01-04T02:00",
-		"title":"EOS<br>G: 2023-01-04 02:00 ~ 2023-01-04 08:00 1d (UTC y-m-d)<br>Jp: 2022-07-07 11:00 ~ 2022-07-07 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-01-04 02:00 Wed ~ 2023-01-04 08:00 Wed 1d (UTC y-m-d)<br>Jp: 2022-07-07 11:00 Thu ~ 2022-07-07 17:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12178,7 +12204,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-01-17T10:00",
 		"startG":"2023-01-17T02:00",
-		"title":"EOS<br>G: 2023-01-17 02:00 ~ 2023-01-17 10:00 1d (UTC y-m-d)<br>Jp: 2022-07-20 11:00 ~ 2022-07-20 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-01-17 02:00 Tue ~ 2023-01-17 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-07-20 11:00 Wed ~ 2022-07-20 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12191,7 +12217,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-02-06T08:00",
 		"startG":"2023-02-06T02:00",
-		"title":"EOS<br>G: 2023-02-06 02:00 ~ 2023-02-06 08:00 1d (UTC y-m-d)<br>Jp: 2022-08-09 11:00 ~ 2022-08-09 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-02-06 02:00 Mon ~ 2023-02-06 08:00 Mon 1d (UTC y-m-d)<br>Jp: 2022-08-09 11:00 Tue ~ 2022-08-09 17:00 Tue 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12204,7 +12230,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-02-21T10:00",
 		"startG":"2023-02-21T02:00",
-		"title":"EOS<br>G: 2023-02-21 02:00 ~ 2023-02-21 10:00 1d (UTC y-m-d)<br>Jp: 2022-08-24 11:00 ~ 2022-08-24 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-02-21 02:00 Tue ~ 2023-02-21 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-08-24 11:00 Wed ~ 2022-08-24 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12217,7 +12243,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-03-07T08:00",
 		"startG":"2023-03-07T02:00",
-		"title":"EOS<br>G: 2023-03-07 02:00 ~ 2023-03-07 08:00 1d (UTC y-m-d)<br>Jp: 2022-09-07 11:00 ~ 2022-09-07 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-03-07 02:00 Tue ~ 2023-03-07 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-09-07 11:00 Wed ~ 2022-09-07 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12230,7 +12256,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-03-21T08:00",
 		"startG":"2023-03-21T02:00",
-		"title":"EOS<br>G: 2023-03-21 02:00 ~ 2023-03-21 08:00 1d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 ~ 2022-09-21 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-03-21 02:00 Tue ~ 2023-03-21 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 Wed ~ 2022-09-21 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12243,7 +12269,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-03-27T10:00",
 		"startG":"2023-03-27T02:00",
-		"title":"EOS<br>G: 2023-03-27 02:00 ~ 2023-03-27 10:00 1d (UTC y-m-d)<br>Jp: 2022-09-27 11:00 ~ 2022-09-27 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-03-27 02:00 Mon ~ 2023-03-27 10:00 Mon 1d (UTC y-m-d)<br>Jp: 2022-09-27 11:00 Tue ~ 2022-09-27 19:00 Tue 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12256,7 +12282,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-04-11T08:00",
 		"startG":"2023-04-11T02:00",
-		"title":"EOS<br>G: 2023-04-11 02:00 ~ 2023-04-11 08:00 1d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 ~ 2022-10-12 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-04-11 02:00 Tue ~ 2023-04-11 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 Wed ~ 2022-10-12 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12269,7 +12295,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-04-25T10:00",
 		"startG":"2023-04-25T02:00",
-		"title":"EOS<br>G: 2023-04-25 02:00 ~ 2023-04-25 10:00 1d (UTC y-m-d)<br>Jp: 2022-10-26 11:00 ~ 2022-10-26 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-04-25 02:00 Tue ~ 2023-04-25 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-10-26 11:00 Wed ~ 2022-10-26 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12282,7 +12308,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-05-16T12:00",
 		"startG":"2023-05-16T02:00",
-		"title":"EOS<br>G: 2023-05-16 02:00 ~ 2023-05-16 12:00 1d (UTC y-m-d)<br>Jp: 2022-11-16 11:00 ~ 2022-11-16 21:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-05-16 02:00 Tue ~ 2023-05-16 12:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-11-16 11:00 Wed ~ 2022-11-16 21:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12295,7 +12321,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-05-30T10:00",
 		"startG":"2023-05-30T02:00",
-		"title":"EOS<br>G: 2023-05-30 02:00 ~ 2023-05-30 10:00 1d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 ~ 2022-11-30 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-05-30 02:00 Tue ~ 2023-05-30 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 Wed ~ 2022-11-30 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12308,7 +12334,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-06-13T10:00",
 		"startG":"2023-06-13T02:00",
-		"title":"EOS<br>G: 2023-06-13 02:00 ~ 2023-06-13 10:00 1d (UTC y-m-d)<br>Jp: 2022-12-14 11:00 ~ 2022-12-14 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-06-13 02:00 Tue ~ 2023-06-13 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-12-14 11:00 Wed ~ 2022-12-14 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12321,7 +12347,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-06-27T10:00",
 		"startG":"2023-06-27T02:00",
-		"title":"EOS<br>G: 2023-06-27 02:00 ~ 2023-06-27 10:00 1d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 ~ 2022-12-28 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-06-27 02:00 Tue ~ 2023-06-27 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 Wed ~ 2022-12-28 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12334,7 +12360,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-07-11T08:00",
 		"startG":"2023-07-11T02:00",
-		"title":"EOS<br>G: 2023-07-11 02:00 ~ 2023-07-11 08:00 1d (UTC y-m-d)<br>Jp: 2023-01-11 11:00 ~ 2023-01-11 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-07-11 02:00 Tue ~ 2023-07-11 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-01-11 11:00 Wed ~ 2023-01-11 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12347,7 +12373,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-07-24T10:00",
 		"startG":"2023-07-24T02:00",
-		"title":"EOS<br>G: 2023-07-24 02:00 ~ 2023-07-24 10:00 1d (UTC y-m-d)<br>Jp: 2023-01-24 11:00 ~ 2023-01-24 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-07-24 02:00 Mon ~ 2023-07-24 10:00 Mon 1d (UTC y-m-d)<br>Jp: 2023-01-24 11:00 Tue ~ 2023-01-24 19:00 Tue 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12360,7 +12386,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-08-10T08:00",
 		"startG":"2023-08-10T02:00",
-		"title":"EOS<br>G: 2023-08-10 02:00 ~ 2023-08-10 08:00 1d (UTC y-m-d)<br>Jp: 2023-02-10 11:00 ~ 2023-02-10 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-08-10 02:00 Thu ~ 2023-08-10 08:00 Thu 1d (UTC y-m-d)<br>Jp: 2023-02-10 11:00 Fri ~ 2023-02-10 17:00 Fri 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12373,7 +12399,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-08-22T10:00",
 		"startG":"2023-08-22T02:00",
-		"title":"EOS<br>G: 2023-08-22 02:00 ~ 2023-08-22 10:00 1d (UTC y-m-d)<br>Jp: 2023-02-22 11:00 ~ 2023-02-22 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-08-22 02:00 Tue ~ 2023-08-22 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-02-22 11:00 Wed ~ 2023-02-22 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12386,7 +12412,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-09-05T10:00",
 		"startG":"2023-09-05T02:00",
-		"title":"EOS<br>G: 2023-09-05 02:00 ~ 2023-09-05 10:00 1d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 ~ 2023-03-08 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-09-05 02:00 Tue ~ 2023-09-05 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 Wed ~ 2023-03-08 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12399,7 +12425,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-09-19T10:00",
 		"startG":"2023-09-19T02:00",
-		"title":"EOS<br>G: 2023-09-19 02:00 ~ 2023-09-19 10:00 1d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 ~ 2023-03-22 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-09-19 02:00 Tue ~ 2023-09-19 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-03-22 11:00 Wed ~ 2023-03-22 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12412,7 +12438,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-10-03T08:00",
 		"startG":"2023-10-03T02:00",
-		"title":"EOS<br>G: 2023-10-03 02:00 ~ 2023-10-03 08:00 1d (UTC y-m-d)<br>Jp: 2023-04-05 11:00 ~ 2023-04-05 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-10-03 02:00 Tue ~ 2023-10-03 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-04-05 11:00 Wed ~ 2023-04-05 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12425,7 +12451,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-10-24T10:00",
 		"startG":"2023-10-24T02:00",
-		"title":"EOS<br>G: 2023-10-24 02:00 ~ 2023-10-24 10:00 1d (UTC y-m-d)<br>Jp: 2023-04-26 11:00 ~ 2023-04-26 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-10-24 02:00 Tue ~ 2023-10-24 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-04-26 11:00 Wed ~ 2023-04-26 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12438,7 +12464,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-11-07T08:00",
 		"startG":"2023-11-07T02:00",
-		"title":"EOS<br>G: 2023-11-07 02:00 ~ 2023-11-07 08:00 1d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 ~ 2023-05-10 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-11-07 02:00 Tue ~ 2023-11-07 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 Wed ~ 2023-05-10 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12451,7 +12477,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-11-21T10:00",
 		"startG":"2023-11-21T02:00",
-		"title":"EOS<br>G: 2023-11-21 02:00 ~ 2023-11-21 10:00 1d (UTC y-m-d)<br>Jp: 2023-05-24 11:00 ~ 2023-05-24 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-11-21 02:00 Tue ~ 2023-11-21 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-05-24 11:00 Wed ~ 2023-05-24 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12464,7 +12490,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-12-05T08:00",
 		"startG":"2023-12-05T02:00",
-		"title":"EOS<br>G: 2023-12-05 02:00 ~ 2023-12-05 08:00 1d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 ~ 2023-06-07 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-12-05 02:00 Tue ~ 2023-12-05 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 Wed ~ 2023-06-07 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12477,7 +12503,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2023-12-19T10:00",
 		"startG":"2023-12-19T02:00",
-		"title":"EOS<br>G: 2023-12-19 02:00 ~ 2023-12-19 10:00 1d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 ~ 2023-06-21 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2023-12-19 02:00 Tue ~ 2023-12-19 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 Wed ~ 2023-06-21 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12490,7 +12516,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-01-02T09:00",
 		"startG":"2024-01-02T02:00",
-		"title":"EOS<br>G: 2024-01-02 02:00 ~ 2024-01-02 09:00 1d (UTC y-m-d)<br>Jp: 2023-07-05 11:00 ~ 2023-07-05 18:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-01-02 02:00 Tue ~ 2024-01-02 09:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-07-05 11:00 Wed ~ 2023-07-05 18:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12503,7 +12529,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-01-14T08:00",
 		"startG":"2024-01-14T02:00",
-		"title":"EOS<br>G: 2024-01-14 02:00 ~ 2024-01-14 08:00 1d (UTC y-m-d)<br>Jp: 2023-07-17 11:00 ~ 2023-07-17 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-01-14 02:00 Sun ~ 2024-01-14 08:00 Sun 1d (UTC y-m-d)<br>Jp: 2023-07-17 11:00 Mon ~ 2023-07-17 17:00 Mon 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12516,7 +12542,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-01-21T11:00",
 		"startG":"2024-01-21T02:00",
-		"title":"EOS<br>G: 2024-01-21 02:00 ~ 2024-01-21 11:00 1d (UTC y-m-d)<br>Jp: 2023-07-24 11:00 ~ 2023-07-24 20:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-01-21 02:00 Sun ~ 2024-01-21 11:00 Sun 1d (UTC y-m-d)<br>Jp: 2023-07-24 11:00 Mon ~ 2023-07-24 20:00 Mon 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12529,7 +12555,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-02-13T08:00",
 		"startG":"2024-02-13T02:00",
-		"title":"EOS<br>G: 2024-02-13 02:00 ~ 2024-02-13 08:00 1d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 ~ 2023-08-16 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-02-13 02:00 Tue ~ 2024-02-13 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 Wed ~ 2023-08-16 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12542,7 +12568,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-02-20T10:00",
 		"startG":"2024-02-20T02:00",
-		"title":"EOS<br>G: 2024-02-20 02:00 ~ 2024-02-20 10:00 1d (UTC y-m-d)<br>Jp: 2023-08-23 11:00 ~ 2023-08-23 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-02-20 02:00 Tue ~ 2024-02-20 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-08-23 11:00 Wed ~ 2023-08-23 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12555,7 +12581,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-03-05T08:00",
 		"startG":"2024-03-05T02:00",
-		"title":"EOS<br>G: 2024-03-05 02:00 ~ 2024-03-05 08:00 1d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 ~ 2023-09-06 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-03-05 02:00 Tue ~ 2024-03-05 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 Wed ~ 2023-09-06 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12568,7 +12594,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-03-14T08:00",
 		"startG":"2024-03-14T02:00",
-		"title":"EOS<br>G: 2024-03-14 02:00 ~ 2024-03-14 08:00 1d (UTC y-m-d)<br>Jp: 2023-09-15 11:00 ~ 2023-09-15 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-03-14 02:00 Thu ~ 2024-03-14 08:00 Thu 1d (UTC y-m-d)<br>Jp: 2023-09-15 11:00 Fri ~ 2023-09-15 17:00 Fri 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12581,7 +12607,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-03-26T10:00",
 		"startG":"2024-03-26T02:00",
-		"title":"EOS<br>G: 2024-03-26 02:00 ~ 2024-03-26 10:00 1d (UTC y-m-d)<br>Jp: 2023-09-27 11:00 ~ 2023-09-27 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-03-26 02:00 Tue ~ 2024-03-26 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-09-27 11:00 Wed ~ 2023-09-27 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12594,7 +12620,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-04-09T08:00",
 		"startG":"2024-04-09T02:00",
-		"title":"EOS<br>G: 2024-04-09 02:00 ~ 2024-04-09 08:00 1d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 ~ 2023-10-11 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-04-09 02:00 Tue ~ 2024-04-09 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 Wed ~ 2023-10-11 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12607,7 +12633,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-04-22T10:00",
 		"startG":"2024-04-22T02:00",
-		"title":"EOS<br>G: 2024-04-22 02:00 ~ 2024-04-22 10:00 1d (UTC y-m-d)<br>Jp: 2023-10-24 11:00 ~ 2023-10-24 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-04-22 02:00 Mon ~ 2024-04-22 10:00 Mon 1d (UTC y-m-d)<br>Jp: 2023-10-24 11:00 Tue ~ 2023-10-24 19:00 Tue 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12620,7 +12646,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-05-07T08:00",
 		"startG":"2024-05-07T02:00",
-		"title":"EOS<br>G: 2024-05-07 02:00 ~ 2024-05-07 08:00 1d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 ~ 2023-11-08 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-05-07 02:00 Tue ~ 2024-05-07 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 Wed ~ 2023-11-08 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12633,7 +12659,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-05-21T10:00",
 		"startG":"2024-05-21T02:00",
-		"title":"EOS<br>G: 2024-05-21 02:00 ~ 2024-05-21 10:00 1d (UTC y-m-d)<br>Jp: 2023-11-22 11:00 ~ 2023-11-22 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-05-21 02:00 Tue ~ 2024-05-21 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-11-22 11:00 Wed ~ 2023-11-22 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12646,7 +12672,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-06-04T08:00",
 		"startG":"2024-06-04T02:00",
-		"title":"EOS<br>G: 2024-06-04 02:00 ~ 2024-06-04 08:00 1d (UTC y-m-d)<br>Jp: 2023-12-06 11:00 ~ 2023-12-06 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-06-04 02:00 Tue ~ 2024-06-04 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-12-06 11:00 Wed ~ 2023-12-06 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12659,7 +12685,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-06-25T10:00",
 		"startG":"2024-06-25T02:00",
-		"title":"EOS<br>G: 2024-06-25 02:00 ~ 2024-06-25 10:00 1d (UTC y-m-d)<br>Jp: 2023-12-27 11:00 ~ 2023-12-27 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-06-25 02:00 Tue ~ 2024-06-25 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2023-12-27 11:00 Wed ~ 2023-12-27 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12672,7 +12698,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-07-09T08:00",
 		"startG":"2024-07-09T02:00",
-		"title":"EOS<br>G: 2024-07-09 02:00 ~ 2024-07-09 08:00 1d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 ~ 2024-01-10 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-07-09 02:00 Tue ~ 2024-07-09 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 Wed ~ 2024-01-10 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12685,7 +12711,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-07-23T14:00",
 		"startG":"2024-07-23T02:00",
-		"title":"EOS<br>G: 2024-07-23 02:00 ~ 2024-07-23 14:00 1d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 ~ 2024-01-24 23:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-07-23 02:00 Tue ~ 2024-07-23 14:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-01-24 11:00 Wed ~ 2024-01-24 23:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12698,7 +12724,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-08-06T08:00",
 		"startG":"2024-08-06T02:00",
-		"title":"EOS<br>G: 2024-08-06 02:00 ~ 2024-08-06 08:00 1d (UTC y-m-d)<br>Jp: 2024-02-07 11:00 ~ 2024-02-07 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-08-06 02:00 Tue ~ 2024-08-06 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-02-07 11:00 Wed ~ 2024-02-07 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12711,7 +12737,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-08-20T10:00",
 		"startG":"2024-08-20T02:00",
-		"title":"EOS<br>G: 2024-08-20 02:00 ~ 2024-08-20 10:00 1d (UTC y-m-d)<br>Jp: 2024-02-21 11:00 ~ 2024-02-21 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-08-20 02:00 Tue ~ 2024-08-20 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-02-21 11:00 Wed ~ 2024-02-21 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12724,7 +12750,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-09-03T08:00",
 		"startG":"2024-09-03T02:00",
-		"title":"EOS<br>G: 2024-09-03 02:00 ~ 2024-09-03 08:00 1d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 ~ 2024-03-06 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-09-03 02:00 Tue ~ 2024-09-03 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 Wed ~ 2024-03-06 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12737,7 +12763,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-09-24T10:00",
 		"startG":"2024-09-24T02:00",
-		"title":"EOS<br>G: 2024-09-24 02:00 ~ 2024-09-24 10:00 1d (UTC y-m-d)<br>Jp: 2024-03-27 11:00 ~ 2024-03-27 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-09-24 02:00 Tue ~ 2024-09-24 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-03-27 11:00 Wed ~ 2024-03-27 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12750,7 +12776,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-10-09T08:00",
 		"startG":"2024-10-09T02:00",
-		"title":"EOS<br>G: 2024-10-09 02:00 ~ 2024-10-09 08:00 1d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 ~ 2024-04-11 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-10-09 02:00 Wed ~ 2024-10-09 08:00 Wed 1d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 Thu ~ 2024-04-11 17:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12763,7 +12789,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-10-22T10:00",
 		"startG":"2024-10-22T02:00",
-		"title":"EOS<br>G: 2024-10-22 02:00 ~ 2024-10-22 10:00 1d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 ~ 2024-04-24 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-10-22 02:00 Tue ~ 2024-10-22 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 Wed ~ 2024-04-24 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12776,7 +12802,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-11-05T08:00",
 		"startG":"2024-11-05T02:00",
-		"title":"EOS<br>G: 2024-11-05 02:00 ~ 2024-11-05 08:00 1d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 ~ 2024-05-08 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-11-05 02:00 Tue ~ 2024-11-05 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 Wed ~ 2024-05-08 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12789,7 +12815,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-11-19T10:00",
 		"startG":"2024-11-19T02:00",
-		"title":"EOS<br>G: 2024-11-19 02:00 ~ 2024-11-19 10:00 1d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 ~ 2024-05-22 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-11-19 02:00 Tue ~ 2024-11-19 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 Wed ~ 2024-05-22 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12802,7 +12828,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-12-03T08:00",
 		"startG":"2024-12-03T02:00",
-		"title":"EOS<br>G: 2024-12-03 02:00 ~ 2024-12-03 08:00 1d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 ~ 2024-06-05 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-12-03 02:00 Tue ~ 2024-12-03 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-06-05 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12815,7 +12841,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2024-12-24T10:00",
 		"startG":"2024-12-24T02:00",
-		"title":"EOS<br>G: 2024-12-24 02:00 ~ 2024-12-24 10:00 1d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 ~ 2024-06-26 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2024-12-24 02:00 Tue ~ 2024-12-24 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 Wed ~ 2024-06-26 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12828,7 +12854,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-01-06T08:00",
 		"startG":"2025-01-06T02:00",
-		"title":"EOS<br>G: 2025-01-06 02:00 ~ 2025-01-06 08:00 1d (UTC y-m-d)<br>Jp: 2024-07-09 11:00 ~ 2024-07-09 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-01-06 02:00 Mon ~ 2025-01-06 08:00 Mon 1d (UTC y-m-d)<br>Jp: 2024-07-09 11:00 Tue ~ 2024-07-09 17:00 Tue 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12841,7 +12867,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-01-19T10:00",
 		"startG":"2025-01-19T02:00",
-		"title":"EOS<br>G: 2025-01-19 02:00 ~ 2025-01-19 10:00 1d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-07-22 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-01-19 02:00 Sun ~ 2025-01-19 10:00 Sun 1d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 Mon ~ 2024-07-22 19:00 Mon 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12854,7 +12880,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-02-04T08:00",
 		"startG":"2025-02-04T02:00",
-		"title":"EOS<br>G: 2025-02-04 02:00 ~ 2025-02-04 08:00 1d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 ~ 2024-08-07 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-02-04 02:00 Tue ~ 2025-02-04 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 Wed ~ 2024-08-07 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12867,7 +12893,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-02-18T10:00",
 		"startG":"2025-02-18T02:00",
-		"title":"EOS<br>G: 2025-02-18 02:00 ~ 2025-02-18 10:00 1d (UTC y-m-d)<br>Jp: 2024-08-21 11:00 ~ 2024-08-21 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-02-18 02:00 Tue ~ 2025-02-18 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-08-21 11:00 Wed ~ 2024-08-21 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -12880,7 +12906,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-03-04T08:00",
 		"startG":"2025-03-04T02:00",
-		"title":"EOS<br>G: 2025-03-04 02:00 ~ 2025-03-04 08:00 1d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 ~ 2024-09-04 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-03-04 02:00 Tue ~ 2025-03-04 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-04 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"[Main] A Certain Scientific Blue Archive",
@@ -12893,7 +12919,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-05-07T02:00",
 		"startG":"2024-04-22T02:00",
-		"title":"[Main] A Certain Scientific Blue Archive<br>G: 2024-04-22 02:00 ~ 2024-05-07 02:00 15d (UTC y-m-d)<br>Jp: 2023-10-24 11:00 ~ 2023-11-08 11:00 15d (JST y-m-d)",
+		"title":"[Main] A Certain Scientific Blue Archive<br>G: 2024-04-22 02:00 Mon ~ 2024-05-07 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2023-10-24 11:00 Tue ~ 2023-11-08 11:00 Wed 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"[Main] Hatsune Miku Special Live In Kivotos ~Rehearsal~",
@@ -12906,7 +12932,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2022-05-17T03:00",
 		"startG":"2022-05-03T03:30",
-		"title":"[Main] Hatsune Miku Special Live In Kivotos ~Rehearsal~<br>G: 2022-05-03 03:30 ~ 2022-05-17 03:00 14d (UTC y-m-d)<br>Jp: 2021-11-03 12:30 ~ 2021-11-17 12:00 14d (JST y-m-d)",
+		"title":"[Main] Hatsune Miku Special Live In Kivotos ~Rehearsal~<br>G: 2022-05-03 03:30 Tue ~ 2022-05-17 03:00 Tue 14d (UTC y-m-d)<br>Jp: 2021-11-03 12:30 Wed ~ 2021-11-17 12:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Welfare] Junko (New Year)",
@@ -12919,7 +12945,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-09-17T02:00",
 		"startG":"2024-09-03T02:00",
-		"title":"[Welfare] Junko (New Year)<br>G: 2024-09-03 02:00 ~ 2024-09-17 02:00 14d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 ~ 2024-03-20 11:00 14d (JST y-m-d)",
+		"title":"[Welfare] Junko (New Year)<br>G: 2024-09-03 02:00 Tue ~ 2024-09-17 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 Wed ~ 2024-03-20 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Perm] Slapstick Sister and Magician of the Old Bookstore",
@@ -12932,7 +12958,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-09-24T02:00",
 		"startG":"2024-09-17T02:00",
-		"title":"[Perm] Slapstick Sister and Magician of the Old Bookstore<br>G: 2024-09-17 02:00 ~ 2024-09-24 02:00 7d (UTC y-m-d)<br>Jp: 2024-03-20 11:00 ~ 2024-03-27 11:00 7d (JST y-m-d)",
+		"title":"[Perm] Slapstick Sister and Magician of the Old Bookstore<br>G: 2024-09-17 02:00 Tue ~ 2024-09-24 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-03-20 11:00 Wed ~ 2024-03-27 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA Shop] Serika (New Year), Silver, on shop reset",
@@ -12945,7 +12971,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-06T02:00",
 		"startG":"2024-09-29T02:00",
-		"title":"[GA Shop] Serika (New Year), Silver, on shop reset<br>G: 2024-09-29 02:00 ~ 2024-10-06 02:00 7d (UTC y-m-d)<br>Jp: 2024-04-01 11:00 ~ 2024-04-08 11:00 7d (JST y-m-d)",
+		"title":"[GA Shop] Serika (New Year), Silver, on shop reset<br>G: 2024-09-29 02:00 Sun ~ 2024-10-06 02:00 Sun 7d (UTC y-m-d)<br>Jp: 2024-04-01 11:00 Mon ~ 2024-04-08 11:00 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Perm] After School Sweets Story: Sweet Secrets and Gun Fights!",
@@ -12958,7 +12984,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-10-16T02:00",
 		"startG":"2024-10-09T02:00",
-		"title":"[Perm] After School Sweets Story: Sweet Secrets and Gun Fights!<br>G: 2024-10-09 02:00 ~ 2024-10-16 02:00 7d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 ~ 2024-04-18 11:00 7d (JST y-m-d)",
+		"title":"[Perm] After School Sweets Story: Sweet Secrets and Gun Fights!<br>G: 2024-10-09 02:00 Wed ~ 2024-10-16 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 Thu ~ 2024-04-18 11:00 Thu 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Perm Story] V1C3 P1",
@@ -12971,7 +12997,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2024-10-16T02:00",
 		"startG":"2024-10-09T02:00",
-		"title":"[Perm Story] V1C3 P1<br>G: 2024-10-09 02:00 ~ 2024-10-16 02:00 7d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 ~ 2024-04-18 11:00 7d (JST y-m-d)",
+		"title":"[Perm Story] V1C3 P1<br>G: 2024-10-09 02:00 Wed ~ 2024-10-16 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 Thu ~ 2024-04-18 11:00 Thu 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[GA Shop] Asuna (Bunny Girl), Blue, on shop reset",
@@ -12984,7 +13010,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-10-29T02:00",
 		"startG":"2024-10-22T02:00",
-		"title":"[GA Shop] Asuna (Bunny Girl), Blue, on shop reset<br>G: 2024-10-22 02:00 ~ 2024-10-29 02:00 7d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 ~ 2024-05-01 11:00 7d (JST y-m-d)",
+		"title":"[GA Shop] Asuna (Bunny Girl), Blue, on shop reset<br>G: 2024-10-22 02:00 Tue ~ 2024-10-29 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 Wed ~ 2024-05-01 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Bond Gear] Miyu, Kaho, Kaede, Yoshimi",
@@ -12997,7 +13023,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2024-10-29T02:00",
 		"startG":"2024-10-22T02:00",
-		"title":"[Bond Gear] Miyu, Kaho, Kaede, Yoshimi<br>G: 2024-10-22 02:00 ~ 2024-10-29 02:00 7d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 ~ 2024-05-01 11:00 7d (JST y-m-d)",
+		"title":"[Bond Gear] Miyu, Kaho, Kaede, Yoshimi<br>G: 2024-10-22 02:00 Tue ~ 2024-10-29 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 Wed ~ 2024-05-01 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Welfare] Airi (Band)",
@@ -13010,7 +13036,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-05T02:00",
 		"startG":"2024-10-22T02:00",
-		"title":"[Welfare] Airi (Band)<br>G: 2024-10-22 02:00 ~ 2024-11-05 02:00 14d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 ~ 2024-05-08 11:00 14d (JST y-m-d)",
+		"title":"[Welfare] Airi (Band)<br>G: 2024-10-22 02:00 Tue ~ 2024-11-05 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-04-24 11:00 Wed ~ 2024-05-08 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Perm] An Unconcealed Heart",
@@ -13023,7 +13049,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-11-12T02:00",
 		"startG":"2024-11-05T02:00",
-		"title":"[Perm] An Unconcealed Heart<br>G: 2024-11-05 02:00 ~ 2024-11-12 02:00 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 ~ 2024-05-15 11:00 7d (JST y-m-d)",
+		"title":"[Perm] An Unconcealed Heart<br>G: 2024-11-05 02:00 Tue ~ 2024-11-12 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 Wed ~ 2024-05-15 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Perm Welfare] Michiru",
@@ -13036,7 +13062,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-12T02:00",
 		"startG":"2024-11-05T02:00",
-		"title":"[Perm Welfare] Michiru<br>G: 2024-11-05 02:00 ~ 2024-11-12 02:00 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 ~ 2024-05-15 11:00 7d (JST y-m-d)",
+		"title":"[Perm Welfare] Michiru<br>G: 2024-11-05 02:00 Tue ~ 2024-11-12 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 Wed ~ 2024-05-15 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[PVP] Season 7 (Urban)",
@@ -13049,7 +13075,7 @@ jpSched = [
 		"style":"color:black;background-color:orange",
 		"endG":"2024-11-19T02:00",
 		"startG":"2024-11-05T02:00",
-		"title":"[PVP] Season 7 (Urban)<br>G: 2024-11-05 02:00 ~ 2024-11-19 02:00 14d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 ~ 2024-05-22 11:00 14d (JST y-m-d)",
+		"title":"[PVP] Season 7 (Urban)<br>G: 2024-11-05 02:00 Tue ~ 2024-11-19 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 Wed ~ 2024-05-22 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Event Shop] 40 Saya Eleph",
@@ -13062,7 +13088,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-11-19T02:00",
 		"startG":"2024-11-12T02:00",
-		"title":"[Event Shop] 40 Saya Eleph<br>G: 2024-11-12 02:00 ~ 2024-11-19 02:00 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 ~ 2024-05-22 11:00 7d (JST y-m-d)",
+		"title":"[Event Shop] 40 Saya Eleph<br>G: 2024-11-12 02:00 Tue ~ 2024-11-19 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 Wed ~ 2024-05-22 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Bond Gear] Arisu (Maid)",
@@ -13075,7 +13101,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2024-11-26T02:00",
 		"startG":"2024-11-19T02:00",
-		"title":"[Bond Gear] Arisu (Maid)<br>G: 2024-11-19 02:00 ~ 2024-11-26 02:00 7d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 ~ 2024-05-29 11:00 7d (JST y-m-d)",
+		"title":"[Bond Gear] Arisu (Maid)<br>G: 2024-11-19 02:00 Tue ~ 2024-11-26 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 Wed ~ 2024-05-29 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Welfare] Yuzu (Maid)",
@@ -13088,7 +13114,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-03T02:00",
 		"startG":"2024-11-19T02:00",
-		"title":"[Welfare] Yuzu (Maid)<br>G: 2024-11-19 02:00 ~ 2024-12-03 02:00 14d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 ~ 2024-06-05 11:00 14d (JST y-m-d)",
+		"title":"[Welfare] Yuzu (Maid)<br>G: 2024-11-19 02:00 Tue ~ 2024-12-03 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-05-22 11:00 Wed ~ 2024-06-05 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Perm] Abydos Resort Restoration Committee",
@@ -13101,7 +13127,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-12-14T02:00",
 		"startG":"2024-12-03T02:00",
-		"title":"[Perm] Abydos Resort Restoration Committee<br>G: 2024-12-03 02:00 ~ 2024-12-14 02:00 11d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 ~ 2024-06-16 11:00 11d (JST y-m-d)",
+		"title":"[Perm] Abydos Resort Restoration Committee<br>G: 2024-12-03 02:00 Tue ~ 2024-12-14 02:00 Sat 11d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-06-16 11:00 Sun 11d (JST y-m-d)",
 		"duration":11},
 	{
 		"content":"[Perm Welfare] Ayane (Swimsuit)",
@@ -13114,7 +13140,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-14T02:00",
 		"startG":"2024-12-03T02:00",
-		"title":"[Perm Welfare] Ayane (Swimsuit)<br>G: 2024-12-03 02:00 ~ 2024-12-14 02:00 11d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 ~ 2024-06-16 11:00 11d (JST y-m-d)",
+		"title":"[Perm Welfare] Ayane (Swimsuit)<br>G: 2024-12-03 02:00 Tue ~ 2024-12-14 02:00 Sat 11d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-06-16 11:00 Sun 11d (JST y-m-d)",
 		"duration":11},
 	{
 		"content":"[Perm Mission] Area 26 (Shun Youjo)",
@@ -13127,7 +13153,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-17T02:00",
 		"startG":"2024-12-03T02:00",
-		"title":"[Perm Mission] Area 26 (Shun Youjo)<br>G: 2024-12-03 02:00 ~ 2024-12-17 02:00 14d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 ~ 2024-06-19 11:00 14d (JST y-m-d)",
+		"title":"[Perm Mission] Area 26 (Shun Youjo)<br>G: 2024-12-03 02:00 Tue ~ 2024-12-17 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-06-19 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Perm Story] V1C3 P2",
@@ -13140,7 +13166,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2024-12-17T02:00",
 		"startG":"2024-12-03T02:00",
-		"title":"[Perm Story] V1C3 P2<br>G: 2024-12-03 02:00 ~ 2024-12-17 02:00 14d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 ~ 2024-06-19 11:00 14d (JST y-m-d)",
+		"title":"[Perm Story] V1C3 P2<br>G: 2024-12-03 02:00 Tue ~ 2024-12-17 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-06-19 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Perm] Business Trip! The Momoyodou Beach House Franchise Plan!",
@@ -13153,7 +13179,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2024-12-24T02:00",
 		"startG":"2024-12-14T02:00",
-		"title":"[Perm] Business Trip! The Momoyodou Beach House Franchise Plan!<br>G: 2024-12-14 02:00 ~ 2024-12-24 02:00 10d (UTC y-m-d)<br>Jp: 2024-06-16 11:00 ~ 2024-06-26 11:00 10d (JST y-m-d)",
+		"title":"[Perm] Business Trip! The Momoyodou Beach House Franchise Plan!<br>G: 2024-12-14 02:00 Sat ~ 2024-12-24 02:00 Tue 10d (UTC y-m-d)<br>Jp: 2024-06-16 11:00 Sun ~ 2024-06-26 11:00 Wed 10d (JST y-m-d)",
 		"duration":10},
 	{
 		"content":"[Perm Welfare] Shizuko (Swimsuit)",
@@ -13166,7 +13192,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2024-12-24T02:00",
 		"startG":"2024-12-14T02:00",
-		"title":"[Perm Welfare] Shizuko (Swimsuit)<br>G: 2024-12-14 02:00 ~ 2024-12-24 02:00 10d (UTC y-m-d)<br>Jp: 2024-06-16 11:00 ~ 2024-06-26 11:00 10d (JST y-m-d)",
+		"title":"[Perm Welfare] Shizuko (Swimsuit)<br>G: 2024-12-14 02:00 Sat ~ 2024-12-24 02:00 Tue 10d (UTC y-m-d)<br>Jp: 2024-06-16 11:00 Sun ~ 2024-06-26 11:00 Wed 10d (JST y-m-d)",
 		"duration":10},
 	{
 		"content":"[Perm Story] V1C3 P3",
@@ -13179,7 +13205,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2024-12-31T02:00",
 		"startG":"2024-12-17T02:00",
-		"title":"[Perm Story] V1C3 P3<br>G: 2024-12-17 02:00 ~ 2024-12-31 02:00 14d (UTC y-m-d)<br>Jp: 2024-06-19 11:00 ~ 2024-07-03 11:00 14d (JST y-m-d)",
+		"title":"[Perm Story] V1C3 P3<br>G: 2024-12-17 02:00 Tue ~ 2024-12-31 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-06-19 11:00 Wed ~ 2024-07-03 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Welfare] Kirino (Swimsuit)",
@@ -13192,7 +13218,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-07T02:00",
 		"startG":"2024-12-24T02:00",
-		"title":"[Welfare] Kirino (Swimsuit)<br>G: 2024-12-24 02:00 ~ 2025-01-07 02:00 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 ~ 2024-07-10 11:00 14d (JST y-m-d)",
+		"title":"[Welfare] Kirino (Swimsuit)<br>G: 2024-12-24 02:00 Tue ~ 2025-01-07 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 Wed ~ 2024-07-10 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Bond Gear] Hoshino, Hina, Chise",
@@ -13205,7 +13231,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-01-07T02:00",
 		"startG":"2024-12-24T02:00",
-		"title":"[Bond Gear] Hoshino, Hina, Chise<br>G: 2024-12-24 02:00 ~ 2025-01-07 02:00 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 ~ 2024-07-10 11:00 14d (JST y-m-d)",
+		"title":"[Bond Gear] Hoshino, Hina, Chise<br>G: 2024-12-24 02:00 Tue ~ 2025-01-07 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 Wed ~ 2024-07-10 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"Bing!",
@@ -13218,7 +13244,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-01-07T02:00",
 		"startG":"2024-12-24T02:00",
-		"title":"Bing!<br>G: 2024-12-24 02:00 ~ 2025-01-07 02:00 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 ~ 2024-07-10 11:00 14d (JST y-m-d)",
+		"title":"Bing!<br>G: 2024-12-24 02:00 Tue ~ 2025-01-07 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-06-26 11:00 Wed ~ 2024-07-10 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[TA Shop] Cherino (Onsen), Yellow, on shop reset",
@@ -13231,7 +13257,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-11T02:00",
 		"startG":"2024-12-29T02:00",
-		"title":"[TA Shop] Cherino (Onsen), Yellow, on shop reset<br>G: 2024-12-29 02:00 ~ 2025-01-11 02:00 13d (UTC y-m-d)<br>Jp: 2024-07-01 11:00 ~ 2024-07-14 11:00 13d (JST y-m-d)",
+		"title":"[TA Shop] Cherino (Onsen), Yellow, on shop reset<br>G: 2024-12-29 02:00 Sun ~ 2025-01-11 02:00 Sat 13d (UTC y-m-d)<br>Jp: 2024-07-01 11:00 Mon ~ 2024-07-14 11:00 Sun 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"[Welfare] Miyu (Swimsuit)",
@@ -13244,7 +13270,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-01-14T02:00",
 		"startG":"2025-01-07T02:00",
-		"title":"[Welfare] Miyu (Swimsuit)<br>G: 2025-01-07 02:00 ~ 2025-01-14 02:00 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 ~ 2024-07-17 11:00 7d (JST y-m-d)",
+		"title":"[Welfare] Miyu (Swimsuit)<br>G: 2025-01-07 02:00 Tue ~ 2025-01-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 Wed ~ 2024-07-17 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Perm Story] V1C3 P4",
@@ -13257,7 +13283,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-01-28T02:00",
 		"startG":"2025-01-14T02:00",
-		"title":"[Perm Story] V1C3 P4<br>G: 2025-01-14 02:00 ~ 2025-01-28 02:00 14d (UTC y-m-d)<br>Jp: 2024-07-17 11:00 ~ 2024-07-31 11:00 14d (JST y-m-d)",
+		"title":"[Perm Story] V1C3 P4<br>G: 2025-01-14 02:00 Tue ~ 2025-01-28 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-07-17 11:00 Wed ~ 2024-07-31 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[TA Shop] Chihiro, Purple, on shop reset",
@@ -13270,7 +13296,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-02-02T02:00",
 		"startG":"2025-01-19T02:00",
-		"title":"[TA Shop] Chihiro, Purple, on shop reset<br>G: 2025-01-19 02:00 ~ 2025-02-02 02:00 14d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-08-05 11:00 14d (JST y-m-d)",
+		"title":"[TA Shop] Chihiro, Purple, on shop reset<br>G: 2025-01-19 02:00 Sun ~ 2025-02-02 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 Mon ~ 2024-08-05 11:00 Mon 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[PVP Shop] Miyako",
@@ -13283,7 +13309,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-02-02T02:00",
 		"startG":"2025-01-19T02:00",
-		"title":"[PVP Shop] Miyako<br>G: 2025-01-19 02:00 ~ 2025-02-02 02:00 14d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-08-05 11:00 14d (JST y-m-d)",
+		"title":"[PVP Shop] Miyako<br>G: 2025-01-19 02:00 Sun ~ 2025-02-02 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 Mon ~ 2024-08-05 11:00 Mon 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Welfare] Atsuko (Swimsuit)",
@@ -13296,7 +13322,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-02-04T02:00",
 		"startG":"2025-01-19T02:00",
-		"title":"[Welfare] Atsuko (Swimsuit)<br>G: 2025-01-19 02:00 ~ 2025-02-04 02:00 16d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-08-07 11:00 16d (JST y-m-d)",
+		"title":"[Welfare] Atsuko (Swimsuit)<br>G: 2025-01-19 02:00 Sun ~ 2025-02-04 02:00 Tue 16d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 Mon ~ 2024-08-07 11:00 Wed 16d (JST y-m-d)",
 		"duration":16},
 	{
 		"content":"[Perm Story] V1C3 P5",
@@ -13309,7 +13335,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-02-02T02:00",
 		"startG":"2025-01-19T02:00",
-		"title":"[Perm Story] V1C3 P5<br>G: 2025-01-19 02:00 ~ 2025-02-02 02:00 14d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-08-05 11:00 14d (JST y-m-d)",
+		"title":"[Perm Story] V1C3 P5<br>G: 2025-01-19 02:00 Sun ~ 2025-02-02 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 Mon ~ 2024-08-05 11:00 Mon 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[QoL] T5 Gear drop buff",
@@ -13322,7 +13348,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-02-02T02:00",
 		"startG":"2025-01-19T02:00",
-		"title":"[QoL] T5 Gear drop buff<br>G: 2025-01-19 02:00 ~ 2025-02-02 02:00 14d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 ~ 2024-08-05 11:00 14d (JST y-m-d)",
+		"title":"[QoL] T5 Gear drop buff<br>G: 2025-01-19 02:00 Sun ~ 2025-02-02 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2024-07-22 11:00 Mon ~ 2024-08-05 11:00 Mon 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Event Shop] 40 Cherino (Onsen) Elephs",
@@ -13335,7 +13361,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-02-11T02:00",
 		"startG":"2025-02-04T02:00",
-		"title":"[Event Shop] 40 Cherino (Onsen) Elephs<br>G: 2025-02-04 02:00 ~ 2025-02-11 02:00 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 ~ 2024-08-14 11:00 7d (JST y-m-d)",
+		"title":"[Event Shop] 40 Cherino (Onsen) Elephs<br>G: 2025-02-04 02:00 Tue ~ 2025-02-11 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 Wed ~ 2024-08-14 11:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Perm Lesson Area] Haruhabara",
@@ -13348,7 +13374,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-03-04T02:00",
 		"startG":"2025-02-18T02:00",
-		"title":"[Perm Lesson Area] Haruhabara<br>G: 2025-02-18 02:00 ~ 2025-03-04 02:00 14d (UTC y-m-d)<br>Jp: 2024-08-21 11:00 ~ 2024-09-04 11:00 14d (JST y-m-d)",
+		"title":"[Perm Lesson Area] Haruhabara<br>G: 2025-02-18 02:00 Tue ~ 2025-03-04 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-08-21 11:00 Wed ~ 2024-09-04 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Welfare] Koharu (Swimsuit)",
@@ -13361,7 +13387,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-03-18T02:00",
 		"startG":"2025-03-04T02:00",
-		"title":"[Welfare] Koharu (Swimsuit)<br>G: 2025-03-04 02:00 ~ 2025-03-18 02:00 14d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 ~ 2024-09-18 11:00 14d (JST y-m-d)",
+		"title":"[Welfare] Koharu (Swimsuit)<br>G: 2025-03-04 02:00 Tue ~ 2025-03-18 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-18 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Perm Group Story] Genryuumon",
@@ -13374,7 +13400,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-04-02T02:00",
 		"startG":"2025-03-19T02:00",
-		"title":"[Perm Group Story] Genryuumon<br>G: 2025-03-19 02:00 ~ 2025-04-02 02:00 14d (UTC y-m-d)<br>Jp: 2024-09-19 11:00 ~ 2024-10-03 11:00 14d (JST y-m-d)",
+		"title":"[Perm Group Story] Genryuumon<br>G: 2025-03-19 02:00 Wed ~ 2025-04-02 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2024-09-19 11:00 Thu ~ 2024-10-03 11:00 Thu 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"EOS",
@@ -13387,7 +13413,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-03-25T10:00",
 		"startG":"2025-03-25T02:00",
-		"title":"EOS<br>G: 2025-03-25 02:00 ~ 2025-03-25 10:00 1d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-09-25 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-03-25 02:00 Tue ~ 2025-03-25 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 Wed ~ 2024-09-25 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"[Bond Gear] Iori (Swimsuit), Hibiki, Shizuko, Mari",
@@ -13400,7 +13426,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-04-09T02:00",
 		"startG":"2025-03-25T02:00",
-		"title":"[Bond Gear] Iori (Swimsuit), Hibiki, Shizuko, Mari<br>G: 2025-03-25 02:00 ~ 2025-04-09 02:00 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 11:00 15d (JST y-m-d)",
+		"title":"[Bond Gear] Iori (Swimsuit), Hibiki, Shizuko, Mari<br>G: 2025-03-25 02:00 Tue ~ 2025-04-09 02:00 Wed 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 Wed ~ 2024-10-10 11:00 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"[Event Perm] Task Force Emergency Nighttime Meeting",
@@ -13413,7 +13439,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-04-09T02:00",
 		"startG":"2025-03-25T02:00",
-		"title":"[Event Perm] Task Force Emergency Nighttime Meeting<br>G: 2025-03-25 02:00 ~ 2025-04-09 02:00 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 11:00 15d (JST y-m-d)",
+		"title":"[Event Perm] Task Force Emergency Nighttime Meeting<br>G: 2025-03-25 02:00 Tue ~ 2025-04-09 02:00 Wed 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 Wed ~ 2024-10-10 11:00 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"[Event Shop] 40 Arisu Eleph",
@@ -13426,7 +13452,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-09T02:00",
 		"startG":"2025-03-25T02:00",
-		"title":"[Event Shop] 40 Arisu Eleph<br>G: 2025-03-25 02:00 ~ 2025-04-09 02:00 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 ~ 2024-10-10 11:00 15d (JST y-m-d)",
+		"title":"[Event Shop] 40 Arisu Eleph<br>G: 2025-03-25 02:00 Tue ~ 2025-04-09 02:00 Wed 15d (UTC y-m-d)<br>Jp: 2024-09-25 11:00 Wed ~ 2024-10-10 11:00 Thu 15d (JST y-m-d)",
 		"duration":15},
 	{
 		"content":"EOS",
@@ -13439,7 +13465,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-04-09T08:00",
 		"startG":"2025-04-09T02:00",
-		"title":"EOS<br>G: 2025-04-09 02:00 ~ 2025-04-09 08:00 1d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 ~ 2024-10-10 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-04-09 02:00 Wed ~ 2025-04-09 08:00 Wed 1d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 Thu ~ 2024-10-10 17:00 Thu 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"[Perm Mission] Area 27 (Chinatsu (Onsen) + Cafe up: 739/740 AP in 24h!)",
@@ -13452,7 +13478,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-04-22T02:00",
 		"startG":"2025-04-09T02:00",
-		"title":"[Perm Mission] Area 27 (Chinatsu (Onsen) + Cafe up: 739/740 AP in 24h!)<br>G: 2025-04-09 02:00 ~ 2025-04-22 02:00 13d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 ~ 2024-10-23 11:00 13d (JST y-m-d)",
+		"title":"[Perm Mission] Area 27 (Chinatsu (Onsen) + Cafe up: 739/740 AP in 24h!)<br>G: 2025-04-09 02:00 Wed ~ 2025-04-22 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 Thu ~ 2024-10-23 11:00 Wed 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"[Perm] Cafe upgrade (739/740 AP in 24h!)",
@@ -13465,7 +13491,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-04-22T02:00",
 		"startG":"2025-04-09T02:00",
-		"title":"[Perm] Cafe upgrade (739/740 AP in 24h!)<br>G: 2025-04-09 02:00 ~ 2025-04-22 02:00 13d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 ~ 2024-10-23 11:00 13d (JST y-m-d)",
+		"title":"[Perm] Cafe upgrade (739/740 AP in 24h!)<br>G: 2025-04-09 02:00 Wed ~ 2025-04-22 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 Thu ~ 2024-10-23 11:00 Wed 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"[PVP] Season 8 (Outdoors)",
@@ -13478,7 +13504,7 @@ jpSched = [
 		"style":"color:black;background-color:orange",
 		"endG":"2025-05-20T02:00",
 		"startG":"2025-05-06T02:00",
-		"title":"[PVP] Season 8 (Outdoors)<br>G: 2025-05-06 02:00 ~ 2025-05-20 02:00 14d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-20 11:00 14d (JST y-m-d)",
+		"title":"[PVP] Season 8 (Outdoors)<br>G: 2025-05-06 02:00 Tue ~ 2025-05-20 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 Wed ~ 2024-11-20 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"EOS",
@@ -13491,7 +13517,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-04-22T10:00",
 		"startG":"2025-04-22T02:00",
-		"title":"EOS<br>G: 2025-04-22 02:00 ~ 2025-04-22 10:00 1d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 ~ 2024-10-23 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-04-22 02:00 Tue ~ 2025-04-22 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 Wed ~ 2024-10-23 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"[Welfare] Mine (Idol)",
@@ -13504,7 +13530,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-06T02:00",
 		"startG":"2025-04-22T02:00",
-		"title":"[Welfare] Mine (Idol)<br>G: 2025-04-22 02:00 ~ 2025-05-06 02:00 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 ~ 2024-11-06 11:00 14d (JST y-m-d)",
+		"title":"[Welfare] Mine (Idol)<br>G: 2025-04-22 02:00 Tue ~ 2025-05-06 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 Wed ~ 2024-11-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Perm Story] Vol.EX: Decagrammaton Ch.1",
@@ -13517,7 +13543,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-05-06T02:00",
 		"startG":"2025-04-22T02:00",
-		"title":"[Perm Story] Vol.EX: Decagrammaton Ch.1<br>G: 2025-04-22 02:00 ~ 2025-05-06 02:00 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 ~ 2024-11-06 11:00 14d (JST y-m-d)",
+		"title":"[Perm Story] Vol.EX: Decagrammaton Ch.1<br>G: 2025-04-22 02:00 Tue ~ 2025-05-06 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 Wed ~ 2024-11-06 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[GA Shop] Natsu, Silver, on shop reset",
@@ -13530,7 +13556,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-05-13T18:59",
 		"startG":"2025-04-30T19:00",
-		"title":"[GA Shop] Natsu, Silver, on shop reset<br>G: 2025-04-30 19:00 ~ 2025-05-13 18:59 13d (UTC y-m-d)<br>Jp: 2024-11-01 04:00 ~ 2024-11-14 03:59 13d (JST y-m-d)",
+		"title":"[GA Shop] Natsu, Silver, on shop reset<br>G: 2025-04-30 19:00 Wed ~ 2025-05-13 18:59 Tue 13d (UTC y-m-d)<br>Jp: 2024-11-01 04:00 Fri ~ 2024-11-14 03:59 Thu 13d (JST y-m-d)",
 		"duration":13},
 	{
 		"content":"[Perm Story] Vol.EX: Decagrammaton Ch.2 P1",
@@ -13543,7 +13569,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-05-20T02:00",
 		"startG":"2025-05-06T02:00",
-		"title":"[Perm Story] Vol.EX: Decagrammaton Ch.2 P1<br>G: 2025-05-06 02:00 ~ 2025-05-20 02:00 14d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-20 11:00 14d (JST y-m-d)",
+		"title":"[Perm Story] Vol.EX: Decagrammaton Ch.2 P1<br>G: 2025-05-06 02:00 Tue ~ 2025-05-20 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 Wed ~ 2024-11-20 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"EOS",
@@ -13556,7 +13582,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-05-06T08:00",
 		"startG":"2025-05-06T02:00",
-		"title":"EOS<br>G: 2025-05-06 02:00 ~ 2025-05-06 08:00 1d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 ~ 2024-11-06 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-05-06 02:00 Tue ~ 2025-05-06 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 Wed ~ 2024-11-06 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -13569,7 +13595,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-05-20T10:00",
 		"startG":"2025-05-20T02:00",
-		"title":"EOS<br>G: 2025-05-20 02:00 ~ 2025-05-20 10:00 1d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 ~ 2024-11-20 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-05-20 02:00 Tue ~ 2025-05-20 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 Wed ~ 2024-11-20 19:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"[Welfare] Ibuki",
@@ -13582,7 +13608,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-03T02:00",
 		"startG":"2025-05-20T02:00",
-		"title":"[Welfare] Ibuki<br>G: 2025-05-20 02:00 ~ 2025-06-03 02:00 14d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 ~ 2024-12-04 11:00 14d (JST y-m-d)",
+		"title":"[Welfare] Ibuki<br>G: 2025-05-20 02:00 Tue ~ 2025-06-03 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-11-20 11:00 Wed ~ 2024-12-04 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Perm] On Your Mark",
@@ -13595,7 +13621,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-06-16T19:00",
 		"startG":"2025-06-10T02:00",
-		"title":"[Perm] On Your Mark<br>G: 2025-06-10 02:00 ~ 2025-06-16 19:00 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 ~ 2024-12-18 04:00 7d (JST y-m-d)",
+		"title":"[Perm] On Your Mark<br>G: 2025-06-10 02:00 Tue ~ 2025-06-16 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 Wed ~ 2024-12-18 04:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Perm Welfare] Hibiki (Cheerleader)",
@@ -13608,7 +13634,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-16T19:00",
 		"startG":"2025-06-10T02:00",
-		"title":"[Perm Welfare] Hibiki (Cheerleader)<br>G: 2025-06-10 02:00 ~ 2025-06-16 19:00 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 ~ 2024-12-18 04:00 7d (JST y-m-d)",
+		"title":"[Perm Welfare] Hibiki (Cheerleader)<br>G: 2025-06-10 02:00 Tue ~ 2025-06-16 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 Wed ~ 2024-12-18 04:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Perm] Get Set, Go!",
@@ -13621,7 +13647,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-06-22T19:00",
 		"startG":"2025-06-17T02:00",
-		"title":"[Perm] Get Set, Go!<br>G: 2025-06-17 02:00 ~ 2025-06-22 19:00 6d (UTC y-m-d)<br>Jp: 2024-12-18 11:00 ~ 2024-12-24 04:00 6d (JST y-m-d)",
+		"title":"[Perm] Get Set, Go!<br>G: 2025-06-17 02:00 Tue ~ 2025-06-22 19:00 Sun 6d (UTC y-m-d)<br>Jp: 2024-12-18 11:00 Wed ~ 2024-12-24 04:00 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"[Perm Welfare] Hasumi (Sportswearmaxxed)",
@@ -13634,7 +13660,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-06-22T19:00",
 		"startG":"2025-06-17T02:00",
-		"title":"[Perm Welfare] Hasumi (Sportswearmaxxed)<br>G: 2025-06-17 02:00 ~ 2025-06-22 19:00 6d (UTC y-m-d)<br>Jp: 2024-12-18 11:00 ~ 2024-12-24 04:00 6d (JST y-m-d)",
+		"title":"[Perm Welfare] Hasumi (Sportswearmaxxed)<br>G: 2025-06-17 02:00 Tue ~ 2025-06-22 19:00 Sun 6d (UTC y-m-d)<br>Jp: 2024-12-18 11:00 Wed ~ 2024-12-24 04:00 Tue 6d (JST y-m-d)",
 		"duration":6},
 	{
 		"content":"EOS",
@@ -13647,7 +13673,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-06-03T08:00",
 		"startG":"2025-06-03T02:00",
-		"title":"EOS<br>G: 2025-06-03 02:00 ~ 2025-06-03 08:00 1d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 ~ 2024-12-04 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-06-03 02:00 Tue ~ 2025-06-03 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 Wed ~ 2024-12-04 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"[Perm Group Story] Hot Springs Development Club",
@@ -13660,7 +13686,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-06-17T02:00",
 		"startG":"2025-06-03T02:00",
-		"title":"[Perm Group Story] Hot Springs Development Club<br>G: 2025-06-03 02:00 ~ 2025-06-17 02:00 14d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 ~ 2024-12-18 11:00 14d (JST y-m-d)",
+		"title":"[Perm Group Story] Hot Springs Development Club<br>G: 2025-06-03 02:00 Tue ~ 2025-06-17 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 Wed ~ 2024-12-18 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Perm Mini Story] Highlander Railroad Academy Operation Log",
@@ -13673,7 +13699,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-06-24T02:00",
 		"startG":"2025-06-10T02:00",
-		"title":"[Perm Mini Story] Highlander Railroad Academy Operation Log<br>G: 2025-06-10 02:00 ~ 2025-06-24 02:00 14d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 ~ 2024-12-25 11:00 14d (JST y-m-d)",
+		"title":"[Perm Mini Story] Highlander Railroad Academy Operation Log<br>G: 2025-06-10 02:00 Tue ~ 2025-06-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 Wed ~ 2024-12-25 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Perm Mini Story] A Present Without Master (Sora)",
@@ -13686,7 +13712,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-07-01T02:00",
 		"startG":"2025-06-17T02:00",
-		"title":"[Perm Mini Story] A Present Without Master (Sora)<br>G: 2025-06-17 02:00 ~ 2025-07-01 02:00 14d (UTC y-m-d)<br>Jp: 2024-12-18 11:00 ~ 2025-01-01 11:00 14d (JST y-m-d)",
+		"title":"[Perm Mini Story] A Present Without Master (Sora)<br>G: 2025-06-17 02:00 Tue ~ 2025-07-01 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-12-18 11:00 Wed ~ 2025-01-01 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"EOS",
@@ -13699,7 +13725,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-06-10T08:00",
 		"startG":"2025-06-10T02:00",
-		"title":"EOS<br>G: 2025-06-10 02:00 ~ 2025-06-10 08:00 1d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 ~ 2024-12-11 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-06-10 02:00 Tue ~ 2025-06-10 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 Wed ~ 2024-12-11 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"EOS",
@@ -13712,7 +13738,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-06-23T10:00",
 		"startG":"2025-06-23T02:00",
-		"title":"EOS<br>G: 2025-06-23 02:00 ~ 2025-06-23 10:00 1d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 ~ 2024-12-24 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-06-23 02:00 Mon ~ 2025-06-23 10:00 Mon 1d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 Tue ~ 2024-12-24 19:00 Tue 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"L2D CGs for V1C1E2 + V1C2E19",
@@ -13725,7 +13751,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-07-07T02:00",
 		"startG":"2025-06-23T02:00",
-		"title":"L2D CGs for V1C1E2 + V1C2E19<br>G: 2025-06-23 02:00 ~ 2025-07-07 02:00 14d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 ~ 2025-01-07 11:00 14d (JST y-m-d)",
+		"title":"L2D CGs for V1C1E2 + V1C2E19<br>G: 2025-06-23 02:00 Mon ~ 2025-07-07 02:00 Mon 14d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 Tue ~ 2025-01-07 11:00 Tue 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Bond Gear] Toki, Mashiro, Kotori",
@@ -13738,7 +13764,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-07-07T02:00",
 		"startG":"2025-06-23T02:00",
-		"title":"[Bond Gear] Toki, Mashiro, Kotori<br>G: 2025-06-23 02:00 ~ 2025-07-07 02:00 14d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 ~ 2025-01-07 11:00 14d (JST y-m-d)",
+		"title":"[Bond Gear] Toki, Mashiro, Kotori<br>G: 2025-06-23 02:00 Mon ~ 2025-07-07 02:00 Mon 14d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 Tue ~ 2025-01-07 11:00 Tue 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"EOS",
@@ -13751,7 +13777,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-07-08T08:00",
 		"startG":"2025-07-08T02:00",
-		"title":"EOS<br>G: 2025-07-08 02:00 ~ 2025-07-08 08:00 1d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 ~ 2025-01-08 17:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-07-08 02:00 Tue ~ 2025-07-08 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 Wed ~ 2025-01-08 17:00 Wed 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"[Login] 4th Anni Countdown",
@@ -13764,7 +13790,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-07-19T19:00",
 		"startG":"2025-07-12T19:00",
-		"title":"[Login] 4th Anni Countdown<br>G: 2025-07-12 19:00 ~ 2025-07-19 19:00 7d (UTC y-m-d)<br>Jp: 2025-01-13 04:00 ~ 2025-01-20 04:00 7d (JST y-m-d)",
+		"title":"[Login] 4th Anni Countdown<br>G: 2025-07-12 19:00 Sat ~ 2025-07-19 19:00 Sat 7d (UTC y-m-d)<br>Jp: 2025-01-13 04:00 Mon ~ 2025-01-20 04:00 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Perm] Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~",
@@ -13777,7 +13803,7 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-07-20T02:00",
 		"startG":"2025-07-15T02:00",
-		"title":"[Perm] Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~<br>G: 2025-07-15 02:00 ~ 2025-07-20 02:00 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 ~ 2025-01-20 11:00 5d (JST y-m-d)",
+		"title":"[Perm] Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~<br>G: 2025-07-15 02:00 Tue ~ 2025-07-20 02:00 Sun 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 Wed ~ 2025-01-20 11:00 Mon 5d (JST y-m-d)",
 		"duration":5},
 	{
 		"content":"EOS",
@@ -13790,7 +13816,7 @@ jpSched = [
 		"style":"color:red;background-color:red;height:15px",
 		"endG":"2025-07-20T10:00",
 		"startG":"2025-07-20T02:00",
-		"title":"EOS<br>G: 2025-07-20 02:00 ~ 2025-07-20 10:00 1d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 ~ 2025-01-20 19:00 1d (JST y-m-d)",
+		"title":"EOS<br>G: 2025-07-20 02:00 Sun ~ 2025-07-20 10:00 Sun 1d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-01-20 19:00 Mon 1d (JST y-m-d)",
 		"duration":1},
 	{
 		"content":"[QoL] Newfag XP boost + Easier Missions 1-17 + Play Guide",
@@ -13803,7 +13829,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-08-03T02:00",
 		"startG":"2025-07-20T02:00",
-		"title":"[QoL] Newfag XP boost + Easier Missions 1-17 + Play Guide<br>G: 2025-07-20 02:00 ~ 2025-08-03 02:00 14d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 ~ 2025-02-03 11:00 14d (JST y-m-d)",
+		"title":"[QoL] Newfag XP boost + Easier Missions 1-17 + Play Guide<br>G: 2025-07-20 02:00 Sun ~ 2025-08-03 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-02-03 11:00 Mon 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[QoL] Cafe Visit, EX/Cost UI on the left side",
@@ -13816,7 +13842,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-08-03T02:00",
 		"startG":"2025-07-20T02:00",
-		"title":"[QoL] Cafe Visit, EX/Cost UI on the left side<br>G: 2025-07-20 02:00 ~ 2025-08-03 02:00 14d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 ~ 2025-02-03 11:00 14d (JST y-m-d)",
+		"title":"[QoL] Cafe Visit, EX/Cost UI on the left side<br>G: 2025-07-20 02:00 Sun ~ 2025-08-03 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-02-03 11:00 Mon 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Welfare] Karin (Seifuku) (New)",
@@ -13829,7 +13855,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-07-27T02:00",
 		"startG":"2025-07-20T02:00",
-		"title":"[Welfare] Karin (Seifuku) (New)<br>G: 2025-07-20 02:00 ~ 2025-07-27 02:00 7d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 ~ 2025-01-27 11:00 7d (JST y-m-d)",
+		"title":"[Welfare] Karin (Seifuku) (New)<br>G: 2025-07-20 02:00 Sun ~ 2025-07-27 02:00 Sun 7d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-01-27 11:00 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[Bluefes] 2x 3* rate",
@@ -13842,7 +13868,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-08-03T02:00",
 		"startG":"2025-07-27T02:00",
-		"title":"[Bluefes] 2x 3* rate<br>G: 2025-07-27 02:00 ~ 2025-08-03 02:00 7d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 ~ 2025-02-03 11:00 7d (JST y-m-d)",
+		"title":"[Bluefes] 2x 3* rate<br>G: 2025-07-27 02:00 Sun ~ 2025-08-03 02:00 Sun 7d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-03 11:00 Mon 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"New Raid Difficulty: Lunatic",
@@ -13855,7 +13881,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-08-10T02:00",
 		"startG":"2025-07-27T02:00",
-		"title":"New Raid Difficulty: Lunatic<br>G: 2025-07-27 02:00 ~ 2025-08-10 02:00 14d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 ~ 2025-02-10 11:00 14d (JST y-m-d)",
+		"title":"New Raid Difficulty: Lunatic<br>G: 2025-07-27 02:00 Sun ~ 2025-08-10 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-10 11:00 Mon 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[QoL] Damage cap increase",
@@ -13868,7 +13894,7 @@ jpSched = [
 		"style":"color:black;background-color:lightblue",
 		"endG":"2025-08-10T02:00",
 		"startG":"2025-07-27T02:00",
-		"title":"[QoL] Damage cap increase<br>G: 2025-07-27 02:00 ~ 2025-08-10 02:00 14d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 ~ 2025-02-10 11:00 14d (JST y-m-d)",
+		"title":"[QoL] Damage cap increase<br>G: 2025-07-27 02:00 Sun ~ 2025-08-10 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-10 11:00 Mon 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[GA Shop] Kaede, on shop reset",
@@ -13881,10 +13907,10 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-08-13T19:00",
 		"startG":"2025-07-31T19:00",
-		"title":"[GA Shop] Kaede, on shop reset<br>G: 2025-07-31 19:00 ~ 2025-08-13 19:00 13d (UTC y-m-d)<br>Jp: 2025-02-01 04:00 ~ 2025-02-14 04:00 13d (JST y-m-d)",
+		"title":"[GA Shop] Kaede, on shop reset<br>G: 2025-07-31 19:00 Thu ~ 2025-08-13 19:00 Wed 13d (UTC y-m-d)<br>Jp: 2025-02-01 04:00 Sat ~ 2025-02-14 04:00 Fri 13d (JST y-m-d)",
 		"duration":13},
 	{
-		"content":"[Mission] Area 28 (?Misaki? + T10)",
+		"content":"[Mission] Area 28 (Misaki + Cafe2 Lv10 + T10)",
 		"start":"2025-08-03T02:00",
 		"startJp":"2025-02-03T11:00",
 		"end":"2025-08-16T19:00",
@@ -13894,7 +13920,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-08-16T19:00",
 		"startG":"2025-08-03T02:00",
-		"title":"[Mission] Area 28 (?Misaki? + T10)<br>G: 2025-08-03 02:00 ~ 2025-08-16 19:00 14d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 ~ 2025-02-17 04:00 14d (JST y-m-d)",
+		"title":"[Mission] Area 28 (Misaki + Cafe2 Lv10 + T10)<br>G: 2025-08-03 02:00 Sun ~ 2025-08-16 19:00 Sat 14d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-17 04:00 Mon 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"[Story] Vol.EX: Decagrammaton Ch.2 P2",
@@ -13907,7 +13933,33 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-08-17T02:00",
 		"startG":"2025-08-03T02:00",
-		"title":"[Story] Vol.EX: Decagrammaton Ch.2 P2<br>G: 2025-08-03 02:00 ~ 2025-08-17 02:00 14d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 ~ 2025-02-17 11:00 14d (JST y-m-d)",
+		"title":"[Story] Vol.EX: Decagrammaton Ch.2 P2<br>G: 2025-08-03 02:00 Sun ~ 2025-08-17 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-17 11:00 Mon 14d (JST y-m-d)",
+		"duration":14},
+	{
+		"content":"EOS",
+		"start":"2025-08-20T02:00",
+		"startJp":"2025-02-20T11:00",
+		"end":"2025-08-03T08:00",
+		"endJp":"2025-02-03T17:00",
+		"group":"J Maint",
+		"subgroup":"",
+		"style":"color:red;background-color:red;height:15px",
+		"endG":"2025-08-03T08:00",
+		"startG":"2025-08-20T02:00",
+		"title":"EOS<br>G: 2025-08-20 02:00 Wed ~ 2025-08-03 08:00 Sun -16d (UTC y-m-d)<br>Jp: 2025-02-20 11:00 Thu ~ 2025-02-03 17:00 Mon -16d (JST y-m-d)",
+		"duration":-16},
+	{
+		"content":"[Mini Story] A Certain February Record",
+		"start":"2025-08-12T02:00",
+		"startJp":"2025-02-12T11:00",
+		"end":"2025-08-26T02:00",
+		"endJp":"2025-02-26T11:00",
+		"group":"J Other",
+		"subgroup":"Other",
+		"style":"color:black;background-color:yellow",
+		"endG":"2025-08-26T02:00",
+		"startG":"2025-08-12T02:00",
+		"title":"[Mini Story] A Certain February Record<br>G: 2025-08-12 02:00 Tue ~ 2025-08-26 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 Wed ~ 2025-02-26 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"<b>2x XP</b>",
@@ -13920,7 +13972,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgreen",
 		"endG":"2025-07-05T19:00",
 		"startG":"2025-07-03T19:00",
-		"title":"<b>2x XP</b><br>G: 2025-07-03 19:00 ~ 2025-07-05 19:00 2d (UTC y-m-d)<br>Jp: 2025-01-04 04:00 ~ 2025-01-06 04:00 2d (JST y-m-d)",
+		"title":"<b>2x XP</b><br>G: 2025-07-03 19:00 Thu ~ 2025-07-05 19:00 Sat 2d (UTC y-m-d)<br>Jp: 2025-01-04 04:00 Sat ~ 2025-01-06 04:00 Mon 2d (JST y-m-d)",
 		"duration":2},
 	{
 		"content":"[TA] Defense Blue Indoor. Millennium/Abydos ATK UP. High HP enemies that heal when hit.",
@@ -13933,7 +13985,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-08-11T19:00",
 		"startG":"2025-08-03T02:00",
-		"title":"[TA] Defense Blue Indoor. Millennium/Abydos ATK UP. High HP enemies that heal when hit.<br>G: 2025-08-03 02:00 ~ 2025-08-11 19:00 9d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 ~ 2025-02-12 04:00 9d (JST y-m-d)",
+		"title":"[TA] Defense Blue Indoor. Millennium/Abydos ATK UP. High HP enemies that heal when hit.<br>G: 2025-08-03 02:00 Sun ~ 2025-08-11 19:00 Mon 9d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-12 04:00 Wed 9d (JST y-m-d)",
 		"duration":9},
 	{
 		"content":"Maki (Camping) (New)",
@@ -13946,7 +13998,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-08-26T02:00",
 		"startG":"2025-08-12T02:00",
-		"title":"Maki (Camping) (New)<br>G: 2025-08-12 02:00 ~ 2025-08-26 02:00 14d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 ~ 2025-02-26 11:00 14d (JST y-m-d)",
+		"title":"Maki (Camping) (New)<br>G: 2025-08-12 02:00 Tue ~ 2025-08-26 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 Wed ~ 2025-02-26 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"Hare (Camping)",
@@ -13959,7 +14011,7 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-08-26T02:00",
 		"startG":"2025-08-12T02:00",
-		"title":"Hare (Camping)<br>G: 2025-08-12 02:00 ~ 2025-08-26 02:00 14d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 ~ 2025-02-26 11:00 14d (JST y-m-d)",
+		"title":"Hare (Camping)<br>G: 2025-08-12 02:00 Tue ~ 2025-08-26 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 Wed ~ 2025-02-26 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
 		"content":"Kotama (Camping)",
@@ -13972,10 +14024,10 @@ jpSched = [
 		"style":"color:black;background-color:lightgrey",
 		"endG":"2025-08-26T02:00",
 		"startG":"2025-08-12T02:00",
-		"title":"Kotama (Camping)<br>G: 2025-08-12 02:00 ~ 2025-08-26 02:00 14d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 ~ 2025-02-26 11:00 14d (JST y-m-d)",
+		"title":"Kotama (Camping)<br>G: 2025-08-12 02:00 Tue ~ 2025-08-26 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 Wed ~ 2025-02-26 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
-		"content":"?New mini event (?) Valentine (?)?",
+		"content":"[Mini] Valentine's Day Promise",
 		"start":"2025-08-12T02:00",
 		"startJp":"2025-02-12T11:00",
 		"end":"2025-08-26T02:00",
@@ -13985,6 +14037,6 @@ jpSched = [
 		"style":"color:black;background-color:yellow",
 		"endG":"2025-08-26T02:00",
 		"startG":"2025-08-12T02:00",
-		"title":"?New mini event (?) Valentine (?)?<br>G: 2025-08-12 02:00 ~ 2025-08-26 02:00 14d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 ~ 2025-02-26 11:00 14d (JST y-m-d)",
+		"title":"[Mini] Valentine's Day Promise<br>G: 2025-08-12 02:00 Tue ~ 2025-08-26 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 Wed ~ 2025-02-26 11:00 Wed 14d (JST y-m-d)",
 		"duration":14}
 ]
