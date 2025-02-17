@@ -833,6 +833,13 @@ confirmed = [
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
+  },{
+    content: "[Web] Castle of Hearts",
+    start: "2025-02-19T02:00:00.000Z",
+    end: "2025-03-18T19:00:00.000Z",
+    group: "G Event",
+    subgroup: "Event",
+    style: "color:black; background-color:yellow"
   },
 //
 // RAIDS
@@ -1081,6 +1088,27 @@ confirmed = [
     end: "2025-02-17T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[LBA] The Fury of Set Red",
+    start: "2025-02-19T02:00:00.000Z",
+    end: "2025-03-18T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "LBA",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[TA] ShiroKuro Indoor",
+    start: "2025-02-25T02:00:00.000Z",
+    end: "2025-03-03T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "GA",
+    style: "color:black; background-color:pink "
+  },{
+    content: "[JFD] Shooting Blue. DoT dmg up. Debuffs = dmg up",
+    start: "2025-03-04T02:00:00.000Z",
+    end: "2025-03-10T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "JFD",
     style: "color:black; background-color:pink "
   },
 // CAMPAIGNS
@@ -1792,5 +1820,12 @@ confirmed = [
     group: "G Other",
     subgroup: "Other",
     style: "color:black; background-color:lightgrey"
-  },
+  },{
+    content: "[Lesson Area] Haruhabara",
+    start: "2025-02-18T02:00:00.000Z",
+    end: "2025-03-04T02:00:00.000Z",
+    group: "G Other",
+    subgroup: "Other",
+    style: "color:black; background-color:lightblue"
+  }
 ]
