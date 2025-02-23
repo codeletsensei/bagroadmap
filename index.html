@@ -358,12 +358,12 @@ function searchThis(searchInput){
           let timeLeft = (start - now)/1000/60/60/24
           let hoursLeft = timeLeft%1*24
           let minLeft = hoursLeft%1*60
-          el.innerHTML += "in " + Math.floor(timeLeft).toFixed(0) + "d +"
+          el.innerHTML += "in ~" + Math.floor(timeLeft).toFixed(0) + "d? +"
         }
       }
 
 
-      el.innerHTML += ("0"+duration).slice(-2) + "d" + "] &emsp;" + chars
+      el.innerHTML += ("0"+duration).slice(-2) + "d?" + "] &emsp;" + chars
       el.id = "searchResult" + resultId
       if (count%2 == 0) el.style.backgroundColor = "#999999"
       count++
