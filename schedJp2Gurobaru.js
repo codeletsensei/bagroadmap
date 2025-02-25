@@ -14196,7 +14196,7 @@ jpSched = [
 		"title":"[Main] Pandemic Hazard<br>G: 2025-08-26 02:00 Tue ~ 2025-09-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-02-26 11:00 Wed ~ 2025-03-12 11:00 Wed 14d (JST y-m-d)",
 		"duration":14},
 	{
-		"content":"[TA] Kurokage",
+		"content":"[TA] Kurokage Urban",
 		"start":"2025-09-02T02:00",
 		"startJp":"2025-03-05T11:00",
 		"end":"2025-09-08T19:00",
@@ -14206,7 +14206,7 @@ jpSched = [
 		"style":"color:black;background-color:pink",
 		"endG":"2025-09-08T19:00",
 		"startG":"2025-09-02T02:00",
-		"title":"[TA] Kurokage<br>G: 2025-09-02 02:00 Tue ~ 2025-09-08 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-05 11:00 Wed ~ 2025-03-12 04:00 Wed 7d (JST y-m-d)",
+		"title":"[TA] Kurokage Urban<br>G: 2025-09-02 02:00 Tue ~ 2025-09-08 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-05 11:00 Wed ~ 2025-03-12 04:00 Wed 7d (JST y-m-d)",
 		"duration":7},
 	{
 		"content":"[JFD] Escort Blue. Cost ≤2 = AG takes dmg. Ally DMG increases with AG's HP",
