@@ -869,9 +869,9 @@ confirmed = [
     subgroup: "Event",
     style: "color:black; background-color:yellow"
   },{
-    content: "[R] In Search of Hidden Ruins ~Trinity Extracurriculars~ <b>(end date tbc)</b>",
+    content: "In Search of Hidden Ruins Trinity Extracurriculars <b>(end date tbc) [R]</b>",
     start: "2025-03-04T02:00:00.000Z",
-    end: "2025-03-11T02:00:00.000Z",
+    end: "2025-03-18T02:00:00.000Z",
     group: "G Event",
     subgroup: "Event",
     style: "color:black; background-color:yellow"
