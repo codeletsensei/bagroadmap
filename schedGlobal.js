@@ -869,7 +869,7 @@ confirmed = [
     subgroup: "Event",
     style: "color:black; background-color:yellow"
   },{
-    content: "In Search of Hidden Ruins Trinity Extracurriculars <b>(end date tbc) [R]</b>",
+    content: "In Search of Hidden Ruins Trinity Extracurriculars <b>(end date tbc)</b> [R]",
     start: "2025-03-04T02:00:00.000Z",
     end: "2025-03-18T02:00:00.000Z",
     group: "G Event",
@@ -885,268 +885,277 @@ confirmed = [
     end: "2024-05-13T19:00:00.000Z",
     group: "G Raid",
     subgroup: "TA",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[JFD] Escort Blue no CC",
     start: "2024-05-14T02:00:00.000Z",
     end: "2024-05-20T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
   },{
     content: "[GA] Hod Urban",
     start: "2024-05-21T02:00:00.000Z",
     end: "2024-05-27T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[TA] Kurokage Urban",
     start: "2024-06-04T02:00:00.000Z",
     end: "2024-06-10T19:00:00.000Z",
     group: "G Raid",
     subgroup: "TA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:purple "
   },{
     content: "[JFD] Shooting. Yellow. All Roles",
     start: "2024-06-11T02:00:00.000Z",
     end: "2024-06-17T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[GA] Goz Field",
     start: "2024-06-18T02:00:00.000Z",
     end: "2024-06-24T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
   },{
     content: "[TA] Hovercraft Field",
     start: "2024-07-02T02:00:00.000Z",
     end: "2024-07-08T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[JFD] Breakthrough. Yellow. Fuck Triniggers",
     start: "2024-07-09T02:00:00.000Z",
     end: "2024-07-15T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[GA] ShiroKuro",
     start: "2024-07-16T02:00:00.000Z",
     end: "2024-07-22T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
   },{
     content: "[TA] Hieronymus",
     start: "2024-07-30T02:00:00.000Z",
     end: "2024-08-05T19:00:00.000Z",
     group: "G Raid",
     subgroup: "TA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:red "
   },{
     content: "[JFD] Defense. Red. Front buff",
     start: "2024-08-06T02:00:00.000Z",
     end: "2024-08-12T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:red "
   },{
     content: "[GA] Kaiten",
     start: "2024-08-13T02:00:00.000Z",
     end: "2024-08-19T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:red "
   },{
     content: "[TA] Chesed Indoor",
     start: "2024-08-27T02:00:00.000Z",
     end: "2024-09-02T19:00:00.000Z",
     group: "G Raid",
     subgroup: "TA",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[JFD] Escort Yellow, Buff Riobot onegaishimasu",
     start: "2024-09-03T02:00:00.000Z",
     end: "2024-09-09T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[GA] Binah Urban",
     start: "2024-09-10T02:00:00.000Z",
     end: "2024-09-16T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[TA] Perorodzilla Indoors",
     start: "2024-10-01T02:00:00.000Z",
     end: "2024-10-07T19:00:00.000Z",
     group: "G Raid",
     subgroup: "TA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
   },{
     content: "[LBA] S1 The Fury of Set Blue",
     start: "2024-09-25T02:00:00.000Z",
     end: "2024-10-21T19:00:00.000Z",
     group: "G Raid",
     subgroup: "LBA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
   },{
     content: "[JFD] Breakthrough Purple Urban. SR weapons buff. Healing heals scarecrow",
     start: "2024-10-08T02:00:00.000Z",
     end: "2024-10-14T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:purple "
   },{
     content: "[GA] Gregorius Indoors (Yellow Tor + Red/Blue)",
     start: "2024-10-15T02:00:00.000Z",
     end: "2024-10-21T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[LBA] S2 The Fury of Set Red",
     start: "2024-10-23T02:00:00.000Z",
     end: "2024-11-18T19:00:00.000Z",
     group: "G Raid",
     subgroup: "LBA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:red "
   },{
     content: "[TA] Hod Urban",
     start: "2024-10-29T02:00:00.000Z",
     end: "2024-11-04T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[JFD] Shooting Yellow Urban. Specials atk up, debuff > dmg up",
     start: "2024-11-05T02:00:00.000Z",
     end: "2024-11-11T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[GA] Hieronymus Urban (Blue Tor + Red/Yellow)",
     start: "2024-11-12T02:00:00.000Z",
     end: "2024-11-18T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
   },{
     content: "[LBA] S3 The Fury of Set Blue",
     start: "2024-11-20T02:00:00.000Z",
     end: "2024-12-23T19:00:00.000Z",
     group: "G Raid",
     subgroup: "LBA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
   },{
     content: "[TA] Goz Indoors",
     start: "2024-11-26T02:00:00.000Z",
     end: "2024-12-02T19:00:00.000Z",
     group: "G Raid",
     subgroup: "TA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
   },{
     content: "[JFD] Defense Red. GL/MG/MT atk buff",
     start: "2024-12-03T02:00:00.000Z",
     end: "2024-12-09T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
-    style: "color:black; background-color:pink"
+    style: "color:white; background-color:red"
   },{
     content: "[GA] Hovercraft Outdoors (Red Tor + Yellow/Blue)",
     start: "2024-12-10T02:00:00.000Z",
     end: "2024-12-16T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:red "
   },{
     content: "[LBA] S4 The Fury of Set Red",
     start: "2024-12-25T02:00:00.000Z",
     end: "2025-01-22T19:00:00.000Z",
     group: "G Raid",
     subgroup: "TA",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color: "
   },{
     content: "[TA] Binah Outdoors",
     start: "2024-12-31T02:00:00.000Z",
     end: "2025-01-06T19:00:00.000Z",
     group: "G Raid",
     subgroup: "TA",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[JFD] Escort Purple. High def enemies. Avant Guard takes DoT.",
     start: "2025-01-07T02:00:00.000Z",
     end: "2025-01-13T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:purple "
   },{
     content: "[GA] ShiroKuro Indoors",
     start: "2025-01-14T02:00:00.000Z",
     end: "2025-01-20T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
   },{
     content: "[LBA] The Fury of Set Blue",
     start: "2025-01-24T02:00:00.000Z",
     end: "2025-02-18T19:00:00.000Z",
     group: "G Raid",
     subgroup: "LBA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
   },{
     content: "[TA] Perorodzilla Outdoors",
     start: "2025-01-28T02:00:00.000Z",
     end: "2025-02-03T19:00:00.000Z",
     group: "G Raid",
     subgroup: "TA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
   },{
     content: "[JFD] Breakthrough Blue Urban. Healing scarecrow damages everyone.",
     start: "2025-02-04T02:00:00.000Z",
     end: "2025-02-10T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
   },{
     content: "[GA] Goz Outdoors (Yellow Tor + Red/Blue)",
     start: "2025-02-11T02:00:00.000Z",
     end: "2025-02-17T19:00:00.000Z",
     group: "G Raid",
     subgroup: "GA",
-    style: "color:black; background-color:pink "
+    style: "color:black; background-color:yellow "
   },{
     content: "[LBA] The Fury of Set Red",
     start: "2025-02-19T02:00:00.000Z",
     end: "2025-03-18T19:00:00.000Z",
     group: "G Raid",
     subgroup: "LBA",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:red "
   },{
     content: "[TA] ShiroKuro Indoor",
     start: "2025-02-25T02:00:00.000Z",
     end: "2025-03-03T19:00:00.000Z",
     group: "G Raid",
-    subgroup: "GA",
-    style: "color:black; background-color:pink "
+    subgroup: "TA",
+    style: "color:white; background-color:blue "
   },{
     content: "[JFD] Shooting Blue. DoT dmg up. Debuffs = dmg up",
     start: "2025-03-04T02:00:00.000Z",
     end: "2025-03-10T19:00:00.000Z",
     group: "G Raid",
     subgroup: "JFD",
-    style: "color:black; background-color:pink "
+    style: "color:white; background-color:blue "
+  },{
+    content: "[GA] Peroro Outdoors (Purple TOR + Yellow/Blue) <b>end date tbc</b>",
+    start: "2025-03-11T02:00:00.000Z",
+    end: "2025-03-17T19:00:00.000Z",
+    group: "G Raid",
+    subgroup: "GA",
+    style: "color:white; background-color:purple "
   },
+//
 // CAMPAIGNS
+//  
   {
     content: "2x Bounty",
     start: "2024-04-29T19:00:00.000Z",
