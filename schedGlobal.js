@@ -1074,7 +1074,7 @@ confirmed = [
     end: "2025-01-22T19:00:00.000Z",
     group: "G Raid",
     subgroup: "TA",
-    style: "color:black; background-color: "
+    style: "color:black; background-color:red "
   },{
     content: "[TA] Binah Outdoors",
     start: "2024-12-31T02:00:00.000Z",
