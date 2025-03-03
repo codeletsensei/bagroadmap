@@ -153,7 +153,11 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
-  },{
+  },
+//
+// GASHA
+//
+  {
     "content": "Misaka + Shokuhou",
     "start": "2024-04-30T02:00:00.000Z",
     "end": "2024-05-14T02:00:00.000Z",
@@ -595,6 +599,31 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Neru (Bunny Girl) [L]",
+    "start": "2025-03-11T02:00:00.000Z",
+    "end": "2025-03-18T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Karin (Bunny Girl) [L]",
+    "start": "2025-03-11T02:00:00.000Z",
+    "end": "2025-03-18T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Akane + Asuna (Bunny Girls)",
+    "start": "2025-03-11T02:00:00.000Z",
+    "end": "2025-03-18T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },
+//
+// EVENTS
+//
+  {
     "content": "A Certain Scientific Record of Youth",
     "start": "2024-04-30T02:00:00.000Z",
     "end": "2024-05-14T02:00:00.000Z",
@@ -861,13 +890,17 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "In Search of Hidden Ruins Trinity Extracurriculars <b>(end date tbc)</b> [R]",
+    "content": "In Search of Hidden Ruins Trinity Extracurriculars [R]",
     "start": "2025-03-04T02:00:00.000Z",
     "end": "2025-03-18T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
-  },{
+  },
+//
+// RAIDS
+//
+  {
     "content": "[TA] Chesed (Red atk)",
     "start": "2024-05-07T02:00:00.000Z",
     "end": "2024-05-13T19:00:00.000Z",
@@ -1127,20 +1160,24 @@ confirmed = [
     "subgroup": "TA",
     "style": "color:white; background-color:blue "
   },{
-    "content": "[JFD] Shooting Blue. DoT dmg up. Debuffs = dmg up",
+    "content": "[JFD] Shooting Blue. DoT dmg up. Debuffs = dmg up (up to 4)",
     "start": "2025-03-04T02:00:00.000Z",
     "end": "2025-03-10T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "JFD",
     "style": "color:white; background-color:blue "
   },{
-    "content": "[GA] Peroro Outdoors (Purple TOR + Yellow/Blue) (Blue atk) <b>end date tbc</b>",
+    "content": "[GA] Peroro Outdoors (Purple TOR + Yellow/Blue) (Blue atk)",
     "start": "2025-03-11T02:00:00.000Z",
     "end": "2025-03-17T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
-  },{
+  },
+//
+// CAMPAIGNS
+//
+  {
     "content": "2x Bounty",
     "start": "2024-04-29T19:00:00.000Z",
     "end": "2024-05-08T19:00:00.000Z",
@@ -1665,7 +1702,11 @@ confirmed = [
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
-  },{
+  },
+//
+// MISC
+//
+  {
     "content": "[Event Shop] Kaede Elephs x40",
     "start": "2024-09-24T02:00:00.000Z",
     "end": "2024-10-08T02:00:00.000Z",

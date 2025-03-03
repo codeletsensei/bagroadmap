@@ -79,7 +79,7 @@
 </select>
 <input type="text" id="searchbox" placeholder="ctrl+F" onfocus="searchThis(this.value)" onchange="searchThis(this.value)" oninput="searchThis(this.value)"></input>
 <span id="searchResultsSpan" style="display:none; position:absolute; top:30px; left:410px; color:black; background-color:lightgrey; border:1px solid black; z-index:1000; min-width:500px; max-height:90%; overflow:auto"></span>
-<span style="color:red;background-color:lightgreen;font-weight:bold"><a href="https://forum.nexon.com/bluearchive/board_view?thread=2721110&board=1077" target="_blank">GRADUAL ACCELERATION LATE 2025!</a> DON'T USE THE SHIFTED JP SCHED FOR EXACT DATES!</span>
+<span style="color:red;background-color:lightgreen;font-weight:bold"><a href="https://forum.nexon.com/bluearchive/board_view?thread=2721110&board=1077" target="_blank">GRADUAL ACCELERATION ONGOING!</a> DON'T USE THE SHIFTED JP SCHED FOR EXACT DATES!</span>
 
 <button id="btnDarkMode" style="position:absolute; right:6px" onclick="changeDarkMode()">Flashbang</button>
 
@@ -432,7 +432,7 @@ function removeActive(x) {
 
 var searchboxIsFocused = 0
 document.onkeydown = function(e){
-  if(e.ctrlKey && e.keyCode == 'F'.charCodeAt(0)){
+  if (e.ctrlKey && e.keyCode == 'F'.charCodeAt(0)){
     e.preventDefault();
     document.getElementById("searchbox").focus()
     window.scrollTo(0,0)
