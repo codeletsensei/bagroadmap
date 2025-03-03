@@ -599,6 +599,13 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "[Welfare] Koharu (Swimsuit)",
+    "start": "2025-03-04T02:00:00.000Z",
+    "end": "2025-03-18T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
     "content": "Neru (Bunny Girl) [L]",
     "start": "2025-03-11T02:00:00.000Z",
     "end": "2025-03-18T02:00:00.000Z",
@@ -1892,6 +1899,13 @@ confirmed = [
     "content": "[Lesson Area] Haruhabara",
     "start": "2025-02-18T02:00:00.000Z",
     "end": "2025-03-04T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Group Story] Genryuumon",
+    "start": "2025-03-11T02:00:00.000Z",
+    "end": "2025-03-25T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
