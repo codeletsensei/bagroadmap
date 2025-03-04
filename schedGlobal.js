@@ -1181,6 +1181,13 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
   },{
+    "content": "[TA] Kaiten Urban Red? <b>(Not officially announced yet)</b>",
+    "start": "2025-03-24T02:00:00.000Z",
+    "end": "2025-03-31T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:white; background-color:red "
+  },{
     "content": "[JFD] Shooting Yellow. SG buff. Stronger/tankier but slow enemies, can't move them (Mine?/Hoshino?)",
     "start": "2025-03-31T02:00:00.000Z",
     "end": "2025-04-07T19:00:00.000Z",
