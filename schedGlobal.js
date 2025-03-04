@@ -1180,6 +1180,13 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
+  },{
+    "content": "[JFD] Shooting Yellow. SG buff. Stronger/tankier but slow enemies, can't move them (Mine?/Hoshino?)",
+    "start": "2025-03-31T02:00:00.000Z",
+    "end": "2025-04-07T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:black; background-color:yellow "
   },
 //
 // CAMPAIGNS
