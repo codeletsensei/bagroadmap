@@ -1182,8 +1182,8 @@ confirmed = [
     "style": "color:white; background-color:purple "
   },{
     "content": "[TA] Kaiten Urban Red? <b>(Not officially announced yet)</b>",
-    "start": "2025-03-24T02:00:00.000Z",
-    "end": "2025-03-31T19:00:00.000Z",
+    "start": "2025-03-25T02:00:00.000Z",
+    "end": "2025-03-30T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "TA",
     "style": "color:white; background-color:red "
