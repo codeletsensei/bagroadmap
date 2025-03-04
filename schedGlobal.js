@@ -1189,7 +1189,7 @@ confirmed = [
     "style": "color:white; background-color:red "
   },{
     "content": "[JFD] Defense Yellow. Shotgun buff. Stronger/tankier but slow enemies, can't move them (Mine?/Hoshino?)",
-    "start": "2025-03-32T02:00:00.000Z",
+    "start": "2025-04-01T02:00:00.000Z",
     "end": "2025-04-07T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "JFD",
