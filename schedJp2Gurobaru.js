@@ -14247,5 +14247,70 @@ jpSched = [
 		"startG": "2025-09-09T02:00",
 		"title": "[JFD] Escort Blue. Cost ≤2 = AG takes dmg. Ally DMG increases with AG's HP<br>G: 2025-09-09 02:00 Tue ~ 2025-09-15 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 04:00 Wed 7d (JST y-m-d)",
 		"duration": 7
+	},{
+		"content": "[Perm] A Game Before the New Year's Feast ~ One-and-Done Match ~",
+		"start": "2025-09-16T02:00",
+		"startJp": "2025-03-19T11:00",
+		"end": "2025-09-23T02:00",
+		"endJp": "2025-03-26T11:00",
+		"group": "J Event",
+		"subgroup": "",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-09-23T02:00",
+		"startG": "2025-09-16T02:00",
+		"title": "[Perm] A Game Before the New Year's Feast ~ One-and-Done Match ~<br>G: 2025-09-16 02:00 Tue ~ 2025-09-23 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "Izumi (New Year) (New)",
+		"start": "2025-09-16T02:00",
+		"startJp": "2025-03-19T11:00",
+		"end": "2025-09-23T02:00",
+		"endJp": "2025-03-26T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-09-23T02:00",
+		"startG": "2025-09-16T02:00",
+		"title": "Izumi (New Year) (New)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-23 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "Fuuka (New Year) [L]",
+		"start": "2025-09-16T02:00",
+		"startJp": "2025-03-19T11:00",
+		"end": "2025-09-23T02:00",
+		"endJp": "2025-03-26T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-09-23T02:00",
+		"startG": "2025-09-16T02:00",
+		"title": "Fuuka (New Year) [L]<br>G: 2025-09-16 02:00 Tue ~ 2025-09-23 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "Haruna (New Year) [L]",
+		"start": "2025-09-16T02:00",
+		"startJp": "2025-03-19T11:00",
+		"end": "2025-09-23T02:00",
+		"endJp": "2025-03-26T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-09-23T02:00",
+		"startG": "2025-09-16T02:00",
+		"title": "Haruna (New Year) [L]<br>G: 2025-09-16 02:00 Tue ~ 2025-09-23 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "Akari (New Year)",
+		"start": "2025-09-16T02:00",
+		"startJp": "2025-03-19T11:00",
+		"end": "2025-09-23T02:00",
+		"endJp": "2025-03-26T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-09-23T02:00",
+		"startG": "2025-09-16T02:00",
+		"title": "Akari (New Year)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-23 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
 	}
 ]
