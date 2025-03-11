@@ -11843,6 +11843,32 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Juri_(Part-Timer)\" title=\"Juri (Part-Timer)\">Juri (Part-Timer)</a> (New)<br>G: 2025-08-26 02:00 Tue ~ 2025-09-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-02-26 11:00 Wed ~ 2025-03-12 10:59 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanae_(Christmas)\" title=\"Hanae (Christmas)\">Hanae (Christmas)</a>",
+		"start": "2025-09-09T02:00",
+		"startJp": "2025-03-12T11:00",
+		"end": "2025-09-16T01:59",
+		"endJp": "2025-03-19T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-09-16T01:59",
+		"startG": "2025-09-09T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hanae_(Christmas)\" title=\"Hanae (Christmas)\">Hanae (Christmas)</a><br>G: 2025-09-09 02:00 Tue ~ 2025-09-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 10:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serina_(Christmas)\" title=\"Serina (Christmas)\">Serina (Christmas)</a>",
+		"start": "2025-09-09T02:00",
+		"startJp": "2025-03-12T11:00",
+		"end": "2025-09-16T01:59",
+		"endJp": "2025-03-19T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-09-16T01:59",
+		"startG": "2025-09-09T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serina_(Christmas)\" title=\"Serina (Christmas)\">Serina (Christmas)</a><br>G: 2025-09-09 02:00 Tue ~ 2025-09-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 10:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "EOS",
 		"start": "2021-08-10T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -14235,6 +14261,19 @@ jpSched = [
 		"title": "EOS<br>G: 2025-08-26 02:00 Tue ~ 2025-08-26 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2025-02-26 11:00 Wed ~ 2025-02-26 19:00 Wed 1d (JST y-m-d)",
 		"duration": 1
 	},{
+		"content": "EOS",
+		"start": "2025-09-09T02:00",
+		"startJp": "2025-03-12T11:00",
+		"end": "2025-09-09T08:00",
+		"endJp": "2025-03-12T17:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"endG": "2025-09-09T08:00",
+		"startG": "2025-09-09T02:00",
+		"title": "EOS<br>G: 2025-09-09 02:00 Tue ~ 2025-09-09 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-12 17:00 Wed 1d (JST y-m-d)",
+		"duration": 1
+	},{
 		"content": "[JFD] Escort Blue. Cost ≤2 = AG takes dmg. Ally DMG increases with AG's HP",
 		"start": "2025-09-09T02:00",
 		"startJp": "2025-03-12T11:00",
@@ -14261,44 +14300,18 @@ jpSched = [
 		"title": "[Perm] The Cathedral's Merry Christmas ~ Rescue Knights' Gift ~<br>G: 2025-09-09 02:00 Tue ~ 2025-09-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 11:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "Serina (Christmas)",
+		"content": "[Mini Story] Gourmet Food, Cookies, and Relief",
 		"start": "2025-09-09T02:00",
 		"startJp": "2025-03-12T11:00",
-		"end": "2025-09-16T02:00",
-		"endJp": "2025-03-19T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-09-16T02:00",
+		"end": "2025-09-23T02:00",
+		"endJp": "2025-03-26T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-09-23T02:00",
 		"startG": "2025-09-09T02:00",
-		"title": "Serina (Christmas)<br>G: 2025-09-09 02:00 Tue ~ 2025-09-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 11:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "Hanae (Christmas)",
-		"start": "2025-09-09T02:00",
-		"startJp": "2025-03-12T11:00",
-		"end": "2025-09-16T02:00",
-		"endJp": "2025-03-19T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-09-16T02:00",
-		"startG": "2025-09-09T02:00",
-		"title": "Hanae (Christmas)<br>G: 2025-09-09 02:00 Tue ~ 2025-09-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 11:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "?",
-		"start": "2025-09-09T02:00",
-		"startJp": "2025-03-12T11:00",
-		"end": "2025-09-16T02:00",
-		"endJp": "2025-03-19T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-09-16T02:00",
-		"startG": "2025-09-09T02:00",
-		"title": "?<br>G: 2025-09-09 02:00 Tue ~ 2025-09-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 11:00 Wed 7d (JST y-m-d)",
-		"duration": 7
+		"title": "[Mini Story] Gourmet Food, Cookies, and Relief<br>G: 2025-09-09 02:00 Tue ~ 2025-09-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-26 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
 	},{
 		"content": "[Perm] A Game Before the New Year's Feast ~ One-and-Done Match ~",
 		"start": "2025-09-16T02:00",
@@ -14313,7 +14326,7 @@ jpSched = [
 		"title": "[Perm] A Game Before the New Year's Feast ~ One-and-Done Match ~<br>G: 2025-09-16 02:00 Tue ~ 2025-09-23 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 11:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "Izumi (New Year) (New)",
+		"content": "Izumi (New Year)",
 		"start": "2025-09-16T02:00",
 		"startJp": "2025-03-19T11:00",
 		"end": "2025-09-23T02:00",
@@ -14323,7 +14336,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2025-09-23T02:00",
 		"startG": "2025-09-16T02:00",
-		"title": "Izumi (New Year) (New)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-23 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 11:00 Wed 7d (JST y-m-d)",
+		"title": "Izumi (New Year)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-23 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 11:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "Fuuka (New Year) [L]",
