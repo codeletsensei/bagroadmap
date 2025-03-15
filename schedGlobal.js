@@ -1965,5 +1965,19 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Bond Gear] Hibiki, Iori (Swimsuit), Shizuko, Mari",
+    "start": "2025-03-18T02:00:00.000Z",
+    "end": "2025-04-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Event Shop] 40 Arisu Elephs",
+    "start": "2025-03-18T02:00:00.000Z",
+    "end": "2025-04-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
   }
 ]
