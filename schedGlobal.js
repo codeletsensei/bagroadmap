@@ -153,6 +153,13 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
+  },{
+    "content": "EOS",
+    "start": "2025-03-18T02:00:00.000Z",
+    "end": "2025-03-18T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
   },
 //
 // GASHA
@@ -626,6 +633,27 @@ confirmed = [
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Kisaki (New)",
+    "start": "2025-03-18T02:00:00.000Z",
+    "end": "2025-04-01T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Reijo (New)",
+    "start": "2025-03-18T02:00:00.000Z",
+    "end": "2025-04-01T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Shun (Small) + Saya (Casual) + Kirino (2*)",
+    "start": "2025-03-18T02:00:00.000Z",
+    "end": "2025-04-01T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -900,6 +928,13 @@ confirmed = [
     "content": "In Search of Hidden Ruins Trinity Extracurriculars [R]",
     "start": "2025-03-04T02:00:00.000Z",
     "end": "2025-03-18T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] The Senses Descend",
+    "start": "2025-03-18T02:00:00.000Z",
+    "end": "2025-04-01T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
@@ -1194,6 +1229,13 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow "
+  },{
+    "content": "[LBA] The Fury of Set Purple (Red atk) (<b>end date tbc</b>)",
+    "start": "2025-03-19T02:00:00.000Z",
+    "end": "2025-04-14T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "LBA",
+    "style": "color:white; background-color:blue "
   },
 //
 // CAMPAIGNS
