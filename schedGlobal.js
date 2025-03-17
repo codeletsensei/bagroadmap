@@ -1216,7 +1216,7 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
   },{
-    "content": "[TA] Kaiten Urban Red? <b>(Not officially announced yet)</b>",
+    "content": "[TA] Kaiten Urban Red",
     "start": "2025-03-25T02:00:00.000Z",
     "end": "2025-03-31T19:00:00.000Z",
     "group": "G Raid",
@@ -1230,7 +1230,7 @@ confirmed = [
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow "
   },{
-    "content": "[LBA] The Fury of Set Purple (Red atk) (<b>end date tbc</b>)",
+    "content": "[LBA] The Fury of Set Purple (Red atk)",
     "start": "2025-03-19T02:00:00.000Z",
     "end": "2025-04-14T19:00:00.000Z",
     "group": "G Raid",
@@ -1967,6 +1967,13 @@ confirmed = [
     "style": "color:black; background-color:lightblue"
   },{
     "content": "[Bond Gear] Hibiki, Iori (Swimsuit), Shizuko, Mari",
+    "start": "2025-03-18T02:00:00.000Z",
+    "end": "2025-04-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Perm GM] Foreclosure Task Force Midnight Meeting",
     "start": "2025-03-18T02:00:00.000Z",
     "end": "2025-04-01T02:00:00.000Z",
     "group": "G Other",
