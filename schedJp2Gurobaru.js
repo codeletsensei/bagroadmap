@@ -14377,5 +14377,44 @@ jpSched = [
 		"startG": "2025-09-09T02:00",
 		"title": "[Perm] A Game Before the New Year's Feast ~ One-and-Done Match ~<br>G: 2025-09-09 02:00 Tue ~ 2025-09-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 11:00 Wed 7d (JST y-m-d)",
 		"duration": 7
+	},{
+		"content": "[Main] Play Ball! Aim for a Grand Slam Home Run!",
+		"start": "2025-09-16T02:00",
+		"startJp": "2025-03-26T11:00",
+		"end": "2025-09-30T02:00",
+		"endJp": "2025-04-09T11:00",
+		"group": "J Event",
+		"subgroup": "Event",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-09-30T02:00",
+		"startG": "2025-09-16T02:00",
+		"title": "[Main] Play Ball! Aim for a Grand Slam Home Run!<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "Rei (New)",
+		"start": "2025-09-16T02:00",
+		"startJp": "2025-03-26T11:00",
+		"end": "2025-09-30T02:00",
+		"endJp": "2025-04-09T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-09-30T02:00",
+		"startG": "2025-09-16T02:00",
+		"title": "Rei (New)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "Sumire Alt (New)",
+		"start": "2025-09-16T02:00",
+		"startJp": "2025-03-26T11:00",
+		"end": "2025-09-30T02:00",
+		"endJp": "2025-04-09T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-09-30T02:00",
+		"startG": "2025-09-16T02:00",
+		"title": "Sumire Alt (New)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
 	}
 ]
