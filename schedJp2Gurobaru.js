@@ -14468,5 +14468,18 @@ jpSched = [
 		"startG": "2025-09-16T02:00",
 		"title": "Sumire (Arubaito) (New)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
+	},{
+		"content": "2x Bounty",
+		"start": "2025-09-15T19:00",
+		"startJp": "2025-03-26T04:00",
+		"end": "2025-09-22T19:00",
+		"endJp": "2025-04-02T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-09-22T19:00",
+		"startG": "2025-09-15T19:00",
+		"title": "2x Bounty<br>G: 2025-09-15 19:00 Mon ~ 2025-09-22 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-26 04:00 Wed ~ 2025-04-02 04:00 Wed 7d (JST y-m-d)",
+		"duration": 7
 	}
 ]
