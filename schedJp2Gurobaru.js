@@ -14040,6 +14040,19 @@ jpSched = [
 		"title": "[Group Story] Hot Springs Development Club<br>G: 2025-05-27 02:00 Tue ~ 2025-06-10 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 Wed ~ 2024-12-18 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
+		"content": "[Event Rewards] 50 Iori/Tsurugi Elephs",
+		"start": "2025-05-27T02:00",
+		"startJp": "2024-12-04T11:00",
+		"end": "2025-06-03T02:00",
+		"endJp": "2024-12-11T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-06-03T02:00",
+		"startG": "2025-05-27T02:00",
+		"title": "[Event Rewards] 50 Iori/Tsurugi Elephs<br>G: 2025-05-27 02:00 Tue ~ 2025-06-03 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 Wed ~ 2024-12-11 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "[Mini Story] Highlander Railroad Academy Operation Log",
 		"start": "2025-06-03T02:00",
 		"startJp": "2024-12-11T11:00",
@@ -14118,6 +14131,19 @@ jpSched = [
 		"title": "[Bond Gear] Toki, Mashiro, Kotori<br>G: 2025-06-16 02:00 Mon ~ 2025-06-30 02:00 Mon 14d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 Tue ~ 2025-01-07 11:00 Tue 14d (JST y-m-d)",
 		"duration": 14
 	},{
+		"content": "[Event Shop] 40x Maki Elephs",
+		"start": "2025-06-16T02:00",
+		"startJp": "2024-12-24T11:00",
+		"end": "2025-06-30T02:00",
+		"endJp": "2025-01-07T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-06-30T02:00",
+		"startG": "2025-06-16T02:00",
+		"title": "[Event Shop] 40x Maki Elephs<br>G: 2025-06-16 02:00 Mon ~ 2025-06-30 02:00 Mon 14d (UTC y-m-d)<br>Jp: 2024-12-24 11:00 Tue ~ 2025-01-07 11:00 Tue 14d (JST y-m-d)",
+		"duration": 14
+	},{
 		"content": "EOS",
 		"start": "2025-07-01T02:00",
 		"startJp": "2025-01-08T11:00",
@@ -14155,6 +14181,19 @@ jpSched = [
 		"endG": "2025-07-13T02:00",
 		"startG": "2025-07-08T02:00",
 		"title": "[Perm] Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~<br>G: 2025-07-08 02:00 Tue ~ 2025-07-13 02:00 Sun 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 Wed ~ 2025-01-20 11:00 Mon 5d (JST y-m-d)",
+		"duration": 5
+	},{
+		"content": "[Perm Welfare] Yuzu (Maid)",
+		"start": "2025-07-08T02:00",
+		"startJp": "2025-01-15T11:00",
+		"end": "2025-07-13T02:00",
+		"endJp": "2025-01-20T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-07-13T02:00",
+		"startG": "2025-07-08T02:00",
+		"title": "[Perm Welfare] Yuzu (Maid)<br>G: 2025-07-08 02:00 Tue ~ 2025-07-13 02:00 Sun 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 Wed ~ 2025-01-20 11:00 Mon 5d (JST y-m-d)",
 		"duration": 5
 	},{
 		"content": "EOS",
@@ -14378,7 +14417,20 @@ jpSched = [
 		"title": "[Perm] A Game Before the New Year's Feast ~ One-and-Done Match ~<br>G: 2025-09-09 02:00 Tue ~ 2025-09-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 11:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[Main] Play Ball! Aim for a Grand Slam Home Run!",
+		"content": "[Perm Welfare] Junko (New Year)",
+		"start": "2025-09-09T02:00",
+		"startJp": "2025-03-19T11:00",
+		"end": "2025-09-16T02:00",
+		"endJp": "2025-03-26T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-09-16T02:00",
+		"startG": "2025-09-09T02:00",
+		"title": "[Perm Welfare] Junko (New Year)<br>G: 2025-09-09 02:00 Tue ~ 2025-09-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "[Event] Play Ball! Aim for a Grand Slam Home Run!",
 		"start": "2025-09-16T02:00",
 		"startJp": "2025-03-26T11:00",
 		"end": "2025-09-30T02:00",
@@ -14388,7 +14440,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-09-30T02:00",
 		"startG": "2025-09-16T02:00",
-		"title": "[Main] Play Ball! Aim for a Grand Slam Home Run!<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Event] Play Ball! Aim for a Grand Slam Home Run!<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
 		"content": "Rei (New)",
@@ -14404,7 +14456,7 @@ jpSched = [
 		"title": "Rei (New)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "Sumire Alt (New)",
+		"content": "Sumire (Arubaito) (New)",
 		"start": "2025-09-16T02:00",
 		"startJp": "2025-03-26T11:00",
 		"end": "2025-09-30T02:00",
@@ -14414,7 +14466,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2025-09-30T02:00",
 		"startG": "2025-09-16T02:00",
-		"title": "Sumire Alt (New)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 11:00 Wed 14d (JST y-m-d)",
+		"title": "Sumire (Arubaito) (New)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	}
 ]
