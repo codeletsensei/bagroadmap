@@ -160,6 +160,13 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
+  },{
+    "content": "EOS",
+    "start": "2025-04-01T02:00:00.000Z",
+    "end": "2025-04-01T07:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
   },
 //
 // GASHA
@@ -651,6 +658,27 @@ confirmed = [
     "content": "Shun (Small) + Saya (Casual) + Kirino (2*)",
     "start": "2025-03-18T02:00:00.000Z",
     "end": "2025-04-01T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Azusa (Swimsuit) [L]",
+    "start": "2025-04-01T02:00:00.000Z",
+    "end": "2025-04-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Mashiro (Swimsuit) [L]",
+    "start": "2025-04-01T02:00:00.000Z",
+    "end": "2025-04-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Hifumi (Swimsuit)",
+    "start": "2025-04-01T02:00:00.000Z",
+    "end": "2025-04-08T02:00:00.000Z",
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
