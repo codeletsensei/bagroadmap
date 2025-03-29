@@ -1780,6 +1780,17 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Hard",
+    "start": "2025-03-31T19:00:00.000Z",
+    "end": "2025-04-07T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },
+//
+// MISC
+//
+  {
     "content": "[Welfare] Junko (New Year)",
     "start": "2024-09-03T02:00:00.000Z",
     "end": "2024-09-17T02:00:00.000Z",
@@ -1793,11 +1804,7 @@ confirmed = [
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
-  },
-//
-// MISC
-//
-  {
+  },{
     "content": "[Event Shop] Kaede Elephs x40",
     "start": "2024-09-24T02:00:00.000Z",
     "end": "2024-10-08T02:00:00.000Z",
