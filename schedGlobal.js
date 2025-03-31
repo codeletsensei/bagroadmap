@@ -1786,6 +1786,34 @@ confirmed = [
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Normal/Scrimm",
+    "start": "2025-04-07T19:00:00.000Z",
+    "end": "2025-04-14T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Bounty",
+    "start": "2025-04-14T19:00:00.000Z",
+    "end": "2025-04-21T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Comm/Lesson",
+    "start": "2025-04-21T19:00:00.000Z",
+    "end": "2025-04-28T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Normal",
+    "start": "2025-04-28T19:00:00.000Z",
+    "end": "2025-05-05T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
   },
 //
 // MISC
