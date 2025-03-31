@@ -682,6 +682,27 @@ confirmed = [
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Kikyou",
+    "start": "2025-04-08T02:00:00.000Z",
+    "end": "2025-04-15T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Yukari",
+    "start": "2025-04-08T02:00:00.000Z",
+    "end": "2025-04-15T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Renge",
+    "start": "2025-04-08T02:00:00.000Z",
+    "end": "2025-04-15T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -963,6 +984,13 @@ confirmed = [
     "content": "[Main] The Senses Descend",
     "start": "2025-03-18T02:00:00.000Z",
     "end": "2025-04-01T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "Balancing Schale's Books with the General Student Council",
+    "start": "2025-04-01T02:00:00.000Z",
+    "end": "2025-04-15T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
@@ -1264,6 +1292,13 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
+  },{
+    "content": "[GA] Kurokage Urban (Purple Tor + Red/Blue) (Blue atk)",
+    "start": "2025-04-08T02:00:00.000Z",
+    "end": "2025-04-14T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:white; background-color:purple "
   },
 //
 // CAMPAIGNS
@@ -2049,5 +2084,19 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Mission] Area 27 (Chinatsu (Onsen))",
+    "start": "2025-04-01T02:00:00.000Z",
+    "end": "2025-04-14T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Cafe Upgrage] 739/740 AP in 24h!",
+    "start": "2025-04-01T02:00:00.000Z",
+    "end": "2025-04-14T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
   }
 ]
