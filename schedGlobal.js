@@ -1299,6 +1299,20 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
+  },{
+    "content": "[TA] Gregorius Indoors Red (Blue atk)",
+    "start": "2025-04-22T02:00:00.000Z",
+    "end": "2025-04-28T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:white; background-color:red "
+  },{
+    "content": "[JFD] Escort Indoor Red. Striker debuff, Special Buff. High DEF enemies.",
+    "start": "2025-04-29T02:00:00.000Z",
+    "end": "2025-05-05T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:white; background-color:red "
   },
 //
 // CAMPAIGNS
