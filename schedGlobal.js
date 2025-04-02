@@ -1100,7 +1100,7 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[R] Baskin in the Brilliance of Their Serenade (end date tbc)",
+    "content": "[R] Basking in the Brilliance of Their Serenade (end date tbc)",
     "start": "2025-05-13T02:00:00.000Z",
     "end": "2025-05-27T02:00:00.000Z",
     "group": "G Event",
