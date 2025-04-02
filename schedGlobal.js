@@ -703,6 +703,97 @@ confirmed = [
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Mari (Idol) [L] (New)",
+    "start": "2025-04-15T02:00:00.000Z",
+    "end": "2025-04-29T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Sakurako (Idol) [L] (New)",
+    "start": "2025-04-15T02:00:00.000Z",
+    "end": "2025-04-29T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "[Welfare] Mine (Idol) (New)",
+    "start": "2025-04-15T02:00:00.000Z",
+    "end": "2025-04-29T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Hinata",
+    "start": "2025-04-29T02:00:00.000Z",
+    "end": "2025-05-06T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Saori",
+    "start": "2025-04-29T02:00:00.000Z",
+    "end": "2025-05-06T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Hina (Swimsuit) [L]",
+    "start": "2025-05-06T02:00:00.000Z",
+    "end": "2025-05-13T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Iori (Swimsuit) [L]",
+    "start": "2025-05-06T02:00:00.000Z",
+    "end": "2025-05-13T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Shiroko (Riding)",
+    "start": "2025-05-06T02:00:00.000Z",
+    "end": "2025-05-13T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Chiaki (New)",
+    "start": "2025-05-13T02:00:00.000Z",
+    "end": "2025-05-27T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Satsuki (New)",
+    "start": "2025-05-13T02:00:00.000Z",
+    "end": "2025-05-27T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Ako (Dress) [L]",
+    "start": "2025-05-13T02:00:00.000Z",
+    "end": "2025-05-27T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Makoto (Dress) [L]",
+    "start": "2025-05-13T02:00:00.000Z",
+    "end": "2025-05-27T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "[Welfare] Ibuki",
+    "start": "2025-05-13T02:00:00.000Z",
+    "end": "2025-05-27T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
   },
 //
 // EVENTS
@@ -799,7 +890,7 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow "
   },{
-    "content": "[Rerun] The Cathedral's Merry Christmas",
+    "content": "[R] The Cathedral's Merry Christmas",
     "start": "2024-08-06T02:00:00.000Z",
     "end": "2024-08-13T02:00:00.000Z",
     "group": "G Event",
@@ -869,14 +960,14 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "Dragon & Tortoise, Working Together for a Better Future",
+    "content": "[R] Dragon & Tortoise, Working Together for a Better Future",
     "start": "2024-11-12T02:00:00.000Z",
     "end": "2024-11-19T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~",
+    "content": "[R] Alabaster Calling Card ~ Mansion Masquerade and the Essence of Beauty ~",
     "start": "2024-11-19T02:00:00.000Z",
     "end": "2024-12-03T02:00:00.000Z",
     "group": "G Event",
@@ -974,7 +1065,7 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "In Search of Hidden Ruins Trinity Extracurriculars [R]",
+    "content": "[R] In Search of Hidden Ruins Trinity Extracurriculars [R]",
     "start": "2025-03-04T02:00:00.000Z",
     "end": "2025-03-18T02:00:00.000Z",
     "group": "G Event",
@@ -991,6 +1082,27 @@ confirmed = [
     "content": "Balancing Schale's Books with the General Student Council",
     "start": "2025-04-01T02:00:00.000Z",
     "end": "2025-04-15T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] Serenade Promenade",
+    "start": "2025-04-15T02:00:00.000Z",
+    "end": "2025-04-29T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Special Investigation] The Tree of Sephiroth",
+    "start": "2025-04-29T02:00:00.000Z",
+    "end": "2025-05-13T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[R] Baskin in the Brilliance of Their Serenade (end date tbc)",
+    "start": "2025-05-13T02:00:00.000Z",
+    "end": "2025-05-27T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
@@ -2106,11 +2218,18 @@ confirmed = [
     "subgroup": "Other",
     "style": "color:black; background-color:lightgrey"
   },{
-    "content": "[Cafe Upgrage] 739/740 AP in 24h!",
+    "content": "[Cafe Upgrade] 739/740 AP in 24h!",
     "start": "2025-04-01T02:00:00.000Z",
     "end": "2025-04-14T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Main Story] Vol.EX Decagrammaton Ch.2 P1",
+    "start": "2025-04-29T02:00:00.000Z",
+    "end": "2025-05-13T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
   }
 ]
