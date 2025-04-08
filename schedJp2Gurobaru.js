@@ -936,6 +936,32 @@ jpSched = [
 		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Pandemic_Hazard_%EF%BD%9E_Miracle_Pancake_%EF%BD%9E\" title=\"Pandemic Hazard ～ Miracle Pancake ～\">Pandemic Hazard ～ Miracle Pancake ～</a><br>G: 2025-08-19 02:00 Tue ~ 2025-09-02 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-02-26 11:00 Wed ~ 2025-03-12 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
+		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Pray-Ball!_%EF%BD%9E_Aim_for_a_Grand_Slam_Home_Run_%EF%BD%9E\" title=\"Pray-Ball! ～ Aim for a Grand Slam Home Run ～\">Pray-Ball! ～ Aim for a Grand Slam Home Run ～</a>",
+		"start": "2025-09-16T02:00",
+		"startJp": "2025-03-26T11:00",
+		"end": "2025-09-30T02:00",
+		"endJp": "2025-04-09T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-09-30T02:00",
+		"startG": "2025-09-16T02:00",
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Pray-Ball!_%EF%BD%9E_Aim_for_a_Grand_Slam_Home_Run_%EF%BD%9E\" title=\"Pray-Ball! ～ Aim for a Grand Slam Home Run ～\">Pray-Ball! ～ Aim for a Grand Slam Home Run ～</a><br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/0068_from_Opera_with_Love!/Rerun\" title=\"0068 from Opera with Love!/Rerun\">0068 from Opera with Love!</a>",
+		"start": "2025-09-30T02:00",
+		"startJp": "2025-04-09T11:00",
+		"end": "2025-10-07T02:00",
+		"endJp": "2025-04-16T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-10-07T02:00",
+		"startG": "2025-09-30T02:00",
+		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/0068_from_Opera_with_Love!/Rerun\" title=\"0068 from Opera with Love!/Rerun\">0068 from Opera with Love!</a><br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
 		"start": "2023-11-28T02:00",
 		"startJp": "2023-06-07T11:00",
@@ -12090,6 +12116,45 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rei\" title=\"Rei\">Rei</a> (New)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 10:59 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori_(Dress)?action=edit&amp;redlink=1\" class=\"new\" title=\"Saori (Dress) (page does not exist)\">Saori (Dress)</a> (New)",
+		"start": "2025-09-30T02:00",
+		"startJp": "2025-04-09T11:00",
+		"end": "2025-10-07T01:59",
+		"endJp": "2025-04-16T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-10-07T01:59",
+		"startG": "2025-09-30T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori_(Dress)?action=edit&amp;redlink=1\" class=\"new\" title=\"Saori (Dress) (page does not exist)\">Saori (Dress)</a> (New)<br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 10:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(Dress)\" title=\"Aru (Dress)\">Aru (Dress)</a>",
+		"start": "2025-09-30T02:00",
+		"startJp": "2025-04-09T11:00",
+		"end": "2025-10-07T01:59",
+		"endJp": "2025-04-16T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-10-07T01:59",
+		"startG": "2025-09-30T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(Dress)\" title=\"Aru (Dress)\">Aru (Dress)</a><br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 10:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(Dress)\" title=\"Kayoko (Dress)\">Kayoko (Dress)</a>",
+		"start": "2025-09-30T02:00",
+		"startJp": "2025-04-09T11:00",
+		"end": "2025-10-07T01:59",
+		"endJp": "2025-04-16T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-10-07T01:59",
+		"startG": "2025-09-30T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(Dress)\" title=\"Kayoko (Dress)\">Kayoko (Dress)</a><br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 10:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "EOS",
 		"start": "2021-08-03T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -14612,6 +14677,19 @@ jpSched = [
 		"title": "[Bond Gear] Saori, Saki, Momiji, Chinatsu<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
+		"content": "EOS",
+		"start": "2025-09-30T02:00",
+		"startJp": "2025-04-09T11:00",
+		"end": "2025-08-30T08:00",
+		"endJp": "2025-03-09T17:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"endG": "2025-08-30T08:00",
+		"startG": "2025-09-30T02:00",
+		"title": "EOS<br>G: 2025-09-30 02:00 Tue ~ 2025-08-30 08:00 Sat -30d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-03-09 17:00 Sun -30d (JST y-m-d)",
+		"duration": -30
+	},{
 		"content": "[Perm] Dragon & Tortoise ~ Working Together for a Better Future ~",
 		"start": "2025-10-07T02:00",
 		"startJp": "2025-04-16T11:00",
@@ -14625,17 +14703,17 @@ jpSched = [
 		"title": "[Perm] Dragon & Tortoise ~ Working Together for a Better Future ~<br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 11:00 Tue 6d (JST y-m-d)",
 		"duration": 6
 	},{
-		"content": "[Event] Play Ball! Aim for a Grand Slam Home Run!",
-		"start": "2025-09-16T02:00",
-		"startJp": "2025-03-26T11:00",
-		"end": "2025-09-30T02:00",
-		"endJp": "2025-04-09T11:00",
-		"group": "J Event",
-		"subgroup": "Event",
+		"content": "[Mini Story] Encounter Suddenly",
+		"start": "2025-10-07T02:00",
+		"startJp": "2025-04-16T11:00",
+		"end": "2025-10-21T02:00",
+		"endJp": "2025-04-30T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
 		"style": "color:black;background-color:yellow",
-		"endG": "2025-09-30T02:00",
-		"startG": "2025-09-16T02:00",
-		"title": "[Event] Play Ball! Aim for a Grand Slam Home Run!<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 11:00 Wed 14d (JST y-m-d)",
+		"endG": "2025-10-21T02:00",
+		"startG": "2025-10-07T02:00",
+		"title": "[Mini Story] Encounter Suddenly<br>G: 2025-10-07 02:00 Tue ~ 2025-10-21 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-30 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
 		"content": "[JFD] Assault Urban Yellow. Scarecrow loses hp per sec. Scarecrow HP > 99% = DMG buff",
@@ -14649,58 +14727,6 @@ jpSched = [
 		"endG": "2025-10-06T19:00",
 		"startG": "2025-09-30T02:00",
 		"title": "[JFD] Assault Urban Yellow. Scarecrow loses hp per sec. Scarecrow HP > 99% = DMG buff<br>G: 2025-09-30 02:00 Tue ~ 2025-10-06 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "[R] 0068 from Opera with Love!",
-		"start": "2025-09-30T02:00",
-		"startJp": "2025-04-09T11:00",
-		"end": "2025-10-07T02:00",
-		"endJp": "2025-04-16T11:00",
-		"group": "J Event",
-		"subgroup": "Event",
-		"style": "color:black;background-color:yellow",
-		"endG": "2025-10-07T02:00",
-		"startG": "2025-09-30T02:00",
-		"title": "[R] 0068 from Opera with Love!<br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 11:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "Aru (Dress)",
-		"start": "2025-09-30T02:00",
-		"startJp": "2025-04-09T11:00",
-		"end": "2025-10-07T02:00",
-		"endJp": "2025-04-16T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-10-07T02:00",
-		"startG": "2025-09-30T02:00",
-		"title": "Aru (Dress)<br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 11:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "Kayoko (Dress)",
-		"start": "2025-09-30T02:00",
-		"startJp": "2025-04-09T11:00",
-		"end": "2025-10-07T02:00",
-		"endJp": "2025-04-16T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-10-07T02:00",
-		"startG": "2025-09-30T02:00",
-		"title": "Kayoko (Dress)<br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 11:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "Saori (Dress) (New)",
-		"start": "2025-09-30T02:00",
-		"startJp": "2025-04-09T11:00",
-		"end": "2025-10-07T02:00",
-		"endJp": "2025-04-16T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-10-07T02:00",
-		"startG": "2025-09-30T02:00",
-		"title": "Saori (Dress) (New)<br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 11:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	}
 ]
