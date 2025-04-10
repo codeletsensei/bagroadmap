@@ -6136,6 +6136,19 @@ jpSched = [
 		"title": "[JFD] Escort Outdoors Blue<br>G: 2025-09-02 02:00 Tue ~ 2025-09-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
+		"content": "[JFD] Assault Urban Yellow",
+		"start": "2025-09-30T02:00",
+		"startJp": "2025-04-09T11:00",
+		"end": "2025-10-06T18:59",
+		"endJp": "2025-04-16T03:59",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-10-06T18:59",
+		"startG": "2025-09-30T02:00",
+		"title": "[JFD] Assault Urban Yellow<br>G: 2025-09-30 02:00 Tue ~ 2025-10-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
 		"start": "2021-08-07T19:00",
 		"startJp": "2021-02-15T04:00",
@@ -7617,6 +7630,19 @@ jpSched = [
 		"startG": "2025-09-17T02:00",
 		"title": "[LBA] S13 The Fury of Set Red (Red atk)<br>G: 2025-09-17 02:00 Wed ~ 2025-10-12 18:59 Sun 26d (UTC y-m-d)<br>Jp: 2025-03-27 11:00 Thu ~ 2025-04-22 03:59 Tue 26d (JST y-m-d)",
 		"duration": 26
+	},{
+		"content": "[LBA] S14 The Fury of Set Red (Red atk)",
+		"start": "2025-10-14T02:00",
+		"startJp": "2025-04-23T11:00",
+		"end": "2025-11-10T18:59",
+		"endJp": "2025-05-21T03:59",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:white;background-color:red",
+		"endG": "2025-11-10T18:59",
+		"startG": "2025-10-14T02:00",
+		"title": "[LBA] S14 The Fury of Set Red (Red atk)<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 03:59 Wed 28d (JST y-m-d)",
+		"duration": 28
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)",
 		"start": "2021-07-28T03:00",
@@ -12116,7 +12142,7 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rei\" title=\"Rei\">Rei</a> (New)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-30 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-26 11:00 Wed ~ 2025-04-09 10:59 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori_(Dress)?action=edit&amp;redlink=1\" class=\"new\" title=\"Saori (Dress) (page does not exist)\">Saori (Dress)</a> (New)",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori_(Dress)\" title=\"Saori (Dress)\">Saori (Dress)</a> (New)",
 		"start": "2025-09-30T02:00",
 		"startJp": "2025-04-09T11:00",
 		"end": "2025-10-07T01:59",
@@ -12126,7 +12152,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2025-10-07T01:59",
 		"startG": "2025-09-30T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori_(Dress)?action=edit&amp;redlink=1\" class=\"new\" title=\"Saori (Dress) (page does not exist)\">Saori (Dress)</a> (New)<br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 10:59 Wed 7d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori_(Dress)\" title=\"Saori (Dress)\">Saori (Dress)</a> (New)<br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 10:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Aru_(Dress)\" title=\"Aru (Dress)\">Aru (Dress)</a>",
@@ -14680,15 +14706,15 @@ jpSched = [
 		"content": "EOS",
 		"start": "2025-09-30T02:00",
 		"startJp": "2025-04-09T11:00",
-		"end": "2025-08-30T08:00",
-		"endJp": "2025-03-09T17:00",
+		"end": "2025-09-30T08:00",
+		"endJp": "2025-04-09T17:00",
 		"group": "J Maint",
 		"subgroup": "",
 		"style": "color:red;background-color:red;height:15px",
-		"endG": "2025-08-30T08:00",
+		"endG": "2025-09-30T08:00",
 		"startG": "2025-09-30T02:00",
-		"title": "EOS<br>G: 2025-09-30 02:00 Tue ~ 2025-08-30 08:00 Sat -30d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-03-09 17:00 Sun -30d (JST y-m-d)",
-		"duration": -30
+		"title": "EOS<br>G: 2025-09-30 02:00 Tue ~ 2025-09-30 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-09 17:00 Wed 1d (JST y-m-d)",
+		"duration": 1
 	},{
 		"content": "[Perm] Dragon & Tortoise ~ Working Together for a Better Future ~",
 		"start": "2025-10-07T02:00",
@@ -14716,6 +14742,19 @@ jpSched = [
 		"title": "[Mini Story] Encounter Suddenly<br>G: 2025-10-07 02:00 Tue ~ 2025-10-21 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-30 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
+		"content": "[PVP] Season 9",
+		"start": "2025-10-28T02:00",
+		"startJp": "2025-05-07T11:00",
+		"end": "2025-11-11T02:00",
+		"endJp": "2025-05-21T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:orange",
+		"endG": "2025-11-11T02:00",
+		"startG": "2025-10-28T02:00",
+		"title": "[PVP] Season 9<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
 		"content": "[JFD] Assault Urban Yellow. Scarecrow loses hp per sec. Scarecrow HP > 99% = DMG buff",
 		"start": "2025-09-30T02:00",
 		"startJp": "2025-04-09T11:00",
@@ -14728,5 +14767,31 @@ jpSched = [
 		"startG": "2025-09-30T02:00",
 		"title": "[JFD] Assault Urban Yellow. Scarecrow loses hp per sec. Scarecrow HP > 99% = DMG buff<br>G: 2025-09-30 02:00 Tue ~ 2025-10-06 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 04:00 Wed 7d (JST y-m-d)",
 		"duration": 7
+	},{
+		"content": "Mina",
+		"start": "2025-10-07T02:00",
+		"startJp": "2025-04-16T11:00",
+		"end": "2025-10-13T02:00",
+		"endJp": "2025-04-22T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-10-13T02:00",
+		"startG": "2025-10-07T02:00",
+		"title": "Mina<br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 11:00 Tue 6d (JST y-m-d)",
+		"duration": 6
+	},{
+		"content": "Rumi",
+		"start": "2025-10-07T02:00",
+		"startJp": "2025-04-16T11:00",
+		"end": "2025-10-13T02:00",
+		"endJp": "2025-04-22T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-10-13T02:00",
+		"startG": "2025-10-07T02:00",
+		"title": "Rumi<br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 11:00 Tue 6d (JST y-m-d)",
+		"duration": 6
 	}
 ]

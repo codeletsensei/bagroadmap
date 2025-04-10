@@ -1425,6 +1425,13 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "JFD",
     "style": "color:white; background-color:red "
+  },{
+    "content": "[LBA] Chokmah Blue (Blue atk)",
+    "start": "2025-04-16T02:00:00.000Z",
+    "end": "2025-05-12T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "LBA",
+    "style": "color:white; background-color:blue "
   },
 //
 // CAMPAIGNS
