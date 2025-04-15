@@ -2245,5 +2245,12 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:yellow"
+  },{
+    "content": "[PVP] Season 8 (Outdoors) Starts",
+    "start": "2025-04-29T02:00:00.000Z",
+    "end": "2025-05-13T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:orange"
   }
 ]
