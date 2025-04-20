@@ -5655,17 +5655,17 @@ jpSched = [
 		"title": "[JFD] Shooting Outdoors Red<br>G: 2022-08-30 02:00 Tue ~ 2022-09-05 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-09 11:00 Wed ~ 2022-03-15 23:59 Tue 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Defense Outdoors Blue",
+		"content": "[JFD] Defense Outdoors",
 		"start": "2022-09-13T02:00",
 		"startJp": "2022-03-23T11:00",
 		"end": "2022-09-19T18:59",
 		"endJp": "2022-03-30T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
+		"style": "color:black;background-color:pink",
 		"endG": "2022-09-19T18:59",
 		"startG": "2022-09-13T02:00",
-		"title": "[JFD] Defense Outdoors Blue<br>G: 2022-09-13 02:00 Tue ~ 2022-09-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 Wed ~ 2022-03-30 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Defense Outdoors<br>G: 2022-09-13 02:00 Tue ~ 2022-09-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 Wed ~ 2022-03-30 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Assault Outdoors Yellow",
@@ -5707,30 +5707,30 @@ jpSched = [
 		"title": "[JFD] Defense Indoors Red<br>G: 2022-12-27 02:00 Tue ~ 2023-01-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-07-06 11:00 Wed ~ 2022-07-13 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Assault Indoors Blue",
+		"content": "[JFD] Assault Indoors",
 		"start": "2023-01-24T02:00",
 		"startJp": "2022-08-03T11:00",
 		"end": "2023-01-29T18:59",
 		"endJp": "2022-08-09T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
+		"style": "color:black;background-color:pink",
 		"endG": "2023-01-29T18:59",
 		"startG": "2023-01-24T02:00",
-		"title": "[JFD] Assault Indoors Blue<br>G: 2023-01-24 02:00 Tue ~ 2023-01-29 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2022-08-03 11:00 Wed ~ 2022-08-09 03:59 Tue 6d (JST y-m-d)",
+		"title": "[JFD] Assault Indoors<br>G: 2023-01-24 02:00 Tue ~ 2023-01-29 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2022-08-03 11:00 Wed ~ 2022-08-09 03:59 Tue 6d (JST y-m-d)",
 		"duration": 6
 	},{
-		"content": "[JFD] Shooting Urban Blue",
+		"content": "[JFD] Shooting Urban",
 		"start": "2023-03-14T02:00",
 		"startJp": "2022-09-21T11:00",
 		"end": "2023-03-20T18:59",
 		"endJp": "2022-09-28T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
+		"style": "color:black;background-color:pink",
 		"endG": "2023-03-20T18:59",
 		"startG": "2023-03-14T02:00",
-		"title": "[JFD] Shooting Urban Blue<br>G: 2023-03-14 02:00 Tue ~ 2023-03-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 Wed ~ 2022-09-28 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Shooting Urban<br>G: 2023-03-14 02:00 Tue ~ 2023-03-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 Wed ~ 2022-09-28 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Defense Urban Yellow",
@@ -5772,17 +5772,17 @@ jpSched = [
 		"title": "[JFD] Shooting Indoors Red<br>G: 2023-05-23 02:00 Tue ~ 2023-05-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 Wed ~ 2022-12-07 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Defense Indoors Blue",
+		"content": "[JFD] Defense Indoors",
 		"start": "2023-06-20T02:00",
 		"startJp": "2022-12-28T11:00",
 		"end": "2023-06-26T18:59",
 		"endJp": "2023-01-04T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
+		"style": "color:black;background-color:pink",
 		"endG": "2023-06-26T18:59",
 		"startG": "2023-06-20T02:00",
-		"title": "[JFD] Defense Indoors Blue<br>G: 2023-06-20 02:00 Tue ~ 2023-06-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 Wed ~ 2023-01-04 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Defense Indoors<br>G: 2023-06-20 02:00 Tue ~ 2023-06-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 Wed ~ 2023-01-04 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Assault Indoors Yellow",
@@ -5798,17 +5798,17 @@ jpSched = [
 		"title": "[JFD] Assault Indoors Yellow<br>G: 2023-08-08 02:00 Tue ~ 2023-08-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-02-15 11:00 Wed ~ 2023-02-22 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Shooting Outdoors Blue",
+		"content": "[JFD] Shooting Outdoors",
 		"start": "2023-08-29T02:00",
 		"startJp": "2023-03-08T11:00",
 		"end": "2023-09-04T18:59",
 		"endJp": "2023-03-15T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
+		"style": "color:black;background-color:pink",
 		"endG": "2023-09-04T18:59",
 		"startG": "2023-08-29T02:00",
-		"title": "[JFD] Shooting Outdoors Blue<br>G: 2023-08-29 02:00 Tue ~ 2023-09-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 Wed ~ 2023-03-15 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Shooting Outdoors<br>G: 2023-08-29 02:00 Tue ~ 2023-09-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 Wed ~ 2023-03-15 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Defense Outdoors Yellow",
@@ -5838,17 +5838,17 @@ jpSched = [
 		"duration": 7
 	},{
 		"content": "[JFD] Shooting Urban Yellow",
-		"start": "2023-11-27T02:00",
-		"startJp": "2023-06-06T11:00",
+		"start": "2023-11-28T02:00",
+		"startJp": "2023-06-07T11:00",
 		"end": "2023-12-04T18:59",
 		"endJp": "2023-06-14T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
 		"style": "color:black;background-color:yellow",
 		"endG": "2023-12-04T18:59",
-		"startG": "2023-11-27T02:00",
-		"title": "[JFD] Shooting Urban Yellow<br>G: 2023-11-27 02:00 Mon ~ 2023-12-04 18:59 Mon 8d (UTC y-m-d)<br>Jp: 2023-06-06 11:00 Tue ~ 2023-06-14 03:59 Wed 8d (JST y-m-d)",
-		"duration": 8
+		"startG": "2023-11-28T02:00",
+		"title": "[JFD] Shooting Urban Yellow<br>G: 2023-11-28 02:00 Tue ~ 2023-12-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 Wed ~ 2023-06-14 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
 	},{
 		"content": "[JFD] Defense Urban Red",
 		"start": "2023-12-12T02:00",
@@ -5863,17 +5863,17 @@ jpSched = [
 		"title": "[JFD] Defense Urban Red<br>G: 2023-12-12 02:00 Tue ~ 2023-12-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 Wed ~ 2023-06-28 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Assault Urban Blue",
+		"content": "[JFD] Assault Urban",
 		"start": "2024-01-30T02:00",
 		"startJp": "2023-08-09T11:00",
 		"end": "2024-02-05T18:59",
 		"endJp": "2023-08-16T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
+		"style": "color:black;background-color:pink",
 		"endG": "2024-02-05T18:59",
 		"startG": "2024-01-30T02:00",
-		"title": "[JFD] Assault Urban Blue<br>G: 2024-01-30 02:00 Tue ~ 2024-02-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 Wed ~ 2023-08-16 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Assault Urban<br>G: 2024-01-30 02:00 Tue ~ 2024-02-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 Wed ~ 2023-08-16 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Shooting Indoors Red",
@@ -5902,17 +5902,17 @@ jpSched = [
 		"title": "[JFD] Defense Urban Purple<br>G: 2024-04-02 02:00 Tue ~ 2024-04-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 Wed ~ 2023-10-18 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Escort Outdoors Blue",
+		"content": "[JFD] Escort Outdoors",
 		"start": "2024-04-30T02:00",
 		"startJp": "2023-11-08T11:00",
 		"end": "2024-05-06T18:59",
 		"endJp": "2023-11-15T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
+		"style": "color:black;background-color:pink",
 		"endG": "2024-05-06T18:59",
 		"startG": "2024-04-30T02:00",
-		"title": "[JFD] Escort Outdoors Blue<br>G: 2024-04-30 02:00 Tue ~ 2024-05-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 Wed ~ 2023-11-15 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Escort Outdoors<br>G: 2024-04-30 02:00 Tue ~ 2024-05-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 Wed ~ 2023-11-15 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Assault Indoors Yellow",
@@ -5928,31 +5928,18 @@ jpSched = [
 		"title": "[JFD] Assault Indoors Yellow<br>G: 2024-05-28 02:00 Tue ~ 2024-06-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-12-06 11:00 Wed ~ 2023-12-13 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Assault Indoors Yellow",
-		"start": "2024-12-02T05:00",
-		"startJp": "2024-06-11T14:00",
-		"end": "2024-12-08T18:59",
-		"endJp": "2024-06-18T03:59",
-		"group": "J Raid",
-		"subgroup": "JFD",
-		"style": "color:black;background-color:yellow",
-		"endG": "2024-12-08T18:59",
-		"startG": "2024-12-02T05:00",
-		"title": "[JFD] Assault Indoors Yellow<br>G: 2024-12-02 05:00 Mon ~ 2024-12-08 18:59 Sun 7d (UTC y-m-d)<br>Jp: 2024-06-11 14:00 Tue ~ 2024-06-18 03:59 Tue 7d (JST y-m-d)",
-		"duration": 7
-	},{
 		"content": "[JFD] Shooting Urban Yellow",
 		"start": "2024-07-02T02:00",
 		"startJp": "2024-01-10T11:00",
-		"end": "2024-07-05T18:59",
-		"endJp": "2024-01-14T03:59",
+		"end": "2024-07-08T18:59",
+		"endJp": "2024-01-17T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
 		"style": "color:black;background-color:yellow",
-		"endG": "2024-07-05T18:59",
+		"endG": "2024-07-08T18:59",
 		"startG": "2024-07-02T02:00",
-		"title": "[JFD] Shooting Urban Yellow<br>G: 2024-07-02 02:00 Tue ~ 2024-07-05 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 Wed ~ 2024-01-14 03:59 Sun 4d (JST y-m-d)",
-		"duration": 4
+		"title": "[JFD] Shooting Urban Yellow<br>G: 2024-07-02 02:00 Tue ~ 2024-07-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 Wed ~ 2024-01-17 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
 	},{
 		"content": "[JFD] Defense Outdoors Red",
 		"start": "2024-07-30T02:00",
@@ -6032,30 +6019,30 @@ jpSched = [
 		"title": "[JFD] Escort Urban Purple<br>G: 2024-12-31 02:00 Tue ~ 2025-01-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 Wed ~ 2024-07-17 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Assault Urban Blue",
+		"content": "[JFD] Assault Outdoors",
 		"start": "2025-01-28T02:00",
 		"startJp": "2024-08-07T11:00",
 		"end": "2025-02-03T18:59",
 		"endJp": "2024-08-14T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
+		"style": "color:black;background-color:pink",
 		"endG": "2025-02-03T18:59",
 		"startG": "2025-01-28T02:00",
-		"title": "[JFD] Assault Urban Blue<br>G: 2025-01-28 02:00 Tue ~ 2025-02-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 Wed ~ 2024-08-14 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Assault Outdoors<br>G: 2025-01-28 02:00 Tue ~ 2025-02-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 Wed ~ 2024-08-14 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Shooting Indoors Blue",
+		"content": "[JFD] Shooting Indoors",
 		"start": "2025-02-25T02:00",
 		"startJp": "2024-09-04T11:00",
 		"end": "2025-03-03T18:59",
 		"endJp": "2024-09-11T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
+		"style": "color:black;background-color:pink",
 		"endG": "2025-03-03T18:59",
 		"startG": "2025-02-25T02:00",
-		"title": "[JFD] Shooting Indoors Blue<br>G: 2025-02-25 02:00 Tue ~ 2025-03-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-11 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Shooting Indoors<br>G: 2025-02-25 02:00 Tue ~ 2025-03-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-11 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Defense Indoors Yellow",
@@ -6110,30 +6097,30 @@ jpSched = [
 		"title": "[JFD] Shooting Urban Purple<br>G: 2025-07-01 02:00 Tue ~ 2025-07-07 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 Wed ~ 2025-01-15 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Defense Indoors Blue",
+		"content": "[JFD] Defense Indoors",
 		"start": "2025-07-27T02:00",
 		"startJp": "2025-02-03T11:00",
 		"end": "2025-08-04T18:59",
 		"endJp": "2025-02-12T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
+		"style": "color:black;background-color:pink",
 		"endG": "2025-08-04T18:59",
 		"startG": "2025-07-27T02:00",
-		"title": "[JFD] Defense Indoors Blue<br>G: 2025-07-27 02:00 Sun ~ 2025-08-04 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-12 03:59 Wed 9d (JST y-m-d)",
+		"title": "[JFD] Defense Indoors<br>G: 2025-07-27 02:00 Sun ~ 2025-08-04 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-12 03:59 Wed 9d (JST y-m-d)",
 		"duration": 9
 	},{
-		"content": "[JFD] Escort Outdoors Blue",
+		"content": "[JFD] Escort Outdoors",
 		"start": "2025-09-02T02:00",
 		"startJp": "2025-03-12T11:00",
 		"end": "2025-09-08T18:59",
 		"endJp": "2025-03-19T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
+		"style": "color:black;background-color:pink",
 		"endG": "2025-09-08T18:59",
 		"startG": "2025-09-02T02:00",
-		"title": "[JFD] Escort Outdoors Blue<br>G: 2025-09-02 02:00 Tue ~ 2025-09-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Escort Outdoors<br>G: 2025-09-02 02:00 Tue ~ 2025-09-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Assault Urban Yellow",
@@ -7630,19 +7617,6 @@ jpSched = [
 		"startG": "2025-09-17T02:00",
 		"title": "[LBA] S13 The Fury of Set Red (Red atk)<br>G: 2025-09-17 02:00 Wed ~ 2025-10-12 18:59 Sun 26d (UTC y-m-d)<br>Jp: 2025-03-27 11:00 Thu ~ 2025-04-22 03:59 Tue 26d (JST y-m-d)",
 		"duration": 26
-	},{
-		"content": "[LBA] S14 The Fury of Set Red (Red atk)",
-		"start": "2025-10-14T02:00",
-		"startJp": "2025-04-23T11:00",
-		"end": "2025-11-10T18:59",
-		"endJp": "2025-05-21T03:59",
-		"group": "J Raid",
-		"subgroup": "LBA",
-		"style": "color:white;background-color:red",
-		"endG": "2025-11-10T18:59",
-		"startG": "2025-10-14T02:00",
-		"title": "[LBA] S14 The Fury of Set Red (Red atk)<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 03:59 Wed 28d (JST y-m-d)",
-		"duration": 28
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)",
 		"start": "2021-07-28T03:00",
@@ -12181,6 +12155,58 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kayoko_(Dress)\" title=\"Kayoko (Dress)\">Kayoko (Dress)</a><br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 10:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rumi\" title=\"Rumi\">Rumi</a>",
+		"start": "2025-10-07T02:00",
+		"startJp": "2025-04-16T11:00",
+		"end": "2025-10-13T01:59",
+		"endJp": "2025-04-22T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-10-13T01:59",
+		"startG": "2025-10-07T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rumi\" title=\"Rumi\">Rumi</a><br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 01:59 Mon 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 10:59 Tue 6d (JST y-m-d)",
+		"duration": 6
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mina\" title=\"Mina\">Mina</a>",
+		"start": "2025-10-07T02:00",
+		"startJp": "2025-04-16T11:00",
+		"end": "2025-10-13T01:59",
+		"endJp": "2025-04-22T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-10-13T01:59",
+		"startG": "2025-10-07T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mina\" title=\"Mina\">Mina</a><br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 01:59 Mon 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 10:59 Tue 6d (JST y-m-d)",
+		"duration": 6
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hikari\" title=\"Hikari\">Hikari</a> (New)",
+		"start": "2025-10-13T02:00",
+		"startJp": "2025-04-22T11:00",
+		"end": "2025-10-28T01:59",
+		"endJp": "2025-05-07T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-10-28T01:59",
+		"startG": "2025-10-13T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hikari\" title=\"Hikari\">Hikari</a> (New)<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 10:59 Wed 15d (JST y-m-d)",
+		"duration": 15
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nozomi\" title=\"Nozomi\">Nozomi</a> (New)",
+		"start": "2025-10-13T02:00",
+		"startJp": "2025-04-22T11:00",
+		"end": "2025-10-28T01:59",
+		"endJp": "2025-05-07T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-10-28T01:59",
+		"startG": "2025-10-13T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nozomi\" title=\"Nozomi\">Nozomi</a> (New)<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 10:59 Wed 15d (JST y-m-d)",
+		"duration": 15
+	},{
 		"content": "EOS",
 		"start": "2021-08-03T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -14742,7 +14768,7 @@ jpSched = [
 		"title": "[Mini Story] Encounter Suddenly<br>G: 2025-10-07 02:00 Tue ~ 2025-10-21 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-30 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[PVP] Season 9",
+		"content": "[PVP] Season 9 (Indoor)",
 		"start": "2025-10-28T02:00",
 		"startJp": "2025-05-07T11:00",
 		"end": "2025-11-11T02:00",
@@ -14752,7 +14778,7 @@ jpSched = [
 		"style": "color:black;background-color:orange",
 		"endG": "2025-11-11T02:00",
 		"startG": "2025-10-28T02:00",
-		"title": "[PVP] Season 9<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
+		"title": "[PVP] Season 9 (Indoor)<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
 		"content": "[TA] ??????",
@@ -14762,7 +14788,7 @@ jpSched = [
 		"endJp": "2025-05-07T04:00",
 		"group": "J Raid",
 		"subgroup": "TA",
-		"style": "color:black;background-color:pink",
+		"style": "color:black;background-color:lightgrey",
 		"endG": "2025-10-27T19:00",
 		"startG": "2025-10-21T02:00",
 		"title": "[TA] ??????<br>G: 2025-10-21 02:00 Tue ~ 2025-10-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-30 11:00 Wed ~ 2025-05-07 04:00 Wed 7d (JST y-m-d)",
@@ -14781,7 +14807,33 @@ jpSched = [
 		"title": "[JFD] Shooting Outdoors Red. AR + SR buff. High HP + DEF cat.<br>G: 2025-10-28 02:00 Tue ~ 2025-11-03 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 04:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "Mina",
+		"content": "[GA] ??????",
+		"start": "2025-11-04T02:00",
+		"startJp": "2025-05-14T11:00",
+		"end": "2025-11-10T19:00",
+		"endJp": "2025-05-21T04:00",
+		"group": "J Raid",
+		"subgroup": "GA",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-11-10T19:00",
+		"startG": "2025-11-04T02:00",
+		"title": "[GA] ??????<br>G: 2025-11-04 02:00 Tue ~ 2025-11-10 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 04:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "[LBA] Tiphareth",
+		"start": "2025-10-14T02:00",
+		"startJp": "2025-04-23T11:00",
+		"end": "2025-11-10T19:00",
+		"endJp": "2025-05-21T04:00",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:white;background-color:purple",
+		"endG": "2025-11-10T19:00",
+		"startG": "2025-10-14T02:00",
+		"title": "[LBA] Tiphareth<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 19:00 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 04:00 Wed 28d (JST y-m-d)",
+		"duration": 28
+	},{
+		"content": "Mina (New)",
 		"start": "2025-10-07T02:00",
 		"startJp": "2025-04-16T11:00",
 		"end": "2025-10-13T02:00",
@@ -14791,10 +14843,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2025-10-13T02:00",
 		"startG": "2025-10-07T02:00",
-		"title": "Mina<br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 11:00 Tue 6d (JST y-m-d)",
+		"title": "Mina (New)<br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 11:00 Tue 6d (JST y-m-d)",
 		"duration": 6
 	},{
-		"content": "Rumi",
+		"content": "Rumi (New)",
 		"start": "2025-10-07T02:00",
 		"startJp": "2025-04-16T11:00",
 		"end": "2025-10-13T02:00",
@@ -14804,7 +14856,150 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2025-10-13T02:00",
 		"startG": "2025-10-07T02:00",
-		"title": "Rumi<br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 11:00 Tue 6d (JST y-m-d)",
+		"title": "Rumi (New)<br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 11:00 Tue 6d (JST y-m-d)",
 		"duration": 6
+	},{
+		"content": "[Main] ハイランダー鉄道爆走事件〜そして列車はなくなった〜",
+		"start": "2025-10-13T02:00",
+		"startJp": "2025-04-22T11:00",
+		"end": "2025-10-28T02:00",
+		"endJp": "2025-05-07T11:00",
+		"group": "J Event",
+		"subgroup": "Event",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-10-28T02:00",
+		"startG": "2025-10-13T02:00",
+		"title": "[Main] ハイランダー鉄道爆走事件〜そして列車はなくなった〜<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
+		"duration": 15
+	},{
+		"content": "[Welfare] Aoba",
+		"start": "2025-10-13T02:00",
+		"startJp": "2025-04-22T11:00",
+		"end": "2025-10-28T02:00",
+		"endJp": "2025-05-07T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-10-28T02:00",
+		"startG": "2025-10-13T02:00",
+		"title": "[Welfare] Aoba<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
+		"duration": 15
+	},{
+		"content": "[Main Story] Vol.EX: Decagrammaton Ch.2 P3",
+		"start": "2025-10-28T02:00",
+		"startJp": "2025-05-07T11:00",
+		"end": "2025-11-11T02:00",
+		"endJp": "2025-05-21T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-11-11T02:00",
+		"startG": "2025-10-28T02:00",
+		"title": "[Main Story] Vol.EX: Decagrammaton Ch.2 P3<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "[Bounty] Highlander mats on Highway (Gehenna's stage)",
+		"start": "2025-10-13T02:00",
+		"startJp": "2025-04-22T11:00",
+		"end": "2025-10-28T02:00",
+		"endJp": "2025-05-07T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2025-10-28T02:00",
+		"startG": "2025-10-13T02:00",
+		"title": "[Bounty] Highlander mats on Highway (Gehenna's stage)<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
+		"duration": 15
+	},{
+		"content": "[Comm] Stages 10/J + 14N ",
+		"start": "2025-10-13T02:00",
+		"startJp": "2025-04-22T11:00",
+		"end": "2025-10-28T02:00",
+		"endJp": "2025-05-07T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2025-10-28T02:00",
+		"startG": "2025-10-13T02:00",
+		"title": "[Comm] Stages 10/J + 14N <br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
+		"duration": 15
+	},{
+		"content": "2x Bounty",
+		"start": "2025-10-12T19:00",
+		"startJp": "2025-04-22T04:00",
+		"end": "2025-10-20T19:00",
+		"endJp": "2025-04-30T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-10-20T19:00",
+		"startG": "2025-10-12T19:00",
+		"title": "2x Bounty<br>G: 2025-10-12 19:00 Sun ~ 2025-10-20 19:00 Mon 8d (UTC y-m-d)<br>Jp: 2025-04-22 04:00 Tue ~ 2025-04-30 04:00 Wed 8d (JST y-m-d)",
+		"duration": 8
+	},{
+		"content": "2x Normal",
+		"start": "2025-10-20T19:00",
+		"startJp": "2025-04-30T04:00",
+		"end": "2025-10-27T19:00",
+		"endJp": "2025-05-07T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-10-27T19:00",
+		"startG": "2025-10-20T19:00",
+		"title": "2x Normal<br>G: 2025-10-20 19:00 Mon ~ 2025-10-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-30 04:00 Wed ~ 2025-05-07 04:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Comm + Lesson",
+		"start": "2025-10-27T19:00",
+		"startJp": "2025-05-07T04:00",
+		"end": "2025-11-03T19:00",
+		"endJp": "2025-05-14T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-11-03T19:00",
+		"startG": "2025-10-27T19:00",
+		"title": "2x Comm + Lesson<br>G: 2025-10-27 19:00 Mon ~ 2025-11-03 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 04:00 Wed ~ 2025-05-14 04:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Hard + Scrimm",
+		"start": "2025-11-03T19:00",
+		"startJp": "2025-05-14T04:00",
+		"end": "2025-11-10T19:00",
+		"endJp": "2025-05-21T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-11-10T19:00",
+		"startG": "2025-11-03T19:00",
+		"title": "2x Hard + Scrimm<br>G: 2025-11-03 19:00 Mon ~ 2025-11-10 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 04:00 Wed ~ 2025-05-21 04:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x <b>EXP</b>",
+		"start": "2025-10-16T19:00",
+		"startJp": "2025-04-26T04:00",
+		"end": "2025-10-18T19:00",
+		"endJp": "2025-04-28T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-10-18T19:00",
+		"startG": "2025-10-16T19:00",
+		"title": "2x <b>EXP</b><br>G: 2025-10-16 19:00 Thu ~ 2025-10-18 19:00 Sat 2d (UTC y-m-d)<br>Jp: 2025-04-26 04:00 Sat ~ 2025-04-28 04:00 Mon 2d (JST y-m-d)",
+		"duration": 2
+	},{
+		"content": "2x <b>EXP</b>",
+		"start": "2025-10-23T19:00",
+		"startJp": "2025-05-03T04:00",
+		"end": "2025-10-27T19:00",
+		"endJp": "2025-05-07T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-10-27T19:00",
+		"startG": "2025-10-23T19:00",
+		"title": "2x <b>EXP</b><br>G: 2025-10-23 19:00 Thu ~ 2025-10-27 19:00 Mon 4d (UTC y-m-d)<br>Jp: 2025-05-03 04:00 Sat ~ 2025-05-07 04:00 Wed 4d (JST y-m-d)",
+		"duration": 4
 	}
 ]
