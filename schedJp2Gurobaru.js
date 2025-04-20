@@ -5655,17 +5655,17 @@ jpSched = [
 		"title": "[JFD] Shooting Outdoors Red<br>G: 2022-08-30 02:00 Tue ~ 2022-09-05 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-09 11:00 Wed ~ 2022-03-15 23:59 Tue 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Defense Outdoors",
+		"content": "[JFD] Defense Outdoors Blue",
 		"start": "2022-09-13T02:00",
 		"startJp": "2022-03-23T11:00",
 		"end": "2022-09-19T18:59",
 		"endJp": "2022-03-30T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:black;background-color:pink",
+		"style": "color:white;background-color:blue",
 		"endG": "2022-09-19T18:59",
 		"startG": "2022-09-13T02:00",
-		"title": "[JFD] Defense Outdoors<br>G: 2022-09-13 02:00 Tue ~ 2022-09-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 Wed ~ 2022-03-30 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Defense Outdoors Blue<br>G: 2022-09-13 02:00 Tue ~ 2022-09-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 Wed ~ 2022-03-30 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Assault Outdoors Yellow",
@@ -5707,30 +5707,30 @@ jpSched = [
 		"title": "[JFD] Defense Indoors Red<br>G: 2022-12-27 02:00 Tue ~ 2023-01-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-07-06 11:00 Wed ~ 2022-07-13 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Assault Indoors",
+		"content": "[JFD] Assault Indoors Blue",
 		"start": "2023-01-24T02:00",
 		"startJp": "2022-08-03T11:00",
 		"end": "2023-01-29T18:59",
 		"endJp": "2022-08-09T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:black;background-color:pink",
+		"style": "color:white;background-color:blue",
 		"endG": "2023-01-29T18:59",
 		"startG": "2023-01-24T02:00",
-		"title": "[JFD] Assault Indoors<br>G: 2023-01-24 02:00 Tue ~ 2023-01-29 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2022-08-03 11:00 Wed ~ 2022-08-09 03:59 Tue 6d (JST y-m-d)",
+		"title": "[JFD] Assault Indoors Blue<br>G: 2023-01-24 02:00 Tue ~ 2023-01-29 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2022-08-03 11:00 Wed ~ 2022-08-09 03:59 Tue 6d (JST y-m-d)",
 		"duration": 6
 	},{
-		"content": "[JFD] Shooting Urban",
+		"content": "[JFD] Shooting Urban Blue",
 		"start": "2023-03-14T02:00",
 		"startJp": "2022-09-21T11:00",
 		"end": "2023-03-20T18:59",
 		"endJp": "2022-09-28T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:black;background-color:pink",
+		"style": "color:white;background-color:blue",
 		"endG": "2023-03-20T18:59",
 		"startG": "2023-03-14T02:00",
-		"title": "[JFD] Shooting Urban<br>G: 2023-03-14 02:00 Tue ~ 2023-03-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 Wed ~ 2022-09-28 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Shooting Urban Blue<br>G: 2023-03-14 02:00 Tue ~ 2023-03-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 Wed ~ 2022-09-28 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Defense Urban Yellow",
@@ -5772,17 +5772,17 @@ jpSched = [
 		"title": "[JFD] Shooting Indoors Red<br>G: 2023-05-23 02:00 Tue ~ 2023-05-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 Wed ~ 2022-12-07 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Defense Indoors",
+		"content": "[JFD] Defense Indoors Blue",
 		"start": "2023-06-20T02:00",
 		"startJp": "2022-12-28T11:00",
 		"end": "2023-06-26T18:59",
 		"endJp": "2023-01-04T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:black;background-color:pink",
+		"style": "color:white;background-color:blue",
 		"endG": "2023-06-26T18:59",
 		"startG": "2023-06-20T02:00",
-		"title": "[JFD] Defense Indoors<br>G: 2023-06-20 02:00 Tue ~ 2023-06-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 Wed ~ 2023-01-04 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Defense Indoors Blue<br>G: 2023-06-20 02:00 Tue ~ 2023-06-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 Wed ~ 2023-01-04 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Assault Indoors Yellow",
@@ -5798,17 +5798,17 @@ jpSched = [
 		"title": "[JFD] Assault Indoors Yellow<br>G: 2023-08-08 02:00 Tue ~ 2023-08-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-02-15 11:00 Wed ~ 2023-02-22 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Shooting Outdoors",
+		"content": "[JFD] Shooting Outdoors Blue",
 		"start": "2023-08-29T02:00",
 		"startJp": "2023-03-08T11:00",
 		"end": "2023-09-04T18:59",
 		"endJp": "2023-03-15T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:black;background-color:pink",
+		"style": "color:white;background-color:blue",
 		"endG": "2023-09-04T18:59",
 		"startG": "2023-08-29T02:00",
-		"title": "[JFD] Shooting Outdoors<br>G: 2023-08-29 02:00 Tue ~ 2023-09-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 Wed ~ 2023-03-15 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Shooting Outdoors Blue<br>G: 2023-08-29 02:00 Tue ~ 2023-09-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 Wed ~ 2023-03-15 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Defense Outdoors Yellow",
@@ -5863,17 +5863,17 @@ jpSched = [
 		"title": "[JFD] Defense Urban Red<br>G: 2023-12-12 02:00 Tue ~ 2023-12-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 Wed ~ 2023-06-28 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Assault Urban",
+		"content": "[JFD] Assault Urban Blue",
 		"start": "2024-01-30T02:00",
 		"startJp": "2023-08-09T11:00",
 		"end": "2024-02-05T18:59",
 		"endJp": "2023-08-16T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:black;background-color:pink",
+		"style": "color:white;background-color:blue",
 		"endG": "2024-02-05T18:59",
 		"startG": "2024-01-30T02:00",
-		"title": "[JFD] Assault Urban<br>G: 2024-01-30 02:00 Tue ~ 2024-02-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 Wed ~ 2023-08-16 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Assault Urban Blue<br>G: 2024-01-30 02:00 Tue ~ 2024-02-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 Wed ~ 2023-08-16 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Shooting Indoors Red",
@@ -5902,17 +5902,17 @@ jpSched = [
 		"title": "[JFD] Defense Urban Purple<br>G: 2024-04-02 02:00 Tue ~ 2024-04-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 Wed ~ 2023-10-18 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Escort Outdoors",
+		"content": "[JFD] Escort Outdoors Blue",
 		"start": "2024-04-30T02:00",
 		"startJp": "2023-11-08T11:00",
 		"end": "2024-05-06T18:59",
 		"endJp": "2023-11-15T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:black;background-color:pink",
+		"style": "color:white;background-color:blue",
 		"endG": "2024-05-06T18:59",
 		"startG": "2024-04-30T02:00",
-		"title": "[JFD] Escort Outdoors<br>G: 2024-04-30 02:00 Tue ~ 2024-05-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 Wed ~ 2023-11-15 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Escort Outdoors Blue<br>G: 2024-04-30 02:00 Tue ~ 2024-05-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 Wed ~ 2023-11-15 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Assault Indoors Yellow",
@@ -6019,30 +6019,30 @@ jpSched = [
 		"title": "[JFD] Escort Urban Purple<br>G: 2024-12-31 02:00 Tue ~ 2025-01-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 Wed ~ 2024-07-17 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Assault Outdoors",
+		"content": "[JFD] Assault Outdoors Blue",
 		"start": "2025-01-28T02:00",
 		"startJp": "2024-08-07T11:00",
 		"end": "2025-02-03T18:59",
 		"endJp": "2024-08-14T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:black;background-color:pink",
+		"style": "color:white;background-color:blue",
 		"endG": "2025-02-03T18:59",
 		"startG": "2025-01-28T02:00",
-		"title": "[JFD] Assault Outdoors<br>G: 2025-01-28 02:00 Tue ~ 2025-02-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 Wed ~ 2024-08-14 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Assault Outdoors Blue<br>G: 2025-01-28 02:00 Tue ~ 2025-02-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 Wed ~ 2024-08-14 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Shooting Indoors",
+		"content": "[JFD] Shooting Indoors Blue",
 		"start": "2025-02-25T02:00",
 		"startJp": "2024-09-04T11:00",
 		"end": "2025-03-03T18:59",
 		"endJp": "2024-09-11T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:black;background-color:pink",
+		"style": "color:white;background-color:blue",
 		"endG": "2025-03-03T18:59",
 		"startG": "2025-02-25T02:00",
-		"title": "[JFD] Shooting Indoors<br>G: 2025-02-25 02:00 Tue ~ 2025-03-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-11 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Shooting Indoors Blue<br>G: 2025-02-25 02:00 Tue ~ 2025-03-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-11 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Defense Indoors Yellow",
@@ -6097,30 +6097,30 @@ jpSched = [
 		"title": "[JFD] Shooting Urban Purple<br>G: 2025-07-01 02:00 Tue ~ 2025-07-07 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 Wed ~ 2025-01-15 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Defense Indoors",
+		"content": "[JFD] Defense Indoors Blue",
 		"start": "2025-07-27T02:00",
 		"startJp": "2025-02-03T11:00",
 		"end": "2025-08-04T18:59",
 		"endJp": "2025-02-12T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:black;background-color:pink",
+		"style": "color:white;background-color:blue",
 		"endG": "2025-08-04T18:59",
 		"startG": "2025-07-27T02:00",
-		"title": "[JFD] Defense Indoors<br>G: 2025-07-27 02:00 Sun ~ 2025-08-04 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-12 03:59 Wed 9d (JST y-m-d)",
+		"title": "[JFD] Defense Indoors Blue<br>G: 2025-07-27 02:00 Sun ~ 2025-08-04 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-12 03:59 Wed 9d (JST y-m-d)",
 		"duration": 9
 	},{
-		"content": "[JFD] Escort Outdoors",
+		"content": "[JFD] Escort Outdoors Blue",
 		"start": "2025-09-02T02:00",
 		"startJp": "2025-03-12T11:00",
 		"end": "2025-09-08T18:59",
 		"endJp": "2025-03-19T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:black;background-color:pink",
+		"style": "color:white;background-color:blue",
 		"endG": "2025-09-08T18:59",
 		"startG": "2025-09-02T02:00",
-		"title": "[JFD] Escort Outdoors<br>G: 2025-09-02 02:00 Tue ~ 2025-09-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Escort Outdoors Blue<br>G: 2025-09-02 02:00 Tue ~ 2025-09-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[JFD] Assault Urban Yellow",
