@@ -14833,32 +14833,6 @@ jpSched = [
 		"title": "[LBA] Tiphareth<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 19:00 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 04:00 Wed 28d (JST y-m-d)",
 		"duration": 28
 	},{
-		"content": "Mina (New)",
-		"start": "2025-10-07T02:00",
-		"startJp": "2025-04-16T11:00",
-		"end": "2025-10-13T02:00",
-		"endJp": "2025-04-22T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-10-13T02:00",
-		"startG": "2025-10-07T02:00",
-		"title": "Mina (New)<br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 11:00 Tue 6d (JST y-m-d)",
-		"duration": 6
-	},{
-		"content": "Rumi (New)",
-		"start": "2025-10-07T02:00",
-		"startJp": "2025-04-16T11:00",
-		"end": "2025-10-13T02:00",
-		"endJp": "2025-04-22T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-10-13T02:00",
-		"startG": "2025-10-07T02:00",
-		"title": "Rumi (New)<br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 11:00 Tue 6d (JST y-m-d)",
-		"duration": 6
-	},{
 		"content": "[Main] ハイランダー鉄道爆走事件〜そして列車はなくなった〜",
 		"start": "2025-10-13T02:00",
 		"startJp": "2025-04-22T11:00",
