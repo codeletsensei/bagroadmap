@@ -12285,7 +12285,7 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mina\" title=\"Mina\">Mina</a><br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 01:59 Mon 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 10:59 Tue 6d (JST y-m-d)",
 		"duration": 6
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hikari\" title=\"Hikari\">Hikari</a> (New)",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hikari\" title=\"Hikari\">Hikari</a> [L] (New)",
 		"start": "2025-10-13T02:00",
 		"startJp": "2025-04-22T11:00",
 		"end": "2025-10-28T01:59",
@@ -12295,10 +12295,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2025-10-28T01:59",
 		"startG": "2025-10-13T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hikari\" title=\"Hikari\">Hikari</a> (New)<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 10:59 Wed 15d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hikari\" title=\"Hikari\">Hikari</a> [L] (New)<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 10:59 Wed 15d (JST y-m-d)",
 		"duration": 15
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nozomi\" title=\"Nozomi\">Nozomi</a> (New)",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nozomi\" title=\"Nozomi\">Nozomi</a> [L] (New)",
 		"start": "2025-10-13T02:00",
 		"startJp": "2025-04-22T11:00",
 		"end": "2025-10-28T01:59",
@@ -12308,7 +12308,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2025-10-28T01:59",
 		"startG": "2025-10-13T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nozomi\" title=\"Nozomi\">Nozomi</a> (New)<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 10:59 Wed 15d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nozomi\" title=\"Nozomi\">Nozomi</a> [L] (New)<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 10:59 Wed 15d (JST y-m-d)",
 		"duration": 15
 	},{
 		"content": "EOS",
@@ -14898,17 +14898,17 @@ jpSched = [
 		"title": "[PVP] Season 9 (Indoor)<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[TA] ??????",
+		"content": "[TA] Gregorius Indoor (Blue atk)",
 		"start": "2025-10-21T02:00",
 		"startJp": "2025-04-30T11:00",
 		"end": "2025-10-27T19:00",
 		"endJp": "2025-05-07T04:00",
 		"group": "J Raid",
 		"subgroup": "TA",
-		"style": "color:black;background-color:lightgrey",
+		"style": "color:white;background-color:red",
 		"endG": "2025-10-27T19:00",
 		"startG": "2025-10-21T02:00",
-		"title": "[TA] ??????<br>G: 2025-10-21 02:00 Tue ~ 2025-10-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-30 11:00 Wed ~ 2025-05-07 04:00 Wed 7d (JST y-m-d)",
+		"title": "[TA] Gregorius Indoor (Blue atk)<br>G: 2025-10-21 02:00 Tue ~ 2025-10-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-30 11:00 Wed ~ 2025-05-07 04:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[GA] ??????",
@@ -14937,7 +14937,7 @@ jpSched = [
 		"title": "[LBA] Tiphareth<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 19:00 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 04:00 Wed 28d (JST y-m-d)",
 		"duration": 28
 	},{
-		"content": "[Main] ハイランダー鉄道爆走事件〜そして列車はなくなった〜",
+		"content": "[Main] Highlander Railroad Rampage Incident: And the Train Was Gone",
 		"start": "2025-10-13T02:00",
 		"startJp": "2025-04-22T11:00",
 		"end": "2025-10-28T02:00",
@@ -14947,7 +14947,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-10-28T02:00",
 		"startG": "2025-10-13T02:00",
-		"title": "[Main] ハイランダー鉄道爆走事件〜そして列車はなくなった〜<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
+		"title": "[Main] Highlander Railroad Rampage Incident: And the Train Was Gone<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
 		"duration": 15
 	},{
 		"content": "[Welfare] Aoba",
@@ -14976,7 +14976,7 @@ jpSched = [
 		"title": "[Main Story] Vol.EX: Decagrammaton Ch.2 P3<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[Bounty] Highlander mats on Highway",
+		"content": "Highlander mats on Bounty (Highway) and Lesson",
 		"start": "2025-10-13T02:00",
 		"startJp": "2025-04-22T11:00",
 		"end": "2025-10-28T02:00",
@@ -14986,7 +14986,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2025-10-28T02:00",
 		"startG": "2025-10-13T02:00",
-		"title": "[Bounty] Highlander mats on Highway<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
+		"title": "Highlander mats on Bounty (Highway) and Lesson<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
 		"duration": 15
 	},{
 		"content": "[Comm] Stages 10/J + 14N ",
