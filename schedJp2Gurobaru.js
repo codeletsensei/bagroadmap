@@ -7709,19 +7709,6 @@ jpSched = [
 		"title": "[LBA] S13 The Fury of Set Red (Red atk)<br>G: 2025-09-17 02:00 Wed ~ 2025-10-12 18:59 Sun 26d (UTC y-m-d)<br>Jp: 2025-03-27 11:00 Thu ~ 2025-04-22 03:59 Tue 26d (JST y-m-d)",
 		"duration": 26
 	},{
-		"content": "[LBA] S14 The Fury of Set Red (Red atk)",
-		"start": "2025-10-14T02:00",
-		"startJp": "2025-04-23T11:00",
-		"end": "2025-11-10T18:59",
-		"endJp": "2025-05-21T03:59",
-		"group": "J Raid",
-		"subgroup": "LBA",
-		"style": "color:white;background-color:red",
-		"endG": "2025-11-10T18:59",
-		"startG": "2025-10-14T02:00",
-		"title": "[LBA] S14 The Fury of Set Red (Red atk)<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 03:59 Wed 28d (JST y-m-d)",
-		"duration": 28
-	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)",
 		"start": "2021-07-28T03:00",
 		"startJp": "2021-02-04T12:00",
@@ -14924,7 +14911,7 @@ jpSched = [
 		"title": "[GA] ??????<br>G: 2025-11-04 02:00 Tue ~ 2025-11-10 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 04:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[LBA] Tiphareth",
+		"content": "[LBA] S14 Tiphareth",
 		"start": "2025-10-14T02:00",
 		"startJp": "2025-04-23T11:00",
 		"end": "2025-11-10T19:00",
@@ -14934,7 +14921,7 @@ jpSched = [
 		"style": "color:white;background-color:purple",
 		"endG": "2025-11-10T19:00",
 		"startG": "2025-10-14T02:00",
-		"title": "[LBA] Tiphareth<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 19:00 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 04:00 Wed 28d (JST y-m-d)",
+		"title": "[LBA] S14 Tiphareth<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 19:00 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 04:00 Wed 28d (JST y-m-d)",
 		"duration": 28
 	},{
 		"content": "[Main] Highlander Railroad Rampage Incident: And the Train Was Gone",
