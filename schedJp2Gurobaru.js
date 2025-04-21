@@ -5642,6 +5642,84 @@ jpSched = [
 		"title": "<b>2x XP</b></b><br>G: 2025-09-25 19:00 Thu ~ 2025-09-27 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2025-04-05 04:00 Sat ~ 2025-04-07 03:59 Mon 2d (JST y-m-d)",
 		"duration": 2
 	},{
+		"content": "2x Bounty ",
+		"start": "2025-10-12T19:00",
+		"startJp": "2025-04-22T04:00",
+		"end": "2025-10-20T18:59",
+		"endJp": "2025-04-30T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-10-20T18:59",
+		"startG": "2025-10-12T19:00",
+		"title": "2x Bounty <br>G: 2025-10-12 19:00 Sun ~ 2025-10-20 18:59 Mon 8d (UTC y-m-d)<br>Jp: 2025-04-22 04:00 Tue ~ 2025-04-30 03:59 Wed 8d (JST y-m-d)",
+		"duration": 8
+	},{
+		"content": "2x Normal ",
+		"start": "2025-10-20T19:00",
+		"startJp": "2025-04-30T04:00",
+		"end": "2025-10-27T18:59",
+		"endJp": "2025-05-07T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-10-27T18:59",
+		"startG": "2025-10-20T19:00",
+		"title": "2x Normal <br>G: 2025-10-20 19:00 Mon ~ 2025-10-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-30 04:00 Wed ~ 2025-05-07 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Comm ",
+		"start": "2025-10-27T19:00",
+		"startJp": "2025-05-07T04:00",
+		"end": "2025-11-03T18:59",
+		"endJp": "2025-05-14T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-11-03T18:59",
+		"startG": "2025-10-27T19:00",
+		"title": "2x Comm <br>G: 2025-10-27 19:00 Mon ~ 2025-11-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 04:00 Wed ~ 2025-05-14 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Lesson ",
+		"start": "2025-10-27T19:00",
+		"startJp": "2025-05-07T04:00",
+		"end": "2025-11-03T18:59",
+		"endJp": "2025-05-14T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-11-03T18:59",
+		"startG": "2025-10-27T19:00",
+		"title": "2x Lesson <br>G: 2025-10-27 19:00 Mon ~ 2025-11-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 04:00 Wed ~ 2025-05-14 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Hard ",
+		"start": "2025-11-03T19:00",
+		"startJp": "2025-05-14T04:00",
+		"end": "2025-11-10T18:59",
+		"endJp": "2025-05-21T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-11-10T18:59",
+		"startG": "2025-11-03T19:00",
+		"title": "2x Hard <br>G: 2025-11-03 19:00 Mon ~ 2025-11-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 04:00 Wed ~ 2025-05-21 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Scrimm ",
+		"start": "2025-11-03T19:00",
+		"startJp": "2025-05-14T04:00",
+		"end": "2025-11-10T18:59",
+		"endJp": "2025-05-21T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-11-10T18:59",
+		"startG": "2025-11-03T19:00",
+		"title": "2x Scrimm <br>G: 2025-11-03 19:00 Mon ~ 2025-11-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 04:00 Wed ~ 2025-05-21 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "[JFD] Shooting Outdoors Red",
 		"start": "2022-08-30T02:00",
 		"startJp": "2022-03-09T11:00",
@@ -6134,6 +6212,19 @@ jpSched = [
 		"endG": "2025-10-06T18:59",
 		"startG": "2025-09-30T02:00",
 		"title": "[JFD] Assault Urban Yellow<br>G: 2025-09-30 02:00 Tue ~ 2025-10-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "[JFD] Shooting Urban Red",
+		"start": "2025-10-28T02:00",
+		"startJp": "2025-05-07T11:00",
+		"end": "2025-11-03T18:59",
+		"endJp": "2025-05-14T03:59",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:white;background-color:red",
+		"endG": "2025-11-03T18:59",
+		"startG": "2025-10-28T02:00",
+		"title": "[JFD] Shooting Urban Red<br>G: 2025-10-28 02:00 Tue ~ 2025-11-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
@@ -7617,6 +7708,19 @@ jpSched = [
 		"startG": "2025-09-17T02:00",
 		"title": "[LBA] S13 The Fury of Set Red (Red atk)<br>G: 2025-09-17 02:00 Wed ~ 2025-10-12 18:59 Sun 26d (UTC y-m-d)<br>Jp: 2025-03-27 11:00 Thu ~ 2025-04-22 03:59 Tue 26d (JST y-m-d)",
 		"duration": 26
+	},{
+		"content": "[LBA] S14 The Fury of Set Red (Red atk)",
+		"start": "2025-10-14T02:00",
+		"startJp": "2025-04-23T11:00",
+		"end": "2025-11-10T18:59",
+		"endJp": "2025-05-21T03:59",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:white;background-color:red",
+		"endG": "2025-11-10T18:59",
+		"startG": "2025-10-14T02:00",
+		"title": "[LBA] S14 The Fury of Set Red (Red atk)<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 03:59 Wed 28d (JST y-m-d)",
+		"duration": 28
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)",
 		"start": "2021-07-28T03:00",
@@ -14768,6 +14872,19 @@ jpSched = [
 		"title": "[Mini Story] Encounter Suddenly<br>G: 2025-10-07 02:00 Tue ~ 2025-10-21 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-30 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
+		"content": "EOS",
+		"start": "2025-10-13T02:00",
+		"startJp": "2025-04-22T11:00",
+		"end": "2025-10-13T10:00",
+		"endJp": "2025-04-22T19:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"endG": "2025-10-13T10:00",
+		"startG": "2025-10-13T02:00",
+		"title": "EOS<br>G: 2025-10-13 02:00 Mon ~ 2025-10-13 10:00 Mon 1d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-04-22 19:00 Tue 1d (JST y-m-d)",
+		"duration": 1
+	},{
 		"content": "[PVP] Season 9 (Indoor)",
 		"start": "2025-10-28T02:00",
 		"startJp": "2025-05-07T11:00",
@@ -14792,19 +14909,6 @@ jpSched = [
 		"endG": "2025-10-27T19:00",
 		"startG": "2025-10-21T02:00",
 		"title": "[TA] ??????<br>G: 2025-10-21 02:00 Tue ~ 2025-10-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-30 11:00 Wed ~ 2025-05-07 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "[JFD] Shooting Outdoors Red. AR + SR buff. High HP + DEF cat.",
-		"start": "2025-10-28T02:00",
-		"startJp": "2025-05-07T11:00",
-		"end": "2025-11-03T19:00",
-		"endJp": "2025-05-14T04:00",
-		"group": "J Raid",
-		"subgroup": "JFD",
-		"style": "color:white;background-color:red",
-		"endG": "2025-11-03T19:00",
-		"startG": "2025-10-28T02:00",
-		"title": "[JFD] Shooting Outdoors Red. AR + SR buff. High HP + DEF cat.<br>G: 2025-10-28 02:00 Tue ~ 2025-11-03 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 04:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[GA] ??????",
@@ -14872,7 +14976,7 @@ jpSched = [
 		"title": "[Main Story] Vol.EX: Decagrammaton Ch.2 P3<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[Bounty] Highlander mats on Highway (Gehenna's stage)",
+		"content": "[Bounty] Highlander mats on Highway",
 		"start": "2025-10-13T02:00",
 		"startJp": "2025-04-22T11:00",
 		"end": "2025-10-28T02:00",
@@ -14882,7 +14986,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2025-10-28T02:00",
 		"startG": "2025-10-13T02:00",
-		"title": "[Bounty] Highlander mats on Highway (Gehenna's stage)<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
+		"title": "[Bounty] Highlander mats on Highway<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
 		"duration": 15
 	},{
 		"content": "[Comm] Stages 10/J + 14N ",
@@ -14897,58 +15001,6 @@ jpSched = [
 		"startG": "2025-10-13T02:00",
 		"title": "[Comm] Stages 10/J + 14N <br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
 		"duration": 15
-	},{
-		"content": "2x Bounty",
-		"start": "2025-10-12T19:00",
-		"startJp": "2025-04-22T04:00",
-		"end": "2025-10-20T19:00",
-		"endJp": "2025-04-30T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2025-10-20T19:00",
-		"startG": "2025-10-12T19:00",
-		"title": "2x Bounty<br>G: 2025-10-12 19:00 Sun ~ 2025-10-20 19:00 Mon 8d (UTC y-m-d)<br>Jp: 2025-04-22 04:00 Tue ~ 2025-04-30 04:00 Wed 8d (JST y-m-d)",
-		"duration": 8
-	},{
-		"content": "2x Normal",
-		"start": "2025-10-20T19:00",
-		"startJp": "2025-04-30T04:00",
-		"end": "2025-10-27T19:00",
-		"endJp": "2025-05-07T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2025-10-27T19:00",
-		"startG": "2025-10-20T19:00",
-		"title": "2x Normal<br>G: 2025-10-20 19:00 Mon ~ 2025-10-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-30 04:00 Wed ~ 2025-05-07 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "2x Comm + Lesson",
-		"start": "2025-10-27T19:00",
-		"startJp": "2025-05-07T04:00",
-		"end": "2025-11-03T19:00",
-		"endJp": "2025-05-14T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2025-11-03T19:00",
-		"startG": "2025-10-27T19:00",
-		"title": "2x Comm + Lesson<br>G: 2025-10-27 19:00 Mon ~ 2025-11-03 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 04:00 Wed ~ 2025-05-14 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "2x Hard + Scrimm",
-		"start": "2025-11-03T19:00",
-		"startJp": "2025-05-14T04:00",
-		"end": "2025-11-10T19:00",
-		"endJp": "2025-05-21T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2025-11-10T19:00",
-		"startG": "2025-11-03T19:00",
-		"title": "2x Hard + Scrimm<br>G: 2025-11-03 19:00 Mon ~ 2025-11-10 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 04:00 Wed ~ 2025-05-21 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
 	},{
 		"content": "2x <b>EXP</b>",
 		"start": "2025-10-16T19:00",
