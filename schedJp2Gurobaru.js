@@ -962,6 +962,32 @@ jpSched = [
 		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/0068_from_Opera_with_Love!/Rerun\" title=\"0068 from Opera with Love!/Rerun\">0068 from Opera with Love!</a><br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 11:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
+		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Highlander_Railroad_Explosion_Incident_%E3%80%9C_And_Then_The_Train_Was_Gone_%E3%80%9C\" title=\"Highlander Railroad Explosion Incident 〜 And Then The Train Was Gone 〜\">Highlander Railroad Explosion Incident 〜 And Then The Train Was Gone 〜</a>",
+		"start": "2025-10-13T02:00",
+		"startJp": "2025-04-22T11:00",
+		"end": "2025-10-28T02:00",
+		"endJp": "2025-05-07T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-10-28T02:00",
+		"startG": "2025-10-13T02:00",
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Highlander_Railroad_Explosion_Incident_%E3%80%9C_And_Then_The_Train_Was_Gone_%E3%80%9C\" title=\"Highlander Railroad Explosion Incident 〜 And Then The Train Was Gone 〜\">Highlander Railroad Explosion Incident 〜 And Then The Train Was Gone 〜</a><br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
+		"duration": 15
+	},{
+		"content": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Hyped_and_March_On!/Rerun\" title=\"Get Hyped and March On!/Rerun\">Get Hyped and March On!</a>",
+		"start": "2025-11-04T02:00",
+		"startJp": "2025-05-14T11:00",
+		"end": "2025-11-11T02:00",
+		"endJp": "2025-05-21T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-11-11T02:00",
+		"startG": "2025-11-04T02:00",
+		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Hyped_and_March_On!/Rerun\" title=\"Get Hyped and March On!/Rerun\">Get Hyped and March On!</a><br>G: 2025-11-04 02:00 Tue ~ 2025-11-11 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
 		"start": "2023-11-28T02:00",
 		"startJp": "2023-06-07T11:00",
@@ -6253,17 +6279,17 @@ jpSched = [
 		"title": "[TA] Chesed Indoors Yellow (Red atk)<br>G: 2021-09-01 05:30 Wed ~ 2021-09-07 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-03-11 14:30 Thu ~ 2021-03-17 23:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[TA] ShiroKuro Urban Blue (Yellow atk)",
+		"content": "[TA] Hieronymus Urban Red (Red atk)",
 		"start": "2021-09-15T03:00",
 		"startJp": "2021-03-25T12:00",
 		"end": "2021-09-21T14:59",
 		"endJp": "2021-03-31T23:59",
 		"group": "J Raid",
 		"subgroup": "TA",
-		"style": "color:white;background-color:blue",
+		"style": "color:white;background-color:red",
 		"endG": "2021-09-21T14:59",
 		"startG": "2021-09-15T03:00",
-		"title": "[TA] ShiroKuro Urban Blue (Yellow atk)<br>G: 2021-09-15 03:00 Wed ~ 2021-09-21 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-03-25 12:00 Thu ~ 2021-03-31 23:59 Wed 7d (JST y-m-d)",
+		"title": "[TA] Hieronymus Urban Red (Red atk)<br>G: 2021-09-15 03:00 Wed ~ 2021-09-21 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-03-25 12:00 Thu ~ 2021-03-31 23:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[TA] Binah Urban Yellow (Yellow atk)",
@@ -7241,6 +7267,19 @@ jpSched = [
 		"title": "[TA] Hovercraft Outdoors Yellow (Yellow atk)<br>G: 2025-09-23 02:00 Tue ~ 2025-09-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-02 11:00 Wed ~ 2025-04-09 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
+		"content": "[TA] Gregorius Indoors Red (Blue atk)",
+		"start": "2025-10-21T02:00",
+		"startJp": "2025-04-30T11:00",
+		"end": "2025-10-27T18:59",
+		"endJp": "2025-05-07T03:59",
+		"group": "J Raid",
+		"subgroup": "TA",
+		"style": "color:white;background-color:red",
+		"endG": "2025-10-27T18:59",
+		"startG": "2025-10-21T02:00",
+		"title": "[TA] Gregorius Indoors Red (Blue atk)<br>G: 2025-10-21 02:00 Tue ~ 2025-10-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-30 11:00 Wed ~ 2025-05-07 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "[GA] Binah Urban (Yellow Tor + Red/Blue) (Yellow atk)",
 		"start": "2023-12-19T02:00",
 		"startJp": "2023-06-28T11:00",
@@ -7540,6 +7579,19 @@ jpSched = [
 		"title": "[GA] Chesed Indoors (Purple Tor + Red/Yellow) (Red atk)<br>G: 2025-10-07 02:00 Tue ~ 2025-10-12 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 03:59 Tue 6d (JST y-m-d)",
 		"duration": 6
 	},{
+		"content": "[GA] ShiroKuro Indoors (Purple Tor + Yellow/Blue) (Yellow atk)",
+		"start": "2025-11-04T02:00",
+		"startJp": "2025-05-14T11:00",
+		"end": "2025-11-10T18:59",
+		"endJp": "2025-05-21T03:59",
+		"group": "J Raid",
+		"subgroup": "GA",
+		"style": "color:white;background-color:purple",
+		"endG": "2025-11-10T18:59",
+		"startG": "2025-11-04T02:00",
+		"title": "[GA] ShiroKuro Indoors (Purple Tor + Yellow/Blue) (Yellow atk)<br>G: 2025-11-04 02:00 Tue ~ 2025-11-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "[LBA] S1 The Fury of Set Blue (Red atk)",
 		"start": "2024-09-18T02:00",
 		"startJp": "2024-03-28T11:00",
@@ -7708,6 +7760,19 @@ jpSched = [
 		"startG": "2025-09-17T02:00",
 		"title": "[LBA] S13 The Fury of Set Red (Red atk)<br>G: 2025-09-17 02:00 Wed ~ 2025-10-12 18:59 Sun 26d (UTC y-m-d)<br>Jp: 2025-03-27 11:00 Thu ~ 2025-04-22 03:59 Tue 26d (JST y-m-d)",
 		"duration": 26
+	},{
+		"content": "[LBA] S14 Tiphareth Purple (Yellow atk)",
+		"start": "2025-10-14T02:00",
+		"startJp": "2025-04-23T11:00",
+		"end": "2025-11-10T18:59",
+		"endJp": "2025-05-21T03:59",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:white;background-color:purple",
+		"endG": "2025-11-10T18:59",
+		"startG": "2025-10-14T02:00",
+		"title": "[LBA] S14 Tiphareth Purple (Yellow atk)<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 03:59 Wed 28d (JST y-m-d)",
+		"duration": 28
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)",
 		"start": "2021-07-28T03:00",
@@ -14885,58 +14950,6 @@ jpSched = [
 		"title": "[PVP] Season 9 (Indoor)<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[TA] Gregorius Indoor (Blue atk)",
-		"start": "2025-10-21T02:00",
-		"startJp": "2025-04-30T11:00",
-		"end": "2025-10-27T19:00",
-		"endJp": "2025-05-07T04:00",
-		"group": "J Raid",
-		"subgroup": "TA",
-		"style": "color:white;background-color:red",
-		"endG": "2025-10-27T19:00",
-		"startG": "2025-10-21T02:00",
-		"title": "[TA] Gregorius Indoor (Blue atk)<br>G: 2025-10-21 02:00 Tue ~ 2025-10-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-30 11:00 Wed ~ 2025-05-07 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "[GA] ??????",
-		"start": "2025-11-04T02:00",
-		"startJp": "2025-05-14T11:00",
-		"end": "2025-11-10T19:00",
-		"endJp": "2025-05-21T04:00",
-		"group": "J Raid",
-		"subgroup": "GA",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-11-10T19:00",
-		"startG": "2025-11-04T02:00",
-		"title": "[GA] ??????<br>G: 2025-11-04 02:00 Tue ~ 2025-11-10 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "[LBA] S14 Tiphareth",
-		"start": "2025-10-14T02:00",
-		"startJp": "2025-04-23T11:00",
-		"end": "2025-11-10T19:00",
-		"endJp": "2025-05-21T04:00",
-		"group": "J Raid",
-		"subgroup": "LBA",
-		"style": "color:white;background-color:purple",
-		"endG": "2025-11-10T19:00",
-		"startG": "2025-10-14T02:00",
-		"title": "[LBA] S14 Tiphareth<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 19:00 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 04:00 Wed 28d (JST y-m-d)",
-		"duration": 28
-	},{
-		"content": "[Main] Highlander Railroad Rampage Incident: And the Train Was Gone",
-		"start": "2025-10-13T02:00",
-		"startJp": "2025-04-22T11:00",
-		"end": "2025-10-28T02:00",
-		"endJp": "2025-05-07T11:00",
-		"group": "J Event",
-		"subgroup": "Event",
-		"style": "color:black;background-color:yellow",
-		"endG": "2025-10-28T02:00",
-		"startG": "2025-10-13T02:00",
-		"title": "[Main] Highlander Railroad Rampage Incident: And the Train Was Gone<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
-		"duration": 15
-	},{
 		"content": "[Welfare] Aoba",
 		"start": "2025-10-13T02:00",
 		"startJp": "2025-04-22T11:00",
@@ -14976,7 +14989,7 @@ jpSched = [
 		"title": "Highlander mats on Bounty (Highway) and Lesson<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
 		"duration": 15
 	},{
-		"content": "[Comm] Stages 10/J + 14N ",
+		"content": "Commission Stage 14N + Bounty Stage 10/J",
 		"start": "2025-10-13T02:00",
 		"startJp": "2025-04-22T11:00",
 		"end": "2025-10-28T02:00",
@@ -14986,10 +14999,10 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2025-10-28T02:00",
 		"startG": "2025-10-13T02:00",
-		"title": "[Comm] Stages 10/J + 14N <br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
+		"title": "Commission Stage 14N + Bounty Stage 10/J<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
 		"duration": 15
 	},{
-		"content": "2x <b>EXP</b>",
+		"content": "<b>2x EXP</b>",
 		"start": "2025-10-16T19:00",
 		"startJp": "2025-04-26T04:00",
 		"end": "2025-10-18T19:00",
@@ -14999,10 +15012,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgreen",
 		"endG": "2025-10-18T19:00",
 		"startG": "2025-10-16T19:00",
-		"title": "2x <b>EXP</b><br>G: 2025-10-16 19:00 Thu ~ 2025-10-18 19:00 Sat 2d (UTC y-m-d)<br>Jp: 2025-04-26 04:00 Sat ~ 2025-04-28 04:00 Mon 2d (JST y-m-d)",
+		"title": "<b>2x EXP</b><br>G: 2025-10-16 19:00 Thu ~ 2025-10-18 19:00 Sat 2d (UTC y-m-d)<br>Jp: 2025-04-26 04:00 Sat ~ 2025-04-28 04:00 Mon 2d (JST y-m-d)",
 		"duration": 2
 	},{
-		"content": "2x <b>EXP</b>",
+		"content": "<b>2x EXP</b>",
 		"start": "2025-10-23T19:00",
 		"startJp": "2025-05-03T04:00",
 		"end": "2025-10-27T19:00",
@@ -15012,7 +15025,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgreen",
 		"endG": "2025-10-27T19:00",
 		"startG": "2025-10-23T19:00",
-		"title": "2x <b>EXP</b><br>G: 2025-10-23 19:00 Thu ~ 2025-10-27 19:00 Mon 4d (UTC y-m-d)<br>Jp: 2025-05-03 04:00 Sat ~ 2025-05-07 04:00 Wed 4d (JST y-m-d)",
+		"title": "<b>2x EXP</b><br>G: 2025-10-23 19:00 Thu ~ 2025-10-27 19:00 Mon 4d (UTC y-m-d)<br>Jp: 2025-05-03 04:00 Sat ~ 2025-05-07 04:00 Wed 4d (JST y-m-d)",
 		"duration": 4
 	}
 ]

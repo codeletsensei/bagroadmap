@@ -174,6 +174,13 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
+  },{
+    "content": "EOS",
+    "start": "2025-04-29T02:00:00.000Z",
+    "end": "2025-04-29T06:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
   },
 //
 // GASHA
@@ -1996,6 +2003,13 @@ confirmed = [
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Hard/Scrimm",
+    "start": "2025-05-05T19:00:00.000Z",
+    "end": "2025-05-12T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
   },
 //
 // MISC
@@ -2259,5 +2273,12 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:orange"
+  },{
+    "content": "[GA Shop] Natsu, Silver, on monthly shop reset",
+    "start": "2025-04-30T19:00:00.000Z",
+    "end": "2025-05-14T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
   }
 ]
