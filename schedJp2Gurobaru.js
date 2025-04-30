@@ -962,7 +962,7 @@ jpSched = [
 		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/0068_from_Opera_with_Love!/Rerun\" title=\"0068 from Opera with Love!/Rerun\">0068 from Opera with Love!</a><br>G: 2025-09-30 02:00 Tue ~ 2025-10-07 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 11:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Highlander_Railroad_Explosion_Incident_%E3%80%9C_And_Then_The_Train_Was_Gone_%E3%80%9C\" title=\"Highlander Railroad Explosion Incident 〜 And Then The Train Was Gone 〜\">Highlander Railroad Explosion Incident 〜 And Then The Train Was Gone 〜</a>",
+		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Highlander_Railroad_Runaway_Incident_%E3%80%9C_And_Then_The_Train_Was_Gone_%E3%80%9C\" title=\"Highlander Railroad Runaway Incident 〜 And Then The Train Was Gone 〜\">Highlander Railroad Runaway Incident 〜 And Then The Train Was Gone 〜</a>",
 		"start": "2025-10-13T02:00",
 		"startJp": "2025-04-22T11:00",
 		"end": "2025-10-28T02:00",
@@ -972,7 +972,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-10-28T02:00",
 		"startG": "2025-10-13T02:00",
-		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Highlander_Railroad_Explosion_Incident_%E3%80%9C_And_Then_The_Train_Was_Gone_%E3%80%9C\" title=\"Highlander Railroad Explosion Incident 〜 And Then The Train Was Gone 〜\">Highlander Railroad Explosion Incident 〜 And Then The Train Was Gone 〜</a><br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Highlander_Railroad_Runaway_Incident_%E3%80%9C_And_Then_The_Train_Was_Gone_%E3%80%9C\" title=\"Highlander Railroad Runaway Incident 〜 And Then The Train Was Gone 〜\">Highlander Railroad Runaway Incident 〜 And Then The Train Was Gone 〜</a><br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
 		"duration": 15
 	},{
 		"content": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Hyped_and_March_On!/Rerun\" title=\"Get Hyped and March On!/Rerun\">Get Hyped and March On!</a>",
@@ -6240,7 +6240,7 @@ jpSched = [
 		"title": "[JFD] Assault Urban Yellow<br>G: 2025-09-30 02:00 Tue ~ 2025-10-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Shooting Urban Red",
+		"content": "[JFD] Shooting Urban Red. AR + SR buff. High DEF dummy.",
 		"start": "2025-10-28T02:00",
 		"startJp": "2025-05-07T11:00",
 		"end": "2025-11-03T18:59",
@@ -6250,7 +6250,7 @@ jpSched = [
 		"style": "color:white;background-color:red",
 		"endG": "2025-11-03T18:59",
 		"startG": "2025-10-28T02:00",
-		"title": "[JFD] Shooting Urban Red<br>G: 2025-10-28 02:00 Tue ~ 2025-11-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Shooting Urban Red. AR + SR buff. High DEF dummy.<br>G: 2025-10-28 02:00 Tue ~ 2025-11-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
@@ -14716,7 +14716,7 @@ jpSched = [
 		"title": "[QoL] Damage cap increase<br>G: 2025-07-20 02:00 Sun ~ 2025-08-03 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-10 11:00 Mon 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[GA Shop] Kaede, on shop reset",
+		"content": "[GA Shop] Kaede, purple, on shop reset",
 		"start": "2025-07-24T19:00",
 		"startJp": "2025-02-01T04:00",
 		"end": "2025-08-06T19:00",
@@ -14726,7 +14726,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2025-08-06T19:00",
 		"startG": "2025-07-24T19:00",
-		"title": "[GA Shop] Kaede, on shop reset<br>G: 2025-07-24 19:00 Thu ~ 2025-08-06 19:00 Wed 13d (UTC y-m-d)<br>Jp: 2025-02-01 04:00 Sat ~ 2025-02-14 04:00 Fri 13d (JST y-m-d)",
+		"title": "[GA Shop] Kaede, purple, on shop reset<br>G: 2025-07-24 19:00 Thu ~ 2025-08-06 19:00 Wed 13d (UTC y-m-d)<br>Jp: 2025-02-01 04:00 Sat ~ 2025-02-14 04:00 Fri 13d (JST y-m-d)",
 		"duration": 13
 	},{
 		"content": "[Mission] Area 28 (Misaki + Cafe2 Lv10 + T10)",
@@ -14949,6 +14949,19 @@ jpSched = [
 		"startG": "2025-10-28T02:00",
 		"title": "[PVP] Season 9 (Indoor)<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
+	},{
+		"content": "[GA Shop] Shiroko (Riding), silver, on shop reset",
+		"start": "2025-10-21T19:00",
+		"startJp": "2025-05-01T04:00",
+		"end": "2025-11-03T19:00",
+		"endJp": "2025-05-14T04:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-11-03T19:00",
+		"startG": "2025-10-21T19:00",
+		"title": "[GA Shop] Shiroko (Riding), silver, on shop reset<br>G: 2025-10-21 19:00 Tue ~ 2025-11-03 19:00 Mon 13d (UTC y-m-d)<br>Jp: 2025-05-01 04:00 Thu ~ 2025-05-14 04:00 Wed 13d (JST y-m-d)",
+		"duration": 13
 	},{
 		"content": "[Welfare] Aoba",
 		"start": "2025-10-13T02:00",
