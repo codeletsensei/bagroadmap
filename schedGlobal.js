@@ -1453,6 +1453,20 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
+  },{
+    "content": "[TA] Hieronymus Urban Red (Red atk)",
+    "start": "2025-05-20T02:00:00.000Z",
+    "end": "2025-05-26T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:white; background-color:red "
+  },{
+    "content": "[JFD] Breakthrough Urban Red. Additional dmg on atk. Red healers heal the dummy for more.",
+    "start": "2025-05-27T02:00:00.000Z",
+    "end": "2025-06-02T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:white; background-color:red "
   },
 //
 // CAMPAIGNS
@@ -2007,6 +2021,27 @@ confirmed = [
     "content": "2x Hard/Scrimm",
     "start": "2025-05-05T19:00:00.000Z",
     "end": "2025-05-12T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Bounty",
+    "start": "2025-05-12T19:00:00.000Z",
+    "end": "2025-05-19T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Hard",
+    "start": "2025-05-19T19:00:00.000Z",
+    "end": "2025-05-26T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Scrimm/Lesson",
+    "start": "2025-05-26T19:00:00.000Z",
+    "end": "2025-06-02T19:00:00.000Z",
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
