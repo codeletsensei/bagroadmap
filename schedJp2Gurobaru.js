@@ -12363,6 +12363,45 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nozomi\" title=\"Nozomi\">Nozomi</a> [L] (New)<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 10:59 Wed 15d (JST y-m-d)",
 		"duration": 15
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a>",
+		"start": "2025-10-28T02:00",
+		"startJp": "2025-05-07T11:00",
+		"end": "2025-11-04T01:59",
+		"endJp": "2025-05-14T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-11-04T01:59",
+		"startG": "2025-10-28T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori\" title=\"Saori\">Saori</a><br>G: 2025-10-28 02:00 Tue ~ 2025-11-04 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 10:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Atsuko\" title=\"Atsuko\">Atsuko</a>",
+		"start": "2025-10-28T02:00",
+		"startJp": "2025-05-07T11:00",
+		"end": "2025-11-04T01:59",
+		"endJp": "2025-05-14T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-11-04T01:59",
+		"startG": "2025-10-28T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Atsuko\" title=\"Atsuko\">Atsuko</a><br>G: 2025-10-28 02:00 Tue ~ 2025-11-04 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 10:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori\" title=\"Hiyori\">Hiyori</a>",
+		"start": "2025-10-28T02:00",
+		"startJp": "2025-05-07T11:00",
+		"end": "2025-11-04T01:59",
+		"endJp": "2025-05-14T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-11-04T01:59",
+		"startG": "2025-10-28T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori\" title=\"Hiyori\">Hiyori</a><br>G: 2025-10-28 02:00 Tue ~ 2025-11-04 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 10:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "EOS",
 		"start": "2021-08-03T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -14950,19 +14989,6 @@ jpSched = [
 		"title": "[PVP] Season 9 (Indoor)<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[GA Shop] Shiroko (Riding), silver, on shop reset",
-		"start": "2025-10-21T19:00",
-		"startJp": "2025-05-01T04:00",
-		"end": "2025-11-03T19:00",
-		"endJp": "2025-05-14T04:00",
-		"group": "J Other",
-		"subgroup": "Other",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-11-03T19:00",
-		"startG": "2025-10-21T19:00",
-		"title": "[GA Shop] Shiroko (Riding), silver, on shop reset<br>G: 2025-10-21 19:00 Tue ~ 2025-11-03 19:00 Mon 13d (UTC y-m-d)<br>Jp: 2025-05-01 04:00 Thu ~ 2025-05-14 04:00 Wed 13d (JST y-m-d)",
-		"duration": 13
-	},{
 		"content": "[Welfare] Aoba",
 		"start": "2025-10-13T02:00",
 		"startJp": "2025-04-22T11:00",
@@ -14976,7 +15002,20 @@ jpSched = [
 		"title": "[Welfare] Aoba<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
 		"duration": 15
 	},{
-		"content": "[Main Story] Vol.EX: Decagrammaton Ch.2 P3",
+		"content": "[GA Shop] Shiroko (Riding), silver, on shop reset",
+		"start": "2025-10-21T19:00",
+		"startJp": "2025-05-01T04:00",
+		"end": "2025-11-03T19:00",
+		"endJp": "2025-05-14T04:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-11-03T19:00",
+		"startG": "2025-10-21T19:00",
+		"title": "[GA Shop] Shiroko (Riding), silver, on shop reset<br>G: 2025-10-21 19:00 Tue ~ 2025-11-03 19:00 Mon 13d (UTC y-m-d)<br>Jp: 2025-05-01 04:00 Thu ~ 2025-05-14 04:00 Wed 13d (JST y-m-d)",
+		"duration": 13
+	},{
+		"content": "[Main Story] Vol.EX: Decagrammaton Ch.2 P3 (ep 23~31)",
 		"start": "2025-10-28T02:00",
 		"startJp": "2025-05-07T11:00",
 		"end": "2025-11-11T02:00",
@@ -14986,7 +15025,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-11-11T02:00",
 		"startG": "2025-10-28T02:00",
-		"title": "[Main Story] Vol.EX: Decagrammaton Ch.2 P3<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Main Story] Vol.EX: Decagrammaton Ch.2 P3 (ep 23~31)<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
 		"content": "Highlander mats on Bounty (Highway) and Lesson",
@@ -15014,6 +15053,32 @@ jpSched = [
 		"startG": "2025-10-13T02:00",
 		"title": "Commission Stage 14N + Bounty Stage 10/J<br>G: 2025-10-13 02:00 Mon ~ 2025-10-28 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
 		"duration": 15
+	},{
+		"content": "EOS",
+		"start": "2025-10-28T02:00",
+		"startJp": "2025-05-07T11:00",
+		"end": "2025-10-28T08:00",
+		"endJp": "2025-05-07T17:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"endG": "2025-10-28T08:00",
+		"startG": "2025-10-28T02:00",
+		"title": "EOS<br>G: 2025-10-28 02:00 Tue ~ 2025-10-28 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-07 17:00 Wed 1d (JST y-m-d)",
+		"duration": 1
+	},{
+		"content": "[Mini] Special Investigation: The Tree of Sephiroth",
+		"start": "2025-10-28T02:00",
+		"startJp": "2025-05-07T11:00",
+		"end": "2025-11-04T02:00",
+		"endJp": "2025-05-14T11:00",
+		"group": "J Event",
+		"subgroup": "Mini",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-11-04T02:00",
+		"startG": "2025-10-28T02:00",
+		"title": "[Mini] Special Investigation: The Tree of Sephiroth<br>G: 2025-10-28 02:00 Tue ~ 2025-11-04 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
 	},{
 		"content": "<b>2x EXP</b>",
 		"start": "2025-10-16T19:00",
