@@ -1183,6 +1183,19 @@ jpSched = [
 		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2025-09-02 02:00 Tue ~ 2025-09-16 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-26 10:59 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
+		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Tree_of_Sephiroth\" title=\"The Tree of Sephiroth\">Special Investigation: The Tree of Sephiroth</a>",
+		"start": "2025-10-28T02:00",
+		"startJp": "2025-05-07T11:00",
+		"end": "2025-11-04T01:59",
+		"endJp": "2025-05-14T10:59",
+		"group": "J Event",
+		"subgroup": "Mini",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-11-04T01:59",
+		"startG": "2025-10-28T02:00",
+		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Tree_of_Sephiroth\" title=\"The Tree of Sephiroth\">Special Investigation: The Tree of Sephiroth</a><br>G: 2025-10-28 02:00 Tue ~ 2025-11-04 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 10:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "[Login] 1st Anniversary Login Bonus",
 		"start": "2022-07-19T03:00",
 		"startJp": "2022-01-26T12:00",
@@ -6240,7 +6253,7 @@ jpSched = [
 		"title": "[JFD] Assault Urban Yellow<br>G: 2025-09-30 02:00 Tue ~ 2025-10-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Shooting Urban Red. AR + SR buff. High DEF dummy.",
+		"content": "[JFD] Shooting Urban Red. AR + SR buff. High DEF dummy",
 		"start": "2025-10-28T02:00",
 		"startJp": "2025-05-07T11:00",
 		"end": "2025-11-03T18:59",
@@ -6250,7 +6263,20 @@ jpSched = [
 		"style": "color:white;background-color:red",
 		"endG": "2025-11-03T18:59",
 		"startG": "2025-10-28T02:00",
-		"title": "[JFD] Shooting Urban Red. AR + SR buff. High DEF dummy.<br>G: 2025-10-28 02:00 Tue ~ 2025-11-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Shooting Urban Red. AR + SR buff. High DEF dummy<br>G: 2025-10-28 02:00 Tue ~ 2025-11-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "[JFD] Defense Outdoors Purple. Enemies take 1 dmg. Purple strikers with >99% hp deal additional dmg",
+		"start": "2025-11-25T02:00",
+		"startJp": "2025-06-04T11:00",
+		"end": "2025-12-01T18:59",
+		"endJp": "2025-06-11T03:59",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:white;background-color:purple",
+		"endG": "2025-12-01T18:59",
+		"startG": "2025-11-25T02:00",
+		"title": "[JFD] Defense Outdoors Purple. Enemies take 1 dmg. Purple strikers with >99% hp deal additional dmg<br>G: 2025-11-25 02:00 Tue ~ 2025-12-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-11 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
@@ -6279,17 +6305,17 @@ jpSched = [
 		"title": "[TA] Chesed Indoors Yellow (Red atk)<br>G: 2021-09-01 05:30 Wed ~ 2021-09-07 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-03-11 14:30 Thu ~ 2021-03-17 23:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[TA] Hieronymus Urban Red (Red atk)",
+		"content": "[TA] ShiroKuro Urban Blue (Yellow atk)",
 		"start": "2021-09-15T03:00",
 		"startJp": "2021-03-25T12:00",
 		"end": "2021-09-21T14:59",
 		"endJp": "2021-03-31T23:59",
 		"group": "J Raid",
 		"subgroup": "TA",
-		"style": "color:white;background-color:red",
+		"style": "color:white;background-color:blue",
 		"endG": "2021-09-21T14:59",
 		"startG": "2021-09-15T03:00",
-		"title": "[TA] Hieronymus Urban Red (Red atk)<br>G: 2021-09-15 03:00 Wed ~ 2021-09-21 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-03-25 12:00 Thu ~ 2021-03-31 23:59 Wed 7d (JST y-m-d)",
+		"title": "[TA] ShiroKuro Urban Blue (Yellow atk)<br>G: 2021-09-15 03:00 Wed ~ 2021-09-21 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-03-25 12:00 Thu ~ 2021-03-31 23:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[TA] Binah Urban Yellow (Yellow atk)",
@@ -12402,6 +12428,45 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hiyori\" title=\"Hiyori\">Hiyori</a><br>G: 2025-10-28 02:00 Tue ~ 2025-11-04 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 10:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Pina_(Guide)\" title=\"Pina (Guide)\">Pina (Guide)</a> (New)",
+		"start": "2025-11-04T02:00",
+		"startJp": "2025-05-14T11:00",
+		"end": "2025-11-11T01:59",
+		"endJp": "2025-05-21T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-11-11T01:59",
+		"startG": "2025-11-04T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Pina_(Guide)\" title=\"Pina (Guide)\">Pina (Guide)</a> (New)<br>G: 2025-11-04 02:00 Tue ~ 2025-11-11 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 10:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsubaki_(Guide)\" title=\"Tsubaki (Guide)\">Tsubaki (Guide)</a>",
+		"start": "2025-11-04T02:00",
+		"startJp": "2025-05-14T11:00",
+		"end": "2025-11-11T01:59",
+		"endJp": "2025-05-21T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-11-11T01:59",
+		"startG": "2025-11-04T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsubaki_(Guide)\" title=\"Tsubaki (Guide)\">Tsubaki (Guide)</a><br>G: 2025-11-04 02:00 Tue ~ 2025-11-11 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 10:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Umika\" title=\"Umika\">Umika</a>",
+		"start": "2025-11-04T02:00",
+		"startJp": "2025-05-14T11:00",
+		"end": "2025-11-11T01:59",
+		"endJp": "2025-05-21T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-11-11T01:59",
+		"startG": "2025-11-04T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Umika\" title=\"Umika\">Umika</a><br>G: 2025-11-04 02:00 Tue ~ 2025-11-11 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 10:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "EOS",
 		"start": "2021-08-03T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -15067,17 +15132,17 @@ jpSched = [
 		"title": "EOS<br>G: 2025-10-28 02:00 Tue ~ 2025-10-28 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-07 17:00 Wed 1d (JST y-m-d)",
 		"duration": 1
 	},{
-		"content": "[Mini] Special Investigation: The Tree of Sephiroth",
-		"start": "2025-10-28T02:00",
-		"startJp": "2025-05-07T11:00",
-		"end": "2025-11-04T02:00",
-		"endJp": "2025-05-14T11:00",
-		"group": "J Event",
-		"subgroup": "Mini",
-		"style": "color:black;background-color:yellow",
-		"endG": "2025-11-04T02:00",
-		"startG": "2025-10-28T02:00",
-		"title": "[Mini] Special Investigation: The Tree of Sephiroth<br>G: 2025-10-28 02:00 Tue ~ 2025-11-04 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 11:00 Wed 7d (JST y-m-d)",
+		"content": "[TA] ???????",
+		"start": "2025-11-18T02:00",
+		"startJp": "2025-05-28T11:00",
+		"end": "2025-11-24T19:00",
+		"endJp": "2025-06-04T04:00",
+		"group": "J Raid",
+		"subgroup": "TA",
+		"style": "color:black;background-color:pink",
+		"endG": "2025-11-24T19:00",
+		"startG": "2025-11-18T02:00",
+		"title": "[TA] ???????<br>G: 2025-11-18 02:00 Tue ~ 2025-11-24 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-28 11:00 Wed ~ 2025-06-04 04:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "<b>2x EXP</b>",
