@@ -181,6 +181,13 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
+  },{
+    "content": "EOS",
+    "start": "2025-05-13T02:00:00.000Z",
+    "end": "2025-05-13T10:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
   },
 //
 // GASHA
