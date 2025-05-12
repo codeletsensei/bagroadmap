@@ -1461,6 +1461,13 @@ confirmed = [
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
+    "content": "[LBA] S9 The Fury of Set Red (Red atk)",
+    "start": "2025-05-14T02:00:00.000Z",
+    "end": "2025-06-09T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "LBA",
+    "style": "color:white; background-color:red "
+  },{
     "content": "[TA] Hieronymus Urban Red (Red atk)",
     "start": "2025-05-20T02:00:00.000Z",
     "end": "2025-05-26T19:00:00.000Z",
@@ -2322,5 +2329,26 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[QoL] Damage cap increased",
+    "start": "2025-05-13T02:00:00.000Z",
+    "end": "2025-05-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Newfag XP boost + Bounty A-F drop buff + Lower lvl for slot2/3 gears",
+    "start": "2025-05-13T02:00:00.000Z",
+    "end": "2025-05-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Cafe Visit, EX/Cost UI on the left side",
+    "start": "2025-05-13T02:00:00.000Z",
+    "end": "2025-05-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
   }
 ]
