@@ -78,6 +78,19 @@ jpSched = [
 		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Bunny_Chaser_Aboard\" title=\"Bunny Chaser Aboard\">Bunny Chaser Aboard</a><br>G: 2022-03-22 02:00 Tue ~ 2022-04-04 02:00 Mon 13d (UTC y-m-d)<br>Jp: 2021-09-29 11:00 Wed ~ 2021-10-12 11:00 Tue 13d (JST y-m-d)",
 		"duration": 13
 	},{
+		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hatsune_Miku_Special_Live_In_Kivotos_~Rehearsal~\" title=\"Hatsune Miku Special Live In Kivotos ~Rehearsal~\">Hatsune Miku’s SPECIAL LIVE in Kivotos ~Rehearsal~</a>",
+		"start": "2022-04-26T02:00",
+		"startJp": "2021-11-03T11:00",
+		"end": "2022-05-10T02:00",
+		"endJp": "2021-11-17T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2022-05-10T02:00",
+		"startG": "2022-04-26T02:00",
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hatsune_Miku_Special_Live_In_Kivotos_~Rehearsal~\" title=\"Hatsune Miku Special Live In Kivotos ~Rehearsal~\">Hatsune Miku’s SPECIAL LIVE in Kivotos ~Rehearsal~</a><br>G: 2022-04-26 02:00 Tue ~ 2022-05-10 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2021-11-03 11:00 Wed ~ 2021-11-17 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
 		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a>",
 		"start": "2022-05-02T02:00",
 		"startJp": "2021-11-09T11:00",
@@ -623,6 +636,19 @@ jpSched = [
 		"startG": "2024-03-19T02:00",
 		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Trip-Trap-Train\" title=\"Trip-Trap-Train\">Trip-Trap-Train</a><br>G: 2024-03-19 02:00 Tue ~ 2024-04-02 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2023-09-27 11:00 Wed ~ 2023-10-11 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
+	},{
+		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/A_Certain_Scientific_Blue_Archive\" title=\"A Certain Scientific Blue Archive\">A Certain Scientific Blue Archive</a>",
+		"start": "2024-04-15T02:00",
+		"startJp": "2023-10-24T11:00",
+		"end": "2024-04-30T02:00",
+		"endJp": "2023-11-08T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2024-04-30T02:00",
+		"startG": "2024-04-15T02:00",
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/A_Certain_Scientific_Blue_Archive\" title=\"A Certain Scientific Blue Archive\">A Certain Scientific Blue Archive</a><br>G: 2024-04-15 02:00 Mon ~ 2024-04-30 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2023-10-24 11:00 Tue ~ 2023-11-08 11:00 Wed 15d (JST y-m-d)",
+		"duration": 15
 	},{
 		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Decagrammaton\" title=\"Decagrammaton\">Special Operation: Decagrammaton</a>",
 		"start": "2024-05-28T02:00",
@@ -6253,7 +6279,7 @@ jpSched = [
 		"title": "[JFD] Assault Urban Yellow<br>G: 2025-09-30 02:00 Tue ~ 2025-10-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Shooting Urban Red. AR + SR buff. High DEF dummy",
+		"content": "[JFD] Shooting Urban Red",
 		"start": "2025-10-28T02:00",
 		"startJp": "2025-05-07T11:00",
 		"end": "2025-11-03T18:59",
@@ -6263,10 +6289,10 @@ jpSched = [
 		"style": "color:white;background-color:red",
 		"endG": "2025-11-03T18:59",
 		"startG": "2025-10-28T02:00",
-		"title": "[JFD] Shooting Urban Red. AR + SR buff. High DEF dummy<br>G: 2025-10-28 02:00 Tue ~ 2025-11-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Shooting Urban Red<br>G: 2025-10-28 02:00 Tue ~ 2025-11-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[JFD] Defense Outdoors Purple. Enemies take 1 dmg. Purple strikers with >99% hp deal additional dmg",
+		"content": "[JFD] Defense Outdoors Purple",
 		"start": "2025-11-25T02:00",
 		"startJp": "2025-06-04T11:00",
 		"end": "2025-12-01T18:59",
@@ -6276,7 +6302,7 @@ jpSched = [
 		"style": "color:white;background-color:purple",
 		"endG": "2025-12-01T18:59",
 		"startG": "2025-11-25T02:00",
-		"title": "[JFD] Defense Outdoors Purple. Enemies take 1 dmg. Purple strikers with >99% hp deal additional dmg<br>G: 2025-11-25 02:00 Tue ~ 2025-12-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-11 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Defense Outdoors Purple<br>G: 2025-11-25 02:00 Tue ~ 2025-12-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-11 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
@@ -7799,6 +7825,19 @@ jpSched = [
 		"startG": "2025-10-14T02:00",
 		"title": "[LBA] S14 Tiphareth Purple (Yellow atk)<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 03:59 Wed 28d (JST y-m-d)",
 		"duration": 28
+	},{
+		"content": "[LBA] S15 The Fury of Set Blue (Red atk)",
+		"start": "2025-11-12T02:00",
+		"startJp": "2025-05-22T11:00",
+		"end": "2025-12-13T18:59",
+		"endJp": "2025-06-23T03:59",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:white;background-color:blue",
+		"endG": "2025-12-13T18:59",
+		"startG": "2025-11-12T02:00",
+		"title": "[LBA] S15 The Fury of Set Blue (Red atk)<br>G: 2025-11-12 02:00 Wed ~ 2025-12-13 18:59 Sat 32d (UTC y-m-d)<br>Jp: 2025-05-22 11:00 Thu ~ 2025-06-23 03:59 Mon 32d (JST y-m-d)",
+		"duration": 32
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)",
 		"start": "2021-07-28T03:00",
@@ -12467,6 +12506,32 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Umika\" title=\"Umika\">Umika</a><br>G: 2025-11-04 02:00 Tue ~ 2025-11-11 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 10:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagusa\" title=\"Nagusa\">Nagusa</a> (New)",
+		"start": "2025-11-11T02:00",
+		"startJp": "2025-05-21T11:00",
+		"end": "2025-11-25T01:59",
+		"endJp": "2025-06-04T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-11-25T01:59",
+		"startG": "2025-11-11T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagusa\" title=\"Nagusa\">Nagusa</a> (New)<br>G: 2025-11-11 02:00 Tue ~ 2025-11-25 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 10:59 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Niya\" title=\"Niya\">Niya</a> (New)",
+		"start": "2025-11-11T02:00",
+		"startJp": "2025-05-21T11:00",
+		"end": "2025-11-25T01:59",
+		"endJp": "2025-06-04T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-11-25T01:59",
+		"startG": "2025-11-11T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Niya\" title=\"Niya\">Niya</a> (New)<br>G: 2025-11-11 02:00 Tue ~ 2025-11-25 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 10:59 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
 		"content": "EOS",
 		"start": "2021-08-03T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -14742,7 +14807,7 @@ jpSched = [
 		"title": "EOS<br>G: 2025-07-13 02:00 Sun ~ 2025-07-13 10:00 Sun 1d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-01-20 19:00 Mon 1d (JST y-m-d)",
 		"duration": 1
 	},{
-		"content": "[QoL] Newfag XP boost + Easier Missions 1-17 + Play Guide",
+		"content": "[QoL] Easier Missions 1-17 + Play Guide",
 		"start": "2025-07-13T02:00",
 		"startJp": "2025-01-20T11:00",
 		"end": "2025-07-27T02:00",
@@ -14752,10 +14817,10 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2025-07-27T02:00",
 		"startG": "2025-07-13T02:00",
-		"title": "[QoL] Newfag XP boost + Easier Missions 1-17 + Play Guide<br>G: 2025-07-13 02:00 Sun ~ 2025-07-27 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-02-03 11:00 Mon 14d (JST y-m-d)",
+		"title": "[QoL] Easier Missions 1-17 + Play Guide<br>G: 2025-07-13 02:00 Sun ~ 2025-07-27 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-02-03 11:00 Mon 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[QoL] Cafe Visit, EX/Cost UI on the left side",
+		"content": "<s>[QoL] Newfag XP boost</s> Added to GL on 2025/06/12",
 		"start": "2025-07-13T02:00",
 		"startJp": "2025-01-20T11:00",
 		"end": "2025-07-27T02:00",
@@ -14765,7 +14830,20 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2025-07-27T02:00",
 		"startG": "2025-07-13T02:00",
-		"title": "[QoL] Cafe Visit, EX/Cost UI on the left side<br>G: 2025-07-13 02:00 Sun ~ 2025-07-27 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-02-03 11:00 Mon 14d (JST y-m-d)",
+		"title": "<s>[QoL] Newfag XP boost</s> Added to GL on 2025/06/12<br>G: 2025-07-13 02:00 Sun ~ 2025-07-27 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-02-03 11:00 Mon 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "<s>[QoL] Cafe Visit, EX/Cost UI on the left side</s> Added to GL on 2025/06/12",
+		"start": "2025-07-13T02:00",
+		"startJp": "2025-01-20T11:00",
+		"end": "2025-07-27T02:00",
+		"endJp": "2025-02-03T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2025-07-27T02:00",
+		"startG": "2025-07-13T02:00",
+		"title": "<s>[QoL] Cafe Visit, EX/Cost UI on the left side</s> Added to GL on 2025/06/12<br>G: 2025-07-13 02:00 Sun ~ 2025-07-27 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-20 11:00 Mon ~ 2025-02-03 11:00 Mon 14d (JST y-m-d)",
 		"duration": 14
 	},{
 		"content": "[Welfare] Karin (Seifuku) (New)",
@@ -14807,7 +14885,7 @@ jpSched = [
 		"title": "New Raid Difficulty: Lunatic<br>G: 2025-07-20 02:00 Sun ~ 2025-08-03 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-10 11:00 Mon 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[QoL] Damage cap increase",
+		"content": "<s>[QoL] Damage cap increase</s> Added to GL on 2025/06/12",
 		"start": "2025-07-20T02:00",
 		"startJp": "2025-01-27T11:00",
 		"end": "2025-08-03T02:00",
@@ -14817,7 +14895,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2025-08-03T02:00",
 		"startG": "2025-07-20T02:00",
-		"title": "[QoL] Damage cap increase<br>G: 2025-07-20 02:00 Sun ~ 2025-08-03 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-10 11:00 Mon 14d (JST y-m-d)",
+		"title": "<s>[QoL] Damage cap increase</s> Added to GL on 2025/06/12<br>G: 2025-07-20 02:00 Sun ~ 2025-08-03 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-10 11:00 Mon 14d (JST y-m-d)",
 		"duration": 14
 	},{
 		"content": "[GA Shop] Kaede, purple, on shop reset",
@@ -15132,18 +15210,96 @@ jpSched = [
 		"title": "EOS<br>G: 2025-10-28 02:00 Tue ~ 2025-10-28 08:00 Tue 1d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-07 17:00 Wed 1d (JST y-m-d)",
 		"duration": 1
 	},{
-		"content": "[TA] ???????",
+		"content": "[Main Story] V5C2 P1",
+		"start": "2025-11-11T02:00",
+		"startJp": "2025-05-21T11:00",
+		"end": "2025-11-24T19:00",
+		"endJp": "2025-06-04T04:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-11-24T19:00",
+		"startG": "2025-11-11T02:00",
+		"title": "[Main Story] V5C2 P1<br>G: 2025-11-11 02:00 Tue ~ 2025-11-24 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 04:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "[Main Story] V5C2 P2",
+		"start": "2025-11-18T02:00",
+		"startJp": "2025-05-28T11:00",
+		"end": "2025-12-01T19:00",
+		"endJp": "2025-06-11T04:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-12-01T19:00",
+		"startG": "2025-11-18T02:00",
+		"title": "[Main Story] V5C2 P2<br>G: 2025-11-18 02:00 Tue ~ 2025-12-01 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-05-28 11:00 Wed ~ 2025-06-11 04:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "[Guide Task] V5C2 Guide Task",
+		"start": "2025-11-11T02:00",
+		"startJp": "2025-05-21T11:00",
+		"end": "2025-12-16T02:00",
+		"endJp": "2025-06-25T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-12-16T02:00",
+		"startG": "2025-11-11T02:00",
+		"title": "[Guide Task] V5C2 Guide Task<br>G: 2025-11-11 02:00 Tue ~ 2025-12-16 02:00 Tue 35d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-25 11:00 Wed 35d (JST y-m-d)",
+		"duration": 35
+	},{
+		"content": "Updated V5C1E12 (Kikyou voices + Battle effects) and E24 (Nagusa voices)",
+		"start": "2025-12-12T02:00",
+		"startJp": "2025-06-21T11:00",
+		"end": "2025-11-24T19:00",
+		"endJp": "2025-06-04T04:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2025-11-24T19:00",
+		"startG": "2025-12-12T02:00",
+		"title": "Updated V5C1E12 (Kikyou voices + Battle effects) and E24 (Nagusa voices)<br>G: 2025-12-12 02:00 Fri ~ 2025-11-24 19:00 Mon -17d (UTC y-m-d)<br>Jp: 2025-06-21 11:00 Sat ~ 2025-06-04 04:00 Wed -17d (JST y-m-d)",
+		"duration": -17
+	},{
+		"content": "[Mini Story] Those Unbound by Anything (Arata)",
+		"start": "2025-12-09T02:00",
+		"startJp": "2025-06-18T11:00",
+		"end": "2025-12-23T02:00",
+		"endJp": "2025-07-02T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-12-23T02:00",
+		"startG": "2025-12-09T02:00",
+		"title": "[Mini Story] Those Unbound by Anything (Arata)<br>G: 2025-12-09 02:00 Tue ~ 2025-12-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-18 11:00 Wed ~ 2025-07-02 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "[TA] Geburah Outdoor Red (Blue atk)",
 		"start": "2025-11-18T02:00",
 		"startJp": "2025-05-28T11:00",
 		"end": "2025-11-24T19:00",
 		"endJp": "2025-06-04T04:00",
 		"group": "J Raid",
 		"subgroup": "TA",
-		"style": "color:black;background-color:pink",
+		"style": "color:white;background-color:red",
 		"endG": "2025-11-24T19:00",
 		"startG": "2025-11-18T02:00",
-		"title": "[TA] ???????<br>G: 2025-11-18 02:00 Tue ~ 2025-11-24 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-28 11:00 Wed ~ 2025-06-04 04:00 Wed 7d (JST y-m-d)",
+		"title": "[TA] Geburah Outdoor Red (Blue atk)<br>G: 2025-11-18 02:00 Tue ~ 2025-11-24 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-28 11:00 Wed ~ 2025-06-04 04:00 Wed 7d (JST y-m-d)",
 		"duration": 7
+	},{
+		"content": "[LBA] Chokmah Yellow (Blue atk)",
+		"start": "2025-11-12T02:00",
+		"startJp": "2025-05-22T11:00",
+		"end": "2025-12-15T19:00",
+		"endJp": "2025-06-25T04:00",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-12-15T19:00",
+		"startG": "2025-11-12T02:00",
+		"title": "[LBA] Chokmah Yellow (Blue atk)<br>G: 2025-11-12 02:00 Wed ~ 2025-12-15 19:00 Mon 34d (UTC y-m-d)<br>Jp: 2025-05-22 11:00 Thu ~ 2025-06-25 04:00 Wed 34d (JST y-m-d)",
+		"duration": 34
 	},{
 		"content": "<b>2x EXP</b>",
 		"start": "2025-10-16T19:00",
@@ -15170,5 +15326,70 @@ jpSched = [
 		"startG": "2025-10-23T19:00",
 		"title": "<b>2x EXP</b><br>G: 2025-10-23 19:00 Thu ~ 2025-10-27 19:00 Mon 4d (UTC y-m-d)<br>Jp: 2025-05-03 04:00 Sat ~ 2025-05-07 04:00 Wed 4d (JST y-m-d)",
 		"duration": 4
+	},{
+		"content": "2x Normal",
+		"start": "2025-11-10T19:00",
+		"startJp": "2025-05-21T04:00",
+		"end": "2025-11-17T19:00",
+		"endJp": "2025-05-28T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-11-17T19:00",
+		"startG": "2025-11-10T19:00",
+		"title": "2x Normal<br>G: 2025-11-10 19:00 Mon ~ 2025-11-17 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-21 04:00 Wed ~ 2025-05-28 04:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Comm",
+		"start": "2025-11-17T19:00",
+		"startJp": "2025-05-28T04:00",
+		"end": "2025-11-24T19:00",
+		"endJp": "2025-06-04T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-11-24T19:00",
+		"startG": "2025-11-17T19:00",
+		"title": "2x Comm<br>G: 2025-11-17 19:00 Mon ~ 2025-11-24 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-28 04:00 Wed ~ 2025-06-04 04:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Hard",
+		"start": "2025-11-24T19:00",
+		"startJp": "2025-06-04T04:00",
+		"end": "2025-12-01T19:00",
+		"endJp": "2025-06-11T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-12-01T19:00",
+		"startG": "2025-11-24T19:00",
+		"title": "2x Hard<br>G: 2025-11-24 19:00 Mon ~ 2025-12-01 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-04 04:00 Wed ~ 2025-06-11 04:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Scrimm/Bounty/Lesson",
+		"start": "2025-12-01T19:00",
+		"startJp": "2025-06-11T04:00",
+		"end": "2025-12-08T19:00",
+		"endJp": "2025-06-18T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-12-08T19:00",
+		"startG": "2025-12-01T19:00",
+		"title": "2x Scrimm/Bounty/Lesson<br>G: 2025-12-01 19:00 Mon ~ 2025-12-08 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-11 04:00 Wed ~ 2025-06-18 04:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Comm",
+		"start": "2025-12-08T19:00",
+		"startJp": "2025-06-18T04:00",
+		"end": "2025-12-15T19:00",
+		"endJp": "2025-06-25T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-12-15T19:00",
+		"startG": "2025-12-08T19:00",
+		"title": "2x Comm<br>G: 2025-12-08 19:00 Mon ~ 2025-12-15 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-18 04:00 Wed ~ 2025-06-25 04:00 Wed 7d (JST y-m-d)",
+		"duration": 7
 	}
 ]
