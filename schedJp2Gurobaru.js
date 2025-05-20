@@ -5785,6 +5785,97 @@ jpSched = [
 		"title": "2x Scrimm <br>G: 2025-11-03 19:00 Mon ~ 2025-11-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 04:00 Wed ~ 2025-05-21 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
+		"content": "2x Normal ",
+		"start": "2025-11-10T19:00",
+		"startJp": "2025-05-21T04:00",
+		"end": "2025-11-17T18:59",
+		"endJp": "2025-05-28T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-11-17T18:59",
+		"startG": "2025-11-10T19:00",
+		"title": "2x Normal <br>G: 2025-11-10 19:00 Mon ~ 2025-11-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-21 04:00 Wed ~ 2025-05-28 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Comm ",
+		"start": "2025-11-17T19:00",
+		"startJp": "2025-05-28T04:00",
+		"end": "2025-11-24T18:59",
+		"endJp": "2025-06-04T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-11-24T18:59",
+		"startG": "2025-11-17T19:00",
+		"title": "2x Comm <br>G: 2025-11-17 19:00 Mon ~ 2025-11-24 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-28 04:00 Wed ~ 2025-06-04 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Hard ",
+		"start": "2025-11-24T19:00",
+		"startJp": "2025-06-04T04:00",
+		"end": "2025-12-01T18:59",
+		"endJp": "2025-06-11T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-12-01T18:59",
+		"startG": "2025-11-24T19:00",
+		"title": "2x Hard <br>G: 2025-11-24 19:00 Mon ~ 2025-12-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-04 04:00 Wed ~ 2025-06-11 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Bounty ",
+		"start": "2025-12-01T19:00",
+		"startJp": "2025-06-11T04:00",
+		"end": "2025-12-08T18:59",
+		"endJp": "2025-06-18T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-12-08T18:59",
+		"startG": "2025-12-01T19:00",
+		"title": "2x Bounty <br>G: 2025-12-01 19:00 Mon ~ 2025-12-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-11 04:00 Wed ~ 2025-06-18 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Lesson ",
+		"start": "2025-12-01T19:00",
+		"startJp": "2025-06-11T04:00",
+		"end": "2025-12-08T18:59",
+		"endJp": "2025-06-18T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-12-08T18:59",
+		"startG": "2025-12-01T19:00",
+		"title": "2x Lesson <br>G: 2025-12-01 19:00 Mon ~ 2025-12-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-11 04:00 Wed ~ 2025-06-18 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Scrimm ",
+		"start": "2025-12-01T19:00",
+		"startJp": "2025-06-11T04:00",
+		"end": "2025-12-08T18:59",
+		"endJp": "2025-06-18T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-12-08T18:59",
+		"startG": "2025-12-01T19:00",
+		"title": "2x Scrimm <br>G: 2025-12-01 19:00 Mon ~ 2025-12-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-11 04:00 Wed ~ 2025-06-18 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "2x Comm ",
+		"start": "2025-12-08T19:00",
+		"startJp": "2025-06-18T04:00",
+		"end": "2025-12-15T18:59",
+		"endJp": "2025-06-25T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2025-12-15T18:59",
+		"startG": "2025-12-08T19:00",
+		"title": "2x Comm <br>G: 2025-12-08 19:00 Mon ~ 2025-12-15 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-18 04:00 Wed ~ 2025-06-25 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "[JFD] Shooting Outdoors Red",
 		"start": "2022-08-30T02:00",
 		"startJp": "2022-03-09T11:00",
@@ -15262,7 +15353,7 @@ jpSched = [
 		"title": "[Guide Task] V5C2 Guide Task<br>G: 2025-11-11 02:00 Tue ~ 2025-12-16 02:00 Tue 35d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-25 11:00 Wed 35d (JST y-m-d)",
 		"duration": 35
 	},{
-		"content": "Updated V5C1E12 (Kikyou voices + Battle effects) and E24 (Nagusa voices)",
+		"content": "Updated V5C1 E12+E24 (Kikyou + Nagusa voices + Battle effects)",
 		"start": "2025-11-11T02:00",
 		"startJp": "2025-05-21T11:00",
 		"end": "2025-11-24T19:00",
@@ -15272,7 +15363,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2025-11-24T19:00",
 		"startG": "2025-11-11T02:00",
-		"title": "Updated V5C1E12 (Kikyou voices + Battle effects) and E24 (Nagusa voices)<br>G: 2025-11-11 02:00 Tue ~ 2025-11-24 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 04:00 Wed 14d (JST y-m-d)",
+		"title": "Updated V5C1 E12+E24 (Kikyou + Nagusa voices + Battle effects)<br>G: 2025-11-11 02:00 Tue ~ 2025-11-24 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 04:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
 		"content": "[Mini Story] Those Unbound by Anything (Arata)",
@@ -15288,7 +15379,33 @@ jpSched = [
 		"title": "[Mini Story] Those Unbound by Anything (Arata)<br>G: 2025-12-09 02:00 Tue ~ 2025-12-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-18 11:00 Wed ~ 2025-07-02 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[TA] S15 Geburah Outdoor Red (Blue atk)",
+		"content": "EOS",
+		"start": "2025-11-11T02:00",
+		"startJp": "2025-05-21T11:00",
+		"end": "2025-11-11T10:00",
+		"endJp": "2025-05-21T19:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"endG": "2025-11-11T10:00",
+		"startG": "2025-11-11T02:00",
+		"title": "EOS<br>G: 2025-11-11 02:00 Tue ~ 2025-11-11 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-05-21 19:00 Wed 1d (JST y-m-d)",
+		"duration": 1
+	},{
+		"content": "[Mini] SCHALE Settlement Task with General Student Council",
+		"start": "2025-11-11T02:00",
+		"startJp": "2025-05-21T11:00",
+		"end": "2025-11-25T02:00",
+		"endJp": "2025-06-04T11:00",
+		"group": "J Event",
+		"subgroup": "Mini",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-11-25T02:00",
+		"startG": "2025-11-11T02:00",
+		"title": "[Mini] SCHALE Settlement Task with General Student Council<br>G: 2025-11-11 02:00 Tue ~ 2025-11-25 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "[TA] Geburah Outdoor Red (Blue atk)",
 		"start": "2025-11-18T02:00",
 		"startJp": "2025-05-28T11:00",
 		"end": "2025-11-24T19:00",
@@ -15298,10 +15415,10 @@ jpSched = [
 		"style": "color:white;background-color:red",
 		"endG": "2025-11-24T19:00",
 		"startG": "2025-11-18T02:00",
-		"title": "[TA] S15 Geburah Outdoor Red (Blue atk)<br>G: 2025-11-18 02:00 Tue ~ 2025-11-24 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-28 11:00 Wed ~ 2025-06-04 04:00 Wed 7d (JST y-m-d)",
+		"title": "[TA] Geburah Outdoor Red (Blue atk)<br>G: 2025-11-18 02:00 Tue ~ 2025-11-24 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-28 11:00 Wed ~ 2025-06-04 04:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[LBA] Chokmah Yellow (Blue atk)",
+		"content": "[LBA] S15 Chokmah Yellow (Blue atk)",
 		"start": "2025-11-12T02:00",
 		"startJp": "2025-05-22T11:00",
 		"end": "2025-12-15T19:00",
@@ -15311,72 +15428,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-12-15T19:00",
 		"startG": "2025-11-12T02:00",
-		"title": "[LBA] Chokmah Yellow (Blue atk)<br>G: 2025-11-12 02:00 Wed ~ 2025-12-15 19:00 Mon 34d (UTC y-m-d)<br>Jp: 2025-05-22 11:00 Thu ~ 2025-06-25 04:00 Wed 34d (JST y-m-d)",
+		"title": "[LBA] S15 Chokmah Yellow (Blue atk)<br>G: 2025-11-12 02:00 Wed ~ 2025-12-15 19:00 Mon 34d (UTC y-m-d)<br>Jp: 2025-05-22 11:00 Thu ~ 2025-06-25 04:00 Wed 34d (JST y-m-d)",
 		"duration": 34
-	},{
-		"content": "2x Normal",
-		"start": "2025-11-10T19:00",
-		"startJp": "2025-05-21T04:00",
-		"end": "2025-11-17T19:00",
-		"endJp": "2025-05-28T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2025-11-17T19:00",
-		"startG": "2025-11-10T19:00",
-		"title": "2x Normal<br>G: 2025-11-10 19:00 Mon ~ 2025-11-17 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-21 04:00 Wed ~ 2025-05-28 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "2x Comm",
-		"start": "2025-11-17T19:00",
-		"startJp": "2025-05-28T04:00",
-		"end": "2025-11-24T19:00",
-		"endJp": "2025-06-04T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2025-11-24T19:00",
-		"startG": "2025-11-17T19:00",
-		"title": "2x Comm<br>G: 2025-11-17 19:00 Mon ~ 2025-11-24 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-28 04:00 Wed ~ 2025-06-04 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "2x Hard",
-		"start": "2025-11-24T19:00",
-		"startJp": "2025-06-04T04:00",
-		"end": "2025-12-01T19:00",
-		"endJp": "2025-06-11T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2025-12-01T19:00",
-		"startG": "2025-11-24T19:00",
-		"title": "2x Hard<br>G: 2025-11-24 19:00 Mon ~ 2025-12-01 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-04 04:00 Wed ~ 2025-06-11 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "2x Scrimm/Bounty/Lesson",
-		"start": "2025-12-01T19:00",
-		"startJp": "2025-06-11T04:00",
-		"end": "2025-12-08T19:00",
-		"endJp": "2025-06-18T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2025-12-08T19:00",
-		"startG": "2025-12-01T19:00",
-		"title": "2x Scrimm/Bounty/Lesson<br>G: 2025-12-01 19:00 Mon ~ 2025-12-08 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-11 04:00 Wed ~ 2025-06-18 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "2x Comm",
-		"start": "2025-12-08T19:00",
-		"startJp": "2025-06-18T04:00",
-		"end": "2025-12-15T19:00",
-		"endJp": "2025-06-25T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2025-12-15T19:00",
-		"startG": "2025-12-08T19:00",
-		"title": "2x Comm<br>G: 2025-12-08 19:00 Mon ~ 2025-12-15 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-18 04:00 Wed ~ 2025-06-25 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
 	}
 ]
