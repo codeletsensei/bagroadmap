@@ -7423,6 +7423,19 @@ jpSched = [
 		"title": "[TA] Gregorius Indoors Red (Blue atk)<br>G: 2025-10-21 02:00 Tue ~ 2025-10-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-30 11:00 Wed ~ 2025-05-07 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
+		"content": "[TA] Geburah Outdoors Red (Blue atk)",
+		"start": "2025-11-18T02:00",
+		"startJp": "2025-05-28T11:00",
+		"end": "2025-11-24T18:59",
+		"endJp": "2025-06-04T03:59",
+		"group": "J Raid",
+		"subgroup": "TA",
+		"style": "color:white;background-color:red",
+		"endG": "2025-11-24T18:59",
+		"startG": "2025-11-18T02:00",
+		"title": "[TA] Geburah Outdoors Red (Blue atk)<br>G: 2025-11-18 02:00 Tue ~ 2025-11-24 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-28 11:00 Wed ~ 2025-06-04 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
 		"content": "[GA] Binah Urban (Yellow Tor + Red/Blue) (Yellow atk)",
 		"start": "2023-12-19T02:00",
 		"startJp": "2023-06-28T11:00",
@@ -7735,6 +7748,32 @@ jpSched = [
 		"title": "[GA] ShiroKuro Indoors (Purple Tor + Yellow/Blue) (Yellow atk)<br>G: 2025-11-04 02:00 Tue ~ 2025-11-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 03:59 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
+		"content": "[GA] Hieronymus Urban (Yellow Tor + Red/Purple) (Red atk)",
+		"start": "2025-12-02T02:00",
+		"startJp": "2025-06-11T11:00",
+		"end": "2025-12-08T18:59",
+		"endJp": "2025-06-18T03:59",
+		"group": "J Raid",
+		"subgroup": "GA",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-12-08T18:59",
+		"startG": "2025-12-02T02:00",
+		"title": "[GA] Hieronymus Urban (Yellow Tor + Red/Purple) (Red atk)<br>G: 2025-12-02 02:00 Tue ~ 2025-12-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-11 11:00 Wed ~ 2025-06-18 03:59 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "[GA] ShiroKuro Indoors (Purple Tor + Yellow/Blue) (Yellow atk)",
+		"start": "2026-01-06T02:00",
+		"startJp": "2025-07-16T11:00",
+		"end": "2026-01-11T18:59",
+		"endJp": "2025-07-22T03:59",
+		"group": "J Raid",
+		"subgroup": "GA",
+		"style": "color:white;background-color:purple",
+		"endG": "2026-01-11T18:59",
+		"startG": "2026-01-06T02:00",
+		"title": "[GA] ShiroKuro Indoors (Purple Tor + Yellow/Blue) (Yellow atk)<br>G: 2026-01-06 02:00 Tue ~ 2026-01-11 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2025-07-16 11:00 Wed ~ 2025-07-22 03:59 Tue 6d (JST y-m-d)",
+		"duration": 6
+	},{
 		"content": "[LBA] S1 The Fury of Set Blue (Red atk)",
 		"start": "2024-09-18T02:00",
 		"startJp": "2024-03-28T11:00",
@@ -7916,6 +7955,19 @@ jpSched = [
 		"startG": "2025-10-14T02:00",
 		"title": "[LBA] S14 Tiphareth Purple (Yellow atk)<br>G: 2025-10-14 02:00 Tue ~ 2025-11-10 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 03:59 Wed 28d (JST y-m-d)",
 		"duration": 28
+	},{
+		"content": "[LBA] S15 Chokmah Yellow (Blue atk)",
+		"start": "2025-11-12T02:00",
+		"startJp": "2025-05-22T11:00",
+		"end": "2025-12-15T18:59",
+		"endJp": "2025-06-25T03:59",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-12-15T18:59",
+		"startG": "2025-11-12T02:00",
+		"title": "[LBA] S15 Chokmah Yellow (Blue atk)<br>G: 2025-11-12 02:00 Wed ~ 2025-12-15 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2025-05-22 11:00 Thu ~ 2025-06-25 03:59 Wed 34d (JST y-m-d)",
+		"duration": 34
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)",
 		"start": "2021-07-28T03:00",
@@ -15392,7 +15444,7 @@ jpSched = [
 		"title": "EOS<br>G: 2025-11-11 02:00 Tue ~ 2025-11-11 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-05-21 19:00 Wed 1d (JST y-m-d)",
 		"duration": 1
 	},{
-		"content": "[Mini] SCHALE Settlement Task with General Student Council",
+		"content": "[Mini Mini] SCHALE Settlement Task with General Student Council",
 		"start": "2025-11-11T02:00",
 		"startJp": "2025-05-21T11:00",
 		"end": "2025-11-25T02:00",
@@ -15402,33 +15454,72 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-11-25T02:00",
 		"startG": "2025-11-11T02:00",
-		"title": "[Mini] SCHALE Settlement Task with General Student Council<br>G: 2025-11-11 02:00 Tue ~ 2025-11-25 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Mini Mini] SCHALE Settlement Task with General Student Council<br>G: 2025-11-11 02:00 Tue ~ 2025-11-25 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[TA] Geburah Outdoor Red (Blue atk)",
-		"start": "2025-11-18T02:00",
-		"startJp": "2025-05-28T11:00",
-		"end": "2025-11-24T19:00",
-		"endJp": "2025-06-04T04:00",
-		"group": "J Raid",
-		"subgroup": "TA",
-		"style": "color:white;background-color:red",
-		"endG": "2025-11-24T19:00",
-		"startG": "2025-11-18T02:00",
-		"title": "[TA] Geburah Outdoor Red (Blue atk)<br>G: 2025-11-18 02:00 Tue ~ 2025-11-24 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-28 11:00 Wed ~ 2025-06-04 04:00 Wed 7d (JST y-m-d)",
-		"duration": 7
-	},{
-		"content": "[LBA] S15 Chokmah Yellow (Blue atk)",
-		"start": "2025-11-12T02:00",
-		"startJp": "2025-05-22T11:00",
-		"end": "2025-12-15T19:00",
-		"endJp": "2025-06-25T04:00",
-		"group": "J Raid",
-		"subgroup": "LBA",
+		"content": "[R] -ive aLIVE!",
+		"start": "2025-11-25T02:00",
+		"startJp": "2025-06-04T11:00",
+		"end": "2025-12-09T02:00",
+		"endJp": "2025-06-18T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
 		"style": "color:black;background-color:yellow",
-		"endG": "2025-12-15T19:00",
-		"startG": "2025-11-12T02:00",
-		"title": "[LBA] S15 Chokmah Yellow (Blue atk)<br>G: 2025-11-12 02:00 Wed ~ 2025-12-15 19:00 Mon 34d (UTC y-m-d)<br>Jp: 2025-05-22 11:00 Thu ~ 2025-06-25 04:00 Wed 34d (JST y-m-d)",
-		"duration": 34
+		"endG": "2025-12-09T02:00",
+		"startG": "2025-11-25T02:00",
+		"title": "[Main R] -ive aLIVE!<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "Natsu (Band) (New)",
+		"start": "2025-11-25T02:00",
+		"startJp": "2025-06-04T11:00",
+		"end": "2025-12-09T02:00",
+		"endJp": "2025-06-18T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-12-09T02:00",
+		"startG": "2025-11-25T02:00",
+		"title": "Natsu (Band) (New)<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "Yoshimi (Band)",
+		"start": "2025-11-25T02:00",
+		"startJp": "2025-06-04T11:00",
+		"end": "2025-12-09T02:00",
+		"endJp": "2025-06-18T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-12-09T02:00",
+		"startG": "2025-11-25T02:00",
+		"title": "Yoshimi (Band)<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "Kazusa (Band)",
+		"start": "2025-11-25T02:00",
+		"startJp": "2025-06-04T11:00",
+		"end": "2025-12-09T02:00",
+		"endJp": "2025-06-18T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-12-09T02:00",
+		"startG": "2025-11-25T02:00",
+		"title": "Kazusa (Band)<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "[Welfare] Airi (Band)",
+		"start": "2025-11-25T02:00",
+		"startJp": "2025-06-04T11:00",
+		"end": "2025-12-09T02:00",
+		"endJp": "2025-06-18T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-12-09T02:00",
+		"startG": "2025-11-25T02:00",
+		"title": "[Welfare] Airi (Band)<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
 	}
 ]
