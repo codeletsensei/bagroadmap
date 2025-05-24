@@ -188,11 +188,17 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
-  },
+  },{
+    "content": "EOS",
+    "start": "2025-05-27T02:00:00.000Z",
+    "end": "2025-05-27T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 // GASHA
 //
-  {
     "content": "Misaka + Shokuhou",
     "start": "2024-04-30T02:00:00.000Z",
     "end": "2024-05-14T02:00:00.000Z",
