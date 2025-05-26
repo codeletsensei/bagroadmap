@@ -821,11 +821,52 @@ confirmed = [
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
-  },
+  },{
+    "content": "Kasumi, Ichika",
+    "start": "2025-05-27T02:00:00.000Z",
+    "end": "2025-06-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Megu, Iori",
+    "start": "2025-05-27T02:00:00.000Z",
+    "end": "2025-06-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Yuuka (Sportswear) [L]",
+    "start": "2025-06-03T02:00:00.000Z",
+    "end": "2025-06-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Mari (Sportswear) [L]",
+    "start": "2025-06-03T02:00:00.000Z",
+    "end": "2025-06-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Haruna (Sportswear) + Noa",
+    "start": "2025-06-03T02:00:00.000Z",
+    "end": "2025-06-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Kotori + Utaha (Cheer)",
+    "start": "2025-06-03T02:00:00.000Z",
+    "end": "2025-06-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
-  {
     "content": "A Certain Scientific Record of Youth",
     "start": "2024-04-30T02:00:00.000Z",
     "end": "2024-05-14T02:00:00.000Z",
@@ -1127,17 +1168,45 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[R] Basking in the Brilliance of Their Serenade (end date tbc)",
+    "content": "[R] Basking in the Brilliance of Their Serenade",
     "start": "2025-05-13T02:00:00.000Z",
     "end": "2025-05-27T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
-  },
+  },{
+    "content": "[R] Trip-Trap-Train",
+    "start": "2025-05-27T02:00:00.000Z",
+    "end": "2025-06-03T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini] Balancing Schale's Books with the General Student Council",
+    "start": "2025-05-27T02:00:00.000Z",
+    "end": "2025-06-10T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Mini",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Perm] Get Set, Go! Kivotos Halo Festival!",
+    "start": "2025-06-03T02:00:00.000Z",
+    "end": "2025-06-10T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Mini",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Perm] On Your Mark ＠ Millennium - Kivotos Halo Festival!",
+    "start": "2025-06-03T02:00:00.000Z",
+    "end": "2025-06-10T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Mini",
+    "style": "color:black; background-color:yellow"
+  },{
 //
 // RAIDS
 //
-  {
+
     "content": "[TA] Chesed (Red atk)",
     "start": "2024-05-07T02:00:00.000Z",
     "end": "2024-05-13T19:00:00.000Z",
@@ -1487,11 +1556,17 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "JFD",
     "style": "color:white; background-color:red "
-  },
+  },{
+    "content": "[GA] Binah Urban (Yellow Tor + Blue/Purple) (Yellow Atk)",
+    "start": "2025-06-03T02:00:00.000Z",
+    "end": "2025-06-09T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:white; background-color:red "
+  },{
 //
 // CAMPAIGNS
 //
-  {
     "content": "2x Bounty",
     "start": "2024-04-29T19:00:00.000Z",
     "end": "2024-05-08T19:00:00.000Z",
@@ -2065,11 +2140,17 @@ confirmed = [
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
-  },
+  },{
+    "content": "2x Normal/Comm",
+    "start": "2025-06-02T19:00:00.000Z",
+    "end": "2025-06-09T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 // MISC
 //
-  {
     "content": "[Welfare] Junko (New Year)",
     "start": "2024-09-03T02:00:00.000Z",
     "end": "2024-09-17T02:00:00.000Z",
@@ -2356,5 +2437,33 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "Hot Springs Department Group Story",
+    "start": "2025-05-27T02:00:00.000Z",
+    "end": "2025-06-03T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini Story] Highlander Logs",
+    "start": "2025-06-03T02:00:00.000Z",
+    "end": "2025-06-10T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini Story] Lost Gift",
+    "start": "2025-06-03T02:00:00.000Z",
+    "end": "2025-06-10T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Event Rewards] 50 Iori/Tsurugi/Hasumi Elephs",
+    "start": "2025-05-27T02:00:00.000Z",
+    "end": "2025-06-03T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
   }
 ]
