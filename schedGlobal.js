@@ -1550,7 +1550,7 @@ confirmed = [
     "subgroup": "TA",
     "style": "color:white; background-color:red "
   },{
-    "content": "[JFD] Breakthrough Urban Red. Additional dmg on atk. Red healers heal the dummy for more.",
+    "content": "[JFD] Breakthrough Red Urban. Additional dmg on atk. Red healers heal the dummy for more.",
     "start": "2025-05-27T02:00:00.000Z",
     "end": "2025-06-02T19:00:00.000Z",
     "group": "G Raid",
@@ -1563,6 +1563,20 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "JFD",
     "style": "color:white; background-color:red "
+  },{
+    "content": "[TA] Hovercraft Outdoors Yellow (Yellow atk)",
+    "start": "2025-06-17T02:00:00.000Z",
+    "end": "2025-06-23T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:black; background-color:yellow "
+  },{
+    "content": "[JFD] Shooting Purple Urban. Purple students deal additional dmg to DoT'ed enemies. High crit RES.",
+    "start": "2025-06-24T02:00:00.000Z",
+    "end": "2025-06-30T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:white; background-color:purple "
   },{
 //
 // CAMPAIGNS
