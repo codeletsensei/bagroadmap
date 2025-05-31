@@ -2162,6 +2162,41 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Bounty",
+    "start": "2025-06-09T19:00:00.000Z",
+    "end": "2025-06-16T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Comm",
+    "start": "2025-06-16T19:00:00.000Z",
+    "end": "2025-06-23T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Normal/Lesson",
+    "start": "2025-06-23T19:00:00.000Z",
+    "end": "2025-06-30T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-06-13T19:00:00.000Z",
+    "end": "2025-06-15T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-06-20T19:00:00.000Z",
+    "end": "2025-06-22T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 // MISC
 //
