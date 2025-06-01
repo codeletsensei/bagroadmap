@@ -1562,7 +1562,7 @@ confirmed = [
     "end": "2025-06-09T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "JFD",
-    "style": "color:white; background-color:red "
+    "style": "color:black; background-color:yellow "
   },{
     "content": "[TA] Hovercraft Outdoors Yellow (Yellow atk)",
     "start": "2025-06-17T02:00:00.000Z",
