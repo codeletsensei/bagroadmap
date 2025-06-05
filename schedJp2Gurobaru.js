@@ -1014,6 +1014,19 @@ jpSched = [
 		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Get_Hyped_and_March_On!/Rerun\" title=\"Get Hyped and March On!/Rerun\">Get Hyped and March On!</a><br>G: 2025-11-04 02:00 Tue ~ 2025-11-11 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 11:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
+		"content": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/-ive_aLIVE!/Rerun\" title=\"-ive aLIVE!/Rerun\">-ive aLIVE!</a>",
+		"start": "2025-11-25T02:00",
+		"startJp": "2025-06-04T11:00",
+		"end": "2025-12-09T02:00",
+		"endJp": "2025-06-18T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-12-09T02:00",
+		"startG": "2025-11-25T02:00",
+		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/-ive_aLIVE!/Rerun\" title=\"-ive aLIVE!/Rerun\">-ive aLIVE!</a><br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
 		"start": "2023-11-28T02:00",
 		"startJp": "2023-06-07T11:00",
@@ -1624,6 +1637,19 @@ jpSched = [
 		"startG": "2024-11-26T02:00",
 		"title": "[GM] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Task_Force_Emergency_Nighttime_Meeting\" title=\"Task Force Emergency Nighttime Meeting\">Task Force Emergency Nighttime Meeting</a><br>G: 2024-11-26 02:00 Tue ~ 2024-12-24 02:00 Tue 28d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-07-03 11:00 Wed 28d (JST y-m-d)",
 		"duration": 28
+	},{
+		"content": "[GM] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Waraku_Festival_Special_Campaign!\" title=\"Waraku Festival Special Campaign!\">Waraku Festival Special Campaign!</a>",
+		"start": "2025-11-11T02:00",
+		"startJp": "2025-05-21T11:00",
+		"end": "2025-12-16T02:00",
+		"endJp": "2025-06-25T11:00",
+		"group": "J Event",
+		"subgroup": "GM",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-12-16T02:00",
+		"startG": "2025-11-11T02:00",
+		"title": "[GM] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Waraku_Festival_Special_Campaign!\" title=\"Waraku Festival Special Campaign!\">Waraku Festival Special Campaign!</a><br>G: 2025-11-11 02:00 Tue ~ 2025-12-16 02:00 Tue 35d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-25 11:00 Wed 35d (JST y-m-d)",
+		"duration": 35
 	},{
 		"content": "<b>3x Comm </b>",
 		"start": "2022-08-08T19:00",
@@ -12662,6 +12688,58 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Niya\" title=\"Niya\">Niya</a> (New)<br>G: 2025-11-11 02:00 Tue ~ 2025-11-25 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 10:59 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu_(Band)\" title=\"Natsu (Band)\">Natsu (Band)</a> (New)",
+		"start": "2025-11-25T02:00",
+		"startJp": "2025-06-04T11:00",
+		"end": "2025-12-09T01:59",
+		"endJp": "2025-06-18T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-12-09T01:59",
+		"startG": "2025-11-25T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Natsu_(Band)\" title=\"Natsu (Band)\">Natsu (Band)</a> (New)<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 10:59 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa_(Band)\" title=\"Kazusa (Band)\">Kazusa (Band)</a> [L]",
+		"start": "2025-11-25T02:00",
+		"startJp": "2025-06-04T11:00",
+		"end": "2025-12-09T01:59",
+		"endJp": "2025-06-18T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-12-09T01:59",
+		"startG": "2025-11-25T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa_(Band)\" title=\"Kazusa (Band)\">Kazusa (Band)</a> [L]<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 10:59 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yoshimi_(Band)\" title=\"Yoshimi (Band)\">Yoshimi (Band)</a> [L]",
+		"start": "2025-11-25T02:00",
+		"startJp": "2025-06-04T11:00",
+		"end": "2025-12-09T01:59",
+		"endJp": "2025-06-18T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-12-09T01:59",
+		"startG": "2025-11-25T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yoshimi_(Band)\" title=\"Yoshimi (Band)\">Yoshimi (Band)</a> [L]<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 10:59 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kikyou\" title=\"Kikyou\">Kikyou</a>",
+		"start": "2025-11-25T02:00",
+		"startJp": "2025-06-04T11:00",
+		"end": "2025-12-09T01:59",
+		"endJp": "2025-06-18T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-12-09T01:59",
+		"startG": "2025-11-25T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kikyou\" title=\"Kikyou\">Kikyou</a><br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 10:59 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
 		"content": "EOS",
 		"start": "2021-08-03T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -15028,7 +15106,7 @@ jpSched = [
 		"title": "<s>[QoL] Damage cap increase</s> Added to GL on 2025/06/12<br>G: 2025-07-20 02:00 Sun ~ 2025-08-03 02:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-10 11:00 Mon 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[GA Shop] Kaede, purple, on shop reset",
+		"content": "[GA Shop] Kaede, blue, on shop reset",
 		"start": "2025-07-24T19:00",
 		"startJp": "2025-02-01T04:00",
 		"end": "2025-08-06T19:00",
@@ -15038,7 +15116,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2025-08-06T19:00",
 		"startG": "2025-07-24T19:00",
-		"title": "[GA Shop] Kaede, purple, on shop reset<br>G: 2025-07-24 19:00 Thu ~ 2025-08-06 19:00 Wed 13d (UTC y-m-d)<br>Jp: 2025-02-01 04:00 Sat ~ 2025-02-14 04:00 Fri 13d (JST y-m-d)",
+		"title": "[GA Shop] Kaede, blue, on shop reset<br>G: 2025-07-24 19:00 Thu ~ 2025-08-06 19:00 Wed 13d (UTC y-m-d)<br>Jp: 2025-02-01 04:00 Sat ~ 2025-02-14 04:00 Fri 13d (JST y-m-d)",
 		"duration": 13
 	},{
 		"content": "[Mission] Area 28 (Misaki + Cafe2 Lv10 + T10)",
@@ -15457,58 +15535,6 @@ jpSched = [
 		"title": "[Mini Mini] SCHALE Settlement Task with General Student Council<br>G: 2025-11-11 02:00 Tue ~ 2025-11-25 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[R] -ive aLIVE!",
-		"start": "2025-11-25T02:00",
-		"startJp": "2025-06-04T11:00",
-		"end": "2025-12-09T02:00",
-		"endJp": "2025-06-18T11:00",
-		"group": "J Event",
-		"subgroup": "Main",
-		"style": "color:black;background-color:yellow",
-		"endG": "2025-12-09T02:00",
-		"startG": "2025-11-25T02:00",
-		"title": "[Main R] -ive aLIVE!<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 11:00 Wed 14d (JST y-m-d)",
-		"duration": 14
-	},{
-		"content": "Natsu (Band) (New)",
-		"start": "2025-11-25T02:00",
-		"startJp": "2025-06-04T11:00",
-		"end": "2025-12-09T02:00",
-		"endJp": "2025-06-18T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-12-09T02:00",
-		"startG": "2025-11-25T02:00",
-		"title": "Natsu (Band) (New)<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 11:00 Wed 14d (JST y-m-d)",
-		"duration": 14
-	},{
-		"content": "Yoshimi (Band)",
-		"start": "2025-11-25T02:00",
-		"startJp": "2025-06-04T11:00",
-		"end": "2025-12-09T02:00",
-		"endJp": "2025-06-18T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-12-09T02:00",
-		"startG": "2025-11-25T02:00",
-		"title": "Yoshimi (Band)<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 11:00 Wed 14d (JST y-m-d)",
-		"duration": 14
-	},{
-		"content": "Kazusa (Band)",
-		"start": "2025-11-25T02:00",
-		"startJp": "2025-06-04T11:00",
-		"end": "2025-12-09T02:00",
-		"endJp": "2025-06-18T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-12-09T02:00",
-		"startG": "2025-11-25T02:00",
-		"title": "Kazusa (Band)<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 11:00 Wed 14d (JST y-m-d)",
-		"duration": 14
-	},{
 		"content": "[Welfare] Airi (Band)",
 		"start": "2025-11-25T02:00",
 		"startJp": "2025-06-04T11:00",
@@ -15521,5 +15547,18 @@ jpSched = [
 		"startG": "2025-11-25T02:00",
 		"title": "[Welfare] Airi (Band)<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
+	},{
+		"content": "[JFD] Escort Yellow Indoors. AG gets buffed with more Hyakki students. Buffing AG debuffs enemy DEF. ",
+		"start": "2025-12-30T02:00",
+		"startJp": "2025-07-09T11:00",
+		"end": "2026-01-06T02:00",
+		"endJp": "2025-07-16T11:00",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-01-06T02:00",
+		"startG": "2025-12-30T02:00",
+		"title": "[JFD] Escort Yellow Indoors. AG gets buffed with more Hyakki students. Buffing AG debuffs enemy DEF. <br>G: 2025-12-30 02:00 Tue ~ 2026-01-06 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-07-09 11:00 Wed ~ 2025-07-16 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
 	}
 ]
