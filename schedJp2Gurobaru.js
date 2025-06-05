@@ -15522,19 +15522,6 @@ jpSched = [
 		"title": "EOS<br>G: 2025-11-11 02:00 Tue ~ 2025-11-11 10:00 Tue 1d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-05-21 19:00 Wed 1d (JST y-m-d)",
 		"duration": 1
 	},{
-		"content": "[Mini Mini] SCHALE Settlement Task with General Student Council",
-		"start": "2025-11-11T02:00",
-		"startJp": "2025-05-21T11:00",
-		"end": "2025-11-25T02:00",
-		"endJp": "2025-06-04T11:00",
-		"group": "J Event",
-		"subgroup": "Mini",
-		"style": "color:black;background-color:yellow",
-		"endG": "2025-11-25T02:00",
-		"startG": "2025-11-11T02:00",
-		"title": "[Mini Mini] SCHALE Settlement Task with General Student Council<br>G: 2025-11-11 02:00 Tue ~ 2025-11-25 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 11:00 Wed 14d (JST y-m-d)",
-		"duration": 14
-	},{
 		"content": "[Welfare] Airi (Band)",
 		"start": "2025-11-25T02:00",
 		"startJp": "2025-06-04T11:00",
@@ -15548,6 +15535,19 @@ jpSched = [
 		"title": "[Welfare] Airi (Band)<br>G: 2025-11-25 02:00 Tue ~ 2025-12-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-18 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
+		"content": "[Mini Mini] SCHALE Settlement Task with General Student Council",
+		"start": "2025-11-11T02:00",
+		"startJp": "2025-05-21T11:00",
+		"end": "2025-11-25T02:00",
+		"endJp": "2025-06-04T11:00",
+		"group": "J Event",
+		"subgroup": "Mini",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-11-25T02:00",
+		"startG": "2025-11-11T02:00",
+		"title": "[Mini Mini] SCHALE Settlement Task with General Student Council<br>G: 2025-11-11 02:00 Tue ~ 2025-11-25 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 11:00 Wed 14d (JST y-m-d)",
+		"duration": 14
+	},{
 		"content": "[JFD] Escort Yellow Indoors. AG gets buffed with more Hyakki students. Buffing AG debuffs enemy DEF. ",
 		"start": "2025-12-30T02:00",
 		"startJp": "2025-07-09T11:00",
@@ -15559,6 +15559,58 @@ jpSched = [
 		"endG": "2026-01-06T02:00",
 		"startG": "2025-12-30T02:00",
 		"title": "[JFD] Escort Yellow Indoors. AG gets buffed with more Hyakki students. Buffing AG debuffs enemy DEF. <br>G: 2025-12-30 02:00 Tue ~ 2026-01-06 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-07-09 11:00 Wed ~ 2025-07-16 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "Izuna (Swimsuit) [L]",
+		"start": "2025-12-09T02:00",
+		"startJp": "2025-06-18T11:00",
+		"end": "2025-12-16T02:00",
+		"endJp": "2025-06-25T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-12-16T02:00",
+		"startG": "2025-12-09T02:00",
+		"title": "Izuna (Swimsuit) [L]<br>G: 2025-12-09 02:00 Tue ~ 2025-12-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-06-18 11:00 Wed ~ 2025-06-25 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "Chise (Swimsuit) [L]",
+		"start": "2025-12-09T02:00",
+		"startJp": "2025-06-18T11:00",
+		"end": "2025-12-16T02:00",
+		"endJp": "2025-06-25T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-12-16T02:00",
+		"startG": "2025-12-09T02:00",
+		"title": "Chise (Swimsuit) [L]<br>G: 2025-12-09 02:00 Tue ~ 2025-12-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-06-18 11:00 Wed ~ 2025-06-25 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "Renge",
+		"start": "2025-12-09T02:00",
+		"startJp": "2025-06-18T11:00",
+		"end": "2025-12-16T02:00",
+		"endJp": "2025-06-25T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-12-16T02:00",
+		"startG": "2025-12-09T02:00",
+		"title": "Renge<br>G: 2025-12-09 02:00 Tue ~ 2025-12-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-06-18 11:00 Wed ~ 2025-06-25 11:00 Wed 7d (JST y-m-d)",
+		"duration": 7
+	},{
+		"content": "Yukari",
+		"start": "2025-12-09T02:00",
+		"startJp": "2025-06-18T11:00",
+		"end": "2025-12-16T02:00",
+		"endJp": "2025-06-25T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-12-16T02:00",
+		"startG": "2025-12-09T02:00",
+		"title": "Yukari<br>G: 2025-12-09 02:00 Tue ~ 2025-12-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-06-18 11:00 Wed ~ 2025-06-25 11:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	}
 ]
