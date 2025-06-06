@@ -196,6 +196,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
   },{
+    "content": "EOS",
+    "start": "2025-06-10T02:00:00.000Z",
+    "end": "2025-06-10T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 // GASHA
 //
@@ -864,6 +871,20 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Yuuka (Pajama)",
+    "start": "2025-06-10T02:00:00.000Z",
+    "end": "2025-06-24T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Noa (Pajama)",
+    "start": "2025-06-10T02:00:00.000Z",
+    "end": "2025-06-24T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -1201,6 +1222,13 @@ confirmed = [
     "end": "2025-06-10T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Mini",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] Secret Midnight Party: The Chimes of Tag",
+    "start": "2025-06-10T02:00:00.000Z",
+    "end": "2025-06-24T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
 //
