@@ -1592,6 +1592,13 @@ confirmed = [
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow "
   },{
+    "content": "[LBA] S10 Chokmah Yellow (Blue atk)",
+    "start": "2025-06-11T02:00:00.000Z",
+    "end": "2025-07-07T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:black; background-color:yellow "
+  },{
     "content": "[TA] Hovercraft Outdoors Yellow (Yellow atk)",
     "start": "2025-06-17T02:00:00.000Z",
     "end": "2025-06-23T19:00:00.000Z",
@@ -2542,5 +2549,12 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Bond Gear] Toki, Mashiro, Kotori",
+    "start": "2025-06-10T02:00:00.000Z",
+    "end": "2025-06-24T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
   }
 ]
