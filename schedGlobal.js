@@ -203,6 +203,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
   },{
+    "content": "EOS",
+    "start": "2025-06-24T02:00:00.000Z",
+    "end": "2025-06-24T06:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 // GASHA
 //
@@ -881,6 +888,34 @@ confirmed = [
     "content": "Noa (Pajama)",
     "start": "2025-06-10T02:00:00.000Z",
     "end": "2025-06-24T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Aru (New Year) [L]",
+    "start": "2025-06-24T02:00:00.000Z",
+    "end": "2025-07-01T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Mutsuki (New Year) [L]",
+    "start": "2025-06-24T02:00:00.000Z",
+    "end": "2025-07-01T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Kayoko (New Year)",
+    "start": "2025-06-24T02:00:00.000Z",
+    "end": "2025-07-01T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Haruka (New Year)",
+    "start": "2025-06-24T02:00:00.000Z",
+    "end": "2025-07-01T02:00:00.000Z",
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
