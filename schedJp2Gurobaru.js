@@ -15769,7 +15769,7 @@ jpSched = [
 		"title": "<b>2x XP</b><br>G: 2025-12-19 19:00 Fri ~ 2025-12-21 19:00 Sun 2d (UTC y-m-d)<br>Jp: 2025-07-05 04:00 Sat ~ 2025-07-07 04:00 Mon 2d (JST y-m-d)",
 		"duration": 2
 	},{
-		"content": "[TA] Goz Indoor (Red atk) (undefined atk)",
+		"content": "[TA] Goz Indoor (Red atk)",
 		"start": "2025-12-17T02:00",
 		"startJp": "2025-07-02T11:00",
 		"end": "2025-12-23T19:00",
@@ -15779,10 +15779,10 @@ jpSched = [
 		"style": "color:white;background-color:blue",
 		"endG": "2025-12-23T19:00",
 		"startG": "2025-12-17T02:00",
-		"title": "[TA] Goz Indoor (Red atk) (undefined atk)<br>G: 2025-12-17 02:00 Wed ~ 2025-12-23 19:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-07-02 11:00 Wed ~ 2025-07-09 04:00 Wed 7d (JST y-m-d)",
+		"title": "[TA] Goz Indoor (Red atk)<br>G: 2025-12-17 02:00 Wed ~ 2025-12-23 19:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-07-02 11:00 Wed ~ 2025-07-09 04:00 Wed 7d (JST y-m-d)",
 		"duration": 7
 	},{
-		"content": "[GA] Kaiten (Blue Tor + Red/Purple) (Yellow atk) (undefined atk)",
+		"content": "[GA] Kaiten (Blue Tor + Red/Purple) (Yellow atk)",
 		"start": "2025-12-31T02:00",
 		"startJp": "2025-07-16T11:00",
 		"end": "2026-01-05T19:00",
@@ -15792,7 +15792,7 @@ jpSched = [
 		"style": "color:white;background-color:purple",
 		"endG": "2026-01-05T19:00",
 		"startG": "2025-12-31T02:00",
-		"title": "[GA] Kaiten (Blue Tor + Red/Purple) (Yellow atk) (undefined atk)<br>G: 2025-12-31 02:00 Wed ~ 2026-01-05 19:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-07-16 11:00 Wed ~ 2025-07-22 04:00 Tue 6d (JST y-m-d)",
+		"title": "[GA] Kaiten (Blue Tor + Red/Purple) (Yellow atk)<br>G: 2025-12-31 02:00 Wed ~ 2026-01-05 19:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-07-16 11:00 Wed ~ 2025-07-22 04:00 Tue 6d (JST y-m-d)",
 		"duration": 6
 	}
 ]
