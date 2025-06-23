@@ -920,6 +920,34 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Arisu (Maid)",
+    "start": "2025-07-01T02:00:00.000Z",
+    "end": "2025-07-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Toki (Bunny Girl)",
+    "start": "2025-07-01T02:00:00.000Z",
+    "end": "2025-07-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Momoi (Maid)",
+    "start": "2025-07-01T02:00:00.000Z",
+    "end": "2025-07-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Midori (Maid)",
+    "start": "2025-07-01T02:00:00.000Z",
+    "end": "2025-07-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -1264,6 +1292,20 @@ confirmed = [
     "end": "2025-06-24T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini] Balancing Schale's Books with the General Student Council",
+    "start": "2025-06-24T02:00:00.000Z",
+    "end": "2025-07-08T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Mini",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Perm] Alabaster Calling Card: Mansion Masquerade and the Essence of Beauty",
+    "start": "2025-07-01T02:00:00.000Z",
+    "end": "2025-07-08T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Mini",
     "style": "color:black; background-color:yellow"
   },{
 //
@@ -1647,6 +1689,13 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "JFD",
     "style": "color:white; background-color:purple "
+  },{
+    "content": "[GA] Kaiten Urban (Red Tor + Yellow/Blue) (Yellow atk)",
+    "start": "2025-07-01T02:00:00.000Z",
+    "end": "2025-07-07T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:white; background-color:red "
   },{
 //
 // CAMPAIGNS
@@ -2591,5 +2640,12 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Perm Welfare] Yuzu (Maid)",
+    "start": "2025-07-01T02:00:00.000Z",
+    "end": "2025-07-08T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
   }
 ]
