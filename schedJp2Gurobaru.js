@@ -12841,7 +12841,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2025-12-24T01:59",
 		"startG": "2025-12-10T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kikyou_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Kikyou (Swimsuit) (page does not exist)\">Kikyou (Swimsuit)</a> (New)<br>G: 2025-12-10 02:00 Wed ~ 2025-12-24 01:59 Wed 14d (UTC y-m-d)<br>Jp: 2025-06-25 11:00 Wed ~ 2025-07-09 10:59 Wed 14d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kikyou_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Kikyou (Swimsuit) (page does not exist)\">Kikyou (Swimsuit)</a>, (New)<br>G: 2025-12-10 02:00 Wed ~ 2025-12-24 01:59 Wed 14d (UTC y-m-d)<br>Jp: 2025-06-25 11:00 Wed ~ 2025-07-09 10:59 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
 		"content": "EOS",
@@ -15665,6 +15665,19 @@ jpSched = [
 		"title": "[Bond Gear] Midori, Renge, Hasumi, Wakamo (Swimsuit)<br>G: 2025-12-10 02:00 Wed ~ 2025-12-23 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-25 11:00 Wed ~ 2025-07-09 04:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
+		"content": "EOS",
+		"start": "2025-12-10T02:00",
+		"startJp": "2025-06-25T11:00",
+		"end": "2025-12-10T10:00",
+		"endJp": "2025-06-25T19:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"endG": "2025-12-10T10:00",
+		"startG": "2025-12-10T02:00",
+		"title": "EOS<br>G: 2025-12-10 02:00 Wed ~ 2025-12-10 10:00 Wed 1d (UTC y-m-d)<br>Jp: 2025-06-25 11:00 Wed ~ 2025-06-25 19:00 Wed 1d (JST y-m-d)",
+		"duration": 1
+	},{
 		"content": "[Mini Mini] SCHALE Settlement Task with General Student Council",
 		"start": "2025-11-05T02:00",
 		"startJp": "2025-05-21T11:00",
@@ -15678,7 +15691,7 @@ jpSched = [
 		"title": "[Mini Mini] SCHALE Settlement Task with General Student Council<br>G: 2025-11-05 02:00 Wed ~ 2025-11-19 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
-		"content": "[Main] 百ヨリ出ズル一輪ノ 〜いざ尋常に、水上勝負〜",
+		"content": "[Main] 百ヨリ出ズル一輪ノ～いざ尋常に、水上勝負～",
 		"start": "2025-12-10T02:00",
 		"startJp": "2025-06-25T11:00",
 		"end": "2025-12-24T02:00",
@@ -15688,7 +15701,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-12-24T02:00",
 		"startG": "2025-12-10T02:00",
-		"title": "[Main] 百ヨリ出ズル一輪ノ 〜いざ尋常に、水上勝負〜<br>G: 2025-12-10 02:00 Wed ~ 2025-12-24 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-06-25 11:00 Wed ~ 2025-07-09 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Main] 百ヨリ出ズル一輪ノ～いざ尋常に、水上勝負～<br>G: 2025-12-10 02:00 Wed ~ 2025-12-24 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-06-25 11:00 Wed ~ 2025-07-09 11:00 Wed 14d (JST y-m-d)",
 		"duration": 14
 	},{
 		"content": "2x Bounty",
