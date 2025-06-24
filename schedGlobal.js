@@ -1697,6 +1697,20 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:white; background-color:red "
   },{
+    "content": "[TA] Geburah Outdoors Red (Blue atk)",
+    "start": "2025-07-15T02:00:00.000Z",
+    "end": "2025-07-21T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:white; background-color:red "
+  },{
+    "content": "[JFD] Defense Blue Indoor. Enemies heal when they take dmg. Millennium and Abydos students buff.",
+    "start": "2025-07-22T02:00:00.000Z",
+    "end": "2025-07-28T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:white; background-color:blue "
+  },{
 //
 // CAMPAIGNS
 //
