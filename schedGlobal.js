@@ -1308,6 +1308,13 @@ confirmed = [
     "subgroup": "Mini",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[Main] Code: BOX - The Shadow Approaching Millennium",
+    "start": "2025-07-08T02:00:00.000Z",
+    "end": "2025-07-22T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Main",
+    "style": "color:black; background-color:yellow"
+  },{
 //
 // RAIDS
 //
@@ -2326,6 +2333,13 @@ confirmed = [
     "content": "<b>2x XP</b>",
     "start": "2025-06-20T19:00:00.000Z",
     "end": "2025-06-22T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Hard/Scrimm",
+    "start": "2025-06-30T19:00:00.000Z",
+    "end": "2025-07-07T19:00:00.000Z",
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
