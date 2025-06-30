@@ -2344,6 +2344,69 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "<b>3x Bounty/Lesson</b>",
+    "start": "2025-07-07T19:00:00.000Z",
+    "end": "2025-07-14T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-07-11T19:00:00.000Z",
+    "end": "2025-07-13T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Normal</b>",
+    "start": "2025-07-14T19:00:00.000Z",
+    "end": "2025-07-18T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Hard</b>",
+    "start": "2025-07-18T19:00:00.000Z",
+    "end": "2025-07-21T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-07-18T19:00:00.000Z",
+    "end": "2025-07-20T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Comm/Scrimm/Lesson</b>",
+    "start": "2025-07-21T19:00:00.000Z",
+    "end": "2025-07-28T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-07-25T19:00:00.000Z",
+    "end": "2025-07-27T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Bounty</b>",
+    "start": "2025-07-28T19:00:00.000Z",
+    "end": "2025-08-04T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Normal</b>",
+    "start": "2025-07-28T19:00:00.000Z",
+    "end": "2025-08-01T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 // MISC
 //
