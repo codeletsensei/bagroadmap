@@ -2871,5 +2871,19 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:yellow"
+  },{
+    "content": "New Raid Difficulty: Lunatic",
+    "start": "2025-07-15T02:00:00.000Z",
+    "end": "2025-07-21T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:pink"
+  },,{
+    "content": "Gook dub for V1 C1+2",
+    "start": "2025-07-15T02:00:00.000Z",
+    "end": "2025-07-22T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
   }
 ]
