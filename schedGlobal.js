@@ -948,6 +948,90 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Seia [L] (New)",
+    "start": "2025-07-08T02:00:00.000Z",
+    "end": "2025-07-15T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Asuna (School) [L] (New)",
+    "start": "2025-07-08T02:00:00.000Z",
+    "end": "2025-07-15T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "[Welfare] Karin (School)",
+    "start": "2025-07-08T02:00:00.000Z",
+    "end": "2025-07-15T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "[Bluefes] 2x 3* rate",
+    "start": "2025-07-15T02:00:00.000Z",
+    "end": "2025-07-22T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightblue "
+  },{
+    "content": "Rio [L Bluefes] (New)",
+    "start": "2025-07-15T02:00:00.000Z",
+    "end": "2025-07-22T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Neru (School) [L Bluefes] (New)",
+    "start": "2025-07-15T02:00:00.000Z",
+    "end": "2025-07-22T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Hanako (Swimsuit) [L Bluefes]",
+    "start": "2025-07-15T02:00:00.000Z",
+    "end": "2025-07-22T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Maki (Camp) (New)",
+    "start": "2025-07-22T02:00:00.000Z",
+    "end": "2025-08-05T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Hare (Camp)",
+    "start": "2025-07-22T02:00:00.000Z",
+    "end": "2025-08-05T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Kotama (Camp)",
+    "start": "2025-07-22T02:00:00.000Z",
+    "end": "2025-08-05T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Himari",
+    "start": "2025-07-22T02:00:00.000Z",
+    "end": "2025-08-05T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Eimi (Swimsuit)",
+    "start": "2025-07-22T02:00:00.000Z",
+    "end": "2025-08-05T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -1313,6 +1397,41 @@ confirmed = [
     "end": "2025-07-22T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Main",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Login] Millennium Expo Login Event",
+    "start": "2025-07-08T02:00:00.000Z",
+    "end": "2025-08-05T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Main",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Login] daily free recruitments campaign (total of 100 in 7 days)",
+    "start": "2025-07-08T02:00:00.000Z",
+    "end": "2025-07-15T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Main",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[R] Cyber New Year March",
+    "start": "2025-07-22T02:00:00.000Z",
+    "end": "2025-08-05T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini] Valentine's Day Promise",
+    "start": "2025-07-22T02:00:00.000Z",
+    "end": "2025-08-05T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini] Special Investigation: The Tree of Sephiroth (end date tbc)",
+    "start": "2025-07-22T02:00:00.000Z",
+    "end": "2025-08-05T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
 //
@@ -2738,5 +2857,19 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Main Story] Vol.EX Decagrammaton C2 P2",
+    "start": "2025-07-22T02:00:00.000Z",
+    "end": "2025-08-05T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini Story] Record of a February 19th (Hina + Kisaki)",
+    "start": "2025-07-29T02:00:00.000Z",
+    "end": "2025-08-12T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
   }
 ]
