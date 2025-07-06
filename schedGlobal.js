@@ -210,6 +210,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
   },{
+    "content": "EOS",
+    "start": "2025-07-08T02:00:00.000Z",
+    "end": "2025-07-08T07:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 // GASHA
 //
