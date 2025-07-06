@@ -2894,3 +2894,21 @@ confirmed = [
     "style": "color:black; background-color:lightblue"
   }
 ]
+
+// get the time when any future maintenance ends
+let maintTimes = confirmed.map(i=>{
+  if (i.group.includes("Maint")) {
+    let endTime = Date.parse(i.end)
+    if ( endTime > Date.now() ) return { "start": i.start, "end": i.end }  
+  }
+}).filter(i=>{return i})
+
+// to make any content starting during maintenence to start after maintenance.
+confirmed.forEach(i=>{
+  if (!i.group.includes("Maint")) {
+    let startTime = Date.parse(i.start)
+    maintTimes.forEach(maint=>{
+      if (startTime >= Date.parse(maint.start) && startTime < Date.parse(maint.end)) i.start = maint.end
+    })
+  }
+})
