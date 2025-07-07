@@ -1830,6 +1830,13 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:white; background-color:red "
   },{
+    "content": "[LBA] S11 The Fury of Set Blue (Red atk)",
+    "start": "2025-07-09T02:00:00.000Z",
+    "end": "2025-08-04T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "LBA",
+    "style": "color:white; background-color:blue "
+  },{
     "content": "[TA] Geburah Outdoors Red (Blue atk)",
     "start": "2025-07-15T02:00:00.000Z",
     "end": "2025-07-21T19:00:00.000Z",
@@ -2529,6 +2536,20 @@ confirmed = [
     "content": "<b>3x Normal</b>",
     "start": "2025-07-28T19:00:00.000Z",
     "end": "2025-08-01T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Hard</b>",
+    "start": "2025-08-01T19:00:00.000Z",
+    "end": "2025-08-04T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-08-01T19:00:00.000Z",
+    "end": "2025-08-03T19:00:00.000Z",
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
