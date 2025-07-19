@@ -16250,7 +16250,7 @@ jpSched = [
 		"title": "[QoL] SPECIAL DANGLES<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[QoL] T6 Drop rate buff",
+		"content": "[QoL] T2~T6 Drop rate buff",
 		"start": "2026-01-07T02:00",
 		"startJp": "2025-07-22T11:00",
 		"end": "2026-01-22T02:00",
@@ -16260,7 +16260,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-01-22T02:00",
 		"startG": "2026-01-07T02:00",
-		"title": "[QoL] T6 Drop rate buff<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"title": "[QoL] T2~T6 Drop rate buff<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
 		"content": "[QoL] Eligma drop buff when rolling",
@@ -16276,7 +16276,7 @@ jpSched = [
 		"title": "[QoL] Eligma drop buff when rolling<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[QoL] UE4 unlock",
+		"content": "[QoL] UE4 unlock. 2500 free ligma.",
 		"start": "2026-01-07T02:00",
 		"startJp": "2025-07-22T11:00",
 		"end": "2026-01-22T02:00",
@@ -16286,10 +16286,10 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-01-22T02:00",
 		"startG": "2026-01-07T02:00",
-		"title": "[QoL] UE4 unlock<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"title": "[QoL] UE4 unlock. 2500 free ligma.<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[QoL] Archival Recruitment",
+		"content": "[QoL] Banner Archive. Selectable students: Farmables + Ako + Shun + Cherino + Nodoka (Onsen). They can't spook you on other banners",
 		"start": "2026-01-07T02:00",
 		"startJp": "2025-07-22T11:00",
 		"end": "2026-01-22T02:00",
@@ -16299,10 +16299,10 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-01-22T02:00",
 		"startG": "2026-01-07T02:00",
-		"title": "[QoL] Archival Recruitment<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"title": "[QoL] Banner Archive. Selectable students: Farmables + Ako + Shun + Cherino + Nodoka (Onsen). They can't spook you on other banners<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[QoL?] Battlepass",
+		"content": "[Shop] \"Battlepass\"",
 		"start": "2026-01-07T02:00",
 		"startJp": "2025-07-22T11:00",
 		"end": "2026-02-05T02:00",
@@ -16312,7 +16312,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-02-05T02:00",
 		"startG": "2026-01-07T02:00",
-		"title": "[QoL?] Battlepass<br>G: 2026-01-07 02:00 Wed ~ 2026-02-05 02:00 Thu 29d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-20 11:00 Wed 29d (JST y-m-d)",
+		"title": "[Shop] \"Battlepass\"<br>G: 2026-01-07 02:00 Wed ~ 2026-02-05 02:00 Thu 29d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-20 11:00 Wed 29d (JST y-m-d)",
 		"duration": "29d"
 	},{
 		"content": "[Shop] Pyroxene/Whale Shop",
