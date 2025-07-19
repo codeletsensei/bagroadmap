@@ -16263,7 +16263,7 @@ jpSched = [
 		"title": "[QoL] T2~T6 Drop rate buff<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[QoL] Eligma drop buff when rolling",
+		"content": "[QoL] Eleph drop buff when rolling",
 		"start": "2026-01-07T02:00",
 		"startJp": "2025-07-22T11:00",
 		"end": "2026-01-22T02:00",
@@ -16273,7 +16273,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-01-22T02:00",
 		"startG": "2026-01-07T02:00",
-		"title": "[QoL] Eligma drop buff when rolling<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"title": "[QoL] Eleph drop buff when rolling<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
 		"content": "[QoL] UE4 unlock. 2500 free ligma.",
