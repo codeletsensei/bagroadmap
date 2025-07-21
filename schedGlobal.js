@@ -1858,6 +1858,13 @@ confirmed = [
     "subgroup": "JFD",
     "style": "color:white; background-color:blue "
   },{
+    "content": "[GA] Gregorius Indoor Red (Blue atk)",
+    "start": "2025-07-29T02:00:00.000Z",
+    "end": "2025-08-04T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:white; background-color:red "
+  },{
 //
 // CAMPAIGNS
 //
@@ -2920,6 +2927,20 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Mission] Area 28 (Misaki + Cafe2 Lv10 + T10)",
+    "start": "2025-07-22T02:00:00.000Z",
+    "end": "2025-08-05T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[GA Shop] Kaede, blue, on shop reset",
+    "start": "2025-07-31T19:00:00.000Z",
+    "end": "2025-08-07T02:19:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
   }
 ]
 

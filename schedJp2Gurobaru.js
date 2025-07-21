@@ -1470,8 +1470,8 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "[Login] 4.5 Anniversary Login Bonus",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-02-05T01:59",
 		"endJp": "2025-08-20T10:59",
 		"group": "J Event",
@@ -1483,8 +1483,8 @@ jpSched = [
 		"duration": "29d"
 	},{
 		"content": "[Login] 10 free recruitments daily campaign",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-15T01:59",
 		"endJp": "2025-07-30T10:59",
 		"group": "J Event",
@@ -13040,8 +13040,8 @@ jpSched = [
 		"duration": "13d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hasumi_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Hasumi (Swimsuit) (page does not exist)\">Hasumi (Swimsuit)</a> [L] (New)",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-15T01:59",
 		"endJp": "2025-07-30T10:59",
 		"group": "J Gacha",
@@ -13053,8 +13053,8 @@ jpSched = [
 		"duration": "8d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Seia_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Seia (Swimsuit) (page does not exist)\">Seia (Swimsuit)</a> [L] (New)",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-15T01:59",
 		"endJp": "2025-07-30T10:59",
 		"group": "J Gacha",
@@ -15990,7 +15990,7 @@ jpSched = [
 		"title": "EOS<br>G: 2025-12-25 02:00 Thu ~ 2025-12-25 08:00 Thu 6h (UTC y-m-d)<br>Jp: 2025-07-09 11:00 Wed ~ 2025-07-09 17:00 Wed 6h (JST y-m-d)",
 		"duration": "6h"
 	},{
-		"content": "[Mini Mini] SCHALE Settlement Task with General Student Council",
+		"content": "[Mini] SCHALE Settlement Task with General Student Council",
 		"start": "2025-12-25T08:00",
 		"startJp": "2025-07-09T17:00",
 		"end": "2026-01-07T02:00",
@@ -16000,7 +16000,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-01-07T02:00",
 		"startG": "2025-12-25T02:00",
-		"title": "[Mini Mini] SCHALE Settlement Task with General Student Council<br>G: 2025-12-25 02:00 Thu ~ 2026-01-07 02:00 Wed 13d (UTC y-m-d)<br>Jp: 2025-07-09 11:00 Wed ~ 2025-07-22 11:00 Tue 13d (JST y-m-d)",
+		"title": "[Mini] SCHALE Settlement Task with General Student Council<br>G: 2025-12-25 02:00 Thu ~ 2026-01-07 02:00 Wed 13d (UTC y-m-d)<br>Jp: 2025-07-09 11:00 Wed ~ 2025-07-22 11:00 Tue 13d (JST y-m-d)",
 		"duration": "13d"
 	},{
 		"content": "<b>2x XP</b>",
@@ -16029,9 +16029,22 @@ jpSched = [
 		"title": "<b>2x XP</b><br>G: 2025-12-20 19:00 Sat ~ 2025-12-22 19:00 Mon 2d (UTC y-m-d)<br>Jp: 2025-07-05 04:00 Sat ~ 2025-07-07 04:00 Mon 2d (JST y-m-d)",
 		"duration": "2d"
 	},{
-		"content": "[Main] Summer Sky Promise",
+		"content": "EOS",
 		"start": "2026-01-07T02:00",
 		"startJp": "2025-07-22T11:00",
+		"end": "2026-01-07T10:00",
+		"endJp": "2025-07-22T19:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"endG": "2026-01-07T10:00",
+		"startG": "2026-01-07T02:00",
+		"title": "EOS<br>G: 2026-01-07 02:00 Wed ~ 2026-01-07 10:00 Wed 8h (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-07-22 19:00 Tue 8h (JST y-m-d)",
+		"duration": "8h"
+	},{
+		"content": "[Main] Summer Sky Promise",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-22T02:00",
 		"endJp": "2025-08-06T11:00",
 		"group": "J Event",
@@ -16043,8 +16056,8 @@ jpSched = [
 		"duration": "15d"
 	},{
 		"content": "[Welfare] Ichika (Swimsuit) (New)",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-15T02:00",
 		"endJp": "2025-07-30T11:00",
 		"group": "J Gacha",
@@ -16238,8 +16251,8 @@ jpSched = [
 		"duration": "2d"
 	},{
 		"content": "[QoL] SPECIAL DANGLES",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-22T02:00",
 		"endJp": "2025-08-06T11:00",
 		"group": "J Other",
@@ -16251,8 +16264,8 @@ jpSched = [
 		"duration": "15d"
 	},{
 		"content": "[QoL] T2~T6 Drop rate buff",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-22T02:00",
 		"endJp": "2025-08-06T11:00",
 		"group": "J Other",
@@ -16264,8 +16277,8 @@ jpSched = [
 		"duration": "15d"
 	},{
 		"content": "[QoL] Eleph drop buff when rolling",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-22T02:00",
 		"endJp": "2025-08-06T11:00",
 		"group": "J Other",
@@ -16276,9 +16289,9 @@ jpSched = [
 		"title": "[QoL] Eleph drop buff when rolling<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[QoL] UE4 unlock. 2500 free ligma.",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"content": "[QoL] UE4 unlock. 2500 free ligma",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-22T02:00",
 		"endJp": "2025-08-06T11:00",
 		"group": "J Other",
@@ -16286,12 +16299,12 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-01-22T02:00",
 		"startG": "2026-01-07T02:00",
-		"title": "[QoL] UE4 unlock. 2500 free ligma.<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"title": "[QoL] UE4 unlock. 2500 free ligma<br>G: 2026-01-07 02:00 Wed ~ 2026-01-22 02:00 Thu 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
 		"content": "[QoL] Banner Archive. Selectable students: Year 1 students. They can't spook you on other banners",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-22T02:00",
 		"endJp": "2025-08-06T11:00",
 		"group": "J Other",
@@ -16303,8 +16316,8 @@ jpSched = [
 		"duration": "15d"
 	},{
 		"content": "[Shop] \"Battlepass\"",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-02-05T02:00",
 		"endJp": "2025-08-20T11:00",
 		"group": "J Other",
@@ -16316,8 +16329,8 @@ jpSched = [
 		"duration": "29d"
 	},{
 		"content": "[Shop] Pyroxene/Whale Shop",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-22T02:00",
 		"endJp": "2025-08-06T11:00",
 		"group": "J Other",
@@ -16342,8 +16355,8 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "[Guide Mission] Omotenashi Teatime (Permanent)",
-		"start": "2026-01-07T02:00",
-		"startJp": "2025-07-22T11:00",
+		"start": "2026-01-07T10:00",
+		"startJp": "2025-07-22T19:00",
 		"end": "2026-02-05T02:00",
 		"endJp": "2025-08-20T11:00",
 		"group": "J Other",
@@ -16353,5 +16366,44 @@ jpSched = [
 		"startG": "2026-01-07T02:00",
 		"title": "[Guide Mission] Omotenashi Teatime (Permanent)<br>G: 2026-01-07 02:00 Wed ~ 2026-02-05 02:00 Thu 29d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-20 11:00 Wed 29d (JST y-m-d)",
 		"duration": "29d"
+	},{
+		"content": "[JFD Shop] Nodoka (Onsen), on shop reset",
+		"start": "2026-01-16T19:00",
+		"startJp": "2025-08-01T04:00",
+		"end": "2026-01-30T19:00",
+		"endJp": "2025-08-15T04:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-01-30T19:00",
+		"startG": "2026-01-16T19:00",
+		"title": "[JFD Shop] Nodoka (Onsen), on shop reset<br>G: 2026-01-16 19:00 Fri ~ 2026-01-30 19:00 Fri 14d (UTC y-m-d)<br>Jp: 2025-08-01 04:00 Fri ~ 2025-08-15 04:00 Fri 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Permit Shop] Elephs: Seia, Asuna (Uniform), Miyu (Swimsuit), on shop reset",
+		"start": "2026-01-16T19:00",
+		"startJp": "2025-08-01T04:00",
+		"end": "2026-01-30T19:00",
+		"endJp": "2025-08-15T04:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-01-30T19:00",
+		"startG": "2026-01-16T19:00",
+		"title": "[Permit Shop] Elephs: Seia, Asuna (Uniform), Miyu (Swimsuit), on shop reset<br>G: 2026-01-16 19:00 Fri ~ 2026-01-30 19:00 Fri 14d (UTC y-m-d)<br>Jp: 2025-08-01 04:00 Fri ~ 2025-08-15 04:00 Fri 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[QoL] Newfag Sensei XP adjustment (up to lvl 70)",
+		"start": "2026-01-16T19:00",
+		"startJp": "2025-08-01T04:00",
+		"end": "2026-01-30T19:00",
+		"endJp": "2025-08-15T04:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-01-30T19:00",
+		"startG": "2026-01-16T19:00",
+		"title": "[QoL] Newfag Sensei XP adjustment (up to lvl 70)<br>G: 2026-01-16 19:00 Fri ~ 2026-01-30 19:00 Fri 14d (UTC y-m-d)<br>Jp: 2025-08-01 04:00 Fri ~ 2025-08-15 04:00 Fri 14d (JST y-m-d)",
+		"duration": "14d"
 	}
 ]
