@@ -1858,12 +1858,26 @@ confirmed = [
     "subgroup": "JFD",
     "style": "color:white; background-color:blue "
   },{
-    "content": "[GA] Gregorius Indoor Red (Blue atk)",
+    "content": "[GA] Gregorius Indoor (Blue Tor + Red/Yellow) (Blue atk)",
     "start": "2025-07-29T02:00:00.000Z",
     "end": "2025-08-04T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "GA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:blue "
+  },{
+    "content": "[TA] Kurokage Urban Purple (Blue atk)",
+    "start": "2025-08-05T02:00:00.000Z",
+    "end": "2025-08-11T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:white; background-color:purple "
+  },{
+    "content": "[JFD] Escort Blue Field. EX costing <=2 deal dmg to AG. ATK buff based on AG's HP.",
+    "start": "2025-08-12T02:00:00.000Z",
+    "end": "2025-08-18T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:white; background-color:blue "
   },{
 //
 // CAMPAIGNS
