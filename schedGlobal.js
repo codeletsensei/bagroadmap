@@ -1441,9 +1441,9 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[Mini] Special Investigation: The Tree of Sephiroth (end date tbc)",
+    "content": "[Mini] Special Investigation: The Tree of Sephiroth",
     "start": "2025-07-22T02:00:00.000Z",
-    "end": "2025-08-05T02:00:00.000Z",
+    "end": "2025-07-29T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
