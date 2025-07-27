@@ -16374,7 +16374,7 @@ jpSched = [
 		"endJp": "2025-08-20T11:00",
 		"group": "J Other",
 		"subgroup": "Other",
-		"style": "color:black;background-color:lightblue",
+		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-01-27T02:00",
 		"startG": "2026-01-13T02:00",
 		"title": "[Mission] Area 29 (Hinata)<br>G: 2026-01-13 02:00 Tue ~ 2026-01-27 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-20 11:00 Wed 14d (JST y-m-d)",
