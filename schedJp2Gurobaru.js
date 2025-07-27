@@ -16367,7 +16367,7 @@ jpSched = [
 		"title": "[QoL] Daily 10-AP free pakeji<br>G: 2025-12-29 02:00 Mon ~ 2026-01-13 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[Mission] Area 29",
+		"content": "[Mission] Area 29 (Hinata)",
 		"start": "2026-01-13T02:00",
 		"startJp": "2025-08-06T11:00",
 		"end": "2026-01-27T02:00",
@@ -16377,7 +16377,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-01-27T02:00",
 		"startG": "2026-01-13T02:00",
-		"title": "[Mission] Area 29<br>G: 2026-01-13 02:00 Tue ~ 2026-01-27 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-20 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Mission] Area 29 (Hinata)<br>G: 2026-01-13 02:00 Tue ~ 2026-01-27 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-20 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Guide Mission] Omotenashi Teatime (Permanent)",
