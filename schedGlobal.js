@@ -224,6 +224,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
   },{
+    "content": "EOS",
+    "start": "2025-08-05T02:00:00.000Z",
+    "end": "2025-08-05T07:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 // GASHA
 //
@@ -1046,6 +1053,20 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Juri (Part-Timer)",
+    "start": "2025-08-05T02:00:00.000Z",
+    "end": "2025-08-19T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Sena (Casual)",
+    "start": "2025-08-05T02:00:00.000Z",
+    "end": "2025-08-19T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -1444,6 +1465,13 @@ confirmed = [
     "content": "[Mini] Special Investigation: The Tree of Sephiroth",
     "start": "2025-07-22T02:00:00.000Z",
     "end": "2025-07-29T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] Pandemic Hazard: Miraculous Pancake",
+    "start": "2025-08-05T02:00:00.000Z",
+    "end": "2025-08-19T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
@@ -2578,6 +2606,55 @@ confirmed = [
     "content": "<b>2x XP</b>",
     "start": "2025-08-01T19:00:00.000Z",
     "end": "2025-08-03T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Normal/Lessons",
+    "start": "2025-08-04T19:00:00.000Z",
+    "end": "2025-08-11T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Comms",
+    "start": "2025-08-11T19:00:00.000Z",
+    "end": "2025-08-18T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Hard/Scrimm",
+    "start": "2025-08-18T19:00:00.000Z",
+    "end": "2025-08-25T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Bounty",
+    "start": "2025-08-25T19:00:00.000Z",
+    "end": "2025-09-01T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-08-08T19:00:00.000Z",
+    "end": "2025-08-10T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-08-15T19:00:00.000Z",
+    "end": "2025-08-17T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-08-29T19:00:00.000Z",
+    "end": "2025-08-31T19:00:00.000Z",
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
