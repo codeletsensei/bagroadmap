@@ -1476,6 +1476,13 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[Mini] Balancing Schale's Books with the General Student Council",
+    "start": "2025-08-12T02:00:00.000Z",
+    "end": "2025-08-26T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
 //
 // RAIDS
 //
@@ -1891,6 +1898,13 @@ confirmed = [
     "end": "2025-08-04T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "GA",
+    "style": "color:white; background-color:blue "
+  },{
+    "content": "[LBA] S12 Chokmah Blue (Blue atk)",
+    "start": "2025-08-06T02:00:00.000Z",
+    "end": "2025-08-25T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
     "content": "[TA] Kurokage Urban Purple (Blue atk)",
