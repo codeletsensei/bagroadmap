@@ -16484,6 +16484,19 @@ jpSched = [
 		"title": "[Welfare] Ichika (Swimsuit)<br>G: 2025-12-29 02:00 Mon ~ 2026-01-06 02:00 Tue 8d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-07-30 11:00 Wed 8d (JST y-m-d)",
 		"duration": "8d"
 	},{
+		"content": "EOS",
+		"start": "2026-01-13T02:00",
+		"startJp": "2025-08-06T11:00",
+		"end": "2026-01-13T08:00",
+		"endJp": "2025-08-06T17:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"endG": "2026-01-13T08:00",
+		"startG": "2026-01-13T02:00",
+		"title": "EOS<br>G: 2026-01-13 02:00 Tue ~ 2026-01-13 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-06 17:00 Wed 6h (JST y-m-d)",
+		"duration": "6h"
+	},{
 		"content": "[Welfare] Kirino (Swimsuit)",
 		"start": "2026-01-13T08:00",
 		"startJp": "2025-08-06T17:00",
@@ -16497,18 +16510,18 @@ jpSched = [
 		"title": "[Welfare] Kirino (Swimsuit)<br>G: 2026-01-13 02:00 Tue ~ 2026-01-20 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "EOS",
-		"start": "2026-01-13T02:00",
-		"startJp": "2025-08-06T11:00",
-		"end": "2026-01-13T08:00",
-		"endJp": "2025-08-06T17:00",
-		"group": "J Maint",
-		"subgroup": "",
-		"style": "color:red;background-color:red;height:15px",
-		"endG": "2026-01-13T08:00",
+		"content": "Bing!",
+		"start": "2026-01-13T08:00",
+		"startJp": "2025-08-06T17:00",
+		"end": "2026-01-20T02:00",
+		"endJp": "2025-08-13T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-01-20T02:00",
 		"startG": "2026-01-13T02:00",
-		"title": "EOS<br>G: 2026-01-13 02:00 Tue ~ 2026-01-13 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-06 17:00 Wed 6h (JST y-m-d)",
-		"duration": "6h"
+		"title": "Bing!<br>G: 2026-01-13 02:00 Tue ~ 2026-01-20 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	},{
 		"content": "Fubuki (Swimsuit)",
 		"start": "2026-01-13T08:00",
