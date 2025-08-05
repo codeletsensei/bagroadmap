@@ -1040,6 +1040,32 @@ jpSched = [
 		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/A_Flower_Blooms_Among_The_Hundred_%EF%BD%9E_Honorable_Sea_Showdown_%EF%BD%9E\" title=\"A Flower Blooms Among The Hundred ～ Honorable Sea Showdown ～\">A Flower Blooms Among The Hundred ～ Honorable Sea Showdown ～</a><br>G: 2025-12-02 02:00 Tue ~ 2025-12-16 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-06-25 11:00 Wed ~ 2025-07-09 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Sky%27s_Promise\" title=\"Summer Sky's Promise\">Summer Sky's Promise</a>",
+		"start": "2025-12-29T10:00",
+		"startJp": "2025-07-22T19:00",
+		"end": "2026-01-13T02:00",
+		"endJp": "2025-08-06T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-01-13T02:00",
+		"startG": "2025-12-29T02:00",
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Summer_Sky%27s_Promise\" title=\"Summer Sky's Promise\">Summer Sky's Promise</a><br>G: 2025-12-29 02:00 Mon ~ 2026-01-13 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"duration": "15d"
+	},{
+		"content": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Say-Bing!/Rerun\" title=\"Say-Bing!/Rerun\">Say-Bing!</a>",
+		"start": "2026-01-13T08:00",
+		"startJp": "2025-08-06T17:00",
+		"end": "2026-01-20T02:00",
+		"endJp": "2025-08-13T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-01-20T02:00",
+		"startG": "2026-01-13T02:00",
+		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Say-Bing!/Rerun\" title=\"Say-Bing!/Rerun\">Say-Bing!</a><br>G: 2026-01-13 02:00 Tue ~ 2026-01-20 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
 		"start": "2023-11-14T08:00",
 		"startJp": "2023-06-07T17:00",
@@ -1247,6 +1273,32 @@ jpSched = [
 		"startG": "2025-10-14T02:00",
 		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/The_Tree_of_Sephiroth\" title=\"The Tree of Sephiroth\">Special Investigation: The Tree of Sephiroth</a><br>G: 2025-10-14 02:00 Tue ~ 2025-10-21 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
+	},{
+		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
+		"start": "2025-10-28T10:00",
+		"startJp": "2025-05-21T19:00",
+		"end": "2025-11-11T01:59",
+		"endJp": "2025-06-04T10:59",
+		"group": "J Event",
+		"subgroup": "Mini",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-11-11T01:59",
+		"startG": "2025-10-28T02:00",
+		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
+		"start": "2025-12-16T08:00",
+		"startJp": "2025-07-09T17:00",
+		"end": "2025-12-29T01:59",
+		"endJp": "2025-07-22T10:59",
+		"group": "J Event",
+		"subgroup": "Mini",
+		"style": "color:black;background-color:yellow",
+		"endG": "2025-12-29T01:59",
+		"startG": "2025-12-16T02:00",
+		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2025-12-16 02:00 Tue ~ 2025-12-29 01:59 Mon 13d (UTC y-m-d)<br>Jp: 2025-07-09 11:00 Wed ~ 2025-07-22 10:59 Tue 13d (JST y-m-d)",
+		"duration": "13d"
 	},{
 		"content": "[Login] 1st Anniversary Login Bonus",
 		"start": "2022-07-05T14:00",
@@ -1689,6 +1741,19 @@ jpSched = [
 		"startG": "2025-10-28T02:00",
 		"title": "[GM] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Waraku_Festival_Special_Campaign!\" title=\"Waraku Festival Special Campaign!\">Waraku Festival Special Campaign!</a><br>G: 2025-10-28 02:00 Tue ~ 2025-12-02 02:00 Tue 35d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-25 11:00 Wed 35d (JST y-m-d)",
 		"duration": "35d"
+	},{
+		"content": "[GM] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hospitality_Tea_Time\" title=\"Hospitality Tea Time\">Hospitality Tea Time</a>",
+		"start": "2025-12-29T10:00",
+		"startJp": "2025-07-22T19:00",
+		"end": "2026-01-27T02:00",
+		"endJp": "2025-08-20T11:00",
+		"group": "J Event",
+		"subgroup": "GM",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-01-27T02:00",
+		"startG": "2025-12-29T02:00",
+		"title": "[GM] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hospitality_Tea_Time\" title=\"Hospitality Tea Time\">Hospitality Tea Time</a><br>G: 2025-12-29 02:00 Mon ~ 2026-01-27 02:00 Tue 29d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-20 11:00 Wed 29d (JST y-m-d)",
+		"duration": "29d"
 	},{
 		"content": "<b>3x Comm </b>",
 		"start": "2022-07-25T19:00",
@@ -6709,8 +6774,8 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "[JFD] Assault Indoors Blue",
-		"start": "2026-01-13T02:00",
-		"startJp": "2025-08-06T11:00",
+		"start": "2026-01-13T08:00",
+		"startJp": "2025-08-06T17:00",
 		"end": "2026-01-19T18:59",
 		"endJp": "2025-08-13T03:59",
 		"group": "J Raid",
@@ -13260,7 +13325,7 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hasumi_(Swimsuit)\" title=\"Hasumi (Swimsuit)\">Hasumi (Swimsuit)</a> [L] (New)<br>G: 2025-12-29 02:00 Mon ~ 2026-01-06 01:59 Tue 8d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-07-30 10:59 Wed 8d (JST y-m-d)",
 		"duration": "8d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagisa_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Nagisa (Swimsuit) (page does not exist)\">Nagisa (Swimsuit)</a> [L Bluefes]",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagisa_(Swimsuit)\" title=\"Nagisa (Swimsuit)\">Nagisa (Swimsuit)</a> [L Bluefes]",
 		"start": "2026-01-06T02:00",
 		"startJp": "2025-07-30T11:00",
 		"end": "2026-01-13T01:59",
@@ -13270,10 +13335,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-01-13T01:59",
 		"startG": "2026-01-06T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagisa_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Nagisa (Swimsuit) (page does not exist)\">Nagisa (Swimsuit)</a> [L Bluefes]<br>G: 2026-01-06 02:00 Tue ~ 2026-01-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-07-30 11:00 Wed ~ 2025-08-06 10:59 Wed 7d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nagisa_(Swimsuit)\" title=\"Nagisa (Swimsuit)\">Nagisa (Swimsuit)</a> [L Bluefes]<br>G: 2026-01-06 02:00 Tue ~ 2026-01-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-07-30 11:00 Wed ~ 2025-08-06 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mika_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Mika (Swimsuit) (page does not exist)\">Mika (Swimsuit)</a> [L Bluefes]",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mika_(Swimsuit)\" title=\"Mika (Swimsuit)\">Mika (Swimsuit)</a> [L Bluefes]",
 		"start": "2026-01-06T02:00",
 		"startJp": "2025-07-30T11:00",
 		"end": "2026-01-13T01:59",
@@ -13283,7 +13348,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-01-13T01:59",
 		"startG": "2026-01-06T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mika_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Mika (Swimsuit) (page does not exist)\">Mika (Swimsuit)</a> [L Bluefes]<br>G: 2026-01-06 02:00 Tue ~ 2026-01-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-07-30 11:00 Wed ~ 2025-08-06 10:59 Wed 7d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mika_(Swimsuit)\" title=\"Mika (Swimsuit)\">Mika (Swimsuit)</a> [L Bluefes]<br>G: 2026-01-06 02:00 Tue ~ 2026-01-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-07-30 11:00 Wed ~ 2025-08-06 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Dress)\" title=\"Hina (Dress)\">Hina (Dress)</a> [L Bluefes]",
@@ -16133,19 +16198,6 @@ jpSched = [
 		"title": "EOS<br>G: 2025-12-02 02:00 Tue ~ 2025-12-02 10:00 Tue 8h (UTC y-m-d)<br>Jp: 2025-06-25 11:00 Wed ~ 2025-06-25 19:00 Wed 8h (JST y-m-d)",
 		"duration": "8h"
 	},{
-		"content": "[Mini Mini] SCHALE Settlement Task with General Student Council",
-		"start": "2025-10-28T10:00",
-		"startJp": "2025-05-21T19:00",
-		"end": "2025-11-11T02:00",
-		"endJp": "2025-06-04T11:00",
-		"group": "J Event",
-		"subgroup": "Mini",
-		"style": "color:black;background-color:yellow",
-		"endG": "2025-11-11T02:00",
-		"startG": "2025-10-28T02:00",
-		"title": "[Mini Mini] SCHALE Settlement Task with General Student Council<br>G: 2025-10-28 02:00 Tue ~ 2025-11-11 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-05-21 11:00 Wed ~ 2025-06-04 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
 		"content": "[Perm] Summer Special Operation! RABBIT Squad and the Mystery of the Missing Shrimp",
 		"start": "2025-12-16T08:00",
 		"startJp": "2025-07-09T17:00",
@@ -16184,19 +16236,6 @@ jpSched = [
 		"startG": "2025-12-16T02:00",
 		"title": "EOS<br>G: 2025-12-16 02:00 Tue ~ 2025-12-16 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2025-07-09 11:00 Wed ~ 2025-07-09 17:00 Wed 6h (JST y-m-d)",
 		"duration": "6h"
-	},{
-		"content": "[Mini] SCHALE Settlement Task with General Student Council",
-		"start": "2025-12-16T08:00",
-		"startJp": "2025-07-09T17:00",
-		"end": "2025-12-29T02:00",
-		"endJp": "2025-07-22T11:00",
-		"group": "J Event",
-		"subgroup": "Mini",
-		"style": "color:black;background-color:yellow",
-		"endG": "2025-12-29T02:00",
-		"startG": "2025-12-16T02:00",
-		"title": "[Mini] SCHALE Settlement Task with General Student Council<br>G: 2025-12-16 02:00 Tue ~ 2025-12-29 02:00 Mon 13d (UTC y-m-d)<br>Jp: 2025-07-09 11:00 Wed ~ 2025-07-22 11:00 Tue 13d (JST y-m-d)",
-		"duration": "13d"
 	},{
 		"content": "<b>2x XP</b>",
 		"start": "2025-12-04T19:00",
@@ -16276,7 +16315,7 @@ jpSched = [
 		"title": "[QoL] T2~T6 Drop rate buff<br>G: 2025-12-29 02:00 Mon ~ 2026-01-13 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[QoL] Extra 100 Elephs when getting the banner student for the 1st time.",
+		"content": "[QoL] Extra 100 Elephs when getting the banner student for the 1st time, on that run",
 		"start": "2025-12-29T10:00",
 		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-13T02:00",
@@ -16286,7 +16325,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-01-13T02:00",
 		"startG": "2025-12-29T02:00",
-		"title": "[QoL] Extra 100 Elephs when getting the banner student for the 1st time.<br>G: 2025-12-29 02:00 Mon ~ 2026-01-13 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"title": "[QoL] Extra 100 Elephs when getting the banner student for the 1st time, on that run<br>G: 2025-12-29 02:00 Mon ~ 2026-01-13 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
 		"content": "[QoL] UE4 unlock. 2500 free ligma",
@@ -16368,8 +16407,8 @@ jpSched = [
 		"duration": "15d"
 	},{
 		"content": "[Mission] Area 29 (Hinata)",
-		"start": "2026-01-13T02:00",
-		"startJp": "2025-08-06T11:00",
+		"start": "2026-01-13T08:00",
+		"startJp": "2025-08-06T17:00",
 		"end": "2026-01-27T02:00",
 		"endJp": "2025-08-20T11:00",
 		"group": "J Other",
@@ -16419,20 +16458,20 @@ jpSched = [
 		"title": "[Permit Shop] Elephs: Seia, Asuna (Uniform), Miyu (Swimsuit)<br>G: 2026-01-07 19:00 Wed ~ 2026-01-21 19:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-08-01 04:00 Fri ~ 2025-08-15 04:00 Fri 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Main] Summer Sky Promise",
-		"start": "2025-12-29T10:00",
-		"startJp": "2025-07-22T19:00",
-		"end": "2026-01-13T02:00",
-		"endJp": "2025-08-06T11:00",
-		"group": "J Event",
-		"subgroup": "Main",
+		"content": "[Group Story] Tea Party",
+		"start": "2026-01-20T02:00",
+		"startJp": "2025-08-13T11:00",
+		"end": "2026-02-03T02:00",
+		"endJp": "2025-08-27T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
 		"style": "color:black;background-color:yellow",
-		"endG": "2026-01-13T02:00",
-		"startG": "2025-12-29T02:00",
-		"title": "[Main] Summer Sky Promise<br>G: 2025-12-29 02:00 Mon ~ 2026-01-13 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
-		"duration": "15d"
+		"endG": "2026-02-03T02:00",
+		"startG": "2026-01-20T02:00",
+		"title": "[Group Story] Tea Party<br>G: 2026-01-20 02:00 Tue ~ 2026-02-03 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-08-13 11:00 Wed ~ 2025-08-27 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
 	},{
-		"content": "[Welfare] Ichika (Swimsuit) (New)",
+		"content": "[Welfare] Ichika (Swimsuit)",
 		"start": "2025-12-29T10:00",
 		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-06T02:00",
@@ -16442,38 +16481,12 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-01-06T02:00",
 		"startG": "2025-12-29T02:00",
-		"title": "[Welfare] Ichika (Swimsuit) (New)<br>G: 2025-12-29 02:00 Mon ~ 2026-01-06 02:00 Tue 8d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-07-30 11:00 Wed 8d (JST y-m-d)",
+		"title": "[Welfare] Ichika (Swimsuit)<br>G: 2025-12-29 02:00 Mon ~ 2026-01-06 02:00 Tue 8d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-07-30 11:00 Wed 8d (JST y-m-d)",
 		"duration": "8d"
 	},{
-		"content": "[R] Say-Bing!",
-		"start": "2026-01-13T02:00",
-		"startJp": "2025-08-06T11:00",
-		"end": "2026-01-20T02:00",
-		"endJp": "2025-08-13T11:00",
-		"group": "J Event",
-		"subgroup": "",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-01-20T02:00",
-		"startG": "2026-01-13T02:00",
-		"title": "[R] Say-Bing!<br>G: 2026-01-13 02:00 Tue ~ 2026-01-20 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 11:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "Bing!",
-		"start": "2026-01-13T02:00",
-		"startJp": "2025-08-06T11:00",
-		"end": "2026-01-20T02:00",
-		"endJp": "2025-08-13T11:00",
-		"group": "J Other",
-		"subgroup": "Other",
-		"style": "color:black;background-color:lightblue",
-		"endG": "2026-01-20T02:00",
-		"startG": "2026-01-13T02:00",
-		"title": "Bing!<br>G: 2026-01-13 02:00 Tue ~ 2026-01-20 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 11:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
 		"content": "[Welfare] Kirino (Swimsuit)",
-		"start": "2026-01-13T02:00",
-		"startJp": "2025-08-06T11:00",
+		"start": "2026-01-13T08:00",
+		"startJp": "2025-08-06T17:00",
 		"end": "2026-01-20T02:00",
 		"endJp": "2025-08-13T11:00",
 		"group": "J Gacha",
@@ -16484,9 +16497,22 @@ jpSched = [
 		"title": "[Welfare] Kirino (Swimsuit)<br>G: 2026-01-13 02:00 Tue ~ 2026-01-20 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "Fubuki (Swimsuit)",
+		"content": "EOS",
 		"start": "2026-01-13T02:00",
 		"startJp": "2025-08-06T11:00",
+		"end": "2026-01-13T08:00",
+		"endJp": "2025-08-06T17:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"endG": "2026-01-13T08:00",
+		"startG": "2026-01-13T02:00",
+		"title": "EOS<br>G: 2026-01-13 02:00 Tue ~ 2026-01-13 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-06 17:00 Wed 6h (JST y-m-d)",
+		"duration": "6h"
+	},{
+		"content": "Fubuki (Swimsuit)",
+		"start": "2026-01-13T08:00",
+		"startJp": "2025-08-06T17:00",
 		"end": "2026-01-20T02:00",
 		"endJp": "2025-08-13T11:00",
 		"group": "J Gacha",
@@ -16498,8 +16524,8 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "Kanna (Swimsuit)",
-		"start": "2026-01-13T02:00",
-		"startJp": "2025-08-06T11:00",
+		"start": "2026-01-13T08:00",
+		"startJp": "2025-08-06T17:00",
 		"end": "2026-01-20T02:00",
 		"endJp": "2025-08-13T11:00",
 		"group": "J Gacha",
