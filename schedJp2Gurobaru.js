@@ -16574,5 +16574,31 @@ jpSched = [
 		"startG": "2026-01-20T02:00",
 		"title": "Toki [L]<br>G: 2026-01-20 02:00 Tue ~ 2026-01-27 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-13 11:00 Wed ~ 2025-08-20 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
+	},{
+		"content": "Chiaki",
+		"start": "2026-01-20T02:00",
+		"startJp": "2025-08-13T11:00",
+		"end": "2026-01-27T02:00",
+		"endJp": "2025-08-20T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-01-27T02:00",
+		"startG": "2026-01-20T02:00",
+		"title": "Chiaki<br>G: 2026-01-20 02:00 Tue ~ 2026-01-27 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-13 11:00 Wed ~ 2025-08-20 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Kanna",
+		"start": "2026-01-20T02:00",
+		"startJp": "2025-08-13T11:00",
+		"end": "2026-01-27T02:00",
+		"endJp": "2025-08-20T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-01-27T02:00",
+		"startG": "2026-01-20T02:00",
+		"title": "Kanna<br>G: 2026-01-20 02:00 Tue ~ 2026-01-27 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-13 11:00 Wed ~ 2025-08-20 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	}
 ]
