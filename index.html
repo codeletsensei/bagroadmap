@@ -56,6 +56,9 @@
     }
   </style>
 </head>
+<link href="packages/sweetalert2/minimal.css" rel="stylesheet">
+<link href="packages/sweetalert2/dark.css" rel="stylesheet">
+<script src="packages/sweetalert2/sweetalert2.min.js"></script>
 <body>
 <div id="welcomeBaggot" style="background-color:green;color:white">
   This page requires <a class=red>javascript</a> to work. <a href="https://github.com/codeletsensei/bagroadmap" target="_blank">Click here for the sauce code on Github</a>.
@@ -82,7 +85,6 @@
 <span style="color:red;background-color:lightgreen;font-weight:bold"><a href="https://forum.nexon.com/bluearchive/board_view?thread=2721110&board=1077" target="_blank">GRADUAL ACCELERATION ONGOING!</a> DON'T USE THE SHIFTED JP SCHED FOR EXACT DATES!</span>
 
 <button id="btnDarkMode" style="position:absolute; right:6px" onclick="changeDarkMode()">Flashbang</button>
-
 <div id="visualization"></div>
 Notes:
 <br>
@@ -114,9 +116,19 @@ Do you guys not have pasokons?
 <br>
 <span id="spanChangelog"></span>
 
-
 <script type="text/javascript">
 document.getElementById("welcomeBaggot").remove()
+
+let siteVersion = 20250808
+let currentVersion = localStorage.getItem("version")
+let lastShitAdded = "2025/8/8: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
+if ( !currentVersion || Number(currentVersion) < siteVersion ) {
+  Swal.fire({
+    title: "Changelog",
+    html: lastShitAdded
+  })
+  localStorage.setItem("version", siteVersion)
+}
 
 //https://visjs.github.io/vis-timeline/docs/timeline/
 prevRegion = 2
@@ -125,6 +137,7 @@ confirmed.forEach(a=>{
   a.duration = Math.ceil((Date.parse(new Date(a.end)) - Date.parse(new Date(a.start)))/(1000*60*60*24))
   a.title = a.content + "<br>Confirmed: " + a.start.toString().substr(0,16).replace("T"," ") + " " + new Date(a.start).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3) + " ~ " + a.end.toString().substr(0,16).replace("T"," ") + " " + new Date(a.end).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3) +" " + a.duration + " (UTC y-m-d)"
 })
+
 function getItems(){
   allData = []
   if ([1,2,3].includes(region)) allData = JSON.parse(JSON.stringify(jpSched))
@@ -195,6 +208,7 @@ function run(){
   document.documentElement.style.setProperty("--gridColor","#f5f5f5")
   changeDarkMode()
   document.getElementById("spanChangelog").innerText = new Date().toLocaleString("ja").split(" ")[0] + ": I got raped today again... But I won't let it happen tomorrow!"
+  document.getElementById("spanChangelog").innerHTML += "<br>" + lastShitAdded
   var container = document.getElementById('visualization');
   timeline = new vis.Timeline(container);
   timeline.on("click",endSearch)
