@@ -6786,6 +6786,19 @@ jpSched = [
 		"title": "[JFD] Assault Indoors Blue<br>G: 2026-01-13 02:00 Tue ~ 2026-01-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "[JFD] Shooting Urban Purple",
+		"start": "2026-02-10T02:00",
+		"startJp": "2025-09-03T11:00",
+		"end": "2026-02-16T18:59",
+		"endJp": "2025-09-10T03:59",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:white;background-color:purple",
+		"endG": "2026-02-16T18:59",
+		"startG": "2026-02-10T02:00",
+		"title": "[JFD] Shooting Urban Purple<br>G: 2026-02-10 02:00 Tue ~ 2026-02-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-09-03 11:00 Wed ~ 2025-09-10 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
 		"start": "2021-07-24T19:00",
 		"startJp": "2021-02-15T04:00",
@@ -8436,6 +8449,19 @@ jpSched = [
 		"startG": "2025-12-30T02:00",
 		"title": "[LBA] S17 Tiphareth Yellow (Yellow atk)<br>G: 2025-12-30 02:00 Tue ~ 2026-01-26 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2025-07-23 11:00 Wed ~ 2025-08-20 03:59 Wed 28d (JST y-m-d)",
 		"duration": "28d"
+	},{
+		"content": "[LBA] S18 Chokmah Blue (Blue atk)",
+		"start": "2026-01-28T02:00",
+		"startJp": "2025-08-21T11:00",
+		"end": "2026-03-02T18:59",
+		"endJp": "2025-09-24T03:59",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:white;background-color:blue",
+		"endG": "2026-03-02T18:59",
+		"startG": "2026-01-28T02:00",
+		"title": "[LBA] S18 Chokmah Blue (Blue atk)<br>G: 2026-01-28 02:00 Wed ~ 2026-03-02 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2025-08-21 11:00 Thu ~ 2025-09-24 03:59 Wed 34d (JST y-m-d)",
+		"duration": "34d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)",
 		"start": "2021-07-14T03:00",
@@ -13364,6 +13390,32 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Dress)\" title=\"Hina (Dress)\">Hina (Dress)</a> [L Bluefes]<br>G: 2026-01-06 02:00 Tue ~ 2026-01-13 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-07-30 11:00 Wed ~ 2025-08-06 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanna_(Swimsuit)\" title=\"Kanna (Swimsuit)\">Kanna (Swimsuit)</a>",
+		"start": "2026-01-13T08:00",
+		"startJp": "2025-08-06T17:00",
+		"end": "2026-01-20T01:59",
+		"endJp": "2025-08-13T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-01-20T01:59",
+		"startG": "2026-01-13T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanna_(Swimsuit)\" title=\"Kanna (Swimsuit)\">Kanna (Swimsuit)</a><br>G: 2026-01-13 02:00 Tue ~ 2026-01-20 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fubuki_(Swimsuit)\" title=\"Fubuki (Swimsuit)\">Fubuki (Swimsuit)</a>",
+		"start": "2026-01-13T08:00",
+		"startJp": "2025-08-06T17:00",
+		"end": "2026-01-20T01:59",
+		"endJp": "2025-08-13T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-01-20T01:59",
+		"startG": "2026-01-13T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fubuki_(Swimsuit)\" title=\"Fubuki (Swimsuit)\">Fubuki (Swimsuit)</a><br>G: 2026-01-13 02:00 Tue ~ 2026-01-20 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "EOS",
 		"start": "2021-07-20T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -16521,32 +16573,6 @@ jpSched = [
 		"endG": "2026-01-20T02:00",
 		"startG": "2026-01-13T02:00",
 		"title": "Bing!<br>G: 2026-01-13 02:00 Tue ~ 2026-01-20 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 11:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "Fubuki (Swimsuit)",
-		"start": "2026-01-13T08:00",
-		"startJp": "2025-08-06T17:00",
-		"end": "2026-01-20T02:00",
-		"endJp": "2025-08-13T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-01-20T02:00",
-		"startG": "2026-01-13T02:00",
-		"title": "Fubuki (Swimsuit)<br>G: 2026-01-13 02:00 Tue ~ 2026-01-20 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 11:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "Kanna (Swimsuit)",
-		"start": "2026-01-13T08:00",
-		"startJp": "2025-08-06T17:00",
-		"end": "2026-01-20T02:00",
-		"endJp": "2025-08-13T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-01-20T02:00",
-		"startG": "2026-01-13T02:00",
-		"title": "Kanna (Swimsuit)<br>G: 2026-01-13 02:00 Tue ~ 2026-01-20 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "Nagisa [L]",
