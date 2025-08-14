@@ -1536,7 +1536,7 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:black; background-color:yellow "
   },{
-    "content": "[JFD] Breakthrough. Yellow. Fuck Triniggers",
+    "content": "[JFD] Assault. Yellow. Fuck Triniggers",
     "start": "2024-07-09T02:00:00.000Z",
     "end": "2024-07-15T19:00:00.000Z",
     "group": "G Raid",
@@ -1606,7 +1606,7 @@ confirmed = [
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
-    "content": "[JFD] Breakthrough Purple Urban. SR weapons buff. Healing heals scarecrow",
+    "content": "[JFD] Assault Purple Urban. SR weapons buff. Healing heals scarecrow",
     "start": "2024-10-08T02:00:00.000Z",
     "end": "2024-10-14T19:00:00.000Z",
     "group": "G Raid",
@@ -1718,7 +1718,7 @@ confirmed = [
     "subgroup": "TA",
     "style": "color:white; background-color:blue "
   },{
-    "content": "[JFD] Breakthrough Blue Urban. Healing scarecrow damages everyone.",
+    "content": "[JFD] Assault Blue Urban. Healing scarecrow damages everyone.",
     "start": "2025-02-04T02:00:00.000Z",
     "end": "2025-02-10T19:00:00.000Z",
     "group": "G Raid",
@@ -1830,7 +1830,7 @@ confirmed = [
     "subgroup": "TA",
     "style": "color:white; background-color:red "
   },{
-    "content": "[JFD] Breakthrough Red Urban. Additional dmg on atk. Red healers heal the dummy for more.",
+    "content": "[JFD] Assault Red Urban. Additional dmg on atk. Red healers heal the dummy for more.",
     "start": "2025-05-27T02:00:00.000Z",
     "end": "2025-06-02T19:00:00.000Z",
     "group": "G Raid",
@@ -1920,6 +1920,20 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "JFD",
     "style": "color:white; background-color:blue "
+  },{
+    "content": "[TA] Hovercraft Outdoors Yellow (Yellow atk)",
+    "start": "2025-09-02T02:00:00.000Z",
+    "end": "2025-09-08T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:black; background-color:yellow "
+  },{
+    "content": "[JFD] Assault Yellow Urban. Scarecrow loses HP every sec. Allies deal more dmg when scarecrow's HP >= 99%",
+    "start": "2025-09-09T02:00:00.000Z",
+    "end": "2025-09-15T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:black; background-color:yellow "
   },{
 //
 // CAMPAIGNS
