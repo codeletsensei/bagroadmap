@@ -135,7 +135,7 @@ prevRegion = 2
 region = 2 // 0 = confirmed global, 1 = "JP", 2 = both, 3 = current JP
 confirmed.forEach(a=>{
   a.duration = Math.ceil((Date.parse(new Date(a.end)) - Date.parse(new Date(a.start)))/(1000*60*60*24))
-  a.title = a.content + "<br>Confirmed: " + a.start.toString().substr(0,16).replace("T"," ") + " " + new Date(a.start).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3) + " ~ " + a.end.toString().substr(0,16).replace("T"," ") + " " + new Date(a.end).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3) +" " + a.duration + " (UTC y-m-d)"
+  a.title = a.content + "<br>Confirmed: " + a.start.toString().substr(0,16).replace("T"," ") + " " + new Date(a.start).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3) + " ~ " + a.end.toString().substr(0,16).replace("T"," ") + " " + new Date(a.end).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3) +" " + a.duration + "d (UTC y-m-d)"
 })
 
 function getItems(){
