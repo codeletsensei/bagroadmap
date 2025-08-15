@@ -231,6 +231,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
   },{
+    "content": "EOS",
+    "start": "2025-08-19T02:00:00.000Z",
+    "end": "2025-08-19T06:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 // GASHA
 //
@@ -1067,6 +1074,48 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Izumi (New Year) (New)",
+    "start": "2025-08-19T02:00:00.000Z",
+    "end": "2025-08-26T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Akari (New Year)",
+    "start": "2025-08-19T02:00:00.000Z",
+    "end": "2025-08-26T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Fuuka (New Year) [L]",
+    "start": "2025-08-19T02:00:00.000Z",
+    "end": "2025-08-26T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Haruna (New Year) [L]",
+    "start": "2025-08-19T02:00:00.000Z",
+    "end": "2025-08-26T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Hanae (Christmas)",
+    "start": "2025-08-19T02:00:00.000Z",
+    "end": "2025-08-26T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Serina (Christmas)",
+    "start": "2025-08-19T02:00:00.000Z",
+    "end": "2025-08-26T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -1478,6 +1527,20 @@ confirmed = [
   },{
     "content": "[Mini] Balancing Schale's Books with the General Student Council",
     "start": "2025-08-12T02:00:00.000Z",
+    "end": "2025-08-26T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Perm] New Year's Aperitif ~One-and-Done Match~ ",
+    "start": "2025-08-19T02:00:00.000Z",
+    "end": "2025-08-26T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Perm] The Cathedral's Merry Christmas: Remedial Knights' Gift ",
+    "start": "2025-08-19T02:00:00.000Z",
     "end": "2025-08-26T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
@@ -1920,6 +1983,13 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "JFD",
     "style": "color:white; background-color:blue "
+  },{
+    "content": "[GA] Binah Outdoors (Red Tor + Blue/Purple) (Yellow atk)",
+    "start": "2025-08-19T02:00:00.000Z",
+    "end": "2025-08-25T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:white; background-color:red "
   },{
     "content": "[TA] Hovercraft Outdoors Yellow (Yellow atk)",
     "start": "2025-09-02T02:00:00.000Z",
@@ -3056,10 +3126,24 @@ confirmed = [
   },{
     "content": "[GA Shop] Kaede, blue, on shop reset",
     "start": "2025-07-31T19:00:00.000Z",
-    "end": "2025-08-07T02:19:00.000Z",
+    "end": "2025-08-07T19:00:00.000Z",
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Perm Welfare] Junko (New Year)",
+    "start": "2025-08-19T02:00:00.000Z",
+    "end": "2025-08-26T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Mini Story] Gourmet Food, Cookies, and Relief",
+    "start": "2025-08-19T02:00:00.000Z",
+    "end": "2025-08-26T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
   }
 ]
 
