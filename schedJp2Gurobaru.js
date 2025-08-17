@@ -16666,7 +16666,7 @@ jpSched = [
 		"title": "Backgrounds on ID cards<br>G: 2026-01-27 02:00 Tue ~ 2026-02-10 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-08-20 11:00 Wed ~ 2025-09-03 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "Pay2Wife cafe invite",
+		"content": "Pay2(man)Whore: Pyro cafe invite",
 		"start": "2026-01-27T02:00",
 		"startJp": "2025-08-20T11:00",
 		"end": "2026-02-10T02:00",
@@ -16676,7 +16676,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-02-10T02:00",
 		"startG": "2026-01-27T02:00",
-		"title": "Pay2Wife cafe invite<br>G: 2026-01-27 02:00 Tue ~ 2026-02-10 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-08-20 11:00 Wed ~ 2025-09-03 11:00 Wed 14d (JST y-m-d)",
+		"title": "Pay2(man)Whore: Pyro cafe invite<br>G: 2026-01-27 02:00 Tue ~ 2026-02-10 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-08-20 11:00 Wed ~ 2025-09-03 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Main Story] V6C1 (Arius)",
