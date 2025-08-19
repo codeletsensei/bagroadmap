@@ -3138,7 +3138,7 @@ confirmed = [
     "subgroup": "Other",
     "style": "color:black; background-color:lightgrey"
   },{
-    "content": "[Mini Story] Gourmet Food, Cookies, and Relief",
+    "content": "[Mini Story] Fine Dining, Cookies, and Aid",
     "start": "2025-08-19T02:00:00.000Z",
     "end": "2025-08-26T02:00:00.000Z",
     "group": "G Other",
