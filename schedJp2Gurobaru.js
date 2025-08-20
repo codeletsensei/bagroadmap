@@ -16796,32 +16796,6 @@ jpSched = [
 		"title": "Bing!<br>G: 2026-01-06 02:00 Tue ~ 2026-01-13 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "<b>2x XP</b>",
-		"start": "2026-01-22T19:00",
-		"startJp": "2025-08-23T04:00",
-		"end": "2026-01-24T19:00",
-		"endJp": "2025-08-25T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2026-01-24T19:00",
-		"startG": "2026-01-22T19:00",
-		"title": "<b>2x XP</b><br>G: 2026-01-22 19:00 Thu ~ 2026-01-24 19:00 Sat 2d (UTC y-m-d)<br>Jp: 2025-08-23 04:00 Sat ~ 2025-08-25 04:00 Mon 2d (JST y-m-d)",
-		"duration": "2d"
-	},{
-		"content": "<b>2x XP</b>",
-		"start": "2026-01-29T19:00",
-		"startJp": "2025-08-30T04:00",
-		"end": "2026-01-31T19:00",
-		"endJp": "2025-09-01T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2026-01-31T19:00",
-		"startG": "2026-01-29T19:00",
-		"title": "<b>2x XP</b><br>G: 2026-01-29 19:00 Thu ~ 2026-01-31 19:00 Sat 2d (UTC y-m-d)<br>Jp: 2025-08-30 04:00 Sat ~ 2025-09-01 04:00 Mon 2d (JST y-m-d)",
-		"duration": "2d"
-	},{
 		"content": "Wild Hunt mats on Classroom bounty",
 		"start": "2026-01-20T10:00",
 		"startJp": "2025-08-20T19:00",
