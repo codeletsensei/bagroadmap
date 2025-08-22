@@ -238,6 +238,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
   },{
+    "content": "EOS",
+    "start": "2025-08-26T02:00:00.000Z",
+    "end": "2025-08-26T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 // GASHA
 //
@@ -1116,6 +1123,20 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Rei (New)",
+    "start": "2025-08-26T02:00:00.000Z",
+    "end": "2025-09-09T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Sumire (Part-Timer) (New)",
+    "start": "2025-08-26T02:00:00.000Z",
+    "end": "2025-09-09T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -1542,6 +1563,13 @@ confirmed = [
     "content": "[Perm] The Cathedral's Merry Christmas: Remedial Knights' Gift ",
     "start": "2025-08-19T02:00:00.000Z",
     "end": "2025-08-26T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] PRAY-BALL! Swing for the Grand Slam!",
+    "start": "2025-08-26T02:00:00.000Z",
+    "end": "2025-09-09T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
