@@ -2019,6 +2019,13 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:white; background-color:red "
   },{
+    "content": "[LBA] S13 The Fury of Set Red (Red atk)",
+    "start": "2025-08-27T02:00:00.000Z",
+    "end": "2025-09-22T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "LBA",
+    "style": "color:white; background-color:red "
+  },{
     "content": "[TA] Hovercraft Outdoors Yellow (Yellow atk)",
     "start": "2025-09-02T02:00:00.000Z",
     "end": "2025-09-08T19:00:00.000Z",
@@ -2785,6 +2792,13 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Comms",
+    "start": "2025-09-01T19:00:00.000Z",
+    "end": "2025-09-08T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 // MISC
 //
@@ -3172,6 +3186,13 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Bond Gear] Saori, Saki, Momiji, Chinatsu",
+    "start": "2025-08-26T02:00:00.000Z",
+    "end": "2025-09-09T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
   }
 ]
 
