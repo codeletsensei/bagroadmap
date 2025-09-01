@@ -2799,6 +2799,41 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-09-05T19:00:00.000Z",
+    "end": "2025-09-07T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Hard/Scrimm",
+    "start": "2025-09-08T19:00:00.000Z",
+    "end": "2025-09-15T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Normal/Lesson",
+    "start": "2025-09-15T19:00:00.000Z",
+    "end": "2025-09-22T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Bounty",
+    "start": "2025-09-22T19:00:00.000Z",
+    "end": "2025-09-29T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-09-26T19:00:00.000Z",
+    "end": "2025-09-28T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 // MISC
 //
