@@ -13637,7 +13637,7 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanoe\" title=\"Kanoe\">Kanoe</a>\n (New)<br>G: 2026-01-20 02:00 Tue ~ 2026-02-03 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-08-20 11:00 Wed ~ 2025-09-03 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaki_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Misaki (Swimsuit) (page does not exist)\">Misaki (Swimsuit)</a>\n (New)",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaki_(Swimsuit)\" title=\"Misaki (Swimsuit)\">Misaki (Swimsuit)</a>\n (New)",
 		"start": "2026-02-03T08:00",
 		"startJp": "2025-09-03T17:00",
 		"end": "2026-02-17T01:59",
@@ -13647,7 +13647,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-02-17T01:59",
 		"startG": "2026-02-03T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaki_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Misaki (Swimsuit) (page does not exist)\">Misaki (Swimsuit)</a>\n (New)<br>G: 2026-02-03 02:00 Tue ~ 2026-02-17 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-03 11:00 Wed ~ 2025-09-17 10:59 Wed 14d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Misaki_(Swimsuit)\" title=\"Misaki (Swimsuit)\">Misaki (Swimsuit)</a>\n (New)<br>G: 2026-02-03 02:00 Tue ~ 2026-02-17 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-03 11:00 Wed ~ 2025-09-17 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saori_(Swimsuit)\" title=\"Saori (Swimsuit)\">Saori (Swimsuit)</a> [L]\n",
@@ -13701,6 +13701,45 @@ jpSched = [
 		"startG": "2026-02-03T02:00",
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Nonomi_(Swimsuit)\" title=\"Nonomi (Swimsuit)\">Nonomi (Swimsuit)</a>\n<br>G: 2026-02-03 02:00 Tue ~ 2026-02-17 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-03 11:00 Wed ~ 2025-09-17 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L]\n",
+		"start": "2026-02-17T02:00",
+		"startJp": "2025-09-17T11:00",
+		"end": "2026-02-24T01:59",
+		"endJp": "2025-09-24T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-02-24T01:59",
+		"startG": "2026-02-17T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(Bunny_Girl)\" title=\"Neru (Bunny Girl)\">Neru (Bunny Girl)</a> [L]\n<br>G: 2026-02-17 02:00 Tue ~ 2026-02-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-09-17 11:00 Wed ~ 2025-09-24 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L]\n",
+		"start": "2026-02-17T02:00",
+		"startJp": "2025-09-17T11:00",
+		"end": "2026-02-24T01:59",
+		"endJp": "2025-09-24T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-02-24T01:59",
+		"startG": "2026-02-17T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Karin_(Bunny_Girl)\" title=\"Karin (Bunny Girl)\">Karin (Bunny Girl)</a> [L]\n<br>G: 2026-02-17 02:00 Tue ~ 2026-02-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-09-17 11:00 Wed ~ 2025-09-24 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane (Bunny Girl)\">Akane (Bunny Girl)</a>\n",
+		"start": "2026-02-17T02:00",
+		"startJp": "2025-09-17T11:00",
+		"end": "2026-02-24T01:59",
+		"endJp": "2025-09-24T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-02-24T01:59",
+		"startG": "2026-02-17T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane (Bunny Girl)\">Akane (Bunny Girl)</a>\n<br>G: 2026-02-17 02:00 Tue ~ 2026-02-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-09-17 11:00 Wed ~ 2025-09-24 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	},{
 		"content": "EOS",
 		"start": "2021-07-13T05:00",
