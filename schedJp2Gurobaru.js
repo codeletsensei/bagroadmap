@@ -17055,5 +17055,31 @@ jpSched = [
 		"startG": "2026-02-03T02:00",
 		"title": "[Welfare] Atsuko (Swimsuit)<br>G: 2026-02-03 02:00 Tue ~ 2026-02-17 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-03 11:00 Wed ~ 2025-09-17 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
+	},{
+		"content": "[JFD] Defense Red Indoor. Enemies move faster and deal AOE dmg to nearby students when killed, but get knocked back when hit.",
+		"start": "2026-03-10T02:00",
+		"startJp": "2025-10-08T11:00",
+		"end": "2026-03-16T19:00",
+		"endJp": "2025-10-15T04:00",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:white;background-color:red",
+		"endG": "2026-03-16T19:00",
+		"startG": "2026-03-10T02:00",
+		"title": "[JFD] Defense Red Indoor. Enemies move faster and deal AOE dmg to nearby students when killed, but get knocked back when hit.<br>G: 2026-03-10 02:00 Tue ~ 2026-03-16 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-08 11:00 Wed ~ 2025-10-15 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[TA] ???????",
+		"start": "2026-03-03T02:00",
+		"startJp": "2025-10-01T11:00",
+		"end": "2026-03-09T19:00",
+		"endJp": "2025-10-08T04:00",
+		"group": "J Raid",
+		"subgroup": "TA",
+		"style": "color:black;background-color:pink",
+		"endG": "2026-03-09T19:00",
+		"startG": "2026-03-03T02:00",
+		"title": "[TA] ???????<br>G: 2026-03-03 02:00 Tue ~ 2026-03-09 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-01 11:00 Wed ~ 2025-10-08 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	}
 ]
