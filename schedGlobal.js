@@ -1165,6 +1165,20 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Rumi",
+    "start": "2025-09-16T02:00:00.000Z",
+    "end": "2025-09-23T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Mina",
+    "start": "2025-09-16T02:00:00.000Z",
+    "end": "2025-09-23T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -1605,6 +1619,13 @@ confirmed = [
     "content": "[R] From Opera 0068 with love!",
     "start": "2025-09-09T02:00:00.000Z",
     "end": "2025-09-16T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Perm] Dragon and Tortoise Working Together for a Better Future",
+    "start": "2025-09-16T02:00:00.000Z",
+    "end": "2025-09-23T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
@@ -2074,6 +2095,13 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow "
+  },{
+    "content": "[GA] Chesed Indoors (Purple Tor + Red/Yellow)",
+    "start": "2025-09-16T02:00:00.000Z",
+    "end": "2025-09-22T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:white; background-color:purple "
   },{
 //
 // CAMPAIGNS
@@ -3263,6 +3291,13 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Mini Story] Met You By Chance",
+    "start": "2025-09-16T02:00:00.000Z",
+    "end": "2025-09-30T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
   }
 ]
 
