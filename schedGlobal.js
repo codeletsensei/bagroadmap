@@ -2103,6 +2103,20 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
   },{
+    "content": "[TA] Gregorius Indoors Red (Blue atk)",
+    "start": "2025-09-30T02:00:00.000Z",
+    "end": "2025-10-06T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:white; background-color:red "
+  },{
+    "content": "[JFD] Shooting Red Urban. AR & SR buff. Enemies with high DEF & HP.",
+    "start": "2025-10-07T02:00:00.000Z",
+    "end": "2025-10-13T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:white; background-color:red "
+  },{
 //
 // CAMPAIGNS
 //
