@@ -252,6 +252,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
   },{
+    "content": "EOS",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-09-23T07:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 // GASHA
 //
@@ -1179,6 +1186,27 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "[Welfare] Aoba",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Hikari [L] (New)",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Nozomi [L] (New)",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -1626,6 +1654,13 @@ confirmed = [
     "content": "[Perm] Dragon and Tortoise Working Together for a Better Future",
     "start": "2025-09-16T02:00:00.000Z",
     "end": "2025-09-23T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] Highlander Railroad Runaway Incident 〜 And Then The Train Disappeared 〜",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
@@ -3312,6 +3347,48 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:yellow"
+  },{
+    "content": "[QoL] Commission Stage 14/N + Bounty Stage 10/J",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Highlander mats on Bounty (Highway) and Lesson. (Sora shop after monthly reset)",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] UE4 unlock. 2500 free ligma.",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Banner Archive: Year 1 students. They can't spook you on other banners",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Extra 100 Elephs when getting the banner student for the 1st time, on that run",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Pyroxene/Whale Shop",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
   }
 ]
 
