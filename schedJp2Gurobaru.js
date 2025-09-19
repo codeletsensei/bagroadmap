@@ -1781,6 +1781,19 @@ jpSched = [
 		"title": "[GM] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hospitality_Tea_Time\" title=\"Hospitality Tea Time\">Hospitality Tea Time</a><br>G: 2025-12-22 02:00 Mon ~ 2026-01-20 02:00 Tue 29d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-20 11:00 Wed 29d (JST y-m-d)",
 		"duration": "29d"
 	},{
+		"content": "[GM] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arius_Autonomous_Region_Special_Class\" title=\"Arius Autonomous Region Special Class\">Arius Autonomous Region Special Class</a>",
+		"start": "2026-02-17T02:00",
+		"startJp": "2025-09-17T11:00",
+		"end": "2026-03-24T02:00",
+		"endJp": "2025-10-22T11:00",
+		"group": "J Event",
+		"subgroup": "GM",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-03-24T02:00",
+		"startG": "2026-02-17T02:00",
+		"title": "[GM] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arius_Autonomous_Region_Special_Class\" title=\"Arius Autonomous Region Special Class\">Arius Autonomous Region Special Class</a><br>G: 2026-02-17 02:00 Tue ~ 2026-03-24 02:00 Tue 35d (UTC y-m-d)<br>Jp: 2025-09-17 11:00 Wed ~ 2025-10-22 11:00 Wed 35d (JST y-m-d)",
+		"duration": "35d"
+	},{
 		"content": "<b>3x Comm </b>",
 		"start": "2022-07-18T19:00",
 		"startJp": "2022-02-16T04:00",
@@ -8605,6 +8618,19 @@ jpSched = [
 		"startG": "2026-01-21T02:00",
 		"title": "[LBA] S18 Chokmah Blue (Blue atk)<br>G: 2026-01-21 02:00 Wed ~ 2026-02-23 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2025-08-21 11:00 Thu ~ 2025-09-24 03:59 Wed 34d (JST y-m-d)",
 		"duration": "34d"
+	},{
+		"content": "[LBA] S19 ?????????",
+		"start": "2026-02-25T02:00",
+		"startJp": "2025-09-25T11:00",
+		"end": "2026-03-23T18:59",
+		"endJp": "2025-10-22T03:59",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:black;background-color:pink",
+		"endG": "2026-03-23T18:59",
+		"startG": "2026-02-25T02:00",
+		"title": "[LBA] S19 ?????????<br>G: 2026-02-25 02:00 Wed ~ 2026-03-23 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2025-09-25 11:00 Thu ~ 2025-10-22 03:59 Wed 27d (JST y-m-d)",
+		"duration": "27d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)",
 		"start": "2021-07-07T03:00",
@@ -16692,45 +16718,6 @@ jpSched = [
 		"title": "[QoL] T2~T6 Drop rate buff<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[QoL] Extra 100 Elephs when getting the banner student for the 1st time, on that run",
-		"start": "2025-12-22T10:00",
-		"startJp": "2025-07-22T19:00",
-		"end": "2026-01-06T02:00",
-		"endJp": "2025-08-06T11:00",
-		"group": "J Other",
-		"subgroup": "Other",
-		"style": "color:black;background-color:lightblue",
-		"endG": "2026-01-06T02:00",
-		"startG": "2025-12-22T02:00",
-		"title": "[QoL] Extra 100 Elephs when getting the banner student for the 1st time, on that run<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
-		"duration": "15d"
-	},{
-		"content": "[QoL] UE4 unlock. 2500 free ligma",
-		"start": "2025-12-22T10:00",
-		"startJp": "2025-07-22T19:00",
-		"end": "2026-01-06T02:00",
-		"endJp": "2025-08-06T11:00",
-		"group": "J Other",
-		"subgroup": "Other",
-		"style": "color:black;background-color:lightblue",
-		"endG": "2026-01-06T02:00",
-		"startG": "2025-12-22T02:00",
-		"title": "[QoL] UE4 unlock. 2500 free ligma<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
-		"duration": "15d"
-	},{
-		"content": "[QoL] Banner Archive. Selectable students: Year 1 students. They can't spook you on other banners",
-		"start": "2025-12-22T10:00",
-		"startJp": "2025-07-22T19:00",
-		"end": "2026-01-06T02:00",
-		"endJp": "2025-08-06T11:00",
-		"group": "J Other",
-		"subgroup": "Other",
-		"style": "color:black;background-color:lightblue",
-		"endG": "2026-01-06T02:00",
-		"startG": "2025-12-22T02:00",
-		"title": "[QoL] Banner Archive. Selectable students: Year 1 students. They can't spook you on other banners<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
-		"duration": "15d"
-	},{
 		"content": "[Shop] \"Battlepass\"",
 		"start": "2025-12-22T10:00",
 		"startJp": "2025-07-22T19:00",
@@ -16743,19 +16730,6 @@ jpSched = [
 		"startG": "2025-12-22T02:00",
 		"title": "[Shop] \"Battlepass\"<br>G: 2025-12-22 02:00 Mon ~ 2026-01-20 02:00 Tue 29d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-20 11:00 Wed 29d (JST y-m-d)",
 		"duration": "29d"
-	},{
-		"content": "[Shop] Pyroxene/Whale Shop",
-		"start": "2025-12-22T10:00",
-		"startJp": "2025-07-22T19:00",
-		"end": "2026-01-06T02:00",
-		"endJp": "2025-08-06T11:00",
-		"group": "J Other",
-		"subgroup": "Other",
-		"style": "color:black;background-color:lightblue",
-		"endG": "2026-01-06T02:00",
-		"startG": "2025-12-22T02:00",
-		"title": "[Shop] Pyroxene/Whale Shop<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
-		"duration": "15d"
 	},{
 		"content": "[QoL] Newfag Sensei XP adjustment (up to lvl 70)",
 		"start": "2025-12-22T10:00",
@@ -16808,6 +16782,58 @@ jpSched = [
 		"startG": "2025-12-22T02:00",
 		"title": "[Guide Mission] Omotenashi Teatime (Permanent)<br>G: 2025-12-22 02:00 Mon ~ 2026-01-20 02:00 Tue 29d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-20 11:00 Wed 29d (JST y-m-d)",
 		"duration": "29d"
+	},{
+		"content": "<s>[QoL] Extra 100 Elephs when getting the banner student for the 1st time, on that run</s>. Added to Global with the Shupogakis",
+		"start": "2025-12-22T10:00",
+		"startJp": "2025-07-22T19:00",
+		"end": "2026-01-06T02:00",
+		"endJp": "2025-08-06T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-01-06T02:00",
+		"startG": "2025-12-22T02:00",
+		"title": "<s>[QoL] Extra 100 Elephs when getting the banner student for the 1st time, on that run</s>. Added to Global with the Shupogakis<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"duration": "15d"
+	},{
+		"content": "<s>[QoL] UE4 unlock. 2500 free ligma</s>. Added to Global with the Shupogakis",
+		"start": "2025-12-22T10:00",
+		"startJp": "2025-07-22T19:00",
+		"end": "2026-01-06T02:00",
+		"endJp": "2025-08-06T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-01-06T02:00",
+		"startG": "2025-12-22T02:00",
+		"title": "<s>[QoL] UE4 unlock. 2500 free ligma</s>. Added to Global with the Shupogakis<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"duration": "15d"
+	},{
+		"content": "<s>[QoL] Banner Archive. Selectable students: Year 1 students. They can't spook you on other banners</s>. Added to Global with the Shupogakis",
+		"start": "2025-12-22T10:00",
+		"startJp": "2025-07-22T19:00",
+		"end": "2026-01-06T02:00",
+		"endJp": "2025-08-06T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-01-06T02:00",
+		"startG": "2025-12-22T02:00",
+		"title": "<s>[QoL] Banner Archive. Selectable students: Year 1 students. They can't spook you on other banners</s>. Added to Global with the Shupogakis<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"duration": "15d"
+	},{
+		"content": "<s>[Shop] Pyroxene/Whale Shop</s>. Added to Global with the Shupogakis",
+		"start": "2025-12-22T10:00",
+		"startJp": "2025-07-22T19:00",
+		"end": "2026-01-06T02:00",
+		"endJp": "2025-08-06T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-01-06T02:00",
+		"startG": "2025-12-22T02:00",
+		"title": "<s>[Shop] Pyroxene/Whale Shop</s>. Added to Global with the Shupogakis<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"duration": "15d"
 	},{
 		"content": "[JFD Shop] Nodoka (Onsen)",
 		"start": "2025-12-31T19:00",
@@ -16965,19 +16991,6 @@ jpSched = [
 		"title": "EOS<br>G: 2026-01-20 02:00 Tue ~ 2026-01-20 10:00 Tue 8h (UTC y-m-d)<br>Jp: 2025-08-20 11:00 Wed ~ 2025-08-20 19:00 Wed 8h (JST y-m-d)",
 		"duration": "8h"
 	},{
-		"content": "[Guide Mission] V6C1 Arius",
-		"start": "2026-02-17T02:00",
-		"startJp": "2025-09-17T11:00",
-		"end": "2026-03-24T02:00",
-		"endJp": "2025-10-22T11:00",
-		"group": "J Event",
-		"subgroup": "",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-03-24T02:00",
-		"startG": "2026-02-17T02:00",
-		"title": "[Guide Mission] V6C1 Arius<br>G: 2026-02-17 02:00 Tue ~ 2026-03-24 02:00 Tue 35d (UTC y-m-d)<br>Jp: 2025-09-17 11:00 Wed ~ 2025-10-22 11:00 Wed 35d (JST y-m-d)",
-		"duration": "35d"
-	},{
 		"content": "[Crafting] MillenniumFes + Maki (Camping) furniture",
 		"start": "2026-01-20T10:00",
 		"startJp": "2025-08-20T19:00",
@@ -17056,7 +17069,7 @@ jpSched = [
 		"title": "[Welfare] Atsuko (Swimsuit)<br>G: 2026-02-03 02:00 Tue ~ 2026-02-17 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-03 11:00 Wed ~ 2025-09-17 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[JFD] Defense Red Indoor. Enemies move faster and deal AOE dmg to nearby students when killed, but get knocked back when hit.",
+		"content": "[JFD] Defense Red Indoor. Enemies move faster, but get knocked back when hit and deal AOE dmg to your students when killed.",
 		"start": "2026-03-10T02:00",
 		"startJp": "2025-10-08T11:00",
 		"end": "2026-03-16T19:00",
@@ -17066,7 +17079,7 @@ jpSched = [
 		"style": "color:white;background-color:red",
 		"endG": "2026-03-16T19:00",
 		"startG": "2026-03-10T02:00",
-		"title": "[JFD] Defense Red Indoor. Enemies move faster and deal AOE dmg to nearby students when killed, but get knocked back when hit.<br>G: 2026-03-10 02:00 Tue ~ 2026-03-16 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-08 11:00 Wed ~ 2025-10-15 04:00 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Defense Red Indoor. Enemies move faster, but get knocked back when hit and deal AOE dmg to your students when killed.<br>G: 2026-03-10 02:00 Tue ~ 2026-03-16 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-08 11:00 Wed ~ 2025-10-15 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[TA] ???????",
