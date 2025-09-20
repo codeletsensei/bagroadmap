@@ -8632,7 +8632,7 @@ jpSched = [
 		"title": "[LBA] S18 Chokmah Blue (Blue atk)<br>G: 2026-01-21 02:00 Wed ~ 2026-02-23 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2025-08-21 11:00 Thu ~ 2025-09-24 03:59 Wed 34d (JST y-m-d)",
 		"duration": "34d"
 	},{
-		"content": "[LBA] S19 Chokmah Blue (Blue atk)",
+		"content": "[LBA] S19 The Fury of Set Blue (Red atk)",
 		"start": "2026-02-25T02:00",
 		"startJp": "2025-09-25T11:00",
 		"end": "2026-03-23T18:59",
