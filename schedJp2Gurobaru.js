@@ -248,17 +248,17 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!\" title=\"Business Trip! The Momoyodou Beach House Franchise Plan!\">Business Trip! Momoyodou Beach House Franchise Plan!</a>",
-		"start": "2022-12-14T02:00",
-		"startJp": "2022-07-14T11:00",
+		"start": "2022-12-20T10:00",
+		"startJp": "2022-07-20T19:00",
 		"end": "2023-01-03T02:00",
 		"endJp": "2022-08-03T11:00",
 		"group": "J Event",
 		"subgroup": "Main",
 		"style": "color:black;background-color:yellow",
 		"endG": "2023-01-03T02:00",
-		"startG": "2022-12-14T02:00",
-		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!\" title=\"Business Trip! The Momoyodou Beach House Franchise Plan!\">Business Trip! Momoyodou Beach House Franchise Plan!</a><br>G: 2022-12-14 02:00 Wed ~ 2023-01-03 02:00 Tue 20d (UTC y-m-d)<br>Jp: 2022-07-14 11:00 Thu ~ 2022-08-03 11:00 Wed 20d (JST y-m-d)",
-		"duration": "20d"
+		"startG": "2022-12-20T02:00",
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!\" title=\"Business Trip! The Momoyodou Beach House Franchise Plan!\">Business Trip! Momoyodou Beach House Franchise Plan!</a><br>G: 2022-12-20 02:00 Tue ~ 2023-01-03 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2022-07-20 11:00 Wed ~ 2022-08-03 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
 	},{
 		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/After_School_Sweets_Story:_Sweet_Secrets_and_Gun_Fights!\" title=\"After School Sweets Story: Sweet Secrets and Gun Fights!\">After School Sweets Story: Sweet Secrets and Gun Fights!</a>",
 		"start": "2023-01-24T10:00",
@@ -8034,7 +8034,20 @@ jpSched = [
 		"title": "[TA] Peroro Outdoors Blue (Blue atk)<br>G: 2026-01-27 02:00 Tue ~ 2026-02-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-08-27 11:00 Wed ~ 2025-09-03 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Binah Urban (Yellow Tor + Red/Blue) (Yellow atk)",
+		"content": "[TA] Geburah Outdoors Red (Blue atk)",
+		"start": "2026-03-03T02:00",
+		"startJp": "2025-10-01T11:00",
+		"end": "2026-03-09T18:59",
+		"endJp": "2025-10-08T03:59",
+		"group": "J Raid",
+		"subgroup": "TA",
+		"style": "color:white;background-color:red",
+		"endG": "2026-03-09T18:59",
+		"startG": "2026-03-03T02:00",
+		"title": "[TA] Geburah Outdoors Red (Blue atk)<br>G: 2026-03-03 02:00 Tue ~ 2026-03-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-01 11:00 Wed ~ 2025-10-08 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[GA] Binah Urban (Yellow TOR / Red+Blue INS) (Yellow atk)",
 		"start": "2023-11-28T02:00",
 		"startJp": "2023-06-28T11:00",
 		"end": "2023-12-04T18:59",
@@ -8044,10 +8057,10 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2023-12-04T18:59",
 		"startG": "2023-11-28T02:00",
-		"title": "[GA] Binah Urban (Yellow Tor + Red/Blue) (Yellow atk)<br>G: 2023-11-28 02:00 Tue ~ 2023-12-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-28 11:00 Wed ~ 2023-07-05 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Binah Urban (Yellow TOR / Red+Blue INS) (Yellow atk)<br>G: 2023-11-28 02:00 Tue ~ 2023-12-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-28 11:00 Wed ~ 2023-07-05 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] KAITEN Urban (Red Tor + Yellow/Blue) (Yellow atk)",
+		"content": "[GA] KAITEN Urban (Red TOR / Yellow+Blue INS) (Yellow atk)",
 		"start": "2023-12-12T02:00",
 		"startJp": "2023-07-12T11:00",
 		"end": "2023-12-18T18:59",
@@ -8057,10 +8070,10 @@ jpSched = [
 		"style": "color:white;background-color:red",
 		"endG": "2023-12-18T18:59",
 		"startG": "2023-12-12T02:00",
-		"title": "[GA] KAITEN Urban (Red Tor + Yellow/Blue) (Yellow atk)<br>G: 2023-12-12 02:00 Tue ~ 2023-12-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-07-12 11:00 Wed ~ 2023-07-19 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] KAITEN Urban (Red TOR / Yellow+Blue INS) (Yellow atk)<br>G: 2023-12-12 02:00 Tue ~ 2023-12-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-07-12 11:00 Wed ~ 2023-07-19 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Perorodzilla Outdoors (Blue Tor + Red/Yellow) (Blue atk)",
+		"content": "[GA] Perorodzilla Outdoors (Blue TOR / Red+Yellow INS) (Blue atk)",
 		"start": "2024-01-16T08:00",
 		"startJp": "2023-08-16T17:00",
 		"end": "2024-01-22T18:59",
@@ -8070,10 +8083,10 @@ jpSched = [
 		"style": "color:white;background-color:blue",
 		"endG": "2024-01-22T18:59",
 		"startG": "2024-01-16T02:00",
-		"title": "[GA] Perorodzilla Outdoors (Blue Tor + Red/Yellow) (Blue atk)<br>G: 2024-01-16 02:00 Tue ~ 2024-01-22 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 Wed ~ 2023-08-23 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Perorodzilla Outdoors (Blue TOR / Red+Yellow INS) (Blue atk)<br>G: 2024-01-16 02:00 Tue ~ 2024-01-22 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 Wed ~ 2023-08-23 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] ShiroKuro Indoors (Yellow Tor + Red/Blue) (Yellow atk)",
+		"content": "[GA] ShiroKuro Indoors (Yellow TOR / Red+Blue INS) (Yellow atk)",
 		"start": "2024-02-13T02:00",
 		"startJp": "2023-09-13T11:00",
 		"end": "2024-02-19T18:59",
@@ -8083,10 +8096,10 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2024-02-19T18:59",
 		"startG": "2024-02-13T02:00",
-		"title": "[GA] ShiroKuro Indoors (Yellow Tor + Red/Blue) (Yellow atk)<br>G: 2024-02-13 02:00 Tue ~ 2024-02-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-09-13 11:00 Wed ~ 2023-09-20 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] ShiroKuro Indoors (Yellow TOR / Red+Blue INS) (Yellow atk)<br>G: 2024-02-13 02:00 Tue ~ 2024-02-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-09-13 11:00 Wed ~ 2023-09-20 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] KAITEN Outdoors (Blue Tor + Red/Yellow) (Yellow atk)",
+		"content": "[GA] KAITEN Outdoors (Blue TOR / Red+Yellow INS) (Yellow atk)",
 		"start": "2024-03-18T02:00",
 		"startJp": "2023-10-17T11:00",
 		"end": "2024-03-24T18:59",
@@ -8096,10 +8109,10 @@ jpSched = [
 		"style": "color:white;background-color:blue",
 		"endG": "2024-03-24T18:59",
 		"startG": "2024-03-18T02:00",
-		"title": "[GA] KAITEN Outdoors (Blue Tor + Red/Yellow) (Yellow atk)<br>G: 2024-03-18 02:00 Mon ~ 2024-03-24 18:59 Sun 7d (UTC y-m-d)<br>Jp: 2023-10-17 11:00 Tue ~ 2023-10-24 03:59 Tue 7d (JST y-m-d)",
+		"title": "[GA] KAITEN Outdoors (Blue TOR / Red+Yellow INS) (Yellow atk)<br>G: 2024-03-18 02:00 Mon ~ 2024-03-24 18:59 Sun 7d (UTC y-m-d)<br>Jp: 2023-10-17 11:00 Tue ~ 2023-10-24 03:59 Tue 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Hod Urban (Yellow Tor + Red/Blue) (Blue atk)",
+		"content": "[GA] Hod Urban (Yellow TOR / Red+Blue INS) (Blue atk)",
 		"start": "2024-04-16T02:00",
 		"startJp": "2023-11-15T11:00",
 		"end": "2024-04-22T18:59",
@@ -8109,10 +8122,10 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2024-04-22T18:59",
 		"startG": "2024-04-16T02:00",
-		"title": "[GA] Hod Urban (Yellow Tor + Red/Blue) (Blue atk)<br>G: 2024-04-16 02:00 Tue ~ 2024-04-22 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-15 11:00 Wed ~ 2023-11-22 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Hod Urban (Yellow TOR / Red+Blue INS) (Blue atk)<br>G: 2024-04-16 02:00 Tue ~ 2024-04-22 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-15 11:00 Wed ~ 2023-11-22 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Goz Outdoors (Yellow Tor + Red/Blue) (Red atk)",
+		"content": "[GA] Goz Outdoors (Yellow TOR / Red+Blue INS) (Red atk)",
 		"start": "2024-05-14T02:00",
 		"startJp": "2023-12-13T11:00",
 		"end": "2024-05-20T18:59",
@@ -8122,10 +8135,10 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2024-05-20T18:59",
 		"startG": "2024-05-14T02:00",
-		"title": "[GA] Goz Outdoors (Yellow Tor + Red/Blue) (Red atk)<br>G: 2024-05-14 02:00 Tue ~ 2024-05-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-12-13 11:00 Wed ~ 2023-12-20 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Goz Outdoors (Yellow TOR / Red+Blue INS) (Red atk)<br>G: 2024-05-14 02:00 Tue ~ 2024-05-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-12-13 11:00 Wed ~ 2023-12-20 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] ShiroKuro Urban (Red Tor + Yellow/Blue) (Yellow atk)",
+		"content": "[GA] ShiroKuro Urban (Red TOR / Yellow+Blue INS) (Yellow atk)",
 		"start": "2024-06-18T02:00",
 		"startJp": "2024-01-17T11:00",
 		"end": "2024-06-24T18:59",
@@ -8135,10 +8148,10 @@ jpSched = [
 		"style": "color:white;background-color:red",
 		"endG": "2024-06-24T18:59",
 		"startG": "2024-06-18T02:00",
-		"title": "[GA] ShiroKuro Urban (Red Tor + Yellow/Blue) (Yellow atk)<br>G: 2024-06-18 02:00 Tue ~ 2024-06-24 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-17 11:00 Wed ~ 2024-01-24 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] ShiroKuro Urban (Red TOR / Yellow+Blue INS) (Yellow atk)<br>G: 2024-06-18 02:00 Tue ~ 2024-06-24 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-17 11:00 Wed ~ 2024-01-24 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] KAITEN Outdoors (Red Tor + Yellow/Blue) (Yellow atk)",
+		"content": "[GA] KAITEN Outdoors (Red TOR / Yellow+Blue INS) (Yellow atk)",
 		"start": "2024-07-16T02:00",
 		"startJp": "2024-02-14T11:00",
 		"end": "2024-07-22T18:59",
@@ -8148,10 +8161,10 @@ jpSched = [
 		"style": "color:white;background-color:red",
 		"endG": "2024-07-22T18:59",
 		"startG": "2024-07-16T02:00",
-		"title": "[GA] KAITEN Outdoors (Red Tor + Yellow/Blue) (Yellow atk)<br>G: 2024-07-16 02:00 Tue ~ 2024-07-22 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-14 11:00 Wed ~ 2024-02-21 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] KAITEN Outdoors (Red TOR / Yellow+Blue INS) (Yellow atk)<br>G: 2024-07-16 02:00 Tue ~ 2024-07-22 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-14 11:00 Wed ~ 2024-02-21 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Binah Urban (Blue Tor + Red/Yellow) (Yellow atk)",
+		"content": "[GA] Binah Urban (Blue TOR / Red+Yellow INS) (Yellow atk)",
 		"start": "2024-08-13T02:00",
 		"startJp": "2024-03-13T11:00",
 		"end": "2024-08-19T18:59",
@@ -8161,10 +8174,10 @@ jpSched = [
 		"style": "color:white;background-color:blue",
 		"endG": "2024-08-19T18:59",
 		"startG": "2024-08-13T02:00",
-		"title": "[GA] Binah Urban (Blue Tor + Red/Yellow) (Yellow atk)<br>G: 2024-08-13 02:00 Tue ~ 2024-08-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-03-13 11:00 Wed ~ 2024-03-20 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Binah Urban (Blue TOR / Red+Yellow INS) (Yellow atk)<br>G: 2024-08-13 02:00 Tue ~ 2024-08-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-03-13 11:00 Wed ~ 2024-03-20 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Gregorius Indoors (Yellow Tor + Red/Blue) (Blue atk)",
+		"content": "[GA] Gregorius Indoors (Yellow TOR / Red+Blue INS) (Blue atk)",
 		"start": "2024-09-17T02:00",
 		"startJp": "2024-04-17T11:00",
 		"end": "2024-09-23T18:59",
@@ -8174,10 +8187,10 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2024-09-23T18:59",
 		"startG": "2024-09-17T02:00",
-		"title": "[GA] Gregorius Indoors (Yellow Tor + Red/Blue) (Blue atk)<br>G: 2024-09-17 02:00 Tue ~ 2024-09-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-04-17 11:00 Wed ~ 2024-04-24 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Gregorius Indoors (Yellow TOR / Red+Blue INS) (Blue atk)<br>G: 2024-09-17 02:00 Tue ~ 2024-09-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-04-17 11:00 Wed ~ 2024-04-24 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Hieronymus Urban (Blue Tor + Red/Yellow) (Red atk)",
+		"content": "[GA] Hieronymus Urban (Blue TOR / Red+Yellow INS) (Red atk)",
 		"start": "2024-10-15T02:00",
 		"startJp": "2024-05-15T11:00",
 		"end": "2024-10-21T18:59",
@@ -8187,10 +8200,10 @@ jpSched = [
 		"style": "color:white;background-color:blue",
 		"endG": "2024-10-21T18:59",
 		"startG": "2024-10-15T02:00",
-		"title": "[GA] Hieronymus Urban (Blue Tor + Red/Yellow) (Red atk)<br>G: 2024-10-15 02:00 Tue ~ 2024-10-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 Wed ~ 2024-05-22 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Hieronymus Urban (Blue TOR / Red+Yellow INS) (Red atk)<br>G: 2024-10-15 02:00 Tue ~ 2024-10-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 Wed ~ 2024-05-22 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Hovercraft Outdoors (Red Tor + Yellow/Blue) (Yellow atk)",
+		"content": "[GA] Hovercraft Outdoors (Red TOR / Yellow+Blue INS) (Yellow atk)",
 		"start": "2024-11-12T02:00",
 		"startJp": "2024-06-12T11:00",
 		"end": "2024-11-18T18:59",
@@ -8200,10 +8213,10 @@ jpSched = [
 		"style": "color:white;background-color:red",
 		"endG": "2024-11-18T18:59",
 		"startG": "2024-11-12T02:00",
-		"title": "[GA] Hovercraft Outdoors (Red Tor + Yellow/Blue) (Yellow atk)<br>G: 2024-11-12 02:00 Tue ~ 2024-11-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-06-12 11:00 Wed ~ 2024-06-19 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Hovercraft Outdoors (Red TOR / Yellow+Blue INS) (Yellow atk)<br>G: 2024-11-12 02:00 Tue ~ 2024-11-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-06-12 11:00 Wed ~ 2024-06-19 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] ShiroKuro Indoors (Yellow Tor + Red/Purple) (Yellow atk)",
+		"content": "[GA] ShiroKuro Indoors (Yellow TOR / Red+Purple INS) (Yellow atk)",
 		"start": "2024-12-17T02:00",
 		"startJp": "2024-07-17T11:00",
 		"end": "2024-12-21T18:59",
@@ -8213,10 +8226,10 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2024-12-21T18:59",
 		"startG": "2024-12-17T02:00",
-		"title": "[GA] ShiroKuro Indoors (Yellow Tor + Red/Purple) (Yellow atk)<br>G: 2024-12-17 02:00 Tue ~ 2024-12-21 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2024-07-17 11:00 Wed ~ 2024-07-22 03:59 Mon 5d (JST y-m-d)",
+		"title": "[GA] ShiroKuro Indoors (Yellow TOR / Red+Purple INS) (Yellow atk)<br>G: 2024-12-17 02:00 Tue ~ 2024-12-21 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2024-07-17 11:00 Wed ~ 2024-07-22 03:59 Mon 5d (JST y-m-d)",
 		"duration": "5d"
 	},{
-		"content": "[GA] Goz Outdoors (Yellow Tor + Red/Blue) (Red atk)",
+		"content": "[GA] Goz Outdoors (Yellow TOR / Red+Blue INS) (Red atk)",
 		"start": "2025-01-14T02:00",
 		"startJp": "2024-08-14T11:00",
 		"end": "2025-01-20T18:59",
@@ -8226,10 +8239,10 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-01-20T18:59",
 		"startG": "2025-01-14T02:00",
-		"title": "[GA] Goz Outdoors (Yellow Tor + Red/Blue) (Red atk)<br>G: 2025-01-14 02:00 Tue ~ 2025-01-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-14 11:00 Wed ~ 2024-08-21 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Goz Outdoors (Yellow TOR / Red+Blue INS) (Red atk)<br>G: 2025-01-14 02:00 Tue ~ 2025-01-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-14 11:00 Wed ~ 2024-08-21 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Perorodzilla Outdoors (Purple Tor + Yellow/Blue) (Blue atk)",
+		"content": "[GA] Perorodzilla Outdoors (Purple TOR / Yellow+Blue INS) (Blue atk)",
 		"start": "2025-02-11T02:00",
 		"startJp": "2024-09-11T11:00",
 		"end": "2025-02-17T18:59",
@@ -8239,10 +8252,10 @@ jpSched = [
 		"style": "color:white;background-color:purple",
 		"endG": "2025-02-17T18:59",
 		"startG": "2025-02-11T02:00",
-		"title": "[GA] Perorodzilla Outdoors (Purple Tor + Yellow/Blue) (Blue atk)<br>G: 2025-02-11 02:00 Tue ~ 2025-02-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-11 11:00 Wed ~ 2024-09-18 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Perorodzilla Outdoors (Purple TOR / Yellow+Blue INS) (Blue atk)<br>G: 2025-02-11 02:00 Tue ~ 2025-02-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-11 11:00 Wed ~ 2024-09-18 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Kurokage Urban (Purple Tor + Red/Blue) (Blue atk)",
+		"content": "[GA] Kurokage Urban (Purple TOR / Red+Blue INS) (Blue atk)",
 		"start": "2025-03-18T02:00",
 		"startJp": "2024-10-16T11:00",
 		"end": "2025-03-24T18:59",
@@ -8252,10 +8265,10 @@ jpSched = [
 		"style": "color:white;background-color:purple",
 		"endG": "2025-03-24T18:59",
 		"startG": "2025-03-18T02:00",
-		"title": "[GA] Kurokage Urban (Purple Tor + Red/Blue) (Blue atk)<br>G: 2025-03-18 02:00 Tue ~ 2025-03-24 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-10-16 11:00 Wed ~ 2024-10-23 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Kurokage Urban (Purple TOR / Red+Blue INS) (Blue atk)<br>G: 2025-03-18 02:00 Tue ~ 2025-03-24 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-10-16 11:00 Wed ~ 2024-10-23 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Chesed Outdoors (Blue Tor + Yellow/Purple) (Red atk)",
+		"content": "[GA] Chesed Outdoors (Blue TOR / Yellow+Purple INS) (Red atk)",
 		"start": "2025-04-15T02:00",
 		"startJp": "2024-11-13T11:00",
 		"end": "2025-04-21T18:59",
@@ -8265,10 +8278,10 @@ jpSched = [
 		"style": "color:white;background-color:blue",
 		"endG": "2025-04-21T18:59",
 		"startG": "2025-04-15T02:00",
-		"title": "[GA] Chesed Outdoors (Blue Tor + Yellow/Purple) (Red atk)<br>G: 2025-04-15 02:00 Tue ~ 2025-04-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 Wed ~ 2024-11-20 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Chesed Outdoors (Blue TOR / Yellow+Purple INS) (Red atk)<br>G: 2025-04-15 02:00 Tue ~ 2025-04-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 Wed ~ 2024-11-20 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Binah Urban (Yellow Tor + Blue/Purple) (Yellow atk)",
+		"content": "[GA] Binah Urban (Yellow TOR / Blue+Purple INS) (Yellow atk)",
 		"start": "2025-05-13T08:00",
 		"startJp": "2024-12-11T17:00",
 		"end": "2025-05-19T18:59",
@@ -8278,10 +8291,10 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-05-19T18:59",
 		"startG": "2025-05-13T02:00",
-		"title": "[GA] Binah Urban (Yellow Tor + Blue/Purple) (Yellow atk)<br>G: 2025-05-13 02:00 Tue ~ 2025-05-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 Wed ~ 2024-12-18 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Binah Urban (Yellow TOR / Blue+Purple INS) (Yellow atk)<br>G: 2025-05-13 02:00 Tue ~ 2025-05-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 Wed ~ 2024-12-18 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] KAITEN Urban (Red Tor + Yellow/Blue) (Yellow atk)",
+		"content": "[GA] KAITEN Urban (Red TOR / Yellow+Blue INS) (Yellow atk)",
 		"start": "2025-06-17T02:00",
 		"startJp": "2025-01-15T11:00",
 		"end": "2025-06-21T18:59",
@@ -8291,10 +8304,10 @@ jpSched = [
 		"style": "color:white;background-color:red",
 		"endG": "2025-06-21T18:59",
 		"startG": "2025-06-17T02:00",
-		"title": "[GA] KAITEN Urban (Red Tor + Yellow/Blue) (Yellow atk)<br>G: 2025-06-17 02:00 Tue ~ 2025-06-21 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 Wed ~ 2025-01-20 03:59 Mon 5d (JST y-m-d)",
+		"title": "[GA] KAITEN Urban (Red TOR / Yellow+Blue INS) (Yellow atk)<br>G: 2025-06-17 02:00 Tue ~ 2025-06-21 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 Wed ~ 2025-01-20 03:59 Mon 5d (JST y-m-d)",
 		"duration": "5d"
 	},{
-		"content": "[GA] Gregorius Indoors (Blue Tor + Red/Yellow) (Blue atk)",
+		"content": "[GA] Gregorius Indoors (Blue TOR / Red+Yellow INS) (Blue atk)",
 		"start": "2025-07-15T02:00",
 		"startJp": "2025-02-12T11:00",
 		"end": "2025-07-21T18:59",
@@ -8304,10 +8317,10 @@ jpSched = [
 		"style": "color:white;background-color:blue",
 		"endG": "2025-07-21T18:59",
 		"startG": "2025-07-15T02:00",
-		"title": "[GA] Gregorius Indoors (Blue Tor + Red/Yellow) (Blue atk)<br>G: 2025-07-15 02:00 Tue ~ 2025-07-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 Wed ~ 2025-02-19 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Gregorius Indoors (Blue TOR / Red+Yellow INS) (Blue atk)<br>G: 2025-07-15 02:00 Tue ~ 2025-07-21 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 Wed ~ 2025-02-19 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Binah Outdoors (Red Tor + Blue/Purple) (Yellow atk)",
+		"content": "[GA] Binah Outdoors (Red TOR / Blue+Purple INS) (Yellow atk)",
 		"start": "2025-08-19T02:00",
 		"startJp": "2025-03-19T11:00",
 		"end": "2025-08-25T18:59",
@@ -8317,10 +8330,10 @@ jpSched = [
 		"style": "color:white;background-color:red",
 		"endG": "2025-08-25T18:59",
 		"startG": "2025-08-19T02:00",
-		"title": "[GA] Binah Outdoors (Red Tor + Blue/Purple) (Yellow atk)<br>G: 2025-08-19 02:00 Tue ~ 2025-08-25 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Binah Outdoors (Red TOR / Blue+Purple INS) (Yellow atk)<br>G: 2025-08-19 02:00 Tue ~ 2025-08-25 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Chesed Indoors (Purple Tor + Red/Yellow) (Red atk)",
+		"content": "[GA] Chesed Indoors (Purple TOR / Red+Yellow INS) (Red atk)",
 		"start": "2025-09-16T02:00",
 		"startJp": "2025-04-16T11:00",
 		"end": "2025-09-21T18:59",
@@ -8330,10 +8343,10 @@ jpSched = [
 		"style": "color:white;background-color:purple",
 		"endG": "2025-09-21T18:59",
 		"startG": "2025-09-16T02:00",
-		"title": "[GA] Chesed Indoors (Purple Tor + Red/Yellow) (Red atk)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-21 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 03:59 Tue 6d (JST y-m-d)",
+		"title": "[GA] Chesed Indoors (Purple TOR / Red+Yellow INS) (Red atk)<br>G: 2025-09-16 02:00 Tue ~ 2025-09-21 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 03:59 Tue 6d (JST y-m-d)",
 		"duration": "6d"
 	},{
-		"content": "[GA] ShiroKuro Indoors (Purple Tor + Yellow/Blue) (Yellow atk)",
+		"content": "[GA] ShiroKuro Indoors (Purple TOR / Yellow+Blue INS) (Yellow atk)",
 		"start": "2025-10-14T02:00",
 		"startJp": "2025-05-14T11:00",
 		"end": "2025-10-20T18:59",
@@ -8343,10 +8356,10 @@ jpSched = [
 		"style": "color:white;background-color:purple",
 		"endG": "2025-10-20T18:59",
 		"startG": "2025-10-14T02:00",
-		"title": "[GA] ShiroKuro Indoors (Purple Tor + Yellow/Blue) (Yellow atk)<br>G: 2025-10-14 02:00 Tue ~ 2025-10-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] ShiroKuro Indoors (Purple TOR / Yellow+Blue INS) (Yellow atk)<br>G: 2025-10-14 02:00 Tue ~ 2025-10-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Hieronymus Urban (Yellow Tor + Red/Purple) (Red atk)",
+		"content": "[GA] Hieronymus Urban (Yellow TOR / Red+Purple INS) (Red atk)",
 		"start": "2025-11-11T02:00",
 		"startJp": "2025-06-11T11:00",
 		"end": "2025-11-17T18:59",
@@ -8356,10 +8369,10 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-11-17T18:59",
 		"startG": "2025-11-11T02:00",
-		"title": "[GA] Hieronymus Urban (Yellow Tor + Red/Purple) (Red atk)<br>G: 2025-11-11 02:00 Tue ~ 2025-11-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-11 11:00 Wed ~ 2025-06-18 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Hieronymus Urban (Yellow TOR / Red+Purple INS) (Red atk)<br>G: 2025-11-11 02:00 Tue ~ 2025-11-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-11 11:00 Wed ~ 2025-06-18 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] KAITEN Outdoors (Blue Tor + Red/Purple) (Yellow atk)",
+		"content": "[GA] KAITEN Outdoors (Blue TOR / Red+Purple INS) (Yellow atk)",
 		"start": "2025-12-16T02:00",
 		"startJp": "2025-07-16T11:00",
 		"end": "2025-12-21T18:59",
@@ -8369,10 +8382,10 @@ jpSched = [
 		"style": "color:white;background-color:blue",
 		"endG": "2025-12-21T18:59",
 		"startG": "2025-12-16T02:00",
-		"title": "[GA] KAITEN Outdoors (Blue Tor + Red/Purple) (Yellow atk)<br>G: 2025-12-16 02:00 Tue ~ 2025-12-21 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2025-07-16 11:00 Wed ~ 2025-07-22 03:59 Tue 6d (JST y-m-d)",
+		"title": "[GA] KAITEN Outdoors (Blue TOR / Red+Purple INS) (Yellow atk)<br>G: 2025-12-16 02:00 Tue ~ 2025-12-21 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2025-07-16 11:00 Wed ~ 2025-07-22 03:59 Tue 6d (JST y-m-d)",
 		"duration": "6d"
 	},{
-		"content": "[GA] Binah Urban (Purple Tor + Red/Blue) (Yellow atk)",
+		"content": "[GA] Binah Urban (Purple TOR / Red+Blue INS) (Yellow atk)",
 		"start": "2026-01-13T02:00",
 		"startJp": "2025-08-13T11:00",
 		"end": "2026-01-19T18:59",
@@ -8382,10 +8395,10 @@ jpSched = [
 		"style": "color:white;background-color:purple",
 		"endG": "2026-01-19T18:59",
 		"startG": "2026-01-13T02:00",
-		"title": "[GA] Binah Urban (Purple Tor + Red/Blue) (Yellow atk)<br>G: 2026-01-13 02:00 Tue ~ 2026-01-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-08-13 11:00 Wed ~ 2025-08-20 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Binah Urban (Purple TOR / Red+Blue INS) (Yellow atk)<br>G: 2026-01-13 02:00 Tue ~ 2026-01-19 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-08-13 11:00 Wed ~ 2025-08-20 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Chesed Outdoors (Purple Tor + Red/Yellow) (Red atk)",
+		"content": "[GA] Chesed Outdoors (Purple TOR / Red+Yellow INS) (Red atk)",
 		"start": "2026-02-10T02:00",
 		"startJp": "2025-09-10T11:00",
 		"end": "2026-02-16T18:59",
@@ -8395,7 +8408,20 @@ jpSched = [
 		"style": "color:white;background-color:purple",
 		"endG": "2026-02-16T18:59",
 		"startG": "2026-02-10T02:00",
-		"title": "[GA] Chesed Outdoors (Purple Tor + Red/Yellow) (Red atk)<br>G: 2026-02-10 02:00 Tue ~ 2026-02-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-09-10 11:00 Wed ~ 2025-09-17 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Chesed Outdoors (Purple TOR / Red+Yellow INS) (Red atk)<br>G: 2026-02-10 02:00 Tue ~ 2026-02-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-09-10 11:00 Wed ~ 2025-09-17 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[GA] ShiroKuro Indoors (Red+Purple TOR / Blue INS) (Yellow atk)",
+		"start": "2026-03-17T02:00",
+		"startJp": "2025-10-15T11:00",
+		"end": "2026-03-23T18:59",
+		"endJp": "2025-10-22T03:59",
+		"group": "J Raid",
+		"subgroup": "GA",
+		"style": "color:black;background-color:pink",
+		"endG": "2026-03-23T18:59",
+		"startG": "2026-03-17T02:00",
+		"title": "[GA] ShiroKuro Indoors (Red+Purple TOR / Blue INS) (Yellow atk)<br>G: 2026-03-17 02:00 Tue ~ 2026-03-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[LBA] S1 The Fury of Set Blue (Red atk)",
@@ -8642,7 +8668,7 @@ jpSched = [
 		"style": "color:white;background-color:blue",
 		"endG": "2026-03-23T18:59",
 		"startG": "2026-02-25T02:00",
-		"title": "[LBA] S19 Chokmah Blue (Blue atk)<br>G: 2026-02-25 02:00 Wed ~ 2026-03-23 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2025-09-25 11:00 Thu ~ 2025-10-22 03:59 Wed 27d (JST y-m-d)",
+		"title": "[LBA] S19 The Fury of Set Blue (Red atk)<br>G: 2026-02-25 02:00 Wed ~ 2026-03-23 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2025-09-25 11:00 Thu ~ 2025-10-22 03:59 Wed 27d (JST y-m-d)",
 		"duration": "27d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino\" title=\"Hoshino\">Hoshino</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko\" title=\"Shiroko\">Shiroko</a> (New)",
@@ -17198,32 +17224,6 @@ jpSched = [
 		"startG": "2026-02-24T02:00",
 		"title": "[Main] 誰が為の芸術～偽飾の絵画と美学の行方～<br>G: 2026-02-24 02:00 Tue ~ 2026-03-17 02:00 Tue 21d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-15 11:00 Wed 21d (JST y-m-d)",
 		"duration": "21d"
-	},{
-		"content": "[TA] Geburah Outdoors Red",
-		"start": "2026-03-03T02:00",
-		"startJp": "2025-10-01T11:00",
-		"end": "2026-03-09T19:00",
-		"endJp": "2025-10-08T04:00",
-		"group": "J Raid",
-		"subgroup": "TA",
-		"style": "color:white;background-color:red",
-		"endG": "2026-03-09T19:00",
-		"startG": "2026-03-03T02:00",
-		"title": "[TA] Geburah Outdoors Red<br>G: 2026-03-03 02:00 Tue ~ 2026-03-09 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-01 11:00 Wed ~ 2025-10-08 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "[GA] Shirokuro Indoor (Red+Purple TOR / Yellow INS)",
-		"start": "2026-03-17T02:00",
-		"startJp": "2025-10-15T11:00",
-		"end": "2026-03-23T19:00",
-		"endJp": "2025-10-22T04:00",
-		"group": "J Raid",
-		"subgroup": "GA",
-		"style": "color:black;background-color:pink",
-		"endG": "2026-03-23T19:00",
-		"startG": "2026-03-17T02:00",
-		"title": "[GA] Shirokuro Indoor (Red+Purple TOR / Yellow INS)<br>G: 2026-03-17 02:00 Tue ~ 2026-03-23 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
 	},{
 		"content": "2x Bounty / Scrimm",
 		"start": "2026-02-23T19:00",
