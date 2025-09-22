@@ -16770,7 +16770,7 @@ jpSched = [
 		"title": "[Bluefes] 2x 3* rates<br>G: 2025-12-30 02:00 Tue ~ 2026-01-06 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-07-30 11:00 Wed ~ 2025-08-06 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[QoL] SPECIAL DANGLES",
+		"content": "<s>[QoL] SPECIAL DANGLES</s>. Added to Global with the Shupogakis",
 		"start": "2025-12-22T10:00",
 		"startJp": "2025-07-22T19:00",
 		"end": "2026-01-06T02:00",
@@ -16780,7 +16780,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-01-06T02:00",
 		"startG": "2025-12-22T02:00",
-		"title": "[QoL] SPECIAL DANGLES<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"title": "<s>[QoL] SPECIAL DANGLES</s>. Added to Global with the Shupogakis<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
 		"content": "[QoL] T2~T6 Drop rate buff",
@@ -16809,32 +16809,6 @@ jpSched = [
 		"title": "[Shop] \"Battlepass\"<br>G: 2025-12-22 02:00 Mon ~ 2026-01-20 02:00 Tue 29d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-20 11:00 Wed 29d (JST y-m-d)",
 		"duration": "29d"
 	},{
-		"content": "[QoL] Newfag Sensei XP adjustment (up to lvl 70)",
-		"start": "2025-12-22T10:00",
-		"startJp": "2025-07-22T19:00",
-		"end": "2026-01-06T02:00",
-		"endJp": "2025-08-06T11:00",
-		"group": "J Other",
-		"subgroup": "Other",
-		"style": "color:black;background-color:lightblue",
-		"endG": "2026-01-06T02:00",
-		"startG": "2025-12-22T02:00",
-		"title": "[QoL] Newfag Sensei XP adjustment (up to lvl 70)<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
-		"duration": "15d"
-	},{
-		"content": "[QoL] Daily 10-AP free pakeji",
-		"start": "2025-12-22T10:00",
-		"startJp": "2025-07-22T19:00",
-		"end": "2026-01-06T02:00",
-		"endJp": "2025-08-06T11:00",
-		"group": "J Other",
-		"subgroup": "Other",
-		"style": "color:black;background-color:lightblue",
-		"endG": "2026-01-06T02:00",
-		"startG": "2025-12-22T02:00",
-		"title": "[QoL] Daily 10-AP free pakeji<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
-		"duration": "15d"
-	},{
 		"content": "[Mission] Area 29 (Hinata)",
 		"start": "2026-01-06T08:00",
 		"startJp": "2025-08-06T17:00",
@@ -16848,18 +16822,31 @@ jpSched = [
 		"title": "[Mission] Area 29 (Hinata)<br>G: 2026-01-06 02:00 Tue ~ 2026-01-20 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-20 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Guide Mission] Omotenashi Teatime (Permanent)",
+		"content": "</s>[QoL] Newfag Sensei XP adjustment (up to lvl 70)</s>. Added to Global with the Shupogakis",
 		"start": "2025-12-22T10:00",
 		"startJp": "2025-07-22T19:00",
-		"end": "2026-01-20T02:00",
-		"endJp": "2025-08-20T11:00",
+		"end": "2026-01-06T02:00",
+		"endJp": "2025-08-06T11:00",
 		"group": "J Other",
 		"subgroup": "Other",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-01-20T02:00",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-01-06T02:00",
 		"startG": "2025-12-22T02:00",
-		"title": "[Guide Mission] Omotenashi Teatime (Permanent)<br>G: 2025-12-22 02:00 Mon ~ 2026-01-20 02:00 Tue 29d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-20 11:00 Wed 29d (JST y-m-d)",
-		"duration": "29d"
+		"title": "</s>[QoL] Newfag Sensei XP adjustment (up to lvl 70)</s>. Added to Global with the Shupogakis<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"duration": "15d"
+	},{
+		"content": "<s>[QoL] Daily 10-AP free pakeji</s>. Added to Global with the Shupogakis",
+		"start": "2025-12-22T10:00",
+		"startJp": "2025-07-22T19:00",
+		"end": "2026-01-06T02:00",
+		"endJp": "2025-08-06T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-01-06T02:00",
+		"startG": "2025-12-22T02:00",
+		"title": "<s>[QoL] Daily 10-AP free pakeji</s>. Added to Global with the Shupogakis<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"duration": "15d"
 	},{
 		"content": "<s>[QoL] Extra 100 Elephs when getting the banner student for the 1st time, on that run</s>. Added to Global with the Shupogakis",
 		"start": "2025-12-22T10:00",

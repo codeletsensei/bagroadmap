@@ -1207,6 +1207,48 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Atsuko",
+    "start": "2025-10-07T02:00:00.000Z",
+    "end": "2025-10-14T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Hiyori",
+    "start": "2025-10-07T02:00:00.000Z",
+    "end": "2025-10-14T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Saori",
+    "start": "2025-10-07T02:00:00.000Z",
+    "end": "2025-10-14T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Pina (Guide) (New)",
+    "start": "2025-10-14T02:00:00.000Z",
+    "end": "2025-10-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Tsubaki (Guide)",
+    "start": "2025-10-14T02:00:00.000Z",
+    "end": "2025-10-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Umika",
+    "start": "2025-10-14T02:00:00.000Z",
+    "end": "2025-10-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -1661,6 +1703,20 @@ confirmed = [
     "content": "[Main] Highlander Railroad Runaway Incident 〜 And Then The Train Disappeared 〜",
     "start": "2025-09-23T02:00:00.000Z",
     "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "Special Investigation: The Tree of Sephiroth",
+    "start": "2025-10-07T02:00:00.000Z",
+    "end": "2025-10-14T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[R] Rowdy and Cheery",
+    "start": "2025-10-14T02:00:00.000Z",
+    "end": "2025-10-21T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
@@ -2142,15 +2198,29 @@ confirmed = [
     "start": "2025-09-30T02:00:00.000Z",
     "end": "2025-10-06T19:00:00.000Z",
     "group": "G Raid",
-    "subgroup": "GA",
+    "subgroup": "TA",
     "style": "color:white; background-color:red "
   },{
     "content": "[JFD] Shooting Red Urban. AR & SR buff. Enemies with high DEF & HP.",
     "start": "2025-10-07T02:00:00.000Z",
     "end": "2025-10-13T19:00:00.000Z",
     "group": "G Raid",
-    "subgroup": "GA",
+    "subgroup": "JFD",
     "style": "color:white; background-color:red "
+  },{
+    "content": "[LBA] S14 Tiphareth Purple (Yellow atk)",
+    "start": "2025-09-24T02:00:00.000Z",
+    "end": "2025-10-20T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "LBA",
+    "style": "color:white; background-color:purple "
+  },{
+    "content": "[GA] Shirokuro Indoor (Purple TOR + Yellow/Blue)",
+    "start": "2025-10-14T02:00:00.000Z",
+    "end": "2025-10-20T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:white; background-color:purple "
   },{
 //
 // CAMPAIGNS
@@ -2946,6 +3016,41 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Normal",
+    "start": "2025-09-29T19:00:00.000Z",
+    "end": "2025-10-06T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-10-02T19:00:00.000Z",
+    "end": "2025-10-05T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Comm",
+    "start": "2025-10-06T19:00:00.000Z",
+    "end": "2025-10-13T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-10-09T19:00:00.000Z",
+    "end": "2025-10-12T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Hard/Scrimm",
+    "start": "2025-10-13T19:00:00.000Z",
+    "end": "2025-10-20T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 // MISC
 //
@@ -3348,6 +3453,20 @@ confirmed = [
     "subgroup": "Other",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[Main Story] Vol.EX: Decagrammaton Ch2 P3 (ep 23-31)",
+    "start": "2025-10-07T02:00:00.000Z",
+    "end": "2025-10-21T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Perm GM] A Special Teatime for Honored Guests",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
+  },{
     "content": "[QoL] Commission Stage 14/N + Bounty Stage 10/J",
     "start": "2025-09-23T02:00:00.000Z",
     "end": "2025-10-07T02:00:00.000Z",
@@ -3355,7 +3474,21 @@ confirmed = [
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
   },{
-    "content": "[QoL] Highlander mats on Bounty (Highway) and Lesson. (Sora shop after monthly reset)",
+    "content": "[QoL] Highlander mats on Bounty (Highway) and Lesson.",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Daily 10-AP free pakeji",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] SPECIAL DANGLES",
     "start": "2025-09-23T02:00:00.000Z",
     "end": "2025-10-07T02:00:00.000Z",
     "group": "G Other",
@@ -3386,6 +3519,27 @@ confirmed = [
     "content": "[QoL] Pyroxene/Whale Shop",
     "start": "2025-09-23T02:00:00.000Z",
     "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Newfag Sensei XP adjustment (up to lvl 70)",
+    "start": "2025-09-23T02:00:00.000Z",
+    "end": "2025-10-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[GA Shop] Shiroko (Riding), silver coins",
+    "start": "2025-09-30T19:00:00.000Z",
+    "end": "2025-10-14T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Highlander mats on TA/GA/Bounty shops",
+    "start": "2025-09-30T19:00:00.000Z",
+    "end": "2025-10-14T19:00:00.000Z",
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
