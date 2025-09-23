@@ -3537,6 +3537,13 @@ confirmed = [
     "subgroup": "Other",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "[Permit Shop] Elephs: Mari (Idol), Sakurako (Idol)",
+    "start": "2025-09-30T19:00:00.000Z",
+    "end": "2025-10-14T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
+  },{
     "content": "Highlander mats on TA/GA/Bounty shops",
     "start": "2025-09-30T19:00:00.000Z",
     "end": "2025-10-14T19:00:00.000Z",

@@ -13832,6 +13832,19 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuyu?action=edit&amp;redlink=1\" class=\"new\" title=\"Fuyu (page does not exist)\">Fuyu</a>\n (New)<br>G: 2026-02-24 02:00 Tue ~ 2026-03-10 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Satsuki\" title=\"Satsuki\">Satsuki</a>\n",
+		"start": "2026-02-24T02:00",
+		"startJp": "2025-09-24T11:00",
+		"end": "2026-03-10T01:59",
+		"endJp": "2025-10-08T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-03-10T01:59",
+		"startG": "2026-02-24T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Satsuki\" title=\"Satsuki\">Satsuki</a>\n<br>G: 2026-02-24 02:00 Tue ~ 2026-03-10 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ritsu?action=edit&amp;redlink=1\" class=\"new\" title=\"Ritsu (page does not exist)\">Ritsu</a>\n (New)",
 		"start": "2026-03-10T02:00",
 		"startJp": "2025-10-08T11:00",
@@ -16458,18 +16471,31 @@ jpSched = [
 		"title": "[Welfare] Aoba<br>G: 2025-09-22 02:00 Mon ~ 2025-10-07 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-04-22 11:00 Tue ~ 2025-05-07 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[GA Shop] Shiroko (Riding), silver, on shop reset",
-		"start": "2025-09-30T19:00",
-		"startJp": "2025-05-01T04:00",
-		"end": "2025-10-13T19:00",
-		"endJp": "2025-05-14T04:00",
+		"content": "[Permit Shop] Elephs: Mari (Idol), Sakurako (Idol). On shop reset.",
+		"start": "2025-09-22T19:00",
+		"startJp": "2025-04-23T04:00",
+		"end": "2025-10-06T19:00",
+		"endJp": "2025-05-07T04:00",
 		"group": "J Other",
 		"subgroup": "Other",
 		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-10-13T19:00",
-		"startG": "2025-09-30T19:00",
-		"title": "[GA Shop] Shiroko (Riding), silver, on shop reset<br>G: 2025-09-30 19:00 Tue ~ 2025-10-13 19:00 Mon 13d (UTC y-m-d)<br>Jp: 2025-05-01 04:00 Thu ~ 2025-05-14 04:00 Wed 13d (JST y-m-d)",
-		"duration": "13d"
+		"endG": "2025-10-06T19:00",
+		"startG": "2025-09-22T19:00",
+		"title": "[Permit Shop] Elephs: Mari (Idol), Sakurako (Idol). On shop reset.<br>G: 2025-09-22 19:00 Mon ~ 2025-10-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-04-23 04:00 Wed ~ 2025-05-07 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[GA Shop] Shiroko (Riding), silver, on shop reset",
+		"start": "2025-09-22T19:00",
+		"startJp": "2025-04-23T04:00",
+		"end": "2025-10-06T19:00",
+		"endJp": "2025-05-07T04:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2025-10-06T19:00",
+		"startG": "2025-09-22T19:00",
+		"title": "[GA Shop] Shiroko (Riding), silver, on shop reset<br>G: 2025-09-22 19:00 Mon ~ 2025-10-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-04-23 04:00 Wed ~ 2025-05-07 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
 	},{
 		"content": "[Main Story] Vol.EX: Decagrammaton Ch.2 P3 (ep 23~31)",
 		"start": "2025-10-07T08:00",
@@ -16770,19 +16796,6 @@ jpSched = [
 		"title": "[Bluefes] 2x 3* rates<br>G: 2025-12-30 02:00 Tue ~ 2026-01-06 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-07-30 11:00 Wed ~ 2025-08-06 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "<s>[QoL] SPECIAL DANGLES</s>. Added to Global with the Shupogakis",
-		"start": "2025-12-22T10:00",
-		"startJp": "2025-07-22T19:00",
-		"end": "2026-01-06T02:00",
-		"endJp": "2025-08-06T11:00",
-		"group": "J Other",
-		"subgroup": "Other",
-		"style": "color:black;background-color:lightblue",
-		"endG": "2026-01-06T02:00",
-		"startG": "2025-12-22T02:00",
-		"title": "<s>[QoL] SPECIAL DANGLES</s>. Added to Global with the Shupogakis<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
-		"duration": "15d"
-	},{
 		"content": "[QoL] T2~T6 Drop rate buff",
 		"start": "2025-12-22T10:00",
 		"startJp": "2025-07-22T19:00",
@@ -16821,6 +16834,19 @@ jpSched = [
 		"startG": "2026-01-06T02:00",
 		"title": "[Mission] Area 29 (Hinata)<br>G: 2026-01-06 02:00 Tue ~ 2026-01-20 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-20 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
+	},{
+		"content": "<s>[QoL] SPECIAL DANGLES</s>. Added to Global with the Shupogakis",
+		"start": "2025-12-22T10:00",
+		"startJp": "2025-07-22T19:00",
+		"end": "2026-01-06T02:00",
+		"endJp": "2025-08-06T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-01-06T02:00",
+		"startG": "2025-12-22T02:00",
+		"title": "<s>[QoL] SPECIAL DANGLES</s>. Added to Global with the Shupogakis<br>G: 2025-12-22 02:00 Mon ~ 2026-01-06 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"duration": "15d"
 	},{
 		"content": "</s>[QoL] Newfag Sensei XP adjustment (up to lvl 70)</s>. Added to Global with the Shupogakis",
 		"start": "2025-12-22T10:00",
@@ -16901,30 +16927,30 @@ jpSched = [
 		"duration": "15d"
 	},{
 		"content": "[JFD Shop] Nodoka (Onsen)",
-		"start": "2025-12-31T19:00",
-		"startJp": "2025-08-01T04:00",
-		"end": "2026-01-14T19:00",
-		"endJp": "2025-08-15T04:00",
+		"start": "2025-12-22T19:00",
+		"startJp": "2025-07-23T04:00",
+		"end": "2026-01-04T19:00",
+		"endJp": "2025-08-05T04:00",
 		"group": "J Other",
 		"subgroup": "Other",
 		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-01-14T19:00",
-		"startG": "2025-12-31T19:00",
-		"title": "[JFD Shop] Nodoka (Onsen)<br>G: 2025-12-31 19:00 Wed ~ 2026-01-14 19:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-08-01 04:00 Fri ~ 2025-08-15 04:00 Fri 14d (JST y-m-d)",
-		"duration": "14d"
+		"endG": "2026-01-04T19:00",
+		"startG": "2025-12-22T19:00",
+		"title": "[JFD Shop] Nodoka (Onsen)<br>G: 2025-12-22 19:00 Mon ~ 2026-01-04 19:00 Sun 13d (UTC y-m-d)<br>Jp: 2025-07-23 04:00 Wed ~ 2025-08-05 04:00 Tue 13d (JST y-m-d)",
+		"duration": "13d"
 	},{
-		"content": "[Permit Shop] Elephs: Seia, Asuna (Uniform), Miyu (Swimsuit)",
-		"start": "2025-12-31T19:00",
-		"startJp": "2025-08-01T04:00",
-		"end": "2026-01-14T19:00",
-		"endJp": "2025-08-15T04:00",
+		"content": "[Permit Shop] Elephs: Seia, Asuna (Uniform), Miyu (Swimsuit). On shop reset.",
+		"start": "2025-12-22T19:00",
+		"startJp": "2025-07-23T04:00",
+		"end": "2026-01-04T19:00",
+		"endJp": "2025-08-05T04:00",
 		"group": "J Other",
 		"subgroup": "Other",
 		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-01-14T19:00",
-		"startG": "2025-12-31T19:00",
-		"title": "[Permit Shop] Elephs: Seia, Asuna (Uniform), Miyu (Swimsuit)<br>G: 2025-12-31 19:00 Wed ~ 2026-01-14 19:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-08-01 04:00 Fri ~ 2025-08-15 04:00 Fri 14d (JST y-m-d)",
-		"duration": "14d"
+		"endG": "2026-01-04T19:00",
+		"startG": "2025-12-22T19:00",
+		"title": "[Permit Shop] Elephs: Seia, Asuna (Uniform), Miyu (Swimsuit). On shop reset.<br>G: 2025-12-22 19:00 Mon ~ 2026-01-04 19:00 Sun 13d (UTC y-m-d)<br>Jp: 2025-07-23 04:00 Wed ~ 2025-08-05 04:00 Tue 13d (JST y-m-d)",
+		"duration": "13d"
 	},{
 		"content": "[Group Story] Tea Party",
 		"start": "2026-01-13T02:00",
@@ -17083,17 +17109,17 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "[Permit Shop] Nagisa (Swimsuit) + Mika (Swimsuit) elephs, on shop reset",
-		"start": "2026-01-31T19:00",
-		"startJp": "2025-09-01T04:00",
-		"end": "2026-02-14T19:00",
-		"endJp": "2025-09-15T04:00",
+		"start": "2026-01-20T19:00",
+		"startJp": "2025-08-21T04:00",
+		"end": "2026-02-02T19:00",
+		"endJp": "2025-09-03T04:00",
 		"group": "J Other",
 		"subgroup": "",
 		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-02-14T19:00",
-		"startG": "2026-01-31T19:00",
-		"title": "[Permit Shop] Nagisa (Swimsuit) + Mika (Swimsuit) elephs, on shop reset<br>G: 2026-01-31 19:00 Sat ~ 2026-02-14 19:00 Sat 14d (UTC y-m-d)<br>Jp: 2025-09-01 04:00 Mon ~ 2025-09-15 04:00 Mon 14d (JST y-m-d)",
-		"duration": "14d"
+		"endG": "2026-02-02T19:00",
+		"startG": "2026-01-20T19:00",
+		"title": "[Permit Shop] Nagisa (Swimsuit) + Mika (Swimsuit) elephs, on shop reset<br>G: 2026-01-20 19:00 Tue ~ 2026-02-02 19:00 Mon 13d (UTC y-m-d)<br>Jp: 2025-08-21 04:00 Thu ~ 2025-09-03 04:00 Wed 13d (JST y-m-d)",
+		"duration": "13d"
 	},{
 		"content": "[QoL] Slight UI changes (no more scrolling on lessons, fav button on the student's stats screen)",
 		"start": "2026-01-31T19:00",
@@ -17199,6 +17225,19 @@ jpSched = [
 		"title": "[Main Story] V6C2: あの刻に告げし決別<br>G: 2026-03-10 02:00 Tue ~ 2026-03-23 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-08 11:00 Wed ~ 2025-10-22 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "[Crafting] Furniture: \"Wild Hunt Campus\" Series + Pancake Tea Table + Medicine Organizer White Table",
+		"start": "2026-02-24T02:00",
+		"startJp": "2025-09-24T11:00",
+		"end": "2026-03-10T02:00",
+		"endJp": "2025-10-08T11:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-03-10T02:00",
+		"startG": "2026-02-24T02:00",
+		"title": "[Crafting] Furniture: \"Wild Hunt Campus\" Series + Pancake Tea Table + Medicine Organizer White Table<br>G: 2026-02-24 02:00 Tue ~ 2026-03-10 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "[Main] 誰が為の芸術～偽飾の絵画と美学の行方～",
 		"start": "2026-02-24T02:00",
 		"startJp": "2025-09-24T11:00",
@@ -17211,6 +17250,19 @@ jpSched = [
 		"startG": "2026-02-24T02:00",
 		"title": "[Main] 誰が為の芸術～偽飾の絵画と美学の行方～<br>G: 2026-02-24 02:00 Tue ~ 2026-03-17 02:00 Tue 21d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-15 11:00 Wed 21d (JST y-m-d)",
 		"duration": "21d"
+	},{
+		"content": "[Mini Mini] SCHALE Settlement Task with General Student Council",
+		"start": "2026-03-17T02:00",
+		"startJp": "2025-10-15T11:00",
+		"end": "2026-03-24T02:00",
+		"endJp": "2025-10-22T11:00",
+		"group": "J Event",
+		"subgroup": "Mini",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-03-24T02:00",
+		"startG": "2026-03-17T02:00",
+		"title": "[Mini Mini] SCHALE Settlement Task with General Student Council<br>G: 2026-03-17 02:00 Tue ~ 2026-03-24 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	},{
 		"content": "2x Bounty / Scrimm",
 		"start": "2026-02-23T19:00",
