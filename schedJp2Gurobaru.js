@@ -17251,7 +17251,7 @@ jpSched = [
 		"title": "[Main] 誰が為の芸術～偽飾の絵画と美学の行方～<br>G: 2026-02-24 02:00 Tue ~ 2026-03-17 02:00 Tue 21d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-15 11:00 Wed 21d (JST y-m-d)",
 		"duration": "21d"
 	},{
-		"content": "[Mini Mini] SCHALE Settlement Task with General Student Council",
+		"content": "[Mini] SCHALE Settlement Task with General Student Council",
 		"start": "2026-03-17T02:00",
 		"startJp": "2025-10-15T11:00",
 		"end": "2026-03-24T02:00",
@@ -17261,7 +17261,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-03-24T02:00",
 		"startG": "2026-03-17T02:00",
-		"title": "[Mini Mini] SCHALE Settlement Task with General Student Council<br>G: 2026-03-17 02:00 Tue ~ 2026-03-24 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 11:00 Wed 7d (JST y-m-d)",
+		"title": "[Mini] SCHALE Settlement Task with General Student Council<br>G: 2026-03-17 02:00 Tue ~ 2026-03-24 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "2x Bounty / Scrimm",
