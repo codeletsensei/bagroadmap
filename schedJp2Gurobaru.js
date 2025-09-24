@@ -13806,7 +13806,7 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akane_(Bunny_Girl)\" title=\"Akane (Bunny Girl)\">Akane (Bunny Girl)</a>\n<br>G: 2026-02-17 02:00 Tue ~ 2026-02-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-09-17 11:00 Wed ~ 2025-09-24 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyo?action=edit&amp;redlink=1\" class=\"new\" title=\"Miyo (page does not exist)\">Miyo</a>\n (New)",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyo\" title=\"Miyo\">Miyo</a>\n (New)",
 		"start": "2026-02-24T10:00",
 		"startJp": "2025-09-24T19:00",
 		"end": "2026-03-10T01:59",
@@ -13816,10 +13816,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-03-10T01:59",
 		"startG": "2026-02-24T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyo?action=edit&amp;redlink=1\" class=\"new\" title=\"Miyo (page does not exist)\">Miyo</a>\n (New)<br>G: 2026-02-24 02:00 Tue ~ 2026-03-10 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 10:59 Wed 14d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyo\" title=\"Miyo\">Miyo</a>\n (New)<br>G: 2026-02-24 02:00 Tue ~ 2026-03-10 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuyu?action=edit&amp;redlink=1\" class=\"new\" title=\"Fuyu (page does not exist)\">Fuyu</a>\n (New)",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuyu\" title=\"Fuyu\">Fuyu</a>\n (New)",
 		"start": "2026-02-24T10:00",
 		"startJp": "2025-09-24T19:00",
 		"end": "2026-03-10T01:59",
@@ -13829,7 +13829,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-03-10T01:59",
 		"startG": "2026-02-24T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuyu?action=edit&amp;redlink=1\" class=\"new\" title=\"Fuyu (page does not exist)\">Fuyu</a>\n (New)<br>G: 2026-02-24 02:00 Tue ~ 2026-03-10 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 10:59 Wed 14d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Fuyu\" title=\"Fuyu\">Fuyu</a>\n (New)<br>G: 2026-02-24 02:00 Tue ~ 2026-03-10 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Satsuki\" title=\"Satsuki\">Satsuki</a>\n",
@@ -13856,6 +13856,71 @@ jpSched = [
 		"endG": "2026-03-17T01:59",
 		"startG": "2026-03-10T02:00",
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ritsu?action=edit&amp;redlink=1\" class=\"new\" title=\"Ritsu (page does not exist)\">Ritsu</a>\n (New)<br>G: 2026-03-10 02:00 Tue ~ 2026-03-17 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-08 11:00 Wed ~ 2025-10-15 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure\" title=\"Shigure\">Shigure</a>\n",
+		"start": "2026-03-10T02:00",
+		"startJp": "2025-10-08T11:00",
+		"end": "2026-03-17T01:59",
+		"endJp": "2025-10-15T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-03-17T01:59",
+		"startG": "2026-03-10T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shigure\" title=\"Shigure\">Shigure</a>\n<br>G: 2026-03-10 02:00 Tue ~ 2026-03-17 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-08 11:00 Wed ~ 2025-10-15 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a>\n",
+		"start": "2026-03-10T02:00",
+		"startJp": "2025-10-08T11:00",
+		"end": "2026-03-17T01:59",
+		"endJp": "2025-10-15T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-03-17T01:59",
+		"startG": "2026-03-10T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyu\" title=\"Miyu\">Miyu</a>\n<br>G: 2026-03-10 02:00 Tue ~ 2026-03-17 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-08 11:00 Wed ~ 2025-10-15 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L]\n",
+		"start": "2026-03-17T02:00",
+		"startJp": "2025-10-15T11:00",
+		"end": "2026-03-24T01:59",
+		"endJp": "2025-10-22T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-03-24T01:59",
+		"startG": "2026-03-17T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hina_(Swimsuit)\" title=\"Hina (Swimsuit)\">Hina (Swimsuit)</a> [L]\n<br>G: 2026-03-17 02:00 Tue ~ 2026-03-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L]\n",
+		"start": "2026-03-17T02:00",
+		"startJp": "2025-10-15T11:00",
+		"end": "2026-03-24T01:59",
+		"endJp": "2025-10-22T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-03-24T01:59",
+		"startG": "2026-03-17T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iori_(Swimsuit)\" title=\"Iori (Swimsuit)\">Iori (Swimsuit)</a> [L]\n<br>G: 2026-03-17 02:00 Tue ~ 2026-03-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori_(Swimsuit)\" title=\"Mimori (Swimsuit)\">Mimori (Swimsuit)</a>\n",
+		"start": "2026-03-17T02:00",
+		"startJp": "2025-10-15T11:00",
+		"end": "2026-03-24T01:59",
+		"endJp": "2025-10-22T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-03-24T01:59",
+		"startG": "2026-03-17T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori_(Swimsuit)\" title=\"Mimori (Swimsuit)\">Mimori (Swimsuit)</a>\n<br>G: 2026-03-17 02:00 Tue ~ 2026-03-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "EOS",
@@ -17250,19 +17315,6 @@ jpSched = [
 		"startG": "2026-02-24T02:00",
 		"title": "[Crafting] Furniture: \"Wild Hunt Campus\" Series + Pancake Tea Table + Medicine Organizer White Table<br>G: 2026-02-24 02:00 Tue ~ 2026-03-10 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
-	},{
-		"content": "[Main] 誰が為の芸術～偽飾の絵画と美学の行方～",
-		"start": "2026-02-24T10:00",
-		"startJp": "2025-09-24T19:00",
-		"end": "2026-03-17T02:00",
-		"endJp": "2025-10-15T11:00",
-		"group": "J Event",
-		"subgroup": "Main",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-03-17T02:00",
-		"startG": "2026-02-24T02:00",
-		"title": "[Main] 誰が為の芸術～偽飾の絵画と美学の行方～<br>G: 2026-02-24 02:00 Tue ~ 2026-03-17 02:00 Tue 21d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-15 11:00 Wed 21d (JST y-m-d)",
-		"duration": "21d"
 	},{
 		"content": "[Mini] SCHALE Settlement Task with General Student Council",
 		"start": "2026-03-17T02:00",
