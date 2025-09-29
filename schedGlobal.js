@@ -3051,6 +3051,20 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Normal",
+    "start": "2025-10-20T19:00:00.000Z",
+    "end": "2025-10-27T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Comm",
+    "start": "2025-10-27T19:00:00.000Z",
+    "end": "2025-11-03T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 // MISC
 //
