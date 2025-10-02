@@ -3565,6 +3565,13 @@ confirmed = [
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
   },{
+    "content": "[Main Story] V5C2 P1",
+    "start": "2025-10-21T02:00:00.000Z",
+    "end": "2025-11-04T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
+  },{
     "content": "[PVP] Season 9 (Indoor)",
     "start": "2025-10-21T02:00:00.000Z",
     "end": "2025-11-04T19:00:00.000Z",
