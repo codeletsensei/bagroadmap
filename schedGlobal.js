@@ -3030,7 +3030,7 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
-    "content": "2x Comm",
+    "content": "2x Comm/Lesson",
     "start": "2025-10-06T19:00:00.000Z",
     "end": "2025-10-13T19:00:00.000Z",
     "group": "G Camp",
