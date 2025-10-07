@@ -2222,6 +2222,20 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
   },{
+    "content": "[TA] Geburah Outdoors Red (Blue atk)",
+    "start": "2025-10-28T02:00:00.000Z",
+    "end": "2025-11-03T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:white; background-color:red "
+  },{
+    "content": "[JFD] Defense Purple Outdoors. 1dmg/hit, sonic strikers deal additional dmg when at >99% HP.",
+    "start": "2025-11-04T02:00:00.000Z",
+    "end": "2025-11-10T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:white; background-color:purple "
+  },{
 //
 // CAMPAIGNS
 //
