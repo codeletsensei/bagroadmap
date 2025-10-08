@@ -17342,6 +17342,45 @@ jpSched = [
 		"title": "[Crafting] Furniture: \"Wild Hunt Campus\" Series + Pancake Tea Table + Medicine Organizer White Table<br>G: 2026-02-24 02:00 Tue ~ 2026-03-10 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "[PVP] Season 10 (Urban)",
+		"start": "2026-04-07T02:00",
+		"startJp": "2025-11-05T11:00",
+		"end": "2026-04-21T02:00",
+		"endJp": "2025-11-19T11:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:orange",
+		"endG": "2026-04-21T02:00",
+		"startG": "2026-04-07T02:00",
+		"title": "[PVP] Season 10 (Urban)<br>G: 2026-04-07 02:00 Tue ~ 2026-04-21 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-19 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[TA] ???????",
+		"start": "2026-03-31T02:00",
+		"startJp": "2025-10-29T11:00",
+		"end": "2026-04-06T19:00",
+		"endJp": "2025-11-05T04:00",
+		"group": "J Raid",
+		"subgroup": "TA",
+		"style": "color:black;background-color:pink",
+		"endG": "2026-04-06T19:00",
+		"startG": "2026-03-31T02:00",
+		"title": "[TA] ???????<br>G: 2026-03-31 02:00 Tue ~ 2026-04-06 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-29 11:00 Wed ~ 2025-11-05 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[JFD] Escort Purple Outdoors. High DEF enemies; Killing an enemy lowers the others' DEF. Damaging an enemy heals the others; Killing an enemy heals allies + cost recovery buff",
+		"start": "2026-04-07T02:00",
+		"startJp": "2025-11-05T11:00",
+		"end": "2026-04-13T19:00",
+		"endJp": "2025-11-12T04:00",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:white;background-color:purple",
+		"endG": "2026-04-13T19:00",
+		"startG": "2026-04-07T02:00",
+		"title": "[JFD] Escort Purple Outdoors.<br>High DEF enemies; Killing an enemy lowers the others' DEF.<br>Damaging an enemy heals the others; Killing an enemy heals allies + cost recovery buff<br>G: 2026-04-07 02:00 Tue ~ 2026-04-13 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "2x Bounty / Scrimm",
 		"start": "2026-02-23T19:00",
 		"startJp": "2025-09-24T04:00",
