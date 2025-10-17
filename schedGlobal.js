@@ -1256,6 +1256,20 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Niya (New)",
+    "start": "2025-10-21T02:00:00.000Z",
+    "end": "2025-11-04T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Nagusa (New)",
+    "start": "2025-10-21T02:00:00.000Z",
+    "end": "2025-11-04T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
