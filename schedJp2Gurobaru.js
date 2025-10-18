@@ -17381,7 +17381,7 @@ jpSched = [
 		"title": "[Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)<br>G: 2026-06-18 15:01 Thu ~ 2026-06-20 14:59 Sat 2d (UTC y-m-d)<br>Jp: 2026-01-17 00:01 Sat ~ 2026-01-18 23:59 Sun 2d (JST y-m-d)",
 		"duration": "2d"
 	},{
-		"content": "[Main] Mahou Shoujo Heavy Caliber",
+		"content": "[Main] 魔法少女ヘヴィキャリバー～エラの野望と正義の資格～",
 		"start": "2026-03-24T02:00",
 		"startJp": "2025-10-22T11:00",
 		"end": "2026-04-06T19:00",
@@ -17391,7 +17391,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-04-06T19:00",
 		"startG": "2026-03-24T02:00",
-		"title": "[Main] Mahou Shoujo Heavy Caliber<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
+		"title": "[Main] 魔法少女ヘヴィキャリバー～エラの野望と正義の資格～<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[TA] YESOD Urban Purple (Red atk)",
