@@ -1742,6 +1742,27 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[Mini] Balancing Schale's Books with the General Student Council",
+    "start": "2025-10-21T02:00:00.000Z",
+    "end": "2025-11-04T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[GM] Waraku Festival Special Promotional Campaign!",
+    "start": "2025-10-21T02:00:00.000Z",
+    "end": "2025-11-18T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "4-Year Anniversary Countdown Login Event",
+    "start": "2025-11-02T02:00:00.000Z",
+    "end": "2025-11-08T19:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Event",
+    "style": "color:black; background-color:yellow"
+  },{
 //
 // RAIDS
 //
@@ -2241,6 +2262,13 @@ confirmed = [
     "end": "2025-10-20T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "GA",
+    "style": "color:white; background-color:purple "
+  },{
+    "content": "[LBA] Chokmah Yellow (Blue atk)",
+    "start": "2025-10-22T02:00:00.000Z",
+    "end": "2025-11-17T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "LBA",
     "style": "color:white; background-color:purple "
   },{
     "content": "[TA] Geburah Outdoors Red (Blue atk)",
@@ -3600,9 +3628,9 @@ confirmed = [
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
   },{
-    "content": "[Main Story] V5C2 P1",
+    "content": "[Main Story] V5C2 P1 (Ep 1-15)",
     "start": "2025-10-21T02:00:00.000Z",
-    "end": "2025-11-04T19:00:00.000Z",
+    "end": "2025-10-28T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:yellow"
@@ -3613,6 +3641,13 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:orange"
+  },{
+    "content": "[Main Story] V5C2 P2 (Ep 16-28)",
+    "start": "2025-10-28T02:00:00.000Z",
+    "end": "2025-11-04T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
   }
 ]
 
