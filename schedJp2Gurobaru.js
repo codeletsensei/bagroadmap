@@ -6981,6 +6981,19 @@ jpSched = [
 		"title": "[JFD] Defense Indoors Red<br>G: 2026-03-10 02:00 Tue ~ 2026-03-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-08 11:00 Wed ~ 2025-10-15 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "[JFD] Escort Outdoors Purple",
+		"start": "2026-04-07T02:00",
+		"startJp": "2025-11-05T11:00",
+		"end": "2026-04-13T18:59",
+		"endJp": "2025-11-12T03:59",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:white;background-color:purple",
+		"endG": "2026-04-13T18:59",
+		"startG": "2026-04-07T02:00",
+		"title": "[JFD] Escort Outdoors Purple<br>G: 2026-04-07 02:00 Tue ~ 2026-04-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
 		"start": "2021-07-17T19:00",
 		"startJp": "2021-02-15T04:00",
@@ -8073,6 +8086,19 @@ jpSched = [
 		"title": "[TA] Geburah Outdoors Red (Blue atk)<br>G: 2026-03-03 02:00 Tue ~ 2026-03-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-01 11:00 Wed ~ 2025-10-08 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "[TA] Yesod Urban Purple (Red atk)",
+		"start": "2026-03-31T02:00",
+		"startJp": "2025-10-29T11:00",
+		"end": "2026-04-06T18:59",
+		"endJp": "2025-11-05T03:59",
+		"group": "J Raid",
+		"subgroup": "TA",
+		"style": "color:white;background-color:purple",
+		"endG": "2026-04-06T18:59",
+		"startG": "2026-03-31T02:00",
+		"title": "[TA] Yesod Urban Purple (Red atk)<br>G: 2026-03-31 02:00 Tue ~ 2026-04-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-29 11:00 Wed ~ 2025-11-05 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "[GA] Binah Urban (Yellow TOR / Red+Blue INS) (Yellow atk)",
 		"start": "2023-11-28T02:00",
 		"startJp": "2023-06-28T11:00",
@@ -8448,6 +8474,19 @@ jpSched = [
 		"endG": "2026-03-23T18:59",
 		"startG": "2026-03-17T02:00",
 		"title": "[GA] ShiroKuro Indoors (Red+Purple TOR / Blue INS) (Yellow atk)<br>G: 2026-03-17 02:00 Tue ~ 2026-03-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[GA] Hieronymus Urban (Red+Blue TOR / Purple INS) (Red atk)",
+		"start": "2026-04-14T02:00",
+		"startJp": "2025-11-12T11:00",
+		"end": "2026-04-20T18:59",
+		"endJp": "2025-11-19T03:59",
+		"group": "J Raid",
+		"subgroup": "GA",
+		"style": "color:black;background-color:pink",
+		"endG": "2026-04-20T18:59",
+		"startG": "2026-04-14T02:00",
+		"title": "[GA] Hieronymus Urban (Red+Blue TOR / Purple INS) (Red atk)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[LBA] S1 The Fury of Set Blue (Red atk)",
@@ -17355,9 +17394,9 @@ jpSched = [
 		"title": "[PVP] Season 10 (Urban)<br>G: 2026-04-07 02:00 Tue ~ 2026-04-21 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-19 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Dangles] Airi, Yoshimi, Hanae, Kanna, Sena, Ayane (Swimsuit), Karin (Uniform), Nodoka (Onsen), Hinata (Swimsuit), Maki (Camping), Reisa (Magical)",
-		"start": "2026-03-24T02:00",
-		"startJp": "2025-10-22T11:00",
+		"content": "[Special Dangles] Airi, Yoshimi, Hanae, Kanna, Sena, Ayane (Swimsuit), Karin (Uniform), Nodoka (Onsen), Hinata (Swimsuit), Maki (Camping), Reisa (Magical)",
+		"start": "2026-03-24T10:00",
+		"startJp": "2025-10-22T19:00",
 		"end": "2026-04-06T19:00",
 		"endJp": "2025-11-05T04:00",
 		"group": "J Other",
@@ -17365,7 +17404,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-04-06T19:00",
 		"startG": "2026-03-24T02:00",
-		"title": "[Dangles] Airi, Yoshimi, Hanae, Kanna, Sena, Ayane (Swimsuit), Karin (Uniform), Nodoka (Onsen), Hinata (Swimsuit), Maki (Camping), Reisa (Magical)<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
+		"title": "[Special Dangles] Airi, Yoshimi, Hanae, Kanna, Sena, Ayane (Swimsuit), Karin (Uniform), Nodoka (Onsen), Hinata (Swimsuit), Maki (Camping), Reisa (Magical)<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)",
@@ -17373,7 +17412,7 @@ jpSched = [
 		"startJp": "2026-01-17T00:01",
 		"end": "2026-06-20T14:59",
 		"endJp": "2026-01-18T23:59",
-		"group": "J Maint",
+		"group": "J Other",
 		"subgroup": "",
 		"style": "color:black;background-color:cyan",
 		"endG": "2026-06-20T14:59",
@@ -17381,9 +17420,87 @@ jpSched = [
 		"title": "[Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)<br>G: 2026-06-18 15:01 Thu ~ 2026-06-20 14:59 Sat 2d (UTC y-m-d)<br>Jp: 2026-01-17 00:01 Sat ~ 2026-01-18 23:59 Sun 2d (JST y-m-d)",
 		"duration": "2d"
 	},{
-		"content": "[Main] 魔法少女ヘヴィキャリバー～エラの野望と正義の資格～",
+		"content": "EOS",
 		"start": "2026-03-24T02:00",
 		"startJp": "2025-10-22T11:00",
+		"end": "2026-03-24T10:00",
+		"endJp": "2025-10-22T19:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"endG": "2026-03-24T10:00",
+		"startG": "2026-03-24T02:00",
+		"title": "EOS<br>G: 2026-03-24 02:00 Tue ~ 2026-03-24 10:00 Tue 8h (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-10-22 19:00 Wed 8h (JST y-m-d)",
+		"duration": "8h"
+	},{
+		"content": "[GA Shop] Wakamo (Swimsuit), on shop reset",
+		"start": "2026-04-02T19:00",
+		"startJp": "2025-11-01T04:00",
+		"end": "2026-04-16T19:00",
+		"endJp": "2025-11-15T04:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-16T19:00",
+		"startG": "2026-04-02T19:00",
+		"title": "[GA Shop] Wakamo (Swimsuit), on shop reset<br>G: 2026-04-02 19:00 Thu ~ 2026-04-16 19:00 Thu 14d (UTC y-m-d)<br>Jp: 2025-11-01 04:00 Sat ~ 2025-11-15 04:00 Sat 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Permit Shop] Hikari + Nozomi, on shop reset",
+		"start": "2026-04-02T19:00",
+		"startJp": "2025-11-01T04:00",
+		"end": "2026-04-16T19:00",
+		"endJp": "2025-11-15T04:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-16T19:00",
+		"startG": "2026-04-02T19:00",
+		"title": "[Permit Shop] Hikari + Nozomi, on shop reset<br>G: 2026-04-02 19:00 Thu ~ 2026-04-16 19:00 Thu 14d (UTC y-m-d)<br>Jp: 2025-11-01 04:00 Sat ~ 2025-11-15 04:00 Sat 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Crafting] Furniture: Rei, Sumire (Part-Timer), Saori (Dress), Jukebox",
+		"start": "2026-03-24T10:00",
+		"startJp": "2025-10-22T19:00",
+		"end": "2026-04-06T19:00",
+		"endJp": "2025-11-05T04:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-04-06T19:00",
+		"startG": "2026-03-24T02:00",
+		"title": "[Crafting] Furniture: Rei, Sumire (Part-Timer), Saori (Dress), Jukebox<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[QoL] Tasks: Comms now count towards the 10 missions daily",
+		"start": "2026-03-24T10:00",
+		"startJp": "2025-10-22T19:00",
+		"end": "2026-04-06T19:00",
+		"endJp": "2025-11-05T04:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-04-06T19:00",
+		"startG": "2026-03-24T02:00",
+		"title": "[QoL] Tasks: Comms now count towards the 10 missions daily<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[QoL] lvl 30 bond cap at 4*",
+		"start": "2026-03-24T10:00",
+		"startJp": "2025-10-22T19:00",
+		"end": "2026-04-06T19:00",
+		"endJp": "2025-11-05T04:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-04-06T19:00",
+		"startG": "2026-03-24T02:00",
+		"title": "[QoL] lvl 30 bond cap at 4*<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Main] 魔法少女ヘヴィキャリバー～エラの野望と正義の資格～",
+		"start": "2026-03-24T10:00",
+		"startJp": "2025-10-22T19:00",
 		"end": "2026-04-06T19:00",
 		"endJp": "2025-11-05T04:00",
 		"group": "J Event",
@@ -17394,52 +17511,13 @@ jpSched = [
 		"title": "[Main] 魔法少女ヘヴィキャリバー～エラの野望と正義の資格～<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[TA] YESOD Urban Purple (Red atk)",
-		"start": "2026-03-31T02:00",
-		"startJp": "2025-10-29T11:00",
-		"end": "2026-04-06T19:00",
-		"endJp": "2025-11-05T04:00",
-		"group": "J Raid",
-		"subgroup": "TA",
-		"style": "color:white;background-color:purple",
-		"endG": "2026-04-06T19:00",
-		"startG": "2026-03-31T02:00",
-		"title": "[TA] YESOD Urban Purple (Red atk)<br>G: 2026-03-31 02:00 Tue ~ 2026-04-06 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-29 11:00 Wed ~ 2025-11-05 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "[JFD] Escort Purple Outdoors.<br>High DEF enemies; Killing an enemy lowers the others' DEF.<br>Damaging an enemy heals the others; Killing an enemy heals allies + cost recovery buff",
-		"start": "2026-04-07T02:00",
-		"startJp": "2025-11-05T11:00",
-		"end": "2026-04-13T19:00",
-		"endJp": "2025-11-12T04:00",
-		"group": "J Raid",
-		"subgroup": "JFD",
-		"style": "color:white;background-color:purple",
-		"endG": "2026-04-13T19:00",
-		"startG": "2026-04-07T02:00",
-		"title": "[JFD] Escort Purple Outdoors.<br>High DEF enemies; Killing an enemy lowers the others' DEF.<br>Damaging an enemy heals the others; Killing an enemy heals allies + cost recovery buff<br>G: 2026-04-07 02:00 Tue ~ 2026-04-13 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "[GA] Hieronymus Urban (Red+Blue TOR / Purple INS) (Red atk)",
-		"start": "2026-04-14T02:00",
-		"startJp": "2025-11-12T11:00",
-		"end": "2026-04-20T19:00",
-		"endJp": "2025-11-19T04:00",
-		"group": "J Raid",
-		"subgroup": "GA",
-		"style": "color:black;background-color:pink",
-		"endG": "2026-04-20T19:00",
-		"startG": "2026-04-14T02:00",
-		"title": "[GA] Hieronymus Urban (Red+Blue TOR / Purple INS) (Red atk)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-20 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "[LBA] S20 Tiphareth Purple (Yellow atk)",
+		"content": "[GA] S20 Tiphareth Purple (Yellow atk)",
 		"start": "2026-03-25T02:00",
 		"startJp": "2025-10-23T11:00",
 		"end": "2026-04-20T19:00",
 		"endJp": "2025-11-19T04:00",
 		"group": "J Raid",
-		"subgroup": "LBA",
+		"subgroup": "GA",
 		"style": "color:white;background-color:purple",
 		"endG": "2026-04-20T19:00",
 		"startG": "2026-03-25T02:00",
@@ -17447,8 +17525,8 @@ jpSched = [
 		"duration": "27d"
 	},{
 		"content": "Suzumi (Magical) [L] (New)",
-		"start": "2026-03-24T02:00",
-		"startJp": "2025-10-22T11:00",
+		"start": "2026-03-24T10:00",
+		"startJp": "2025-10-22T19:00",
 		"end": "2026-04-07T02:00",
 		"endJp": "2025-11-05T11:00",
 		"group": "J Gacha",
@@ -17460,8 +17538,8 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "Reisa (Magical) [L] (New)",
-		"start": "2026-03-24T02:00",
-		"startJp": "2025-10-22T11:00",
+		"start": "2026-03-24T10:00",
+		"startJp": "2025-10-22T19:00",
 		"end": "2026-04-07T02:00",
 		"endJp": "2025-11-05T11:00",
 		"group": "J Gacha",
@@ -17473,8 +17551,8 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "[Welfare] Rabu (New)",
-		"start": "2026-03-24T02:00",
-		"startJp": "2025-10-22T11:00",
+		"start": "2026-03-24T10:00",
+		"startJp": "2025-10-22T19:00",
 		"end": "2026-04-07T02:00",
 		"endJp": "2025-11-05T11:00",
 		"group": "J Gacha",
