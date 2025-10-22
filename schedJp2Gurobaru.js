@@ -8736,6 +8736,19 @@ jpSched = [
 		"title": "[LBA] S19 The Fury of Set Blue (Red atk)<br>G: 2026-02-25 02:00 Wed ~ 2026-03-23 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2025-09-25 11:00 Thu ~ 2025-10-22 03:59 Wed 27d (JST y-m-d)",
 		"duration": "27d"
 	},{
+		"content": "[LBA] S20 Tiphareth Purple (Yellow atk)",
+		"start": "2026-03-25T02:00",
+		"startJp": "2025-10-23T11:00",
+		"end": "2026-04-20T18:59",
+		"endJp": "2025-11-19T03:59",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:white;background-color:purple",
+		"endG": "2026-04-20T18:59",
+		"startG": "2026-03-25T02:00",
+		"title": "[LBA] S20 Tiphareth Purple (Yellow atk)<br>G: 2026-03-25 02:00 Wed ~ 2026-04-20 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2025-10-23 11:00 Thu ~ 2025-11-19 03:59 Wed 27d (JST y-m-d)",
+		"duration": "27d"
+	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a> (New)",
 		"start": "2021-07-28T05:30",
 		"startJp": "2021-02-25T14:30",
@@ -17511,19 +17524,6 @@ jpSched = [
 		"title": "[Main] 魔法少女ヘヴィキャリバー～エラの野望と正義の資格～<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[GA] S20 Tiphareth Purple (Yellow atk)",
-		"start": "2026-03-25T02:00",
-		"startJp": "2025-10-23T11:00",
-		"end": "2026-04-20T19:00",
-		"endJp": "2025-11-19T04:00",
-		"group": "J Raid",
-		"subgroup": "GA",
-		"style": "color:white;background-color:purple",
-		"endG": "2026-04-20T19:00",
-		"startG": "2026-03-25T02:00",
-		"title": "[GA] S20 Tiphareth Purple (Yellow atk)<br>G: 2026-03-25 02:00 Wed ~ 2026-04-20 19:00 Mon 27d (UTC y-m-d)<br>Jp: 2025-10-23 11:00 Thu ~ 2025-11-19 04:00 Wed 27d (JST y-m-d)",
-		"duration": "27d"
-	},{
 		"content": "Suzumi (Magical) [L] (New)",
 		"start": "2026-03-24T10:00",
 		"startJp": "2025-10-22T19:00",
@@ -17744,5 +17744,83 @@ jpSched = [
 		"startG": "2026-04-02T19:00",
 		"title": "<b>2x XP</b><br>G: 2026-04-02 19:00 Thu ~ 2026-04-05 19:00 Sun 3d (UTC y-m-d)<br>Jp: 2025-11-01 04:00 Sat ~ 2025-11-04 04:00 Tue 3d (JST y-m-d)",
 		"duration": "3d"
+	},{
+		"content": "?Subaru (New)?",
+		"start": "2026-04-14T02:00",
+		"startJp": "2025-11-12T11:00",
+		"end": "2026-04-21T02:00",
+		"endJp": "2025-11-19T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-21T02:00",
+		"startG": "2026-04-14T02:00",
+		"title": "?Subaru (New)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "?Ui (Swimsuit)?",
+		"start": "2026-04-14T02:00",
+		"startJp": "2025-11-12T11:00",
+		"end": "2026-04-21T02:00",
+		"endJp": "2025-11-19T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-21T02:00",
+		"startG": "2026-04-14T02:00",
+		"title": "?Ui (Swimsuit)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "?Hinata (Swimsuit)?",
+		"start": "2026-04-14T02:00",
+		"startJp": "2025-11-12T11:00",
+		"end": "2026-04-21T02:00",
+		"endJp": "2025-11-19T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-21T02:00",
+		"startG": "2026-04-14T02:00",
+		"title": "?Hinata (Swimsuit)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "?[Perm Welfare] Koharu (Swimsuit)?",
+		"start": "2026-04-14T02:00",
+		"startJp": "2025-11-12T11:00",
+		"end": "2026-04-21T02:00",
+		"endJp": "2025-11-19T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-21T02:00",
+		"startG": "2026-04-14T02:00",
+		"title": "?[Perm Welfare] Koharu (Swimsuit)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "?[R] Moonlight Dream (End date unknown)?",
+		"start": "2026-04-07T02:00",
+		"startJp": "2025-11-05T11:00",
+		"end": "2026-04-14T02:00",
+		"endJp": "2025-11-12T11:00",
+		"group": "J Event",
+		"subgroup": "",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-04-14T02:00",
+		"startG": "2026-04-07T02:00",
+		"title": "?[R] Moonlight Dream (End date unknown)?<br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "?[Perm] In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~  (End date unknown)?",
+		"start": "2026-04-14T02:00",
+		"startJp": "2025-11-12T11:00",
+		"end": "2026-04-21T02:00",
+		"endJp": "2025-11-19T11:00",
+		"group": "J Event",
+		"subgroup": "",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-04-21T02:00",
+		"startG": "2026-04-14T02:00",
+		"title": "?[Perm] In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~  (End date unknown)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	}
 ]
