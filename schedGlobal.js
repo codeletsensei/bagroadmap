@@ -2269,7 +2269,7 @@ confirmed = [
     "end": "2025-11-17T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "LBA",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:yellow "
   },{
     "content": "[TA] Geburah Outdoors Red (Blue atk)",
     "start": "2025-10-28T02:00:00.000Z",
