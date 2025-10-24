@@ -1118,6 +1118,32 @@ jpSched = [
 		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2026-03-17 02:00 Tue ~ 2026-03-24 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Magical_Girl_Heavy_Caliber_%EF%BD%9EEra%27s_Ambition_and_the_Right_to_Justice%EF%BD%9E\" title=\"Magical Girl Heavy Caliber ～Era's Ambition and the Right to Justice～\">Magical Girl Heavy Caliber ～Era's Ambition and the Right to Justice～</a>",
+		"start": "2026-03-24T10:00",
+		"startJp": "2025-10-22T19:00",
+		"end": "2026-04-07T02:00",
+		"endJp": "2025-11-05T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-04-07T02:00",
+		"startG": "2026-03-24T02:00",
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Magical_Girl_Heavy_Caliber_%EF%BD%9EEra%27s_Ambition_and_the_Right_to_Justice%EF%BD%9E\" title=\"Magical Girl Heavy Caliber ～Era's Ambition and the Right to Justice～\">Magical Girl Heavy Caliber ～Era's Ambition and the Right to Justice～</a><br>G: 2026-03-24 02:00 Tue ~ 2026-04-07 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moonlight_Dream/Rerun\" title=\"Moonlight Dream/Rerun\">Moonlight Dream</a>",
+		"start": "2026-04-07T02:00",
+		"startJp": "2025-11-05T11:00",
+		"end": "2026-04-14T02:00",
+		"endJp": "2025-11-12T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-04-14T02:00",
+		"startG": "2026-04-07T02:00",
+		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moonlight_Dream/Rerun\" title=\"Moonlight Dream/Rerun\">Moonlight Dream</a><br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
 		"start": "2023-11-07T08:00",
 		"startJp": "2023-06-07T17:00",
@@ -6408,6 +6434,84 @@ jpSched = [
 		"startG": "2026-01-29T19:00",
 		"title": "<b>2x XP</b></b><br>G: 2026-01-29 19:00 Thu ~ 2026-01-31 18:59 Sat 2d (UTC y-m-d)<br>Jp: 2025-08-30 04:00 Sat ~ 2025-09-01 03:59 Mon 2d (JST y-m-d)",
 		"duration": "2d"
+	},{
+		"content": "2x Bounty ",
+		"start": "2026-03-23T19:00",
+		"startJp": "2025-10-22T04:00",
+		"end": "2026-03-30T18:59",
+		"endJp": "2025-10-29T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2026-03-30T18:59",
+		"startG": "2026-03-23T19:00",
+		"title": "2x Bounty <br>G: 2026-03-23 19:00 Mon ~ 2026-03-30 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-22 04:00 Wed ~ 2025-10-29 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "2x Comm ",
+		"start": "2026-03-30T19:00",
+		"startJp": "2025-10-29T04:00",
+		"end": "2026-04-06T18:59",
+		"endJp": "2025-11-05T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2026-04-06T18:59",
+		"startG": "2026-03-30T19:00",
+		"title": "2x Comm <br>G: 2026-03-30 19:00 Mon ~ 2026-04-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-29 04:00 Wed ~ 2025-11-05 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "2x Lesson ",
+		"start": "2026-04-07T19:00",
+		"startJp": "2025-11-06T04:00",
+		"end": "2026-04-13T18:59",
+		"endJp": "2025-11-12T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2026-04-13T18:59",
+		"startG": "2026-04-07T19:00",
+		"title": "2x Lesson <br>G: 2026-04-07 19:00 Tue ~ 2026-04-13 18:59 Mon 6d (UTC y-m-d)<br>Jp: 2025-11-06 04:00 Thu ~ 2025-11-12 03:59 Wed 6d (JST y-m-d)",
+		"duration": "6d"
+	},{
+		"content": "2x Scrimm ",
+		"start": "2026-04-07T19:00",
+		"startJp": "2025-11-06T04:00",
+		"end": "2026-04-13T18:59",
+		"endJp": "2025-11-12T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2026-04-13T18:59",
+		"startG": "2026-04-07T19:00",
+		"title": "2x Scrimm <br>G: 2026-04-07 19:00 Tue ~ 2026-04-13 18:59 Mon 6d (UTC y-m-d)<br>Jp: 2025-11-06 04:00 Thu ~ 2025-11-12 03:59 Wed 6d (JST y-m-d)",
+		"duration": "6d"
+	},{
+		"content": "2x Normal ",
+		"start": "2026-04-13T19:00",
+		"startJp": "2025-11-12T04:00",
+		"end": "2026-04-17T18:59",
+		"endJp": "2025-11-16T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2026-04-17T18:59",
+		"startG": "2026-04-13T19:00",
+		"title": "2x Normal <br>G: 2026-04-13 19:00 Mon ~ 2026-04-17 18:59 Fri 4d (UTC y-m-d)<br>Jp: 2025-11-12 04:00 Wed ~ 2025-11-16 03:59 Sun 4d (JST y-m-d)",
+		"duration": "4d"
+	},{
+		"content": "2x Hard ",
+		"start": "2026-04-17T19:00",
+		"startJp": "2025-11-16T04:00",
+		"end": "2026-04-20T18:59",
+		"endJp": "2025-11-19T03:59",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2026-04-20T18:59",
+		"startG": "2026-04-17T19:00",
+		"title": "2x Hard <br>G: 2026-04-17 19:00 Fri ~ 2026-04-20 18:59 Mon 3d (UTC y-m-d)<br>Jp: 2025-11-16 04:00 Sun ~ 2025-11-19 03:59 Wed 3d (JST y-m-d)",
+		"duration": "3d"
 	},{
 		"content": "[JFD] Shooting Outdoors Red",
 		"start": "2022-08-09T08:00",
@@ -14001,6 +14105,32 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mimori_(Swimsuit)\" title=\"Mimori (Swimsuit)\">Mimori (Swimsuit)</a><br>G: 2026-03-17 02:00 Tue ~ 2026-03-24 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reisa_(Magical)\" title=\"Reisa (Magical)\">Reisa (Magical)</a> [L] (New)",
+		"start": "2026-03-24T10:00",
+		"startJp": "2025-10-22T19:00",
+		"end": "2026-04-07T01:59",
+		"endJp": "2025-11-05T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-07T01:59",
+		"startG": "2026-03-24T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Reisa_(Magical)\" title=\"Reisa (Magical)\">Reisa (Magical)</a> [L] (New)<br>G: 2026-03-24 02:00 Tue ~ 2026-04-07 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Suzumi_(Magical)\" title=\"Suzumi (Magical)\">Suzumi (Magical)</a> [L] (New)",
+		"start": "2026-03-24T10:00",
+		"startJp": "2025-10-22T19:00",
+		"end": "2026-04-07T01:59",
+		"endJp": "2025-11-05T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-07T01:59",
+		"startG": "2026-03-24T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Suzumi_(Magical)\" title=\"Suzumi (Magical)\">Suzumi (Magical)</a> [L] (New)<br>G: 2026-03-24 02:00 Tue ~ 2026-04-07 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "EOS",
 		"start": "2021-07-13T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -17329,6 +17459,32 @@ jpSched = [
 		"title": "[Lesson Area] Wild Hunt<br>G: 2026-02-24 02:00 Tue ~ 2026-03-09 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "[QoL] Unit formation now shows students' gears (inc. assists)",
+		"start": "2026-02-24T10:00",
+		"startJp": "2025-09-24T19:00",
+		"end": "2026-03-09T19:00",
+		"endJp": "2025-10-08T04:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-03-09T19:00",
+		"startG": "2026-02-24T02:00",
+		"title": "[QoL] Unit formation now shows students' gears (inc. assists)<br>G: 2026-02-24 02:00 Tue ~ 2026-03-09 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[QoL] More filters for menus related to items (Items/Crafting)",
+		"start": "2026-02-24T10:00",
+		"startJp": "2025-09-24T19:00",
+		"end": "2026-03-09T19:00",
+		"endJp": "2025-10-08T04:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-03-09T19:00",
+		"startG": "2026-02-24T02:00",
+		"title": "[QoL] More filters for menus related to items (Items/Crafting)<br>G: 2026-02-24 02:00 Tue ~ 2026-03-09 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "[Bond Gear] Haruna (Sportswear), Koyuki, Momoi, Umika",
 		"start": "2026-02-24T10:00",
 		"startJp": "2025-09-24T19:00",
@@ -17511,43 +17667,17 @@ jpSched = [
 		"title": "[QoL] lvl 30 bond cap at 4*<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Main] 魔法少女ヘヴィキャリバー～エラの野望と正義の資格～",
+		"content": "[QoL] LBA rewards: Added blueprints up to T6@F49. More workbooks up to F73. T1 -> T2 reports",
 		"start": "2026-03-24T10:00",
 		"startJp": "2025-10-22T19:00",
 		"end": "2026-04-06T19:00",
 		"endJp": "2025-11-05T04:00",
-		"group": "J Event",
-		"subgroup": "Main",
-		"style": "color:black;background-color:yellow",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightblue",
 		"endG": "2026-04-06T19:00",
 		"startG": "2026-03-24T02:00",
-		"title": "[Main] 魔法少女ヘヴィキャリバー～エラの野望と正義の資格～<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Suzumi (Magical) [L] (New)",
-		"start": "2026-03-24T10:00",
-		"startJp": "2025-10-22T19:00",
-		"end": "2026-04-07T02:00",
-		"endJp": "2025-11-05T11:00",
-		"group": "J Gacha",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-04-07T02:00",
-		"startG": "2026-03-24T02:00",
-		"title": "Suzumi (Magical) [L] (New)<br>G: 2026-03-24 02:00 Tue ~ 2026-04-07 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Reisa (Magical) [L] (New)",
-		"start": "2026-03-24T10:00",
-		"startJp": "2025-10-22T19:00",
-		"end": "2026-04-07T02:00",
-		"endJp": "2025-11-05T11:00",
-		"group": "J Gacha",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-04-07T02:00",
-		"startG": "2026-03-24T02:00",
-		"title": "Reisa (Magical) [L] (New)<br>G: 2026-03-24 02:00 Tue ~ 2026-04-07 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 11:00 Wed 14d (JST y-m-d)",
+		"title": "[QoL] LBA rewards: Added blueprints up to T6@F49. More workbooks up to F73. T1 -> T2 reports<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Welfare] Rabu (New)",
@@ -17654,71 +17784,6 @@ jpSched = [
 		"title": "<b>2x XP</b><br>G: 2026-03-12 19:00 Thu ~ 2026-03-15 19:00 Sun 3d (UTC y-m-d)<br>Jp: 2025-10-11 04:00 Sat ~ 2025-10-14 04:00 Tue 3d (JST y-m-d)",
 		"duration": "3d"
 	},{
-		"content": "2x Bounty",
-		"start": "2026-03-23T19:00",
-		"startJp": "2025-10-22T04:00",
-		"end": "2026-03-30T19:00",
-		"endJp": "2025-10-29T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2026-03-30T19:00",
-		"startG": "2026-03-23T19:00",
-		"title": "2x Bounty<br>G: 2026-03-23 19:00 Mon ~ 2026-03-30 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-22 04:00 Wed ~ 2025-10-29 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "2x Comms",
-		"start": "2026-03-30T19:00",
-		"startJp": "2025-10-29T04:00",
-		"end": "2026-04-06T19:00",
-		"endJp": "2025-11-05T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2026-04-06T19:00",
-		"startG": "2026-03-30T19:00",
-		"title": "2x Comms<br>G: 2026-03-30 19:00 Mon ~ 2026-04-06 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-29 04:00 Wed ~ 2025-11-05 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "2x Scrimm / Lesson",
-		"start": "2026-04-06T19:00",
-		"startJp": "2025-11-05T04:00",
-		"end": "2026-04-13T19:00",
-		"endJp": "2025-11-12T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2026-04-13T19:00",
-		"startG": "2026-04-06T19:00",
-		"title": "2x Scrimm / Lesson<br>G: 2026-04-06 19:00 Mon ~ 2026-04-13 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-11-05 04:00 Wed ~ 2025-11-12 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "2x Normal",
-		"start": "2026-04-13T19:00",
-		"startJp": "2025-11-12T04:00",
-		"end": "2026-04-17T19:00",
-		"endJp": "2025-11-16T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2026-04-17T19:00",
-		"startG": "2026-04-13T19:00",
-		"title": "2x Normal<br>G: 2026-04-13 19:00 Mon ~ 2026-04-17 19:00 Fri 4d (UTC y-m-d)<br>Jp: 2025-11-12 04:00 Wed ~ 2025-11-16 04:00 Sun 4d (JST y-m-d)",
-		"duration": "4d"
-	},{
-		"content": "2x Hard",
-		"start": "2026-04-17T19:00",
-		"startJp": "2025-11-16T04:00",
-		"end": "2026-04-20T19:00",
-		"endJp": "2025-11-19T04:00",
-		"group": "J Camp",
-		"subgroup": "Campaign",
-		"style": "color:black;background-color:lightgreen",
-		"endG": "2026-04-20T19:00",
-		"startG": "2026-04-17T19:00",
-		"title": "2x Hard<br>G: 2026-04-17 19:00 Fri ~ 2026-04-20 19:00 Mon 3d (UTC y-m-d)<br>Jp: 2025-11-16 04:00 Sun ~ 2025-11-19 04:00 Wed 3d (JST y-m-d)",
-		"duration": "3d"
-	},{
 		"content": "<b>2x XP</b>",
 		"start": "2026-03-26T19:00",
 		"startJp": "2025-10-25T04:00",
@@ -17745,7 +17810,7 @@ jpSched = [
 		"title": "<b>2x XP</b><br>G: 2026-04-02 19:00 Thu ~ 2026-04-05 19:00 Sun 3d (UTC y-m-d)<br>Jp: 2025-11-01 04:00 Sat ~ 2025-11-04 04:00 Tue 3d (JST y-m-d)",
 		"duration": "3d"
 	},{
-		"content": "?Subaru (New)?",
+		"content": "?Subaru (New)? (New)",
 		"start": "2026-04-14T02:00",
 		"startJp": "2025-11-12T11:00",
 		"end": "2026-04-21T02:00",
@@ -17755,10 +17820,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-04-21T02:00",
 		"startG": "2026-04-14T02:00",
-		"title": "?Subaru (New)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"title": "?Subaru (New)? (New)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "?Ui (Swimsuit)?",
+		"content": "?Ui (Swimsuit)? (New)",
 		"start": "2026-04-14T02:00",
 		"startJp": "2025-11-12T11:00",
 		"end": "2026-04-21T02:00",
@@ -17768,10 +17833,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-04-21T02:00",
 		"startG": "2026-04-14T02:00",
-		"title": "?Ui (Swimsuit)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"title": "?Ui (Swimsuit)? (New)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "?Hinata (Swimsuit)?",
+		"content": "?Hinata (Swimsuit)? (New)",
 		"start": "2026-04-14T02:00",
 		"startJp": "2025-11-12T11:00",
 		"end": "2026-04-21T02:00",
@@ -17781,7 +17846,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-04-21T02:00",
 		"startG": "2026-04-14T02:00",
-		"title": "?Hinata (Swimsuit)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"title": "?Hinata (Swimsuit)? (New)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "?[Perm Welfare] Koharu (Swimsuit)?",
@@ -17795,19 +17860,6 @@ jpSched = [
 		"endG": "2026-04-21T02:00",
 		"startG": "2026-04-14T02:00",
 		"title": "?[Perm Welfare] Koharu (Swimsuit)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "?[R] Moonlight Dream (End date unknown)?",
-		"start": "2026-04-07T02:00",
-		"startJp": "2025-11-05T11:00",
-		"end": "2026-04-14T02:00",
-		"endJp": "2025-11-12T11:00",
-		"group": "J Event",
-		"subgroup": "",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-04-14T02:00",
-		"startG": "2026-04-07T02:00",
-		"title": "?[R] Moonlight Dream (End date unknown)?<br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "?[Perm] In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~  (End date unknown)?",
