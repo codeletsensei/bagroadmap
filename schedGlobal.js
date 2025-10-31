@@ -266,6 +266,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
   },{
+    "content": "EOS",
+    "start": "2025-11-04T02:00:00.000Z",
+    "end": "2025-11-04T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 // GASHA
 //
@@ -1266,6 +1273,34 @@ confirmed = [
     "content": "Nagusa (New)",
     "start": "2025-10-21T02:00:00.000Z",
     "end": "2025-11-04T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Natsu (Band) (New)",
+    "start": "2025-11-04T02:00:00.000Z",
+    "end": "2025-11-18T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Yoshimi (Band) [L]",
+    "start": "2025-11-04T02:00:00.000Z",
+    "end": "2025-11-18T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Kazusa (Band) [L]",
+    "start": "2025-11-04T02:00:00.000Z",
+    "end": "2025-11-18T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Kikyou",
+    "start": "2025-11-04T02:00:00.000Z",
+    "end": "2025-11-18T02:00:00.000Z",
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
@@ -2285,6 +2320,13 @@ confirmed = [
     "subgroup": "JFD",
     "style": "color:white; background-color:purple "
   },{
+    "content": "[GA] Hieronymus Urban (Yellow TOR / Red+Purple INS) (Red atk)",
+    "start": "2025-11-11T02:00:00.000Z",
+    "end": "2025-11-17T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:black; background-color:yellow "
+  },{
 //
 // CAMPAIGNS
 //
@@ -3124,6 +3166,55 @@ confirmed = [
     "content": "2x Comm",
     "start": "2025-10-27T19:00:00.000Z",
     "end": "2025-11-03T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Hard",
+    "start": "2025-11-03T19:00:00.000Z",
+    "end": "2025-11-10T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Bounty",
+    "start": "2025-11-10T19:00:00.000Z",
+    "end": "2025-11-24T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Scrimm",
+    "start": "2025-11-10T19:00:00.000Z",
+    "end": "2025-11-17T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Lesson",
+    "start": "2025-11-10T19:00:00.000Z",
+    "end": "2025-11-17T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Hard",
+    "start": "2025-11-24T19:00:00.000Z",
+    "end": "2025-12-01T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Lesson",
+    "start": "2025-11-24T19:00:00.000Z",
+    "end": "2025-12-01T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-11-28T19:00:00.000Z",
+    "end": "2025-11-30T19:00:00.000Z",
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
