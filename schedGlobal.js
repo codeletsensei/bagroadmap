@@ -1798,10 +1798,16 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[R] -ive aLIVE!",
+    "start": "2025-11-04T02:00:00.000Z",
+    "end": "2025-11-18T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
 //
 // RAIDS
 //
-
     "content": "[TA] Chesed (Red atk)",
     "start": "2024-05-07T02:00:00.000Z",
     "end": "2024-05-13T19:00:00.000Z",
@@ -3736,6 +3742,13 @@ confirmed = [
     "content": "[Main Story] V5C2 P2 (Ep 16-28)",
     "start": "2025-10-28T02:00:00.000Z",
     "end": "2025-11-04T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini Story] Fierce! Mouryo Night!",
+    "start": "2025-11-11T02:00:00.000Z",
+    "end": "2025-11-25T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:yellow"
