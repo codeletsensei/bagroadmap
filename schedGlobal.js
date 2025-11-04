@@ -2340,7 +2340,7 @@ confirmed = [
     "subgroup": "TA",
     "style": "color:white; background-color:blue "
   },{
-    "content": "[JFD] Escort Indoors Yellow",
+    "content": "[JFD] Escort Indoors Yellow. AG + Hyakkiyako buff. Buffing AG = enemy DEF down (x5).",
     "start": "2025-12-02T02:00:00.000Z",
     "end": "2025-12-08T19:00:00.000Z",
     "group": "G Raid",
