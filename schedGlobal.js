@@ -2333,6 +2333,20 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:black; background-color:yellow "
   },{
+    "content": "[TA] Goz Indoors Blue (Red atk)",
+    "start": "2025-11-25T02:00:00.000Z",
+    "end": "2025-12-01T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:white; background-color:blue "
+  },{
+    "content": "[JFD] Escort Indoors Yellow",
+    "start": "2025-12-02T02:00:00.000Z",
+    "end": "2025-12-08T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:black; background-color:yellow "
+  },{
 //
 // CAMPAIGNS
 //

@@ -1132,8 +1132,8 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moonlight_Dream/Rerun\" title=\"Moonlight Dream/Rerun\">Moonlight Dream</a>",
-		"start": "2026-04-07T02:00",
-		"startJp": "2025-11-05T11:00",
+		"start": "2026-04-07T08:00",
+		"startJp": "2025-11-05T17:00",
 		"end": "2026-04-14T02:00",
 		"endJp": "2025-11-12T11:00",
 		"group": "J Event",
@@ -7086,8 +7086,8 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "[JFD] Escort Outdoors Purple",
-		"start": "2026-04-07T02:00",
-		"startJp": "2025-11-05T11:00",
+		"start": "2026-04-07T08:00",
+		"startJp": "2025-11-05T17:00",
 		"end": "2026-04-13T18:59",
 		"endJp": "2025-11-12T03:59",
 		"group": "J Raid",
@@ -17551,8 +17551,8 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "[PVP] Season 10 (Urban)",
-		"start": "2026-04-07T02:00",
-		"startJp": "2025-11-05T11:00",
+		"start": "2026-04-07T08:00",
+		"startJp": "2025-11-05T17:00",
 		"end": "2026-04-21T02:00",
 		"endJp": "2025-11-19T11:00",
 		"group": "J Other",
@@ -17602,7 +17602,7 @@ jpSched = [
 		"title": "EOS<br>G: 2026-03-24 02:00 Tue ~ 2026-03-24 10:00 Tue 8h (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-10-22 19:00 Wed 8h (JST y-m-d)",
 		"duration": "8h"
 	},{
-		"content": "[GA Shop] Wakamo (Swimsuit), on shop reset",
+		"content": "[GA Shop] Wakamo (Swimsuit), Blue, on shop reset",
 		"start": "2026-04-02T19:00",
 		"startJp": "2025-11-01T04:00",
 		"end": "2026-04-16T19:00",
@@ -17612,7 +17612,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-04-16T19:00",
 		"startG": "2026-04-02T19:00",
-		"title": "[GA Shop] Wakamo (Swimsuit), on shop reset<br>G: 2026-04-02 19:00 Thu ~ 2026-04-16 19:00 Thu 14d (UTC y-m-d)<br>Jp: 2025-11-01 04:00 Sat ~ 2025-11-15 04:00 Sat 14d (JST y-m-d)",
+		"title": "[GA Shop] Wakamo (Swimsuit), Blue, on shop reset<br>G: 2026-04-02 19:00 Thu ~ 2026-04-16 19:00 Thu 14d (UTC y-m-d)<br>Jp: 2025-11-01 04:00 Sat ~ 2025-11-15 04:00 Sat 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Permit Shop] Hikari + Nozomi, on shop reset",
@@ -17641,7 +17641,7 @@ jpSched = [
 		"title": "[Crafting] Furniture: Rei, Sumire (Part-Timer), Saori (Dress), Jukebox<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[QoL] Tasks: Comms now count towards the 10 missions daily",
+		"content": "[QoL] Tasks: Comms now count towards the 10+ missions daily",
 		"start": "2026-03-24T10:00",
 		"startJp": "2025-10-22T19:00",
 		"end": "2026-04-06T19:00",
@@ -17651,7 +17651,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-04-06T19:00",
 		"startG": "2026-03-24T02:00",
-		"title": "[QoL] Tasks: Comms now count towards the 10 missions daily<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
+		"title": "[QoL] Tasks: Comms now count towards the 10+ missions daily<br>G: 2026-03-24 02:00 Tue ~ 2026-04-06 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[QoL] lvl 30 bond cap at 4*",
@@ -17784,6 +17784,97 @@ jpSched = [
 		"title": "<b>2x XP</b><br>G: 2026-03-12 19:00 Thu ~ 2026-03-15 19:00 Sun 3d (UTC y-m-d)<br>Jp: 2025-10-11 04:00 Sat ~ 2025-10-14 04:00 Tue 3d (JST y-m-d)",
 		"duration": "3d"
 	},{
+		"content": "EOS",
+		"start": "2026-04-07T02:00",
+		"startJp": "2025-11-05T11:00",
+		"end": "2026-04-07T08:00",
+		"endJp": "2025-11-05T17:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"endG": "2026-04-07T08:00",
+		"startG": "2026-04-07T02:00",
+		"title": "EOS<br>G: 2026-04-07 02:00 Tue ~ 2026-04-07 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-05 17:00 Wed 6h (JST y-m-d)",
+		"duration": "6h"
+	},{
+		"content": "Marina (Qipao)",
+		"start": "2026-04-07T08:00",
+		"startJp": "2025-11-05T17:00",
+		"end": "2026-04-14T02:00",
+		"endJp": "2025-11-12T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-14T02:00",
+		"startG": "2026-04-07T02:00",
+		"title": "Marina (Qipao)<br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Tomoe (Qipao)",
+		"start": "2026-04-07T08:00",
+		"startJp": "2025-11-05T17:00",
+		"end": "2026-04-14T02:00",
+		"endJp": "2025-11-12T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-14T02:00",
+		"startG": "2026-04-07T02:00",
+		"title": "Tomoe (Qipao)<br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Saki, Moe, Miyako",
+		"start": "2026-04-07T08:00",
+		"startJp": "2025-11-05T17:00",
+		"end": "2026-04-14T02:00",
+		"endJp": "2025-11-12T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-14T02:00",
+		"startG": "2026-04-07T02:00",
+		"title": "Saki, Moe, Miyako<br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[PVP] CD: 60s->30s + Anonymous + Gimmicks display",
+		"start": "2026-04-06T19:00",
+		"startJp": "2025-11-05T04:00",
+		"end": "2026-04-20T19:00",
+		"endJp": "2025-11-19T04:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-04-20T19:00",
+		"startG": "2026-04-06T19:00",
+		"title": "[PVP] CD: 60s->30s + Anonymous + Gimmicks display<br>G: 2026-04-06 19:00 Mon ~ 2026-04-20 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-11-05 04:00 Wed ~ 2025-11-19 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "?[Perm Welfare] Koharu (Swimsuit)?",
+		"start": "2026-04-14T02:00",
+		"startJp": "2025-11-12T11:00",
+		"end": "2026-04-21T02:00",
+		"endJp": "2025-11-19T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-21T02:00",
+		"startG": "2026-04-14T02:00",
+		"title": "?[Perm Welfare] Koharu (Swimsuit)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "?[Perm] In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~  (End date unknown)?",
+		"start": "2026-04-14T02:00",
+		"startJp": "2025-11-12T11:00",
+		"end": "2026-04-21T02:00",
+		"endJp": "2025-11-19T11:00",
+		"group": "J Event",
+		"subgroup": "",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-04-21T02:00",
+		"startG": "2026-04-14T02:00",
+		"title": "?[Perm] In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~  (End date unknown)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "<b>2x XP</b>",
 		"start": "2026-03-26T19:00",
 		"startJp": "2025-10-25T04:00",
@@ -17847,32 +17938,6 @@ jpSched = [
 		"endG": "2026-04-21T02:00",
 		"startG": "2026-04-14T02:00",
 		"title": "?Hinata (Swimsuit)? (New)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "?[Perm Welfare] Koharu (Swimsuit)?",
-		"start": "2026-04-14T02:00",
-		"startJp": "2025-11-12T11:00",
-		"end": "2026-04-21T02:00",
-		"endJp": "2025-11-19T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-04-21T02:00",
-		"startG": "2026-04-14T02:00",
-		"title": "?[Perm Welfare] Koharu (Swimsuit)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "?[Perm] In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~  (End date unknown)?",
-		"start": "2026-04-14T02:00",
-		"startJp": "2025-11-12T11:00",
-		"end": "2026-04-21T02:00",
-		"endJp": "2025-11-19T11:00",
-		"group": "J Event",
-		"subgroup": "",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-04-21T02:00",
-		"startG": "2026-04-14T02:00",
-		"title": "?[Perm] In Search of a Hidden Heritage ~ Trinity's Extracurricular Activities ~  (End date unknown)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	}
 ]
