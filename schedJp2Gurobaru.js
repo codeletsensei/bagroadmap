@@ -7098,6 +7098,19 @@ jpSched = [
 		"title": "[JFD] Escort Outdoors Purple<br>G: 2026-04-07 02:00 Tue ~ 2026-04-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "[JFD] Assault Outdoors Red",
+		"start": "2026-05-05T02:00",
+		"startJp": "2025-12-03T11:00",
+		"end": "2026-05-11T18:59",
+		"endJp": "2025-12-10T03:59",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:white;background-color:red",
+		"endG": "2026-05-11T18:59",
+		"startG": "2026-05-05T02:00",
+		"title": "[JFD] Assault Outdoors Red<br>G: 2026-05-05 02:00 Tue ~ 2026-05-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-10 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
 		"start": "2021-07-17T19:00",
 		"startJp": "2021-02-15T04:00",
@@ -8852,6 +8865,19 @@ jpSched = [
 		"startG": "2026-03-25T02:00",
 		"title": "[LBA] S20 Tiphareth Purple (Yellow atk)<br>G: 2026-03-25 02:00 Wed ~ 2026-04-20 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2025-10-23 11:00 Thu ~ 2025-11-19 03:59 Wed 27d (JST y-m-d)",
 		"duration": "27d"
+	},{
+		"content": "[LBA] S21 The Fury of Set Blue (Red atk)",
+		"start": "2026-04-22T02:00",
+		"startJp": "2025-11-20T11:00",
+		"end": "2026-05-24T18:59",
+		"endJp": "2025-12-23T03:59",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:white;background-color:blue",
+		"endG": "2026-05-24T18:59",
+		"startG": "2026-04-22T02:00",
+		"title": "[LBA] S21 The Fury of Set Blue (Red atk)<br>G: 2026-04-22 02:00 Wed ~ 2026-05-24 18:59 Sun 33d (UTC y-m-d)<br>Jp: 2025-11-20 11:00 Thu ~ 2025-12-23 03:59 Tue 33d (JST y-m-d)",
+		"duration": "33d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izuna\" title=\"Izuna\">Izuna</a>, <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shizuko\" title=\"Shizuko\">Shizuko</a> (New)",
 		"start": "2021-07-28T05:30",
@@ -17550,7 +17576,7 @@ jpSched = [
 		"title": "[Crafting] Furniture: \"Wild Hunt Campus\" Series + Pancake Tea Table + Medicine Organizer White Table<br>G: 2026-02-24 02:00 Tue ~ 2026-03-10 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[PVP] Season 10 (Urban)",
+		"content": "[PVP] Season 10. Urban. +400% HP. Fever: DEF/EVA debuff + cost rec up.",
 		"start": "2026-04-07T08:00",
 		"startJp": "2025-11-05T17:00",
 		"end": "2026-04-21T02:00",
@@ -17560,7 +17586,7 @@ jpSched = [
 		"style": "color:black;background-color:orange",
 		"endG": "2026-04-21T02:00",
 		"startG": "2026-04-07T02:00",
-		"title": "[PVP] Season 10 (Urban)<br>G: 2026-04-07 02:00 Tue ~ 2026-04-21 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-19 11:00 Wed 14d (JST y-m-d)",
+		"title": "[PVP] Season 10. Urban. +400% HP. Fever: DEF/EVA debuff + cost rec up.<br>G: 2026-04-07 02:00 Tue ~ 2026-04-21 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-19 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Special Dangles] Airi, Yoshimi, Hanae, Kanna, Sena, Ayane (Swimsuit), Karin (Uniform), Nodoka (Onsen), Hinata (Swimsuit), Maki (Camping), Reisa (Magical)",
@@ -17823,7 +17849,7 @@ jpSched = [
 		"title": "Tomoe (Qipao)<br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "Saki, Moe, Miyako",
+		"content": "Saki",
 		"start": "2026-04-07T08:00",
 		"startJp": "2025-11-05T17:00",
 		"end": "2026-04-14T02:00",
@@ -17833,10 +17859,36 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-04-14T02:00",
 		"startG": "2026-04-07T02:00",
-		"title": "Saki, Moe, Miyako<br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 11:00 Wed 7d (JST y-m-d)",
+		"title": "Saki<br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[PVP] CD: 60s->30s + Anonymous + Gimmicks display",
+		"content": "Moe",
+		"start": "2026-04-07T08:00",
+		"startJp": "2025-11-05T17:00",
+		"end": "2026-04-14T02:00",
+		"endJp": "2025-11-12T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-14T02:00",
+		"startG": "2026-04-07T02:00",
+		"title": "Moe<br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Miyako",
+		"start": "2026-04-07T08:00",
+		"startJp": "2025-11-05T17:00",
+		"end": "2026-04-14T02:00",
+		"endJp": "2025-11-12T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-14T02:00",
+		"startG": "2026-04-07T02:00",
+		"title": "Miyako<br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[PVP] 30s CD + Anonymous + Gimmicks display",
 		"start": "2026-04-06T19:00",
 		"startJp": "2025-11-05T04:00",
 		"end": "2026-04-20T19:00",
@@ -17846,7 +17898,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-04-20T19:00",
 		"startG": "2026-04-06T19:00",
-		"title": "[PVP] CD: 60s->30s + Anonymous + Gimmicks display<br>G: 2026-04-06 19:00 Mon ~ 2026-04-20 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-11-05 04:00 Wed ~ 2025-11-19 04:00 Wed 14d (JST y-m-d)",
+		"title": "[PVP] 30s CD + Anonymous + Gimmicks display<br>G: 2026-04-06 19:00 Mon ~ 2026-04-20 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-11-05 04:00 Wed ~ 2025-11-19 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "?[Perm Welfare] Koharu (Swimsuit)?",
@@ -17901,7 +17953,7 @@ jpSched = [
 		"title": "<b>2x XP</b><br>G: 2026-04-02 19:00 Thu ~ 2026-04-05 19:00 Sun 3d (UTC y-m-d)<br>Jp: 2025-11-01 04:00 Sat ~ 2025-11-04 04:00 Tue 3d (JST y-m-d)",
 		"duration": "3d"
 	},{
-		"content": "?Subaru (New)? (New)",
+		"content": "?Subaru (New)?",
 		"start": "2026-04-14T02:00",
 		"startJp": "2025-11-12T11:00",
 		"end": "2026-04-21T02:00",
@@ -17911,10 +17963,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-04-21T02:00",
 		"startG": "2026-04-14T02:00",
-		"title": "?Subaru (New)? (New)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"title": "?Subaru (New)?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "?Ui (Swimsuit)? (New)",
+		"content": "?Ui (Swimsuit) [L]?",
 		"start": "2026-04-14T02:00",
 		"startJp": "2025-11-12T11:00",
 		"end": "2026-04-21T02:00",
@@ -17924,10 +17976,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-04-21T02:00",
 		"startG": "2026-04-14T02:00",
-		"title": "?Ui (Swimsuit)? (New)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"title": "?Ui (Swimsuit) [L]?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "?Hinata (Swimsuit)? (New)",
+		"content": "?Hinata (Swimsuit) [L]?",
 		"start": "2026-04-14T02:00",
 		"startJp": "2025-11-12T11:00",
 		"end": "2026-04-21T02:00",
@@ -17937,7 +17989,33 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-04-21T02:00",
 		"startG": "2026-04-14T02:00",
-		"title": "?Hinata (Swimsuit)? (New)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"title": "?Hinata (Swimsuit) [L]?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "?Reisa?",
+		"start": "2026-04-14T02:00",
+		"startJp": "2025-11-12T11:00",
+		"end": "2026-04-21T02:00",
+		"endJp": "2025-11-19T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-21T02:00",
+		"startG": "2026-04-14T02:00",
+		"title": "?Reisa?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "?Mine?",
+		"start": "2026-04-14T02:00",
+		"startJp": "2025-11-12T11:00",
+		"end": "2026-04-21T02:00",
+		"endJp": "2025-11-19T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-21T02:00",
+		"startG": "2026-04-14T02:00",
+		"title": "?Mine?<br>G: 2026-04-14 02:00 Tue ~ 2026-04-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	}
 ]
