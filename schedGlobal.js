@@ -1312,6 +1312,27 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Kikyou (Swimsuit) (New)",
+    "start": "2025-11-18T02:00:00.000Z",
+    "end": "2025-12-02T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Yukari (Swimsuit) (New)",
+    "start": "2025-11-18T02:00:00.000Z",
+    "end": "2025-12-02T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Renge (Swimsuit) (New 2*)",
+    "start": "2025-11-18T02:00:00.000Z",
+    "end": "2025-12-02T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -1812,6 +1833,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[Main] A Flower Blooms Among the Hundred: Fair and Square Aquatic Showdown",
+    "start": "2025-11-18T02:00:00.000Z",
+    "end": "2025-12-02T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Main",
+    "style": "color:black; background-color:yellow"
+  },{ 
 //
 // RAIDS
 //
