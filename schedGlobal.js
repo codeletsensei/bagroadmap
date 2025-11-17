@@ -2368,6 +2368,13 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:black; background-color:yellow "
   },{
+    "content": "[LBA] The Fury of Set Red (Red atk)",
+    "start": "2025-11-19T02:00:00.000Z",
+    "end": "2025-12-15T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "LBA",
+    "style": "color:white; background-color:red"
+  },{
     "content": "[TA] Goz Indoors Blue (Red atk)",
     "start": "2025-11-25T02:00:00.000Z",
     "end": "2025-12-01T19:00:00.000Z",
@@ -3801,6 +3808,13 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Bond Gear] Renge, Midori, Hasumi, Wakamo (Swimsuit)",
+    "start": "2024-11-18T02:00:00.000Z",
+    "end": "2024-12-02T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
   }
 ]
 
