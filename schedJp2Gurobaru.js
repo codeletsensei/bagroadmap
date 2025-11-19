@@ -18239,20 +18239,20 @@ jpSched = [
 		"title": "<b>2x XP</b><br>G: 2026-03-26 19:00 Thu ~ 2026-03-29 19:00 Sun 3d (UTC y-m-d)<br>Jp: 2025-11-01 04:00 Sat ~ 2025-11-04 04:00 Tue 3d (JST y-m-d)",
 		"duration": "3d"
 	},{
-		"content": "[Perm] An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~",
+		"content": "?[Perm] An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~?",
 		"start": "2026-05-12T02:00",
 		"startJp": "2025-12-17T11:00",
-		"end": "2026-05-18T02:00",
-		"endJp": "2025-12-23T11:00",
+		"end": "2026-05-19T02:00",
+		"endJp": "2025-12-24T11:00",
 		"group": "J Event",
 		"subgroup": "",
 		"style": "color:black;background-color:yellow",
-		"endG": "2026-05-18T02:00",
+		"endG": "2026-05-19T02:00",
 		"startG": "2026-05-12T02:00",
-		"title": "[Perm] An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~<br>G: 2026-05-12 02:00 Tue ~ 2026-05-18 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-23 11:00 Tue 6d (JST y-m-d)",
-		"duration": "6d"
+		"title": "?[Perm] An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~?<br>G: 2026-05-12 02:00 Tue ~ 2026-05-19 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	},{
-		"content": "[Welfare] Mine (Idol)",
+		"content": "?[Welfare] Mine (Idol)?",
 		"start": "2026-04-28T02:00",
 		"startJp": "2025-12-03T11:00",
 		"end": "2026-05-12T02:00",
@@ -18262,7 +18262,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-05-12T02:00",
 		"startG": "2026-04-28T02:00",
-		"title": "[Welfare] Mine (Idol)<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
+		"title": "?[Welfare] Mine (Idol)?<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Main] Winter Skies Renaissance ～On Wholesome Cultural Exchange～",
@@ -18304,7 +18304,7 @@ jpSched = [
 		"title": "Yakumo (New)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-28 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-19 11:00 Wed ~ 2025-12-03 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[R] Serenade Promenade",
+		"content": "?[R] Serenade Promenade?",
 		"start": "2026-04-28T02:00",
 		"startJp": "2025-12-03T11:00",
 		"end": "2026-05-12T02:00",
@@ -18314,10 +18314,10 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-05-12T02:00",
 		"startG": "2026-04-28T02:00",
-		"title": "[R] Serenade Promenade<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
+		"title": "?[R] Serenade Promenade?<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "Mari (Idol) [L]",
+		"content": "?Mari (Idol) [L]?",
 		"start": "2026-04-28T02:00",
 		"startJp": "2025-12-03T11:00",
 		"end": "2026-05-12T02:00",
@@ -18327,10 +18327,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-05-12T02:00",
 		"startG": "2026-04-28T02:00",
-		"title": "Mari (Idol) [L]<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
+		"title": "?Mari (Idol) [L]?<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "Sakurako (Idol) [L]",
+		"content": "?Sakurako (Idol) [L]?",
 		"start": "2026-04-28T02:00",
 		"startJp": "2025-12-03T11:00",
 		"end": "2026-05-12T02:00",
@@ -18340,10 +18340,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-05-12T02:00",
 		"startG": "2026-04-28T02:00",
-		"title": "Sakurako (Idol) [L]<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
+		"title": "?Sakurako (Idol) [L]?<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[GA] Kaiten Urban (Red+Yellow TOR / Blue INS) (Yellow atk)",
+		"content": "?[GA] Kaiten Urban (Red+Yellow TOR / Blue INS) (Yellow atk)?",
 		"start": "2026-05-05T02:00",
 		"startJp": "2025-12-10T11:00",
 		"end": "2026-05-11T19:00",
@@ -18353,20 +18353,20 @@ jpSched = [
 		"style": "color:black;background-color:pink",
 		"endG": "2026-05-11T19:00",
 		"startG": "2026-05-05T02:00",
-		"title": "[GA] Kaiten Urban (Red+Yellow TOR / Blue INS) (Yellow atk)<br>G: 2026-05-05 02:00 Tue ~ 2026-05-11 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-12-10 11:00 Wed ~ 2025-12-17 04:00 Wed 7d (JST y-m-d)",
+		"title": "[GA] ?Kaiten Urban (Red+Yellow TOR / Blue INS) (Yellow atk)?<br>G: 2026-05-05 02:00 Tue ~ 2026-05-11 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-12-10 11:00 Wed ~ 2025-12-17 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[Mini] ???????",
+		"content": "?[Mini] ???????",
 		"start": "2026-05-12T02:00",
 		"startJp": "2025-12-17T11:00",
-		"end": "2026-05-18T02:00",
-		"endJp": "2025-12-23T11:00",
+		"end": "2026-05-19T02:00",
+		"endJp": "2025-12-24T11:00",
 		"group": "J Event",
 		"subgroup": "Mini",
 		"style": "color:black;background-color:yellow",
-		"endG": "2026-05-18T02:00",
+		"endG": "2026-05-19T02:00",
 		"startG": "2026-05-12T02:00",
-		"title": "[Mini] ???????<br>G: 2026-05-12 02:00 Tue ~ 2026-05-18 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-23 11:00 Tue 6d (JST y-m-d)",
-		"duration": "6d"
+		"title": "?[Mini] ???????<br>G: 2026-05-12 02:00 Tue ~ 2026-05-19 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	}
 ]
