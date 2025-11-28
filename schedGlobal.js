@@ -280,6 +280,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
   },{
+    "content": "EOS",
+    "start": "2025-12-02T02:00:00.000Z",
+    "end": "2025-12-02T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 // GASHA
 //
@@ -1329,6 +1336,34 @@ confirmed = [
     "content": "Renge (Swimsuit) (New 2*)",
     "start": "2025-11-18T02:00:00.000Z",
     "end": "2025-12-02T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Izuna (Swimsuit) [L]",
+    "start": "2025-12-02T02:00:00.000Z",
+    "end": "2025-12-09T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Chise (Swimsuit) [L]",
+    "start": "2025-12-02T02:00:00.000Z",
+    "end": "2025-12-09T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Yukari",
+    "start": "2025-12-02T02:00:00.000Z",
+    "end": "2025-12-09T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Renge",
+    "start": "2025-12-02T02:00:00.000Z",
+    "end": "2025-12-09T02:00:00.000Z",
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
