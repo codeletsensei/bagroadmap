@@ -1452,6 +1452,27 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Saki (Swimsuit)",
+    "start": "2025-12-09T02:00:00.000Z",
+    "end": "2025-12-16T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Moe (Swimsuit)",
+    "start": "2025-12-09T02:00:00.000Z",
+    "end": "2025-12-16T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Miyako (Swimsuit)",
+    "start": "2025-12-09T02:00:00.000Z",
+    "end": "2025-12-16T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -2549,6 +2570,13 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "GA",
     "style": "color:white; background-color:blue "
+  },{
+    "content": "Kaiten revisions: Red+Black EVA nerf. Mackarel slash's direction locked. Adjusted EX pattern on INS and below.",
+    "start": "2025-12-09T02:00:00.000Z",
+    "end": "2025-12-15T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:black; background-color:pink "
   },{
     "content": "[TA] Hod Urban Yellow (Blue atk)",
     "start": "2025-12-23T02:00:00.000Z",
