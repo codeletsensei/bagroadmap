@@ -1105,19 +1105,6 @@ jpSched = [
 		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Art_for_Whom%3F_%EF%BD%9EArt_Forgery_and_the_Pursuit_of_Beauty%EF%BD%9E\" title=\"Art for Whom? ～Art Forgery and the Pursuit of Beauty～\">Art for Whom? ～Art Forgery and the Pursuit of Beauty～</a><br>G: 2026-02-17 02:00 Tue ~ 2026-03-10 02:00 Tue 21d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-15 11:00 Wed 21d (JST y-m-d)",
 		"duration": "21d"
 	},{
-		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
-		"start": "2026-03-10T02:00",
-		"startJp": "2025-10-15T11:00",
-		"end": "2026-03-17T02:00",
-		"endJp": "2025-10-22T11:00",
-		"group": "J Event",
-		"subgroup": "Main",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-03-17T02:00",
-		"startG": "2026-03-10T02:00",
-		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2026-03-10 02:00 Tue ~ 2026-03-17 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 11:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
 		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Magical_Girl_Heavy_Caliber_%EF%BD%9EEra%27s_Ambition_and_the_Right_to_Justice%EF%BD%9E\" title=\"Magical Girl Heavy Caliber ～Era's Ambition and the Right to Justice～\">Magical Girl Heavy Caliber ～Era's Ambition and the Right to Justice～</a>",
 		"start": "2026-03-17T10:00",
 		"startJp": "2025-10-22T19:00",
@@ -1143,6 +1130,32 @@ jpSched = [
 		"startG": "2026-03-31T02:00",
 		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Moonlight_Dream/Rerun\" title=\"Moonlight Dream/Rerun\">Moonlight Dream</a><br>G: 2026-03-31 02:00 Tue ~ 2026-04-07 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
+	},{
+		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Winter_Skies_Renaissance_%EF%BD%9EOn_Wholesome_Cultural_Exchange%EF%BD%9E\" title=\"Winter Skies Renaissance ～On Wholesome Cultural Exchange～\">Winter Skies Renaissance ～On Wholesome Cultural Exchange～</a>",
+		"start": "2026-04-14T10:00",
+		"startJp": "2025-11-19T19:00",
+		"end": "2026-04-28T02:00",
+		"endJp": "2025-12-03T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-04-28T02:00",
+		"startG": "2026-04-14T02:00",
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Winter_Skies_Renaissance_%EF%BD%9EOn_Wholesome_Cultural_Exchange%EF%BD%9E\" title=\"Winter Skies Renaissance ～On Wholesome Cultural Exchange～\">Winter Skies Renaissance ～On Wholesome Cultural Exchange～</a><br>G: 2026-04-14 02:00 Tue ~ 2026-04-28 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-19 11:00 Wed ~ 2025-12-03 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serenade_Promenade/Rerun\" title=\"Serenade Promenade/Rerun\">Serenade Promenade</a>",
+		"start": "2026-04-28T02:00",
+		"startJp": "2025-12-03T11:00",
+		"end": "2026-05-12T02:00",
+		"endJp": "2025-12-17T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-05-12T02:00",
+		"startG": "2026-04-28T02:00",
+		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serenade_Promenade/Rerun\" title=\"Serenade Promenade/Rerun\">Serenade Promenade</a><br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
 	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
 		"start": "2023-10-31T08:00",
@@ -1377,6 +1390,32 @@ jpSched = [
 		"startG": "2025-12-02T02:00",
 		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2025-12-02 02:00 Tue ~ 2025-12-15 01:59 Mon 13d (UTC y-m-d)<br>Jp: 2025-07-09 11:00 Wed ~ 2025-07-22 10:59 Tue 13d (JST y-m-d)",
 		"duration": "13d"
+	},{
+		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
+		"start": "2026-03-10T02:00",
+		"startJp": "2025-10-15T11:00",
+		"end": "2026-03-17T01:59",
+		"endJp": "2025-10-22T10:59",
+		"group": "J Event",
+		"subgroup": "Mini",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-03-17T01:59",
+		"startG": "2026-03-10T02:00",
+		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2026-03-10 02:00 Tue ~ 2026-03-17 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
+		"start": "2026-05-12T02:00",
+		"startJp": "2025-12-17T11:00",
+		"end": "2026-05-19T01:59",
+		"endJp": "2025-12-24T10:59",
+		"group": "J Event",
+		"subgroup": "Mini",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-05-19T01:59",
+		"startG": "2026-05-12T02:00",
+		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2026-05-12 02:00 Tue ~ 2026-05-19 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	},{
 		"content": "[Login] 1st Anniversary Login Bonus",
 		"start": "2022-06-21T14:00",
@@ -14404,6 +14443,32 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mine\" title=\"Mine\">Mine</a><br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Takane\" title=\"Takane\">Takane</a> (New)",
+		"start": "2026-04-14T10:00",
+		"startJp": "2025-11-19T19:00",
+		"end": "2026-04-28T01:59",
+		"endJp": "2025-12-03T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-28T01:59",
+		"startG": "2026-04-14T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Takane\" title=\"Takane\">Takane</a> (New)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-28 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-19 11:00 Wed ~ 2025-12-03 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yakumo\" title=\"Yakumo\">Yakumo</a> (New)",
+		"start": "2026-04-14T10:00",
+		"startJp": "2025-11-19T19:00",
+		"end": "2026-04-28T01:59",
+		"endJp": "2025-12-03T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-04-28T01:59",
+		"startG": "2026-04-14T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Yakumo\" title=\"Yakumo\">Yakumo</a> (New)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-28 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-19 11:00 Wed ~ 2025-12-03 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "EOS",
 		"start": "2021-07-06T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -17514,15 +17579,15 @@ jpSched = [
 		"content": "[Welfare] Ichika (Swimsuit)",
 		"start": "2025-12-15T10:00",
 		"startJp": "2025-07-22T19:00",
-		"end": "2025-12-23T02:00",
-		"endJp": "2025-07-30T11:00",
+		"end": "2025-12-30T02:00",
+		"endJp": "2025-08-06T11:00",
 		"group": "J Gacha",
 		"subgroup": "Gacha",
 		"style": "color:black;background-color:lightgrey",
-		"endG": "2025-12-23T02:00",
+		"endG": "2025-12-30T02:00",
 		"startG": "2025-12-15T02:00",
-		"title": "[Welfare] Ichika (Swimsuit)<br>G: 2025-12-15 02:00 Mon ~ 2025-12-23 02:00 Tue 8d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-07-30 11:00 Wed 8d (JST y-m-d)",
-		"duration": "8d"
+		"title": "[Welfare] Ichika (Swimsuit)<br>G: 2025-12-15 02:00 Mon ~ 2025-12-30 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2025-07-22 11:00 Tue ~ 2025-08-06 11:00 Wed 15d (JST y-m-d)",
+		"duration": "15d"
 	},{
 		"content": "EOS",
 		"start": "2025-12-30T02:00",
@@ -18135,7 +18200,7 @@ jpSched = [
 		"title": "EOS<br>G: 2026-04-14 02:00 Tue ~ 2026-04-14 10:00 Tue 8h (UTC y-m-d)<br>Jp: 2025-11-19 11:00 Wed ~ 2025-11-19 19:00 Wed 8h (JST y-m-d)",
 		"duration": "8h"
 	},{
-		"content": "[QoL?] Revised Kurokage's Compulsion",
+		"content": "[QoL] Revised Kurokage's Compulsion",
 		"start": "2026-04-21T02:00",
 		"startJp": "2025-11-26T11:00",
 		"end": "2026-04-27T19:00",
@@ -18145,7 +18210,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-04-27T19:00",
 		"startG": "2026-04-21T02:00",
-		"title": "[QoL?] Revised Kurokage's Compulsion<br>G: 2026-04-21 02:00 Tue ~ 2026-04-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-11-26 11:00 Wed ~ 2025-12-03 04:00 Wed 7d (JST y-m-d)",
+		"title": "[QoL] Revised Kurokage's Compulsion<br>G: 2026-04-21 02:00 Tue ~ 2026-04-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-11-26 11:00 Wed ~ 2025-12-03 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[Permit Shop] Koharu (Swimsuit)",
@@ -18239,6 +18304,19 @@ jpSched = [
 		"title": "<b>2x XP</b><br>G: 2026-03-26 19:00 Thu ~ 2026-03-29 19:00 Sun 3d (UTC y-m-d)<br>Jp: 2025-11-01 04:00 Sat ~ 2025-11-04 04:00 Tue 3d (JST y-m-d)",
 		"duration": "3d"
 	},{
+		"content": "[Welfare] Mine (Idol)",
+		"start": "2026-04-28T02:00",
+		"startJp": "2025-12-03T11:00",
+		"end": "2026-05-12T02:00",
+		"endJp": "2025-12-17T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-05-12T02:00",
+		"startG": "2026-04-28T02:00",
+		"title": "[Welfare] Mine (Idol)<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "?[Perm] An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~?",
 		"start": "2026-05-12T02:00",
 		"startJp": "2025-12-17T11:00",
@@ -18252,7 +18330,7 @@ jpSched = [
 		"title": "?[Perm] An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~?<br>G: 2026-05-12 02:00 Tue ~ 2026-05-19 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "?[Welfare] Mine (Idol)?",
+		"content": "Mari (Idol) [L]",
 		"start": "2026-04-28T02:00",
 		"startJp": "2025-12-03T11:00",
 		"end": "2026-05-12T02:00",
@@ -18262,62 +18340,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-05-12T02:00",
 		"startG": "2026-04-28T02:00",
-		"title": "?[Welfare] Mine (Idol)?<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
+		"title": "Mari (Idol) [L]<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Main] Winter Skies Renaissance ～On Wholesome Cultural Exchange～",
-		"start": "2026-04-14T10:00",
-		"startJp": "2025-11-19T19:00",
-		"end": "2026-04-28T02:00",
-		"endJp": "2025-12-03T11:00",
-		"group": "J Event",
-		"subgroup": "Main",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-04-28T02:00",
-		"startG": "2026-04-14T02:00",
-		"title": "[Main] Winter Skies Renaissance ～On Wholesome Cultural Exchange～<br>G: 2026-04-14 02:00 Tue ~ 2026-04-28 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-19 11:00 Wed ~ 2025-12-03 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Takane (New)",
-		"start": "2026-04-14T10:00",
-		"startJp": "2025-11-19T19:00",
-		"end": "2026-04-28T02:00",
-		"endJp": "2025-12-03T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-04-28T02:00",
-		"startG": "2026-04-14T02:00",
-		"title": "Takane (New)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-28 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-19 11:00 Wed ~ 2025-12-03 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Yakumo (New)",
-		"start": "2026-04-14T10:00",
-		"startJp": "2025-11-19T19:00",
-		"end": "2026-04-28T02:00",
-		"endJp": "2025-12-03T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-04-28T02:00",
-		"startG": "2026-04-14T02:00",
-		"title": "Yakumo (New)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-28 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-19 11:00 Wed ~ 2025-12-03 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "?[R] Serenade Promenade?",
-		"start": "2026-04-28T02:00",
-		"startJp": "2025-12-03T11:00",
-		"end": "2026-05-12T02:00",
-		"endJp": "2025-12-17T11:00",
-		"group": "J Event",
-		"subgroup": "",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-05-12T02:00",
-		"startG": "2026-04-28T02:00",
-		"title": "?[R] Serenade Promenade?<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "?Mari (Idol) [L]?",
+		"content": "Sakurako (Idol) [L]",
 		"start": "2026-04-28T02:00",
 		"startJp": "2025-12-03T11:00",
 		"end": "2026-05-12T02:00",
@@ -18327,23 +18353,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-05-12T02:00",
 		"startG": "2026-04-28T02:00",
-		"title": "?Mari (Idol) [L]?<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
+		"title": "Sakurako (Idol) [L]<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "?Sakurako (Idol) [L]?",
-		"start": "2026-04-28T02:00",
-		"startJp": "2025-12-03T11:00",
-		"end": "2026-05-12T02:00",
-		"endJp": "2025-12-17T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-05-12T02:00",
-		"startG": "2026-04-28T02:00",
-		"title": "?Sakurako (Idol) [L]?<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "?[GA] Kaiten Urban (Red+Yellow TOR / Blue INS) (Yellow atk)?",
+		"content": "[GA] Kaiten Urban (Red+Yellow TOR / Blue INS) (Yellow atk)",
 		"start": "2026-05-05T02:00",
 		"startJp": "2025-12-10T11:00",
 		"end": "2026-05-11T19:00",
@@ -18353,20 +18366,7 @@ jpSched = [
 		"style": "color:black;background-color:pink",
 		"endG": "2026-05-11T19:00",
 		"startG": "2026-05-05T02:00",
-		"title": "[GA] ?Kaiten Urban (Red+Yellow TOR / Blue INS) (Yellow atk)?<br>G: 2026-05-05 02:00 Tue ~ 2026-05-11 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-12-10 11:00 Wed ~ 2025-12-17 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "?[Mini] ???????",
-		"start": "2026-05-12T02:00",
-		"startJp": "2025-12-17T11:00",
-		"end": "2026-05-19T02:00",
-		"endJp": "2025-12-24T11:00",
-		"group": "J Event",
-		"subgroup": "Mini",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-05-19T02:00",
-		"startG": "2026-05-12T02:00",
-		"title": "?[Mini] ???????<br>G: 2026-05-12 02:00 Tue ~ 2026-05-19 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 11:00 Wed 7d (JST y-m-d)",
+		"title": "[GA] Kaiten Urban (Red+Yellow TOR / Blue INS) (Yellow atk)<br>G: 2026-05-05 02:00 Tue ~ 2026-05-11 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-12-10 11:00 Wed ~ 2025-12-17 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	}
 ]

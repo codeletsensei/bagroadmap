@@ -1410,7 +1410,7 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
-    "content": "[Bluefes] 2x 3* rates",
+    "content": "<b>[Bluefes] 2x 3* rates</b>",
     "start": "2025-12-23T02:00:00.000Z",
     "end": "2025-12-30T02:00:00.000Z",
     "group": "G Gacha",
@@ -1826,7 +1826,7 @@ confirmed = [
     "subgroup": "Main",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[Login] Daily free recruitments campaign (100 in 7 days)",
+    "content": "<b>[Login] Daily free recruitments campaign (100 in 7 days)</b>",
     "start": "2025-07-08T02:00:00.000Z",
     "end": "2025-07-15T02:00:00.000Z",
     "group": "G Event",
@@ -1980,7 +1980,7 @@ confirmed = [
     "subgroup": "Main",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[Login] daily free recruitments campaign (100 total)",
+    "content": "<b>[Login] Daily free recruitments campaign (100 in 7 days)</b>",
     "start": "2025-12-16T02:00:00.000Z",
     "end": "2025-12-23T02:00:00.000Z",
     "group": "G Event",
@@ -3452,6 +3452,90 @@ confirmed = [
     "content": "<b>2x XP</b>",
     "start": "2025-11-28T19:00:00.000Z",
     "end": "2025-11-30T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Normal",
+    "start": "2025-12-01T19:00:00.000Z",
+    "end": "2025-12-08T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Comm",
+    "start": "2025-12-08T19:00:00.000Z",
+    "end": "2025-12-15T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Scrimm",
+    "start": "2025-12-08T19:00:00.000Z",
+    "end": "2025-12-15T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Bounty</b>",
+    "start": "2025-12-15T19:00:00.000Z",
+    "end": "2025-12-22T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Lesson</b>",
+    "start": "2025-12-15T19:00:00.000Z",
+    "end": "2025-12-22T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Normal</b>",
+    "start": "2025-12-22T19:00:00.000Z",
+    "end": "2025-12-26T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Hard</b>",
+    "start": "2025-12-26T19:00:00.000Z",
+    "end": "2025-12-29T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Bounty</b>",
+    "start": "2025-12-29T19:00:00.000Z",
+    "end": "2026-01-05T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Scrimm</b>",
+    "start": "2025-12-29T19:00:00.000Z",
+    "end": "2026-01-05T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-12-05T19:00:00.000Z",
+    "end": "2025-12-07T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-12-19T19:00:00.000Z",
+    "end": "2025-12-21T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2025-12-26T19:00:00.000Z",
+    "end": "2025-12-28T19:00:00.000Z",
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
