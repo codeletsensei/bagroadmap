@@ -2545,7 +2545,7 @@ confirmed = [
   },{
     "content": "[GA] KAITEN Outdoors (Blue TOR / Red+Purple INS) (Yellow atk)",
     "start": "2025-12-09T02:00:00.000Z",
-    "end": "2025-12-14T19:00:00.000Z",
+    "end": "2025-12-15T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "GA",
     "style": "color:white; background-color:blue "
