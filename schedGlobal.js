@@ -1368,6 +1368,90 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "[Welfare] Ichika (Swimsuit)",
+    "start": "2025-12-16T02:00:00.000Z",
+    "end": "2025-12-30T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Seia (Swimsuit)",
+    "start": "2025-12-16T02:00:00.000Z",
+    "end": "2025-12-23T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Hasumi (Swimsuit)",
+    "start": "2025-12-16T02:00:00.000Z",
+    "end": "2025-12-23T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Mika (Swimsuit) [L Bluefes] (New)",
+    "start": "2025-12-23T02:00:00.000Z",
+    "end": "2025-12-30T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Nagisa (Swimsuit) [L Bluefes] (New)",
+    "start": "2025-12-23T02:00:00.000Z",
+    "end": "2025-12-30T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Hina (Dress) [L Bluefes]",
+    "start": "2025-12-23T02:00:00.000Z",
+    "end": "2025-12-30T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "[Bluefes] 2x 3* rates",
+    "start": "2025-12-23T02:00:00.000Z",
+    "end": "2025-12-30T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightblue "
+  },{
+    "content": "[Welfare] Kirino (Swimsuit)",
+    "start": "2025-12-30T02:00:00.000Z",
+    "end": "2026-01-06T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Kanna (Swimsuit)",
+    "start": "2025-12-30T02:00:00.000Z",
+    "end": "2026-01-06T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Fubuki (Swimsuit)",
+    "start": "2025-12-30T02:00:00.000Z",
+    "end": "2026-01-06T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Shiroko (Swimsuit)",
+    "start": "2025-12-30T02:00:00.000Z",
+    "end": "2026-01-06T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Nonomi (Swimsuit)",
+    "start": "2025-12-30T02:00:00.000Z",
+    "end": "2026-01-06T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -1581,7 +1665,7 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[R] Special Summer Mission! RABBIT SQUAD and the Mystery of the Missing Shrimp ",
+    "content": "[R] Special Summer Mission! RABBIT SQUAD and the Mystery of the Missing Shrimp",
     "start": "2025-01-07T02:00:00.000Z",
     "end": "2025-01-16T02:00:00.000Z",
     "group": "G Event",
@@ -1742,7 +1826,7 @@ confirmed = [
     "subgroup": "Main",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[Login] daily free recruitments campaign (total of 100 in 7 days)",
+    "content": "[Login] Daily free recruitments campaign (100 in 7 days)",
     "start": "2025-07-08T02:00:00.000Z",
     "end": "2025-07-15T02:00:00.000Z",
     "group": "G Event",
@@ -1874,7 +1958,42 @@ confirmed = [
     "group": "G Event",
     "subgroup": "Main",
     "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini] Balancing Schale's Books with the General Student Council",
+    "start": "2025-12-02T02:00:00.000Z",
+    "end": "2025-12-16T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Perm] Special Summer Mission! RABBIT SQUAD and the Mystery of the Missing Shrimp",
+    "start": "2025-12-09T02:00:00.000Z",
+    "end": "2025-12-16T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
   },{ 
+    "content": "[Main] Summer Sky's Promise",
+    "start": "2025-12-16T02:00:00.000Z",
+    "end": "2025-12-30T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Main",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Login] daily free recruitments campaign (100 total)",
+    "start": "2025-12-16T02:00:00.000Z",
+    "end": "2025-12-23T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[R] Say-Bing! (End date TBC)",
+    "start": "2025-12-30T02:00:00.000Z",
+    "end": "2026-01-06T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
 //
 // RAIDS
 //
@@ -2423,6 +2542,27 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow "
+  },{
+    "content": "[GA] KAITEN Outdoors (Blue TOR / Red+Purple INS) (Yellow atk)",
+    "start": "2025-12-09T02:00:00.000Z",
+    "end": "2025-12-14T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:white; background-color:blue "
+  },{
+    "content": "[TA] Hod Urban Yellow (Blue atk)",
+    "start": "2025-12-23T02:00:00.000Z",
+    "end": "2025-12-29T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:black; background-color:yellow "
+  },{
+    "content": "[JFD] Assault Indoors Blue",
+    "start": "2025-12-30T02:00:00.000Z",
+    "end": "2026-01-05T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:white; background-color:blue "
   },{
 //
 // CAMPAIGNS
@@ -3847,6 +3987,14 @@ confirmed = [
     "content": "[Bond Gear] Renge, Midori, Hasumi, Wakamo (Swimsuit)",
     "start": "2024-11-18T02:00:00.000Z",
     "end": "2024-12-02T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+
+    "content": "Bing!",
+    "start": "2025-12-30T02:00:00.000Z",
+    "end": "2026-01-06T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
