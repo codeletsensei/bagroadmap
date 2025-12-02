@@ -18382,6 +18382,32 @@ jpSched = [
 		"title": "Sakurako (Idol) [L]<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "Kazusa",
+		"start": "2026-04-28T08:00",
+		"startJp": "2025-12-03T17:00",
+		"end": "2026-05-12T02:00",
+		"endJp": "2025-12-17T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-05-12T02:00",
+		"startG": "2026-04-28T02:00",
+		"title": "Kazusa<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Kaho",
+		"start": "2026-04-28T08:00",
+		"startJp": "2025-12-03T17:00",
+		"end": "2026-05-12T02:00",
+		"endJp": "2025-12-17T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-05-12T02:00",
+		"startG": "2026-04-28T02:00",
+		"title": "Kaho<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "[GA] Kaiten Urban (Red+Yellow TOR / Blue INS) (Yellow atk)",
 		"start": "2026-05-05T02:00",
 		"startJp": "2025-12-10T11:00",
