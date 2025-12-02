@@ -1145,8 +1145,8 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serenade_Promenade/Rerun\" title=\"Serenade Promenade/Rerun\">Serenade Promenade</a>",
-		"start": "2026-04-28T02:00",
-		"startJp": "2025-12-03T11:00",
+		"start": "2026-04-28T08:00",
+		"startJp": "2025-12-03T17:00",
 		"end": "2026-05-12T02:00",
 		"endJp": "2025-12-17T11:00",
 		"group": "J Event",
@@ -7242,8 +7242,8 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "[JFD] Assault Outdoors Red",
-		"start": "2026-04-28T02:00",
-		"startJp": "2025-12-03T11:00",
+		"start": "2026-04-28T08:00",
+		"startJp": "2025-12-03T17:00",
 		"end": "2026-05-04T18:59",
 		"endJp": "2025-12-10T03:59",
 		"group": "J Raid",
@@ -18305,8 +18305,8 @@ jpSched = [
 		"duration": "3d"
 	},{
 		"content": "[Welfare] Mine (Idol)",
-		"start": "2026-04-28T02:00",
-		"startJp": "2025-12-03T11:00",
+		"start": "2026-04-28T08:00",
+		"startJp": "2025-12-03T17:00",
 		"end": "2026-05-12T02:00",
 		"endJp": "2025-12-17T11:00",
 		"group": "J Gacha",
@@ -18317,7 +18317,7 @@ jpSched = [
 		"title": "[Welfare] Mine (Idol)<br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "?[Perm] An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~?",
+		"content": "[Perm] An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~",
 		"start": "2026-05-12T02:00",
 		"startJp": "2025-12-17T11:00",
 		"end": "2026-05-19T02:00",
@@ -18327,12 +18327,38 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-05-19T02:00",
 		"startG": "2026-05-12T02:00",
-		"title": "?[Perm] An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~?<br>G: 2026-05-12 02:00 Tue ~ 2026-05-19 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 11:00 Wed 7d (JST y-m-d)",
+		"title": "[Perm] An Academy Club's Story ~ The Two Girls' Wish for the Final Volume ~<br>G: 2026-05-12 02:00 Tue ~ 2026-05-19 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "EOS",
+		"start": "2026-04-28T02:00",
+		"startJp": "2025-12-03T11:00",
+		"end": "2026-04-28T08:00",
+		"endJp": "2025-12-03T17:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"endG": "2026-04-28T08:00",
+		"startG": "2026-04-28T02:00",
+		"title": "EOS<br>G: 2026-04-28 02:00 Tue ~ 2026-04-28 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-03 17:00 Wed 6h (JST y-m-d)",
+		"duration": "6h"
+	},{
+		"content": "[Mini Story] 手動期の終り",
+		"start": "2026-05-12T02:00",
+		"startJp": "2025-12-17T11:00",
+		"end": "2026-05-19T02:00",
+		"endJp": "2025-12-24T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-05-19T02:00",
+		"startG": "2026-05-12T02:00",
+		"title": "[Mini Story] 手動期の終り<br>G: 2026-05-12 02:00 Tue ~ 2026-05-19 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "Mari (Idol) [L]",
-		"start": "2026-04-28T02:00",
-		"startJp": "2025-12-03T11:00",
+		"start": "2026-04-28T08:00",
+		"startJp": "2025-12-03T17:00",
 		"end": "2026-05-12T02:00",
 		"endJp": "2025-12-17T11:00",
 		"group": "J Gacha",
@@ -18344,8 +18370,8 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "Sakurako (Idol) [L]",
-		"start": "2026-04-28T02:00",
-		"startJp": "2025-12-03T11:00",
+		"start": "2026-04-28T08:00",
+		"startJp": "2025-12-03T17:00",
 		"end": "2026-05-12T02:00",
 		"endJp": "2025-12-17T11:00",
 		"group": "J Gacha",
