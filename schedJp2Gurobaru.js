@@ -18472,5 +18472,31 @@ jpSched = [
 		"startG": "2026-05-12T02:00",
 		"title": "[Mini Story] 手動期の終り<br>G: 2026-05-12 02:00 Tue ~ 2026-05-19 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
+	},{
+		"content": "[TA] ???????",
+		"start": "2026-05-26T02:00",
+		"startJp": "2025-12-31T11:00",
+		"end": "2026-06-01T19:00",
+		"endJp": "2026-01-07T04:00",
+		"group": "J Raid",
+		"subgroup": "TA",
+		"style": "color:black;background-color:pink",
+		"endG": "2026-06-01T19:00",
+		"startG": "2026-05-26T02:00",
+		"title": "[TA] ???????<br>G: 2026-05-26 02:00 Tue ~ 2026-06-01 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[JFD] Escort Yellow Urban. Healing AG deals DMG to enemies. Yellow dmg buff depending on AG's current HP. Enemies with high HP and ATK.",
+		"start": "2026-06-02T02:00",
+		"startJp": "2026-01-07T11:00",
+		"end": "2026-06-08T19:00",
+		"endJp": "2026-01-14T04:00",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-06-08T19:00",
+		"startG": "2026-06-02T02:00",
+		"title": "[JFD] Escort Yellow Urban. Healing AG deals DMG to enemies. Yellow dmg buff depending on AG's current HP. Enemies with high HP and ATK.<br>G: 2026-06-02 02:00 Tue ~ 2026-06-08 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-14 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	}
 ]
