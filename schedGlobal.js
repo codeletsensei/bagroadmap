@@ -4208,12 +4208,27 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Stream] ブルアカらいぶ！クリスマスぱーてぃー計画！SP",
+    "start": "2025-12-20T19:00",
+    "end": "2025-12-27T19:00",
+    "group": "G Maint",
+    "subgroup": "Stream",
+    "style": "color:black;background-color:cyan",
+    "url": "https://www.youtube.com/live/To4kTwOHslU",
+  },{
+    "content": "[Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)",
+    "start": "2026-01-17T00:01",
+    "end": "2026-01-18T23:59",
+    "group": "G Maint",
+    "subgroup": "Stream",
+    "style": "color:black;background-color:cyan",
   }
 ]
 
 // get the time when any future maintenance ends
 let maintTimes = confirmed.map(i=>{
-  if (i.group.includes("Maint")) {
+  if (i.group.includes("Maint") && i.subgroup != "Stream") {
     let endTime = Date.parse(i.end)
     if ( endTime > Date.now() ) return { "start": i.start, "end": i.end }  
   }
