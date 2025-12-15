@@ -421,7 +421,7 @@ async function openExternalLink(url){
     html: "Do you really want to visit <b style='color:red'>" + url + "</b> ?<br><br>Click OK if you know the link is safe or accept the risks.",
     showCancelButton: true
   })
-  if (confirmation.isConfirmed) window.open(allData[itemId].url, "_blank")
+  if (confirmation.isConfirmed) window.open(url, "_blank")
 }
 
 function endSearch(){
