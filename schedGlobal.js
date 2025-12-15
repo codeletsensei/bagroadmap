@@ -2015,7 +2015,7 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[R] Say-Bing! (End date TBC)",
+    "content": "[R] Say-Bing!",
     "start": "2025-12-30T02:00:00.000Z",
     "end": "2026-01-06T02:00:00.000Z",
     "group": "G Event",
@@ -2592,12 +2592,33 @@ confirmed = [
     "subgroup": "TA",
     "style": "color:black; background-color:yellow "
   },{
+    "content": "[QoL] Hod adjustments: Some of Hod's skills will be locked",
+    "start": "2025-12-23T02:00:00.000Z",
+    "end": "2025-12-29T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "",
+    "style": "color:black; background-color:pink "
+  },{
     "content": "[JFD] Assault Indoors Blue",
     "start": "2025-12-30T02:00:00.000Z",
     "end": "2026-01-05T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "JFD",
     "style": "color:white; background-color:blue "
+  },{
+    "content": "[GA] Binah Urban (Purple TOR / Red+Blue INS)",
+    "start": "2026-01-06T02:00:00.000Z",
+    "end": "2026-01-12T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:white; background-color:purple "
+  },{
+    "content": "[LBA] S17 Tiphareth Yellow (Yellow atk)",
+    "start": "2025-12-17T02:00:00.000Z",
+    "end": "2026-01-12T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "LBA",
+    "style": "color:black; background-color:yellow "
   },{
 //
 // CAMPAIGNS
@@ -3554,6 +3575,27 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "<b>3x Normal</b>",
+    "start": "2026-01-05T19:00:00.000Z",
+    "end": "2026-01-09T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Hard</b>",
+    "start": "2026-01-09T19:00:00.000Z",
+    "end": "2026-01-12T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Comm</b>",
+    "start": "2026-01-05T19:00:00.000Z",
+    "end": "2026-01-12T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
     "content": "<b>2x XP</b>",
     "start": "2025-12-05T19:00:00.000Z",
     "end": "2025-12-07T19:00:00.000Z",
@@ -3571,6 +3613,20 @@ confirmed = [
     "content": "<b>2x XP</b>",
     "start": "2025-12-26T19:00:00.000Z",
     "end": "2025-12-28T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-01-02T19:00:00.000Z",
+    "end": "2026-01-04T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-01-09T19:00:00.000Z",
+    "end": "2026-01-11T19:00:00.000Z",
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
@@ -4110,10 +4166,44 @@ confirmed = [
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
   },{
-
     "content": "Bing!",
     "start": "2025-12-30T02:00:00.000Z",
     "end": "2026-01-06T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Battlepass] Shinon's Battle Pass!",
+    "start": "2025-12-16T02:00:00.000Z",
+    "end": "2026-01-13T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:pink"
+  },{
+    "content": "Tea Party's Summer Vacation Login Bonus!",
+    "start": "2025-12-16T02:00:00.000Z",
+    "end": "2026-01-13T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Webview] Special Mission Event!",
+    "start": "2025-12-16T02:00:00.000Z",
+    "end": "2026-02-10T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Website] Teatime on the Beach",
+    "start": "2025-12-16T08:00:00.000Z",
+    "end": "2025-12-30T06:59:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[KR Dub] V3 C1-3",
+    "start": "2025-12-16T02:00:00.000Z",
+    "end": "2025-12-30T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
