@@ -121,7 +121,7 @@ document.getElementById("welcomeBaggot").remove()
 
 let siteVersion = 20251012
 let currentVersion = localStorage.getItem("version")
-let lastShitAdded = "2025/8/8: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
+let lastShitAdded = "2025/12/15: Clicking on a (future) Maintenance/Stream cell will ask to open its related link, if it's already available and I didn't forget about it.<br>2025/8/8: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
 if ( !currentVersion || Number(currentVersion) < siteVersion ) {
   Swal.fire({
     title: "Changelog",
@@ -212,6 +212,7 @@ function run(){
   var container = document.getElementById('visualization');
   timeline = new vis.Timeline(container);
   timeline.on("click",endSearch)
+  timeline.on("select",itemClicked)
   plotStuff(region)
   //adding buttons to scroll back to today or the end of the graph
   btnToday = document.createElement("button")
@@ -407,6 +408,20 @@ function searchThis(searchInput){
       document.getElementById("searchResultsSpan").appendChild(el) 
 
   }
+}
+
+async function itemClicked(item){
+  let itemId = item.items[0]
+  if (itemId && allData[itemId].url) openExternalLink(allData[itemId].url)
+}
+
+async function openExternalLink(url){
+  let confirmation = await Swal.fire({
+    title: "Accessing another site.",
+    html: "Do you really want to visit <b style='color:red'>" + url + "</b> ?<br><br>Click OK if you know the link is safe or accept the risks.",
+    showCancelButton: true
+  })
+  if (confirmation.isConfirmed) window.open(allData[itemId].url, "_blank")
 }
 
 function endSearch(){

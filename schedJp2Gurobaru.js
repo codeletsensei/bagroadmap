@@ -18031,19 +18031,6 @@ jpSched = [
 		"title": "[Special Dangles] Airi, Yoshimi, Hanae, Kanna, Sena, Ayane (Swimsuit), Karin (Uniform), Nodoka (Onsen), Hinata (Swimsuit), Maki (Camping), Reisa (Magical)<br>G: 2026-03-17 02:00 Tue ~ 2026-03-30 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)",
-		"start": "2026-06-11T15:01",
-		"startJp": "2026-01-17T00:01",
-		"end": "2026-06-13T14:59",
-		"endJp": "2026-01-18T23:59",
-		"group": "J Other",
-		"subgroup": "",
-		"style": "color:black;background-color:cyan",
-		"endG": "2026-06-13T14:59",
-		"startG": "2026-06-11T15:01",
-		"title": "[Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)<br>G: 2026-06-11 15:01 Thu ~ 2026-06-13 14:59 Sat 2d (UTC y-m-d)<br>Jp: 2026-01-17 00:01 Sat ~ 2026-01-18 23:59 Sun 2d (JST y-m-d)",
-		"duration": "2d"
-	},{
 		"content": "EOS",
 		"start": "2026-03-17T02:00",
 		"startJp": "2025-10-22T11:00",
@@ -18312,6 +18299,7 @@ jpSched = [
 		"group": "J Maint",
 		"subgroup": "",
 		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/605",
 		"endG": "2026-04-14T10:00",
 		"startG": "2026-04-14T02:00",
 		"title": "EOS<br>G: 2026-04-14 02:00 Tue ~ 2026-04-14 10:00 Tue 8h (UTC y-m-d)<br>Jp: 2025-11-19 11:00 Wed ~ 2025-11-19 19:00 Wed 8h (JST y-m-d)",
@@ -18455,6 +18443,7 @@ jpSched = [
 		"group": "J Maint",
 		"subgroup": "",
 		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/609",
 		"endG": "2026-04-28T08:00",
 		"startG": "2026-04-28T02:00",
 		"title": "EOS<br>G: 2026-04-28 02:00 Tue ~ 2026-04-28 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-03 17:00 Wed 6h (JST y-m-d)",
@@ -18472,6 +18461,19 @@ jpSched = [
 		"startG": "2026-05-12T02:00",
 		"title": "[Mini Story] 手動期の終り<br>G: 2026-05-12 02:00 Tue ~ 2026-05-19 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
+	},{
+		"content": "[Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)",
+		"start": "2026-06-11T15:01",
+		"startJp": "2026-01-17T00:01",
+		"end": "2026-06-13T14:59",
+		"endJp": "2026-01-18T23:59",
+		"group": "J Maint",
+		"subgroup": "Stream",
+		"style": "color:black;background-color:cyan",
+		"endG": "2026-06-13T14:59",
+		"startG": "2026-06-11T15:01",
+		"title": "[Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)<br>G: 2026-06-11 15:01 Thu ~ 2026-06-13 14:59 Sat 2d (UTC y-m-d)<br>Jp: 2026-01-17 00:01 Sat ~ 2026-01-18 23:59 Sun 2d (JST y-m-d)",
+		"duration": "2d"
 	},{
 		"content": "[TA] ???????",
 		"start": "2026-05-26T02:00",
@@ -18497,6 +18499,20 @@ jpSched = [
 		"endG": "2026-06-08T19:00",
 		"startG": "2026-06-02T02:00",
 		"title": "[JFD] Escort Yellow Urban. Healing AG deals DMG to enemies. Yellow dmg buff depending on AG's current HP. Enemies with high HP and ATK.<br>G: 2026-06-02 02:00 Tue ~ 2026-06-08 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-14 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[Stream] ブルアカらいぶ！クリスマスぱーてぃー計画！SP",
+		"start": "2026-05-15T10:00",
+		"startJp": "2025-12-20T19:00",
+		"end": "2026-05-22T10:00",
+		"endJp": "2025-12-27T19:00",
+		"group": "J Maint",
+		"subgroup": "Stream",
+		"style": "color:black;background-color:cyan",
+		"url": "https://www.youtube.com/live/To4kTwOHslU",
+		"endG": "2026-05-22T10:00",
+		"startG": "2026-05-15T10:00",
+		"title": "[Stream] ブルアカらいぶ！クリスマスぱーてぃー計画！SP<br>G: 2026-05-15 10:00 Fri ~ 2026-05-22 10:00 Fri 7d (UTC y-m-d)<br>Jp: 2025-12-20 19:00 Sat ~ 2025-12-27 19:00 Sat 7d (JST y-m-d)",
 		"duration": "7d"
 	}
 ]
