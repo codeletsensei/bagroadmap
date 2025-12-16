@@ -2600,7 +2600,7 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:pink "
   },{
-    "content": "[JFD] Assault Indoors Blue",
+    "content": "[JFD] Assault Indoors Blue. Healing scarecrow deals dmg to everyone. Debuffing enemies removes their shield",
     "start": "2025-12-30T02:00:00.000Z",
     "end": "2026-01-05T19:00:00.000Z",
     "group": "G Raid",
