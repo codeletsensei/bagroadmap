@@ -4210,8 +4210,8 @@ confirmed = [
     "style": "color:black; background-color:lightblue"
   },{
     "content": "[Stream] ブルアカらいぶ！クリスマスぱーてぃー計画！SP",
-    "start": "2025-12-20T19:00",
-    "end": "2025-12-27T19:00",
+    "start": "2025-12-20T10:00",
+    "end": "2025-12-27T10:00",
     "group": "G Maint",
     "subgroup": "Stream",
     "style": "color:black;background-color:cyan",

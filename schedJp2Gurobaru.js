@@ -18502,9 +18502,9 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "[Stream] ブルアカらいぶ！クリスマスぱーてぃー計画！SP",
-		"start": "2025-12-20T19:00",
+		"start": "2025-12-20T10:00",
 		"startJp": "2025-12-20T19:00",
-		"end": "2025-12-27T19:00",
+		"end": "2025-12-27T10:00",
 		"endJp": "2025-12-27T19:00",
 		"group": "J Maint",
 		"subgroup": "Stream",
