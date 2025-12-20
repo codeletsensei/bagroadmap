@@ -18512,7 +18512,7 @@ jpSched = [
 		"url": "https://www.youtube.com/live/To4kTwOHslU",
 		"endG": "2025-12-27T19:00",
 		"startG": "2025-12-20T19:00",
-		"title": "[Stream] ブルアカらいぶ！クリスマスぱーてぃー計画！SP<br>G: 2025-12-20 19:00 Sat ~ 2025-12-27 19:00 Sat 7d (UTC y-m-d)<br>Jp: 2025-12-20 19:00 Sat ~ 2025-12-27 19:00 Sat 7d (JST y-m-d)",
+		"title": "[Stream] ブルアカらいぶ！クリスマスぱーてぃー計画！SP<br>G: 2025-12-20 10:00 Sat ~ 2025-12-27 10:00 Sat 7d (UTC y-m-d)<br>Jp: 2025-12-20 19:00 Sat ~ 2025-12-27 19:00 Sat 7d (JST y-m-d)",
 		"duration": "7d"
 	}
 ]
