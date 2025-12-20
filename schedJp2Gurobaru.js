@@ -18671,6 +18671,19 @@ jpSched = [
 		"title": "[GA] ShiroKuro Urban (Blue+Purple TOR / Yellow INS) (Yellow atk)<br>G: 2026-06-09 02:00 Tue ~ 2026-06-14 19:00 Sun 6d (UTC y-m-d)<br>Jp: 2026-01-14 11:00 Wed ~ 2026-01-20 04:00 Tue 6d (JST y-m-d)",
 		"duration": "6d"
 	},{
+		"content": "[LBA] S22 The Fury of Set Red (Red atk)",
+		"start": "2026-05-21T02:00",
+		"startJp": "2025-12-25T11:00",
+		"end": "2026-06-15T19:00",
+		"endJp": "2026-01-20T04:00",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:white;background-color:red",
+		"endG": "2026-06-15T19:00",
+		"startG": "2026-05-21T02:00",
+		"title": "[LBA] S22 The Fury of Set Red (Red atk)<br>G: 2026-05-21 02:00 Thu ~ 2026-06-15 19:00 Mon 26d (UTC y-m-d)<br>Jp: 2025-12-25 11:00 Thu ~ 2026-01-20 04:00 Tue 26d (JST y-m-d)",
+		"duration": "26d"
+	},{
 		"content": "2x Bounty",
 		"start": "2026-05-19T19:00",
 		"startJp": "2025-12-24T04:00",
