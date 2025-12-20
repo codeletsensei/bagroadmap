@@ -18554,7 +18554,7 @@ jpSched = [
 		"title": "[RR] Mika [L Bluefes]<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[QoL] Recollect Recruitment (Bluefes removed from bluefes, no 2x rates, separate spark points)",
+		"content": "[QoL] Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?)",
 		"start": "2026-05-27T02:00",
 		"startJp": "2025-12-31T11:00",
 		"end": "2026-06-03T02:00",
@@ -18564,7 +18564,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-06-03T02:00",
 		"startG": "2026-05-27T02:00",
-		"title": "[QoL] Recollect Recruitment (Bluefes removed from bluefes, no 2x rates, separate spark points)<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
+		"title": "[QoL] Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?)<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[QoL] Copy others' cafe",
@@ -18581,17 +18581,17 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "[Mission] Area 30",
-		"start": "2025-06-03T02:00",
-		"startJp": "2025-01-07T11:00",
+		"start": "2026-06-03T02:00",
+		"startJp": "2026-01-07T11:00",
 		"end": "2026-06-16T02:00",
 		"endJp": "2026-01-20T11:00",
 		"group": "J Other",
 		"subgroup": "Other",
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-06-16T02:00",
-		"startG": "2025-06-03T02:00",
-		"title": "[Mission] Area 30<br>G: 2025-06-03 02:00 Tue ~ 2026-06-16 02:00 Tue 378d (UTC y-m-d)<br>Jp: 2025-01-07 11:00 Tue ~ 2026-01-20 11:00 Tue 378d (JST y-m-d)",
-		"duration": "378d"
+		"startG": "2026-06-03T02:00",
+		"title": "[Mission] Area 30<br>G: 2026-06-03 02:00 Wed ~ 2026-06-16 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 11:00 Tue 13d (JST y-m-d)",
+		"duration": "13d"
 	},{
 		"content": "[Main] 不忍ノ道～ファッションショー警護任務！の巻～",
 		"start": "2026-05-20T02:00",
