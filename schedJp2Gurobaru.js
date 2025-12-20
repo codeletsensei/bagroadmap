@@ -18554,7 +18554,7 @@ jpSched = [
 		"title": "[RR] Mika [L Bluefes]<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[QoL] Recollect Recruitment (Bluefes reruns, separate Recruitment Points)",
+		"content": "[QoL] Recollect Recruitment (Bluefes removed from bluefes, no 2x rates, separate spark points)",
 		"start": "2026-05-27T02:00",
 		"startJp": "2025-12-31T11:00",
 		"end": "2026-06-03T02:00",
@@ -18564,7 +18564,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-06-03T02:00",
 		"startG": "2026-05-27T02:00",
-		"title": "[QoL] Recollect Recruitment (Bluefes reruns, separate Recruitment Points)<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
+		"title": "[QoL] Recollect Recruitment (Bluefes removed from bluefes, no 2x rates, separate spark points)<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[QoL] Copy others' cafe",
