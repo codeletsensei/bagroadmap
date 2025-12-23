@@ -4211,7 +4211,7 @@ confirmed = [
   },{
     "content": "[Stream] ブルアカらいぶ！クリスマスぱーてぃー計画！SP",
     "start": "2025-12-20T10:00",
-    "end": "2025-12-27T10:00",
+    "end": "2025-12-23T02:00",
     "group": "G Maint",
     "subgroup": "Stream",
     "style": "color:black;background-color:cyan",
