@@ -14742,6 +14742,32 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serika_(Swimsuit)\" title=\"Serika (Swimsuit)\">Serika (Swimsuit)</a><br>G: 2026-05-13 02:00 Wed ~ 2026-05-20 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo_(Dress)\" title=\"Tsukuyo (Dress)\">Tsukuyo (Dress)</a> (New)",
+		"start": "2026-05-20T10:00",
+		"startJp": "2025-12-24T19:00",
+		"end": "2026-06-03T01:59",
+		"endJp": "2026-01-07T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-06-03T01:59",
+		"startG": "2026-05-20T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo_(Dress)\" title=\"Tsukuyo (Dress)\">Tsukuyo (Dress)</a> (New)<br>G: 2026-05-20 02:00 Wed ~ 2026-06-03 01:59 Wed 14d (UTC y-m-d)<br>Jp: 2025-12-24 11:00 Wed ~ 2026-01-07 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Michiru_(Dress)\" title=\"Michiru (Dress)\">Michiru (Dress)</a> (New)",
+		"start": "2026-05-20T10:00",
+		"startJp": "2025-12-24T19:00",
+		"end": "2026-06-03T01:59",
+		"endJp": "2026-01-07T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-06-03T01:59",
+		"startG": "2026-05-20T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Michiru_(Dress)\" title=\"Michiru (Dress)\">Michiru (Dress)</a> (New)<br>G: 2026-05-20 02:00 Wed ~ 2026-06-03 01:59 Wed 14d (UTC y-m-d)<br>Jp: 2025-12-24 11:00 Wed ~ 2026-01-07 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "EOS",
 		"start": "2021-07-07T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -18658,7 +18684,7 @@ jpSched = [
 		"title": "[Bond Gear] Arisu, Michiru, Yuzu <br>G: 2026-05-20 02:00 Wed ~ 2026-06-03 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-12-24 11:00 Wed ~ 2026-01-07 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[RR] Mika, Wakamo, Hoshino (Swimsuit) [L Bluefes]",
+		"content": "[RR] Wakamo, Mika, Hoshino (Swimsuit) [L Bluefes]",
 		"start": "2026-05-27T02:00",
 		"startJp": "2025-12-31T11:00",
 		"end": "2026-06-03T02:00",
@@ -18668,23 +18694,23 @@ jpSched = [
 		"style": "color:black;background-color:white",
 		"endG": "2026-06-03T02:00",
 		"startG": "2026-05-27T02:00",
-		"title": "[RR] Mika, Wakamo, Hoshino (Swimsuit) [L Bluefes]<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
+		"title": "[RR] Wakamo [L Bluefes]<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[QoL] Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?) that don't carry over. Extra 100 elephs only for 1 student.",
+		"content": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?) that don't carry over. Extra 100 elephs only for 1 student.",
 		"start": "2026-05-27T02:00",
 		"startJp": "2025-12-31T11:00",
 		"end": "2026-06-03T02:00",
 		"endJp": "2026-01-07T11:00",
-		"group": "J Other",
-		"subgroup": "Other",
-		"style": "color:black;background-color:lightblue",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:white",
 		"endG": "2026-06-03T02:00",
 		"startG": "2026-05-27T02:00",
-		"title": "[QoL] Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?) that don't carry over. Extra 100 elephs only for 1 student.<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
+		"title": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?) that don't carry over. Extra 100 elephs only for 1 student.<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[Mission] Area 30",
+		"content": "[Mission] Area 30 (Cherino + Momiji)",
 		"start": "2026-06-03T02:00",
 		"startJp": "2026-01-07T11:00",
 		"end": "2026-06-16T02:00",
@@ -18694,7 +18720,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-06-16T02:00",
 		"startG": "2026-06-03T02:00",
-		"title": "[Mission] Area 30<br>G: 2026-06-03 02:00 Wed ~ 2026-06-16 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 11:00 Tue 13d (JST y-m-d)",
+		"title": "[Mission] Area 30 (Cherino + Momiji)<br>G: 2026-06-03 02:00 Wed ~ 2026-06-16 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 11:00 Tue 13d (JST y-m-d)",
 		"duration": "13d"
 	},{
 		"content": "[QoL] Bounty shop on Sora's shop",
@@ -18790,16 +18816,16 @@ jpSched = [
 		"duration": "8h"
 	},{
 		"content": "Fixed ShiroKuro's sticky bombs",
-		"start": "2026-06-09T02:00",
+		"start": "2026-06-10T02:00",
 		"startJp": "2026-01-14T11:00",
-		"end": "2026-06-14T19:00",
+		"end": "2026-06-15T19:00",
 		"endJp": "2026-01-20T04:00",
 		"group": "J Raid",
-		"subgroup": "GA",
+		"subgroup": "",
 		"style": "color:black;background-color:pink",
-		"endG": "2026-06-14T19:00",
-		"startG": "2026-06-09T02:00",
-		"title": "Fixed ShiroKuro's sticky bombs<br>G: 2026-06-09 02:00 Tue ~ 2026-06-14 19:00 Sun 6d (UTC y-m-d)<br>Jp: 2026-01-14 11:00 Wed ~ 2026-01-20 04:00 Tue 6d (JST y-m-d)",
+		"endG": "2026-06-15T19:00",
+		"startG": "2026-06-10T02:00",
+		"title": "Fixed ShiroKuro's sticky bombs<br>G: 2026-06-10 02:00 Wed ~ 2026-06-15 19:00 Mon 6d (UTC y-m-d)<br>Jp: 2026-01-14 11:00 Wed ~ 2026-01-20 04:00 Tue 6d (JST y-m-d)",
 		"duration": "6d"
 	},{
 		"content": "[Main] 不忍ノ道～ファッションショー警護任務！の巻～",
@@ -18828,30 +18854,43 @@ jpSched = [
 		"title": "[Login] 5th Anniversary Countdown Login Bonus<br>G: 2026-06-08 19:00 Mon ~ 2026-06-15 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-13 04:00 Tue ~ 2026-01-20 04:00 Tue 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "Michiru (Dress) (New)",
-		"start": "2026-05-20T10:00",
-		"startJp": "2025-12-24T19:00",
-		"end": "2026-06-03T02:00",
-		"endJp": "2026-01-07T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-06-03T02:00",
-		"startG": "2026-05-20T02:00",
-		"title": "Michiru (Dress) (New)<br>G: 2026-05-20 02:00 Wed ~ 2026-06-03 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-12-24 11:00 Wed ~ 2026-01-07 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
+		"content": "[R] Descent of the Five Senses",
+		"start": "2026-06-03T02:00",
+		"startJp": "2026-01-07T11:00",
+		"end": "2026-06-15T02:00",
+		"endJp": "2026-01-19T11:00",
+		"group": "J Event",
+		"subgroup": "",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-06-15T02:00",
+		"startG": "2026-06-03T02:00",
+		"title": "[R] Descent of the Five Senses<br>G: 2026-06-03 02:00 Wed ~ 2026-06-15 02:00 Mon 12d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-19 11:00 Mon 12d (JST y-m-d)",
+		"duration": "12d"
 	},{
-		"content": "Tsukuyo (Dress) (New)",
-		"start": "2026-05-20T10:00",
-		"startJp": "2025-12-24T19:00",
-		"end": "2026-06-03T02:00",
-		"endJp": "2026-01-07T11:00",
+		"content": "Yuuka (Sportswear)",
+		"start": "2026-06-03T02:00",
+		"startJp": "2026-01-07T11:00",
+		"end": "2026-06-16T02:00",
+		"endJp": "2026-01-20T11:00",
 		"group": "J Gacha",
 		"subgroup": "Gacha",
 		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-06-03T02:00",
-		"startG": "2026-05-20T02:00",
-		"title": "Tsukuyo (Dress) (New)<br>G: 2026-05-20 02:00 Wed ~ 2026-06-03 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-12-24 11:00 Wed ~ 2026-01-07 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
+		"endG": "2026-06-16T02:00",
+		"startG": "2026-06-03T02:00",
+		"title": "Yuuka (Sportswear)<br>G: 2026-06-03 02:00 Wed ~ 2026-06-16 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 11:00 Tue 13d (JST y-m-d)",
+		"duration": "13d"
+	},{
+		"content": "Mari (Sportswear)",
+		"start": "2026-06-03T02:00",
+		"startJp": "2026-01-07T11:00",
+		"end": "2026-06-16T02:00",
+		"endJp": "2026-01-20T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-06-16T02:00",
+		"startG": "2026-06-03T02:00",
+		"title": "Mari (Sportswear)<br>G: 2026-06-03 02:00 Wed ~ 2026-06-16 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 11:00 Tue 13d (JST y-m-d)",
+		"duration": "13d"
 	}
 ]
