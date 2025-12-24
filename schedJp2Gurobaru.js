@@ -18717,7 +18717,7 @@ jpSched = [
 		"endJp": "2026-01-20T11:00",
 		"group": "J Other",
 		"subgroup": "Other",
-		"style": "color:black;background-color:lightblue",
+		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-06-16T02:00",
 		"startG": "2026-06-03T02:00",
 		"title": "[Mission] Area 30 (Cherino + Momiji)<br>G: 2026-06-03 02:00 Wed ~ 2026-06-16 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 11:00 Tue 13d (JST y-m-d)",
