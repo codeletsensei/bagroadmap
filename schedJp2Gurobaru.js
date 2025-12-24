@@ -18723,7 +18723,7 @@ jpSched = [
 		"title": "[Mission] Area 30 (Cherino + Momiji)<br>G: 2026-06-03 02:00 Wed ~ 2026-06-16 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 11:00 Tue 13d (JST y-m-d)",
 		"duration": "13d"
 	},{
-		"content": "[QoL] Bounty shop on Sora's shop",
+		"content": "[QoL] Bounty shop on Sora's shop, with all items",
 		"start": "2026-05-20T10:00",
 		"startJp": "2025-12-24T19:00",
 		"end": "2026-06-03T02:00",
@@ -18733,7 +18733,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-06-03T02:00",
 		"startG": "2026-05-20T02:00",
-		"title": "[QoL] Bounty shop on Sora's shop<br>G: 2026-05-20 02:00 Wed ~ 2026-06-03 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-12-24 11:00 Wed ~ 2026-01-07 11:00 Wed 14d (JST y-m-d)",
+		"title": "[QoL] Bounty shop on Sora's shop, with all items<br>G: 2026-05-20 02:00 Wed ~ 2026-06-03 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-12-24 11:00 Wed ~ 2026-01-07 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[QoL] SEARCH STUDENTS BY NAME",
