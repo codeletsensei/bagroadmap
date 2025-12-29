@@ -18177,14 +18177,14 @@ jpSched = [
 		"content": "[Crafting] Furniture: \"Wild Hunt Campus\" Series + Pancake Tea Table + Medicine Organizer White Table",
 		"start": "2026-02-18T10:00",
 		"startJp": "2025-09-24T19:00",
-		"end": "2026-03-04T02:00",
-		"endJp": "2025-10-08T11:00",
+		"end": "2026-03-03T19:00",
+		"endJp": "2025-10-08T04:00",
 		"group": "J Other",
 		"subgroup": "",
 		"style": "color:black;background-color:lightblue",
-		"endG": "2026-03-04T02:00",
+		"endG": "2026-03-03T19:00",
 		"startG": "2026-02-18T02:00",
-		"title": "[Crafting] Furniture: \"Wild Hunt Campus\" Series + Pancake Tea Table + Medicine Organizer White Table<br>G: 2026-02-18 02:00 Wed ~ 2026-03-04 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Crafting] Furniture: \"Wild Hunt Campus\" Series + Pancake Tea Table + Medicine Organizer White Table<br>G: 2026-02-18 02:00 Wed ~ 2026-03-03 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[PVP] Season 10. Urban. +400% HP. Fever: DEF/EVA debuff + cost rec up.",
@@ -18694,10 +18694,10 @@ jpSched = [
 		"style": "color:black;background-color:white",
 		"endG": "2026-06-03T02:00",
 		"startG": "2026-05-27T02:00",
-		"title": "[RR] Wakamo [L Bluefes]<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
+		"title": "[RR] Wakamo, Mika, Hoshino (Swimsuit) [L Bluefes]<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?) that don't carry over. Extra 100 elephs only for 1 student.",
+		"content": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?) that don't carry over. Extra 100 elephs only for 1 student on that run.",
 		"start": "2026-05-27T02:00",
 		"startJp": "2025-12-31T11:00",
 		"end": "2026-06-03T02:00",
@@ -18707,7 +18707,7 @@ jpSched = [
 		"style": "color:black;background-color:white",
 		"endG": "2026-06-03T02:00",
 		"startG": "2026-05-27T02:00",
-		"title": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?) that don't carry over. Extra 100 elephs only for 1 student.<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
+		"title": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?) that don't carry over. Extra 100 elephs only for 1 student on that run.<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[Mission] Area 30 (Cherino + Momiji)",

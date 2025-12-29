@@ -134,8 +134,12 @@ if ( !currentVersion || Number(currentVersion) < siteVersion ) {
 prevRegion = 2
 region = 2 // 0 = confirmed global, 1 = "JP", 2 = both, 3 = current JP
 confirmed.forEach(a=>{
-  a.duration = Math.ceil((Date.parse(new Date(a.end)) - Date.parse(new Date(a.start)))/(1000*60*60*24))
-  a.title = a.content + "<br>Confirmed: " + a.start.toString().substr(0,16).replace("T"," ") + " " + new Date(a.start).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3) + " ~ " + a.end.toString().substr(0,16).replace("T"," ") + " " + new Date(a.end).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3) +" " + a.duration + "d (UTC y-m-d)"
+  a.title = a.content + "<br>Confirmed: " + a.start.toString().substr(0,16).replace("T"," ") + " " + new Date(a.start).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3)
+  if (a.end) {
+    a.duration = Math.ceil((Date.parse(new Date(a.end)) - Date.parse(new Date(a.start)))/(1000*60*60*24))
+    a.title += " ~ " + a.end.toString().substr(0,16).replace("T"," ") + " " + new Date(a.end).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3) +" " + a.duration + "d"
+  }
+  a.title += "(UTC y-m-d)"
 })
 
 function getItems(){
@@ -155,25 +159,23 @@ function getItems(){
   }
   allData.forEach((a,i)=>{
     a.id = i
+    if (!a.end) a.type = "point"
   })
 
   if (prevRegion == 3) {
     allData.forEach(a=>{
-      if (a.startG) {
-        a.start = a.startG
-        a.end = a.endG
-      }
+      if (a.startG) a.start = a.startG
+      if (a.endG) a.end = a.endG
     })
     timeline.setCurrentTime(new Date())
   }
   else if (region == 3) {
     allData.forEach(a=>{
       a.start = a.startJp
-      a.end = a.endJp
+      if (a.endJp) a.end = a.endJp
     })
     timeline.setCurrentTime(new Date().toLocaleString("ja", { timeZone: "Asia/Tokyo"}))
   }
-
   return new vis.DataSet(allData)
 }
 
@@ -231,7 +233,7 @@ function run(){
   container.appendChild(btnToday2)
 
   function go2EOS(){
-    let lastDay = Math.max(...allData.map(x => Date.parse(x.end)).filter((a)=>!isNaN(a)))
+    let lastDay = Math.max(...allData.map(x => {if (x.end) return Date.parse(x.end)}).filter((a)=>!isNaN(a)))
     timeline.setWindow(new Date( lastDay - 0.95*60*24*60*60*1000) , new Date( lastDay + 0.05*60*24*60*60*1000) )
   }
   btnEOS = document.createElement("img")
@@ -273,21 +275,24 @@ function plotStuff(groups,items){
       delay: 0,
       template: function (item, element, data) {
         var html = "<a id='tooltip" + item + "'>"+item.title+"</a>"
-        if (item.end) {
+        if (item.start) {
           let now = new Date()
           if (region == 3 ) now = now.toLocaleString("ja", { timeZone: "Asia/Tokyo"})
           now = Date.parse(now)
           let start = Date.parse(new Date(item.start))
-          let end = Date.parse(new Date(item.end))
+          let end;
+          if (item.end) end = Date.parse(new Date(item.end))
           if ( now > start && now < end) { 
-            let timeLeft = (end - now)/1000/60/60/24
-            let hoursLeft = timeLeft%1*24
-            let minLeft = hoursLeft%1*60
             let timeGone = (now - start)/1000/60/60/24
             let hoursGone = timeGone%1*24
             let minGone = hoursGone%1*60
             html += "<br>>Started ~" + ("0"+Math.floor(timeGone).toFixed(0)).slice(-2) + "d " + ("0"+Math.floor(hoursGone).toFixed(0)).slice(-2) + "h " + ("0"+Math.floor(minGone).toFixed(0)).slice(-2) + "m ago"
-            html += "<br>>Ends in ~" + ("0"+Math.floor(timeLeft).toFixed(0)).slice(-2) + "d " + ("0"+Math.floor(hoursLeft).toFixed(0)).slice(-2) + "h " + ("0"+Math.floor(minLeft).toFixed(0)).slice(-2) + "m"
+            if (end) {
+              let timeLeft = (end - now)/1000/60/60/24
+              let hoursLeft = timeLeft%1*24
+              let minLeft = hoursLeft%1*60
+              html += "<br>>Ends in ~" + ("0"+Math.floor(timeLeft).toFixed(0)).slice(-2) + "d " + ("0"+Math.floor(hoursLeft).toFixed(0)).slice(-2) + "h " + ("0"+Math.floor(minLeft).toFixed(0)).slice(-2) + "m"
+            }
           }
           else  {
             if ( now < start ) {
@@ -298,12 +303,17 @@ function plotStuff(groups,items){
               let hoursLeft = timeLeft%1*24
               let minLeft = hoursLeft%1*60
               html += "<br>>Starts in ~" + Math.floor(time2Start).toFixed(0) + "d " + Math.floor(hours2Start).toFixed(0) + "h " + Math.floor(min2Start).toFixed(0) + "m"
-
               if (item.group.includes("Maint") && timeLeft < 7) html += "<br>>Ends in ~" + Math.floor(timeLeft).toFixed(0).slice(-2) + "d " + ("0"+Math.floor(hoursLeft).toFixed(0)).slice(-2) + "h " + ("0"+Math.floor(minLeft).toFixed(0)).slice(-2) + "m"
             }
             else {
-              let timeLeft = -((end - now)/1000/60/60/24).toFixed(0)
-              html += "<br>>Ended ~" + Math.floor(timeLeft).toFixed(0) + " days ago"
+              if (end) {
+                let timeLeft = -((end - now)/1000/60/60/24).toFixed(0)
+                html += "<br>>Ended ~" + Math.floor(timeLeft).toFixed(0) + " days ago"
+              }
+              else {
+                let timeLeft = -((start - now)/1000/60/60/24).toFixed(0)
+                html += "<br>>Added ~" + Math.floor(timeLeft).toFixed(0) + " days ago"
+              }
             }
           }
         }
@@ -350,7 +360,6 @@ function searchThis(searchInput){
   document.getElementById("searchResultsSpan").style.display = "block"
   document.getElementById("EndOfSearch").style.display = "inline-block"
   let count = 0
-  console.log(results)
   for (let i in results) {
       let el = document.createElement("div")
       let chars = []

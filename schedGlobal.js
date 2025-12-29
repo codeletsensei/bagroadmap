@@ -1384,6 +1384,27 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Saki (Swimsuit)",
+    "start": "2025-12-09T02:00:00.000Z",
+    "end": "2025-12-16T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Moe (Swimsuit)",
+    "start": "2025-12-09T02:00:00.000Z",
+    "end": "2025-12-16T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Miyako (Swimsuit)",
+    "start": "2025-12-09T02:00:00.000Z",
+    "end": "2025-12-16T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
     "content": "[Welfare] Ichika (Swimsuit)",
     "start": "2025-12-16T02:00:00.000Z",
     "end": "2025-12-30T02:00:00.000Z",
@@ -1468,23 +1489,30 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
-    "content": "Saki (Swimsuit)",
-    "start": "2025-12-09T02:00:00.000Z",
-    "end": "2025-12-16T02:00:00.000Z",
+    "content": "Nagisa [L]",
+    "start": "2026-01-06T02:00:00.000Z",
+    "end": "2026-01-13T02:00:00.000Z",
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
-    "content": "Moe (Swimsuit)",
-    "start": "2025-12-09T02:00:00.000Z",
-    "end": "2025-12-16T02:00:00.000Z",
+    "content": "Toki [L]",
+    "start": "2026-01-06T02:00:00.000Z",
+    "end": "2026-01-13T02:00:00.000Z",
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
-    "content": "Miyako (Swimsuit)",
-    "start": "2025-12-09T02:00:00.000Z",
-    "end": "2025-12-16T02:00:00.000Z",
+    "content": "Kanna",
+    "start": "2026-01-06T02:00:00.000Z",
+    "end": "2026-01-13T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Chiaki",
+    "start": "2026-01-06T02:00:00.000Z",
+    "end": "2026-01-13T02:00:00.000Z",
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
@@ -4213,6 +4241,41 @@ confirmed = [
     "content": "[KR Dub] V3 C1-3",
     "start": "2025-12-16T02:00:00.000Z",
     "end": "2025-12-30T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Group Story] Sweetness and Nostalgia (Tea Party)",
+    "start": "2026-01-06T02:00:00.000Z",
+    "end": "2026-01-13T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mission] Area 29 (Hinata + T10 slot 3)",
+    "start": "2025-12-30T02:00:00.000Z",
+    "end": "2026-01-13T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Permit Shop] Elephs: Seia, Asuna (Uniform), Miyu (Swimsuit)",
+    "start": "2025-12-31T07:00:00.000Z",
+    "end": "2026-01-13T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[JFD Shop] Nodoka (Onsen)",
+    "start": "2025-12-30T02:00:00.000Z",
+    "end": "2026-01-13T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[QoL] T2~T6 Drop rate buff",
+    "start": "2025-12-30T02:00:00.000Z",
+    "end": "2026-01-13T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
