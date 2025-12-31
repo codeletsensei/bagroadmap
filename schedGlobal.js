@@ -3668,6 +3668,48 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Bounty",
+    "start": "2026-01-12T19:00:00.000Z",
+    "end": "2026-01-19T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Normal",
+    "start": "2026-01-19T19:00:00.000Z",
+    "end": "2026-01-26T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Scrimm",
+    "start": "2026-01-26T19:00:00.000Z",
+    "end": "2026-02-02T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Lesson",
+    "start": "2026-01-26T19:00:00.000Z",
+    "end": "2026-02-02T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-01-16T19:00:00.000Z",
+    "end": "2026-01-18T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-01-23T19:00:00.000Z",
+    "end": "2026-01-25T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 // MISC
 //
