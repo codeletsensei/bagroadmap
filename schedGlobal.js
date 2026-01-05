@@ -2657,6 +2657,20 @@ confirmed = [
     "subgroup": "LBA",
     "style": "color:black; background-color:yellow "
   },{
+    "content": "[TA] Peroro Outdoors Blue (Blue atk)",
+    "start": "2026-01-20T02:00:00.000Z",
+    "end": "2026-01-26T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:white; background-color:blue "
+  },{
+    "content": "[JFD] Shooting Purple Urban. Decreases the dmg taken by the last cat. SR buff.",
+    "start": "2026-01-27T02:00:00.000Z",
+    "end": "2026-02-02T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:white; background-color:purple "
+  },{
 //
 // CAMPAIGNS
 //
