@@ -1157,6 +1157,32 @@ jpSched = [
 		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Serenade_Promenade/Rerun\" title=\"Serenade Promenade/Rerun\">Serenade Promenade</a><br>G: 2026-04-29 02:00 Wed ~ 2026-05-13 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-17 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Unconcealed_Path_%EF%BD%9EFashion_Show_Security_Detail!%EF%BD%9E\" title=\"An Unconcealed Path ～Fashion Show Security Detail!～\">An Unconcealed Path ～Fashion Show Security Detail!～</a>",
+		"start": "2026-05-20T10:00",
+		"startJp": "2025-12-24T19:00",
+		"end": "2026-06-03T02:00",
+		"endJp": "2026-01-07T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-06-03T02:00",
+		"startG": "2026-05-20T02:00",
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/An_Unconcealed_Path_%EF%BD%9EFashion_Show_Security_Detail!%EF%BD%9E\" title=\"An Unconcealed Path ～Fashion Show Security Detail!～\">An Unconcealed Path ～Fashion Show Security Detail!～</a><br>G: 2026-05-20 02:00 Wed ~ 2026-06-03 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-12-24 11:00 Wed ~ 2026-01-07 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Descent_of_the_Five_Senses/Rerun\" title=\"Descent of the Five Senses/Rerun\">Descent of the Five Senses</a>",
+		"start": "2026-06-03T08:00",
+		"startJp": "2026-01-07T17:00",
+		"end": "2026-06-16T02:00",
+		"endJp": "2026-01-20T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-06-16T02:00",
+		"startG": "2026-06-03T02:00",
+		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Descent_of_the_Five_Senses/Rerun\" title=\"Descent of the Five Senses/Rerun\">Descent of the Five Senses</a><br>G: 2026-06-03 02:00 Wed ~ 2026-06-16 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 11:00 Tue 13d (JST y-m-d)",
+		"duration": "13d"
+	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
 		"start": "2023-11-01T08:00",
 		"startJp": "2023-06-07T17:00",
@@ -7359,8 +7385,8 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "[JFD] Escort Urban Yellow",
-		"start": "2026-06-02T02:00",
-		"startJp": "2026-01-07T11:00",
+		"start": "2026-06-02T08:00",
+		"startJp": "2026-01-07T17:00",
 		"end": "2026-06-08T18:59",
 		"endJp": "2026-01-14T03:59",
 		"group": "J Raid",
@@ -17147,7 +17173,7 @@ jpSched = [
 		"title": "[GA Shop] Kaede, blue, on shop reset<br>G: 2025-06-27 19:00 Fri ~ 2025-07-10 19:00 Thu 13d (UTC y-m-d)<br>Jp: 2025-02-01 04:00 Sat ~ 2025-02-14 04:00 Fri 13d (JST y-m-d)",
 		"duration": "13d"
 	},{
-		"content": "[Mission] Area 28 (Misaki + Cafe2 Lv10 + T10)",
+		"content": "[Mission] Area 28 (Misaki + Cafe2 Lv9 + T10)",
 		"start": "2025-06-30T08:00",
 		"startJp": "2025-02-03T17:00",
 		"end": "2025-07-13T19:00",
@@ -17157,7 +17183,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2025-07-13T19:00",
 		"startG": "2025-06-30T02:00",
-		"title": "[Mission] Area 28 (Misaki + Cafe2 Lv10 + T10)<br>G: 2025-06-30 02:00 Mon ~ 2025-07-13 19:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-17 04:00 Mon 14d (JST y-m-d)",
+		"title": "[Mission] Area 28 (Misaki + Cafe2 Lv9 + T10)<br>G: 2025-06-30 02:00 Mon ~ 2025-07-13 19:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-17 04:00 Mon 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Story] Vol.EX: Decagrammaton Ch.2 P2",
@@ -18710,9 +18736,9 @@ jpSched = [
 		"title": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?) that don't carry over. Extra 100 elephs only for 1 student on that run.<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[Mission] Area 30 (Cherino + Momiji)",
-		"start": "2026-06-03T02:00",
-		"startJp": "2026-01-07T11:00",
+		"content": "[Mission] Area 30 (Cherino + Momiji + Cafe2 Lv10)",
+		"start": "2026-06-03T08:00",
+		"startJp": "2026-01-07T17:00",
 		"end": "2026-06-16T02:00",
 		"endJp": "2026-01-20T11:00",
 		"group": "J Other",
@@ -18720,7 +18746,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-06-16T02:00",
 		"startG": "2026-06-03T02:00",
-		"title": "[Mission] Area 30 (Cherino + Momiji)<br>G: 2026-06-03 02:00 Wed ~ 2026-06-16 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 11:00 Tue 13d (JST y-m-d)",
+		"title": "[Mission] Area 30 (Cherino + Momiji + Cafe2 Lv10)<br>G: 2026-06-03 02:00 Wed ~ 2026-06-16 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 11:00 Tue 13d (JST y-m-d)",
 		"duration": "13d"
 	},{
 		"content": "[QoL] Bounty shop on Sora's shop, with all items",
@@ -18828,18 +18854,19 @@ jpSched = [
 		"title": "Fixed ShiroKuro's sticky bombs<br>G: 2026-06-10 02:00 Wed ~ 2026-06-15 19:00 Mon 6d (UTC y-m-d)<br>Jp: 2026-01-14 11:00 Wed ~ 2026-01-20 04:00 Tue 6d (JST y-m-d)",
 		"duration": "6d"
 	},{
-		"content": "[Main] 不忍ノ道～ファッションショー警護任務！の巻～",
-		"start": "2026-05-20T10:00",
-		"startJp": "2025-12-24T19:00",
-		"end": "2026-06-03T02:00",
-		"endJp": "2026-01-07T11:00",
-		"group": "J Event",
-		"subgroup": "Main",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-06-03T02:00",
-		"startG": "2026-05-20T02:00",
-		"title": "[Main] 不忍ノ道～ファッションショー警護任務！の巻～<br>G: 2026-05-20 02:00 Wed ~ 2026-06-03 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-12-24 11:00 Wed ~ 2026-01-07 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
+		"content": "EOS",
+		"start": "2026-06-03T02:00",
+		"startJp": "2026-01-07T11:00",
+		"end": "2026-06-03T08:00",
+		"endJp": "2026-01-07T17:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/618",
+		"endG": "2026-06-03T08:00",
+		"startG": "2026-06-03T02:00",
+		"title": "EOS<br>G: 2026-06-03 02:00 Wed ~ 2026-06-03 08:00 Wed 6h (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-07 17:00 Wed 6h (JST y-m-d)",
+		"duration": "6h"
 	},{
 		"content": "[Login] 5th Anniversary Countdown Login Bonus",
 		"start": "2026-06-08T19:00",
@@ -18854,22 +18881,35 @@ jpSched = [
 		"title": "[Login] 5th Anniversary Countdown Login Bonus<br>G: 2026-06-08 19:00 Mon ~ 2026-06-15 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-13 04:00 Tue ~ 2026-01-20 04:00 Tue 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[R] Descent of the Five Senses",
-		"start": "2026-06-03T02:00",
-		"startJp": "2026-01-07T11:00",
-		"end": "2026-06-15T02:00",
-		"endJp": "2026-01-19T11:00",
-		"group": "J Event",
-		"subgroup": "",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-06-15T02:00",
+		"content": "Kisaki",
+		"start": "2026-06-03T08:00",
+		"startJp": "2026-01-07T17:00",
+		"end": "2026-06-16T02:00",
+		"endJp": "2026-01-20T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-06-16T02:00",
 		"startG": "2026-06-03T02:00",
-		"title": "[R] Descent of the Five Senses<br>G: 2026-06-03 02:00 Wed ~ 2026-06-15 02:00 Mon 12d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-19 11:00 Mon 12d (JST y-m-d)",
-		"duration": "12d"
+		"title": "Kisaki<br>G: 2026-06-03 02:00 Wed ~ 2026-06-16 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 11:00 Tue 13d (JST y-m-d)",
+		"duration": "13d"
+	},{
+		"content": "Reijo",
+		"start": "2026-06-03T08:00",
+		"startJp": "2026-01-07T17:00",
+		"end": "2026-06-16T02:00",
+		"endJp": "2026-01-20T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-06-16T02:00",
+		"startG": "2026-06-03T02:00",
+		"title": "Reijo<br>G: 2026-06-03 02:00 Wed ~ 2026-06-16 02:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 11:00 Tue 13d (JST y-m-d)",
+		"duration": "13d"
 	},{
 		"content": "Yuuka (Sportswear)",
-		"start": "2026-06-03T02:00",
-		"startJp": "2026-01-07T11:00",
+		"start": "2026-06-03T08:00",
+		"startJp": "2026-01-07T17:00",
 		"end": "2026-06-16T02:00",
 		"endJp": "2026-01-20T11:00",
 		"group": "J Gacha",
@@ -18881,8 +18921,8 @@ jpSched = [
 		"duration": "13d"
 	},{
 		"content": "Mari (Sportswear)",
-		"start": "2026-06-03T02:00",
-		"startJp": "2026-01-07T11:00",
+		"start": "2026-06-03T08:00",
+		"startJp": "2026-01-07T17:00",
 		"end": "2026-06-16T02:00",
 		"endJp": "2026-01-20T11:00",
 		"group": "J Gacha",

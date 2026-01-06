@@ -301,7 +301,7 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
-    "url": ""
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3317296"
   },{
 //
 // GASHA
@@ -4084,7 +4084,7 @@ confirmed = [
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
   },{
-    "content": "[Mission] Area 28 (Misaki + Cafe2 Lv10 + T10)",
+    "content": "[Mission] Area 28 (Misaki + Cafe2 Lv9 + T10)",
     "start": "2025-07-22T02:00:00.000Z",
     "end": "2025-08-05T02:00:00.000Z",
     "group": "G Other",
