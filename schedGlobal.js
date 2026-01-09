@@ -303,6 +303,14 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3317296"
   },{
+    "content": "EOS",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-13T07:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
+    "url": ""
+  },{
 //
 // GASHA
 //
