@@ -1525,6 +1525,20 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Eri (New)",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Kanoe (New)",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 // EVENTS
 //
@@ -2065,6 +2079,13 @@ confirmed = [
     "end": "2026-01-06T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] We Are the Occult Investigation Society! ~Ancient Spells and Mysteries",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Main",
     "style": "color:black; background-color:yellow"
   },{
 //
