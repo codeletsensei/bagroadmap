@@ -4373,12 +4373,21 @@ confirmed = [
     "style": "color:black;background-color:cyan",
     "url": "https://www.youtube.com/live/To4kTwOHslU",
   },{
-    "content": "[Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)",
+    "content": "[Day 1 Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)",
     "start": "2026-01-17T00:01",
     "end": "2026-01-18T23:59",
     "group": "G Maint",
     "subgroup": "Stream",
     "style": "color:black;background-color:cyan",
+    "url": "https://www.youtube.com/watch?v=mdafTit0lTA"
+  },{
+    "content": "[Day 2 Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)",
+    "start": "2026-01-18T00:01",
+    "end": "2026-01-19T23:59",
+    "group": "G Maint",
+    "subgroup": "Stream",
+    "style": "color:black;background-color:cyan",
+    "url": "https://www.youtube.com/watch?v=kgCwc2EHDgY"
   }
 ]
 
