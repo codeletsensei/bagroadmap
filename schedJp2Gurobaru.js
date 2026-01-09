@@ -18722,17 +18722,32 @@ jpSched = [
 		"title": "[Mini Story] 手動期の終り<br>G: 2026-05-13 02:00 Wed ~ 2026-05-20 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)",
-		"start": "2026-01-16T15:01",
-		"startJp": "2026-01-17T00:01",
+		"content": "[Day 1 Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026",
+		"start": "2026-01-16T15:00",
+		"startJp": "2026-01-17T00:00",
 		"end": "2026-01-18T14:59",
 		"endJp": "2026-01-18T23:59",
 		"group": "J Maint",
 		"subgroup": "Stream",
 		"style": "color:black;background-color:cyan",
+		"url": "https://www.youtube.com/watch?v=mdafTit0lTA",
 		"endG": "2026-01-18T14:59",
-		"startG": "2026-01-16T15:01",
-		"title": "[Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)<br>G: 2026-01-16 15:01 Fri ~ 2026-01-18 14:59 Sun 2d (UTC y-m-d)<br>Jp: 2026-01-17 00:01 Sat ~ 2026-01-18 23:59 Sun 2d (JST y-m-d)",
+		"startG": "2026-01-16T15:00",
+		"title": "[Day 1 Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026<br>G: 2026-01-16 15:00 Fri ~ 2026-01-18 14:59 Sun 2d (UTC y-m-d)<br>Jp: 2026-01-17 00:00 Sat ~ 2026-01-18 23:59 Sun 2d (JST y-m-d)",
+		"duration": "2d"
+	},{
+		"content": "[Day 2 Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026",
+		"start": "2026-01-17T15:00",
+		"startJp": "2026-01-18T00:00",
+		"end": "2026-01-19T14:59",
+		"endJp": "2026-01-19T23:59",
+		"group": "J Maint",
+		"subgroup": "Stream",
+		"style": "color:black;background-color:cyan",
+		"url": "https://www.youtube.com/watch?v=kgCwc2EHDgY",
+		"endG": "2026-01-19T14:59",
+		"startG": "2026-01-17T15:00",
+		"title": "[Day 2 Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026<br>G: 2026-01-17 15:00 Sat ~ 2026-01-19 14:59 Mon 2d (UTC y-m-d)<br>Jp: 2026-01-18 00:00 Sun ~ 2026-01-19 23:59 Mon 2d (JST y-m-d)",
 		"duration": "2d"
 	},{
 		"content": "[Stream] ブルアカらいぶ！クリスマスぱーてぃー計画！SP",
