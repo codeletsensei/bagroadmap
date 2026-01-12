@@ -18065,6 +18065,7 @@ jpSched = [
 		"group": "J Maint",
 		"subgroup": "",
 		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/581",
 		"endG": "2026-01-14T10:00",
 		"startG": "2026-01-14T02:00",
 		"title": "EOS<br>G: 2026-01-14 02:00 Wed ~ 2026-01-14 10:00 Wed 8h (UTC y-m-d)<br>Jp: 2025-08-20 11:00 Wed ~ 2025-08-20 19:00 Wed 8h (JST y-m-d)",
@@ -18110,16 +18111,16 @@ jpSched = [
 		"duration": "13d"
 	},{
 		"content": "[QoL] Slight UI changes (no more scrolling on lessons, fav button on the student's stats screen)",
-		"start": "2026-01-25T19:00",
-		"startJp": "2025-09-01T04:00",
-		"end": "2026-02-08T19:00",
-		"endJp": "2025-09-15T04:00",
+		"start": "2026-01-14T10:00",
+		"startJp": "2025-08-20T19:00",
+		"end": "2026-01-27T19:00",
+		"endJp": "2025-09-03T04:00",
 		"group": "J Other",
 		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-02-08T19:00",
-		"startG": "2026-01-25T19:00",
-		"title": "[QoL] Slight UI changes (no more scrolling on lessons, fav button on the student's stats screen)<br>G: 2026-01-25 19:00 Sun ~ 2026-02-08 19:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-09-01 04:00 Mon ~ 2025-09-15 04:00 Mon 14d (JST y-m-d)",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-01-27T19:00",
+		"startG": "2026-01-14T02:00",
+		"title": "[QoL] Slight UI changes (no more scrolling on lessons, fav button on the student's stats screen)<br>G: 2026-01-14 02:00 Wed ~ 2026-01-27 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-08-20 11:00 Wed ~ 2025-09-03 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "EOS",
@@ -18130,6 +18131,7 @@ jpSched = [
 		"group": "J Maint",
 		"subgroup": "",
 		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/585",
 		"endG": "2026-01-28T08:00",
 		"startG": "2026-01-28T02:00",
 		"title": "EOS<br>G: 2026-01-28 02:00 Wed ~ 2026-01-28 08:00 Wed 6h (UTC y-m-d)<br>Jp: 2025-09-03 11:00 Wed ~ 2025-09-03 17:00 Wed 6h (JST y-m-d)",
@@ -18156,6 +18158,7 @@ jpSched = [
 		"group": "J Maint",
 		"subgroup": "",
 		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/589",
 		"endG": "2026-02-18T10:00",
 		"startG": "2026-02-18T02:00",
 		"title": "EOS<br>G: 2026-02-18 02:00 Wed ~ 2026-02-18 10:00 Wed 8h (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-09-24 19:00 Wed 8h (JST y-m-d)",
@@ -18174,7 +18177,7 @@ jpSched = [
 		"title": "[Lesson Area] Wild Hunt<br>G: 2026-02-18 02:00 Wed ~ 2026-03-03 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[QoL] Unit formation now shows students' gears (inc. assists)",
+		"content": "<s>[QoL] Unit formation now shows students' gears (inc. assists)</s>. Added to Global with Wild Hunt",
 		"start": "2026-02-18T10:00",
 		"startJp": "2025-09-24T19:00",
 		"end": "2026-03-03T19:00",
@@ -18184,10 +18187,10 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-03-03T19:00",
 		"startG": "2026-02-18T02:00",
-		"title": "[QoL] Unit formation now shows students' gears (inc. assists)<br>G: 2026-02-18 02:00 Wed ~ 2026-03-03 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 04:00 Wed 14d (JST y-m-d)",
+		"title": "<s>[QoL] Unit formation now shows students' gears (inc. assists)</s>. Added to Global with Wild Hunt<br>G: 2026-02-18 02:00 Wed ~ 2026-03-03 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[QoL] More filters for menus related to items (Items/Crafting)",
+		"content": "<s>[QoL] More filters for menus related to items (Items/Crafting)</s>. Added to Global with Wild Hunt",
 		"start": "2026-02-18T10:00",
 		"startJp": "2025-09-24T19:00",
 		"end": "2026-03-03T19:00",
@@ -18197,7 +18200,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-03-03T19:00",
 		"startG": "2026-02-18T02:00",
-		"title": "[QoL] More filters for menus related to items (Items/Crafting)<br>G: 2026-02-18 02:00 Wed ~ 2026-03-03 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 04:00 Wed 14d (JST y-m-d)",
+		"title": "<s>[QoL] More filters for menus related to items (Items/Crafting)</s>. Added to Global with Wild Hunt<br>G: 2026-02-18 02:00 Wed ~ 2026-03-03 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-09-24 11:00 Wed ~ 2025-10-08 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Bond Gear] Haruna (Sportswear), Koyuki, Momoi, Umika",
@@ -18278,7 +18281,7 @@ jpSched = [
 		"title": "[PVP] Season 10. Urban. +400% HP. Fever: DEF/EVA debuff + cost rec up.<br>G: 2026-04-01 02:00 Wed ~ 2026-04-15 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-19 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Special Dangles] Airi, Yoshimi, Hanae, Kanna, Sena, Ayane (Swimsuit), Karin (Uniform), Nodoka (Onsen), Hinata (Swimsuit), Maki (Camping), Reisa (Magical)",
+		"content": "<s>[Special Dangles] Airi, Yoshimi, Hanae, Kanna, Sena, Ayane (Swimsuit), Karin (Uniform), Nodoka (Onsen), Hinata (Swimsuit), Maki (Camping), Reisa (Magical)</s>. Added to Global with Wild Hunt",
 		"start": "2026-03-18T10:00",
 		"startJp": "2025-10-22T19:00",
 		"end": "2026-03-31T19:00",
@@ -18288,7 +18291,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-03-31T19:00",
 		"startG": "2026-03-18T02:00",
-		"title": "[Special Dangles] Airi, Yoshimi, Hanae, Kanna, Sena, Ayane (Swimsuit), Karin (Uniform), Nodoka (Onsen), Hinata (Swimsuit), Maki (Camping), Reisa (Magical)<br>G: 2026-03-18 02:00 Wed ~ 2026-03-31 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
+		"title": "<s>[Special Dangles] Airi, Yoshimi, Hanae, Kanna, Sena, Ayane (Swimsuit), Karin (Uniform), Nodoka (Onsen), Hinata (Swimsuit), Maki (Camping), Reisa (Magical)</s>. Added to Global with Wild Hunt<br>G: 2026-03-18 02:00 Wed ~ 2026-03-31 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "EOS",
@@ -18299,6 +18302,7 @@ jpSched = [
 		"group": "J Maint",
 		"subgroup": "",
 		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/596",
 		"endG": "2026-03-18T10:00",
 		"startG": "2026-03-18T02:00",
 		"title": "EOS<br>G: 2026-03-18 02:00 Wed ~ 2026-03-18 10:00 Wed 8h (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-10-22 19:00 Wed 8h (JST y-m-d)",
@@ -18343,7 +18347,7 @@ jpSched = [
 		"title": "[Crafting] Furniture: Rei, Sumire (Part-Timer), Saori (Dress), Jukebox<br>G: 2026-03-18 02:00 Wed ~ 2026-03-31 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[QoL] Tasks: Comms now count towards the 10+ missions daily",
+		"content": "<s>[QoL] Tasks: Comms now count towards the 10+ missions daily</s>. Added to Global with Wild Hunt",
 		"start": "2026-03-18T10:00",
 		"startJp": "2025-10-22T19:00",
 		"end": "2026-03-31T19:00",
@@ -18353,7 +18357,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-03-31T19:00",
 		"startG": "2026-03-18T02:00",
-		"title": "[QoL] Tasks: Comms now count towards the 10+ missions daily<br>G: 2026-03-18 02:00 Wed ~ 2026-03-31 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
+		"title": "<s>[QoL] Tasks: Comms now count towards the 10+ missions daily</s>. Added to Global with Wild Hunt<br>G: 2026-03-18 02:00 Wed ~ 2026-03-31 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-10-22 11:00 Wed ~ 2025-11-05 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[QoL] lvl 30 bond cap at 4*",
@@ -18494,12 +18498,13 @@ jpSched = [
 		"group": "J Maint",
 		"subgroup": "",
 		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/601",
 		"endG": "2026-04-01T08:00",
 		"startG": "2026-04-01T02:00",
 		"title": "EOS<br>G: 2026-04-01 02:00 Wed ~ 2026-04-01 08:00 Wed 6h (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-05 17:00 Wed 6h (JST y-m-d)",
 		"duration": "6h"
 	},{
-		"content": "[PVP] 30s CD + Anonymous + Seasonal gimmicks display",
+		"content": "[PVP] Seasonal gimmicks display + <s>30s CD + Anonymous</s>. Partially added to Global with Wild Hunt.",
 		"start": "2026-04-01T08:00",
 		"startJp": "2025-11-05T17:00",
 		"end": "2026-04-14T19:00",
@@ -18509,7 +18514,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-04-14T19:00",
 		"startG": "2026-04-01T02:00",
-		"title": "[PVP] 30s CD + Anonymous + Seasonal gimmicks display<br>G: 2026-04-01 02:00 Wed ~ 2026-04-14 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-19 04:00 Wed 14d (JST y-m-d)",
+		"title": "[PVP] Seasonal gimmicks display + <s>30s CD + Anonymous</s>. Partially added to Global with Wild Hunt.<br>G: 2026-04-01 02:00 Wed ~ 2026-04-14 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-19 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Perm Welfare] Koharu (Swimsuit)",
@@ -18790,7 +18795,7 @@ jpSched = [
 		"title": "[RR] Wakamo, Mika, Hoshino (Swimsuit) [L Bluefes]<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?) that don't carry over. Extra 100 elephs only for 1 student on that run.",
+		"content": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool) that don't carry over. Extra 100 elephs only for 1 student on that run. Can use normal tickets.",
 		"start": "2026-05-27T02:00",
 		"startJp": "2025-12-31T11:00",
 		"end": "2026-06-03T02:00",
@@ -18800,7 +18805,7 @@ jpSched = [
 		"style": "color:black;background-color:white",
 		"endG": "2026-06-03T02:00",
 		"startG": "2026-05-27T02:00",
-		"title": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool?) that don't carry over. Extra 100 elephs only for 1 student on that run.<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
+		"title": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool) that don't carry over. Extra 100 elephs only for 1 student on that run. Can use normal tickets.<br>G: 2026-05-27 02:00 Wed ~ 2026-06-03 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[Mission] Area 30 (Cherino + Momiji + Cafe2 Lv10)",

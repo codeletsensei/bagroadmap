@@ -309,7 +309,7 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
-    "url": ""
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3336837"
   },{
 //
 // GASHA
@@ -2700,6 +2700,13 @@ confirmed = [
     "subgroup": "JFD",
     "style": "color:white; background-color:purple "
   },{
+    "content": "[LBA] S18 Chokmah Blue (Blue atk)",
+    "start": "2026-01-14T02:00:00.000Z",
+    "end": "2026-02-09T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "LBA",
+    "style": "color:white; background-color:blue "
+  },{
 //
 // CAMPAIGNS
 //
@@ -4388,6 +4395,91 @@ confirmed = [
     "subgroup": "Stream",
     "style": "color:black;background-color:cyan",
     "url": "https://www.youtube.com/watch?v=kgCwc2EHDgY"
+  },{
+    "content": "[PVP] 30s CD + Anonymous",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Tasks: Comms now count towards the 10+ missions daily",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "Wild Hunt mats added to applicable items/features (after reset for some, like shops)",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Crafting] MilleniumFes + Maki (Camping) furniture",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Special Dangles] Maki (Camp), Nodoka (Hot Spring), Hanae, Sena, Ayane (Swimsuit), Karin (School), Kanna, Hinata (Swimsuit), Yoshimi, and Airi",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "Pay2(man)Whore: Pyro cafe invite",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Perm GM] Waraku Festival Special Promotional Campaign!",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "Backgrounds on ID cards",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Cafe UI improvements",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Unit formation now shows students' gears (inc. assists)",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] More filters for menus related to items (Items/Crafting)",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Bunch of other UI improvements. Click here (or the maintenance cell) to open the patch notes for detailed info.",
+    "start": "2026-01-13T02:00:00.000Z",
+    "end": "2026-01-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3336837"
   }
 ]
 
