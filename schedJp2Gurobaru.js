@@ -18992,7 +18992,7 @@ jpSched = [
 		"title": "[Main Story] Vol.EX: Decagrammaton Ch.3 Part 3 (Part 4 TBA, February)<br>G: 2026-06-25 02:00 Thu ~ 2026-07-09 02:00 Thu 14d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-12 11:00 Thu 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "<b>[Login] Daily free recruitments campaign (100 in 7 days)</b> (New)",
+		"content": "<b>[Login] Daily free recruitments campaign (100 in 7 days)</b>",
 		"start": "2026-06-16T02:00",
 		"startJp": "2026-01-20T11:00",
 		"end": "2026-06-25T02:00",
@@ -19002,7 +19002,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-06-25T02:00",
 		"startG": "2026-06-16T02:00",
-		"title": "<b>[Login] Daily free recruitments campaign (100 in 7 days)</b> (New)<br>G: 2026-06-16 02:00 Tue ~ 2026-06-25 02:00 Thu 9d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
+		"title": "<b>[Login] Daily free recruitments campaign (100 in 7 days)</b><br>G: 2026-06-16 02:00 Tue ~ 2026-06-25 02:00 Thu 9d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
 		"duration": "9d"
 	},{
 		"content": "[Welfare] Toki (Rinsen) (New)",
