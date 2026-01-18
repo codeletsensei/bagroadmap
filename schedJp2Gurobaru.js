@@ -7397,19 +7397,6 @@ jpSched = [
 		"title": "[JFD] Escort Urban Yellow<br>G: 2026-06-02 02:00 Tue ~ 2026-06-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-14 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[JFD] Defense Indoors Blue",
-		"start": "2026-06-24T02:00",
-		"startJp": "2026-01-29T11:00",
-		"end": "2026-06-30T18:59",
-		"endJp": "2026-02-05T03:59",
-		"group": "J Raid",
-		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
-		"endG": "2026-06-30T18:59",
-		"startG": "2026-06-24T02:00",
-		"title": "[JFD] Defense Indoors Blue<br>G: 2026-06-24 02:00 Wed ~ 2026-06-30 18:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 03:59 Thu 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
 		"start": "2021-07-10T19:00",
 		"startJp": "2021-02-15T04:00",
