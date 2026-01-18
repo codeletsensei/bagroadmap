@@ -19109,7 +19109,7 @@ jpSched = [
 		"title": "[Login] 5th Anniversary Login Bonus<br>G: 2026-06-16 02:00 Tue ~ 2026-07-09 02:00 Thu 23d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-02-12 11:00 Thu 23d (JST y-m-d)",
 		"duration": "23d"
 	},{
-		"content": "Rio (Rinsen) [L] (New) (New)",
+		"content": "Rio (Rinsen) [L] (New)",
 		"start": "2026-06-16T02:00",
 		"startJp": "2026-01-20T11:00",
 		"end": "2026-06-25T02:00",
@@ -19119,10 +19119,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-06-25T02:00",
 		"startG": "2026-06-16T02:00",
-		"title": "Rio (Rinsen) [L] (New) (New)<br>G: 2026-06-16 02:00 Tue ~ 2026-06-25 02:00 Thu 9d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
+		"title": "Rio (Rinsen) [L] (New)<br>G: 2026-06-16 02:00 Tue ~ 2026-06-25 02:00 Thu 9d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
 		"duration": "9d"
 	},{
-		"content": "Himari (Rinsen) [L] (New) (New)",
+		"content": "Himari (Rinsen) [L] (New)",
 		"start": "2026-06-16T02:00",
 		"startJp": "2026-01-20T11:00",
 		"end": "2026-06-25T02:00",
@@ -19132,7 +19132,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-06-25T02:00",
 		"startG": "2026-06-16T02:00",
-		"title": "Himari (Rinsen) [L] (New) (New)<br>G: 2026-06-16 02:00 Tue ~ 2026-06-25 02:00 Thu 9d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
+		"title": "Himari (Rinsen) [L] (New)<br>G: 2026-06-16 02:00 Tue ~ 2026-06-25 02:00 Thu 9d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
 		"duration": "9d"
 	},{
 		"content": "Arisu (Rinsen) [L Bluefes] (New)",
