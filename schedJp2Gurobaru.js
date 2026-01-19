@@ -19097,7 +19097,7 @@ jpSched = [
 		"title": "[Permit Shop] Hasumi (Swimsuit), Seia (Swimsuit), T9 blueprints<br>G: 2026-06-27 19:00 Sat ~ 2026-07-08 19:00 Wed 11d (UTC y-m-d)<br>Jp: 2026-02-01 04:00 Sun ~ 2026-02-12 04:00 Thu 11d (JST y-m-d)",
 		"duration": "11d"
 	},{
-		"content": "[Crafting] Furniture: Kikyou (Swimsuit), 輸送船 Series",
+		"content": "[Crafting] Furniture: Kikyou (Swimsuit), Renge (Swimsuit), Transport Ship Series",
 		"start": "2026-06-16T10:00",
 		"startJp": "2026-01-20T19:00",
 		"end": "2026-07-09T02:00",
@@ -19107,7 +19107,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-07-09T02:00",
 		"startG": "2026-06-16T02:00",
-		"title": "[Crafting] Furniture: Kikyou (Swimsuit), 輸送船 Series<br>G: 2026-06-16 02:00 Tue ~ 2026-07-09 02:00 Thu 23d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-02-12 11:00 Thu 23d (JST y-m-d)",
+		"title": "[Crafting] Furniture: Kikyou (Swimsuit), Renge (Swimsuit), Transport Ship Series<br>G: 2026-06-16 02:00 Tue ~ 2026-07-09 02:00 Thu 23d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-02-12 11:00 Thu 23d (JST y-m-d)",
 		"duration": "23d"
 	},{
 		"content": "Green Defense/Attack color",
