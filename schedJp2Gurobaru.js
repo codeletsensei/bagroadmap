@@ -16796,7 +16796,7 @@ jpSched = [
 		"title": "[Welfare] Mine (Idol)<br>G: 2025-03-19 02:00 Wed ~ 2025-04-02 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 Wed ~ 2024-11-06 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Main Story] Vol.EX: Decagrammaton Ch.1",
+		"content": "[Main Story] Vol.EX: Deca C1",
 		"start": "2025-03-19T10:00",
 		"startJp": "2024-10-23T19:00",
 		"end": "2025-04-02T02:00",
@@ -16806,7 +16806,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-04-02T02:00",
 		"startG": "2025-03-19T02:00",
-		"title": "[Main Story] Vol.EX: Decagrammaton Ch.1<br>G: 2025-03-19 02:00 Wed ~ 2025-04-02 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 Wed ~ 2024-11-06 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Main Story] Vol.EX: Deca C1<br>G: 2025-03-19 02:00 Wed ~ 2025-04-02 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2024-10-23 11:00 Wed ~ 2024-11-06 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[GA Shop] Natsu, Silver, on shop reset",
@@ -16822,7 +16822,7 @@ jpSched = [
 		"title": "[GA Shop] Natsu, Silver, on shop reset<br>G: 2025-03-27 19:00 Thu ~ 2025-04-09 18:59 Wed 13d (UTC y-m-d)<br>Jp: 2024-11-01 04:00 Fri ~ 2024-11-14 03:59 Thu 13d (JST y-m-d)",
 		"duration": "13d"
 	},{
-		"content": "[Main Story] Vol.EX: Decagrammaton Ch.2 P1",
+		"content": "[Main Story] Vol.EX: Deca C2 P1",
 		"start": "2025-04-02T08:00",
 		"startJp": "2024-11-06T17:00",
 		"end": "2025-04-16T02:00",
@@ -16832,7 +16832,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-04-16T02:00",
 		"startG": "2025-04-02T02:00",
-		"title": "[Main Story] Vol.EX: Decagrammaton Ch.2 P1<br>G: 2025-04-02 02:00 Wed ~ 2025-04-16 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 Wed ~ 2024-11-20 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Main Story] Vol.EX: Deca C2 P1<br>G: 2025-04-02 02:00 Wed ~ 2025-04-16 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 Wed ~ 2024-11-20 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "EOS",
@@ -17238,7 +17238,7 @@ jpSched = [
 		"title": "[Mission] Area 28 (Misaki + Cafe2 Lv9 + T10)<br>G: 2025-06-30 02:00 Mon ~ 2025-07-13 19:00 Sun 14d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-17 04:00 Mon 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Story] Vol.EX: Decagrammaton Ch.2 P2",
+		"content": "[Story] Vol.EX: Deca C2 P2",
 		"start": "2025-06-30T08:00",
 		"startJp": "2025-02-03T17:00",
 		"end": "2025-07-14T02:00",
@@ -17248,7 +17248,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-07-14T02:00",
 		"startG": "2025-06-30T02:00",
-		"title": "[Story] Vol.EX: Decagrammaton Ch.2 P2<br>G: 2025-06-30 02:00 Mon ~ 2025-07-14 02:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-17 11:00 Mon 14d (JST y-m-d)",
+		"title": "[Story] Vol.EX: Deca C2 P2<br>G: 2025-06-30 02:00 Mon ~ 2025-07-14 02:00 Mon 14d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-17 11:00 Mon 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "EOS",
@@ -17485,7 +17485,7 @@ jpSched = [
 		"title": "[GA Shop] Shiroko (Riding), silver, on shop reset<br>G: 2025-09-16 19:00 Tue ~ 2025-09-30 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-04-23 04:00 Wed ~ 2025-05-07 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Main Story] Vol.EX: Decagrammaton Ch.2 P3 (ep 23~31)",
+		"content": "[Main Story] Vol.EX: Deca C2 P3 (ep 23~31)",
 		"start": "2025-10-01T08:00",
 		"startJp": "2025-05-07T17:00",
 		"end": "2025-10-15T02:00",
@@ -17495,7 +17495,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2025-10-15T02:00",
 		"startG": "2025-10-01T02:00",
-		"title": "[Main Story] Vol.EX: Decagrammaton Ch.2 P3 (ep 23~31)<br>G: 2025-10-01 02:00 Wed ~ 2025-10-15 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Main Story] Vol.EX: Deca C2 P3 (ep 23~31)<br>G: 2025-10-01 02:00 Wed ~ 2025-10-15 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-21 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "Highlander mats on Bounty (Highway) and Lesson",
@@ -18953,7 +18953,7 @@ jpSched = [
 		"title": "[Login] 5th Anniversary Countdown Login Bonus<br>G: 2026-06-08 19:00 Mon ~ 2026-06-15 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-13 04:00 Tue ~ 2026-01-20 04:00 Tue 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[Main Story] Vol.EX: Decagrammaton Ch.3 Part 1",
+		"content": "[Main Story] Vol.EX: Deca C3 P1",
 		"start": "2026-06-14T11:00",
 		"startJp": "2026-01-18T20:00",
 		"end": "2026-06-25T02:00",
@@ -18963,10 +18963,10 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-06-25T02:00",
 		"startG": "2026-06-14T11:00",
-		"title": "[Main Story] Vol.EX: Decagrammaton Ch.3 Part 1<br>G: 2026-06-14 11:00 Sun ~ 2026-06-25 02:00 Thu 11d (UTC y-m-d)<br>Jp: 2026-01-18 20:00 Sun ~ 2026-01-29 11:00 Thu 11d (JST y-m-d)",
+		"title": "[Main Story] Vol.EX: Deca C3 P1<br>G: 2026-06-14 11:00 Sun ~ 2026-06-25 02:00 Thu 11d (UTC y-m-d)<br>Jp: 2026-01-18 20:00 Sun ~ 2026-01-29 11:00 Thu 11d (JST y-m-d)",
 		"duration": "11d"
 	},{
-		"content": "[Main Story] Vol.EX: Decagrammaton Ch.3 Part 2",
+		"content": "[Main Story] Vol.EX: Deca C3 P2",
 		"start": "2026-06-16T10:00",
 		"startJp": "2026-01-20T19:00",
 		"end": "2026-06-25T02:00",
@@ -18976,21 +18976,21 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-06-25T02:00",
 		"startG": "2026-06-16T02:00",
-		"title": "[Main Story] Vol.EX: Decagrammaton Ch.3 Part 2<br>G: 2026-06-16 02:00 Tue ~ 2026-06-25 02:00 Thu 9d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
+		"title": "[Main Story] Vol.EX: Deca C3 P2<br>G: 2026-06-16 02:00 Tue ~ 2026-06-25 02:00 Thu 9d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
 		"duration": "9d"
 	},{
-		"content": "[Main Story] Vol.EX: Decagrammaton Ch.3 Part 3 (Part 4 TBA, February)",
+		"content": "[Main Story] Vol.EX: Deca C3 P3 (P4 TBA, February)",
 		"start": "2026-06-25T02:00",
 		"startJp": "2026-01-29T11:00",
-		"end": "2026-07-09T02:00",
-		"endJp": "2026-02-12T11:00",
+		"end": "2026-07-02T02:00",
+		"endJp": "2026-02-05T11:00",
 		"group": "J Event",
 		"subgroup": "",
 		"style": "color:black;background-color:yellow",
-		"endG": "2026-07-09T02:00",
+		"endG": "2026-07-02T02:00",
 		"startG": "2026-06-25T02:00",
-		"title": "[Main Story] Vol.EX: Decagrammaton Ch.3 Part 3 (Part 4 TBA, February)<br>G: 2026-06-25 02:00 Thu ~ 2026-07-09 02:00 Thu 14d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-12 11:00 Thu 14d (JST y-m-d)",
-		"duration": "14d"
+		"title": "[Main Story] Vol.EX: Deca C3 P3 (P4 TBA, February)<br>G: 2026-06-25 02:00 Thu ~ 2026-07-02 02:00 Thu 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 11:00 Thu 7d (JST y-m-d)",
+		"duration": "7d"
 	},{
 		"content": "<b>Daily free recruitments campaign (100 in total)</b> (New)",
 		"start": "2026-06-16T10:00",
@@ -19149,18 +19149,18 @@ jpSched = [
 		"title": "\"Return to Work Login Bonus\" implementation (for returning players)<br>G: 2026-06-16 02:00 Tue ~ 2026-07-09 02:00 Thu 23d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-02-12 11:00 Thu 23d (JST y-m-d)",
 		"duration": "23d"
 	},{
-		"content": "[Main] 鋼鉄大陸攻略戦 (Main Story Event)",
+		"content": "[Combined Operation] 鋼鉄大陸攻略戦 (Main Story Event)",
 		"start": "2026-06-16T10:00",
 		"startJp": "2026-01-20T19:00",
 		"end": "2026-06-25T02:00",
 		"endJp": "2026-01-29T11:00",
 		"group": "J Event",
-		"subgroup": "Main",
+		"subgroup": "",
 		"style": "color:black;background-color:yellow",
 		"url": "https://bluearchive.jp/news/newsJump/625",
 		"endG": "2026-06-25T02:00",
 		"startG": "2026-06-16T02:00",
-		"title": "[Main] 鋼鉄大陸攻略戦 (Main Story Event)<br>G: 2026-06-16 02:00 Tue ~ 2026-06-25 02:00 Thu 9d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
+		"title": "[Combined Operation] 鋼鉄大陸攻略戦 (Main Story Event)<br>G: 2026-06-16 02:00 Tue ~ 2026-06-25 02:00 Thu 9d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
 		"duration": "9d"
 	},{
 		"content": "[CO] 鋼鉄大陸攻略戦 (Main Story Raid)",
