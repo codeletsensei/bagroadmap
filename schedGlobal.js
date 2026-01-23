@@ -311,8 +311,16 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3336837"
   },{
+    "content": "EOS",
+    "start": "2026-01-27T02:00:00.000Z",
+    "end": "2026-01-27T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
+    "url": ""
+  },{
 //
-// GASHA
+/// GASHA
 //
     "content": "Misaka + Shokuhou",
     "start": "2024-04-30T02:00:00.000Z",
@@ -1539,8 +1547,57 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Misaki (Swimsuit) (New)",
+    "start": "2026-01-27T02:00:00.000Z",
+    "end": "2026-02-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "[Welfare] Atsuko (Swimsuit)",
+    "start": "2026-01-27T02:00:00.000Z",
+    "end": "2026-02-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Saori (Swimsuit) [L]",
+    "start": "2026-01-27T02:00:00.000Z",
+    "end": "2026-02-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Hiyori (Swimsuit) [L]",
+    "start": "2026-01-27T02:00:00.000Z",
+    "end": "2026-02-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Neru (Bunny Girl) [L]",
+    "start": "2026-01-27T02:00:00.000Z",
+    "end": "2026-02-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Karin (Bunny Girl) [L]",
+    "start": "2026-01-27T02:00:00.000Z",
+    "end": "2026-02-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Akane (Bunny Girl)",
+    "start": "2026-01-27T02:00:00.000Z",
+    "end": "2026-02-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
-// EVENTS
+/// EVENTS
 //
     "content": "A Certain Scientific Record of Youth",
     "start": "2024-04-30T02:00:00.000Z",
@@ -2088,8 +2145,15 @@ confirmed = [
     "subgroup": "Main",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[R] Sheside outside",
+    "start": "2026-01-27T02:00:00.000Z",
+    "end": "2026-02-10T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Main",
+    "style": "color:black; background-color:yellow"
+  },{
 //
-// RAIDS
+/// RAIDS
 //
     "content": "[TA] Chesed (Red atk)",
     "start": "2024-05-07T02:00:00.000Z",
@@ -2707,8 +2771,15 @@ confirmed = [
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
+    "content": "[GA] Chesed Outdoors (Purple TOR / Red+Yellow INS) (Red atk)",
+    "start": "2026-02-03T02:00:00.000Z",
+    "end": "2026-02-09T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:white; background-color:purple "
+  },{
 //
-// CAMPAIGNS
+/// CAMPAIGNS
 //
     "content": "2x Bounty",
     "start": "2024-04-29T19:00:00.000Z",
@@ -3761,7 +3832,7 @@ confirmed = [
     "style": "color:black; background-color:lightgreen "
   },{
 //
-// MISC
+/// MISC
 //
     "content": "[Welfare] Junko (New Year)",
     "start": "2024-09-03T02:00:00.000Z",
@@ -4483,7 +4554,7 @@ confirmed = [
   }
 ]
 
-// get the time when any future maintenance ends
+/// get the time when any future maintenance ends
 let maintTimes = confirmed.map(i=>{
   if (i.group.includes("Maint") && i.subgroup != "Stream") {
     let endTime = Date.parse(i.end)
