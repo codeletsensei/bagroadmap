@@ -3831,6 +3831,20 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Comm",
+    "start": "2026-02-02T19:00:00.000Z",
+    "end": "2026-02-09T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Hard",
+    "start": "2026-02-02T19:00:00.000Z",
+    "end": "2026-02-09T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 /// MISC
 //
@@ -4551,6 +4565,27 @@ confirmed = [
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3336837"
+  },{
+    "content": "[Main Story] V6C1",
+    "start": "2026-02-03T02:00:00.000Z",
+    "end": "2026-02-17T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[GM] The Arius District's Emergency Class Mission",
+    "start": "2026-02-03T02:00:00.000Z",
+    "end": "2026-03-10T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Permit Shop] Mika (Swimsuit) + Nagisa (Swimsuit) elephs, Wildhunt mats.",
+    "start": "2026-01-31T19:00:00.000Z",
+    "end": "2026-02-17T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightgrey"
   }
 ]
 
