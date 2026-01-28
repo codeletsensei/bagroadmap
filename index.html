@@ -119,9 +119,9 @@ Do you guys not have pasokons?
 <script type="text/javascript">
 document.getElementById("welcomeBaggot").remove()
 
-let siteVersion = 20251215
+let siteVersion = 20260129
 let currentVersion = localStorage.getItem("version")
-let lastShitAdded = "2025/12/15: Clicking on a (future) Maintenance/Stream cell will ask to open its related link, if it's already available and I didn't forget about it.<br>2025/8/8: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
+let lastShitAdded = "2026/01/29: Fixed the shifted JP schedule not shifting content before an acceleration period concludes<br>2025/12/15: Clicking on a (future) Maintenance/Stream cell will ask to open its related link, if it's already available and I didn't forget about it.<br>2025/8/8: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
 if ( !currentVersion || Number(currentVersion) < siteVersion ) {
   Swal.fire({
     title: "Changelog",
