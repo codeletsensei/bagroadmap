@@ -7592,19 +7592,6 @@ jpSched = [
 		"title": "[JFD] Escort Urban Yellow<br>G: 2026-05-26 02:00 Tue ~ 2026-06-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-14 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[JFD] Defense Indoors Blue",
-		"start": "2026-06-17T08:00",
-		"startJp": "2026-01-29T17:00",
-		"end": "2026-06-23T18:59",
-		"endJp": "2026-02-05T03:59",
-		"group": "J Raid",
-		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
-		"endG": "2026-06-23T18:59",
-		"startG": "2026-06-17T02:00",
-		"title": "[JFD] Defense Indoors Blue<br>G: 2026-06-17 02:00 Wed ~ 2026-06-23 18:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 03:59 Thu 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
 		"start": "2021-07-10T19:00",
 		"startJp": "2021-02-15T04:00",
@@ -19514,6 +19501,45 @@ jpSched = [
 		"endG": "2026-06-23T19:00",
 		"startG": "2026-06-17T02:00",
 		"title": "[JFD] Defense Blue Indoors. Blue AR+RG buff. Dead Enemies deal AOE dmg to other enemies. High HP enemies.<br>G: 2026-06-17 02:00 Wed ~ 2026-06-23 19:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 04:00 Thu 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[TA] ???????",
+		"start": "2026-07-07T02:00",
+		"startJp": "2026-02-18T11:00",
+		"end": "2026-07-13T19:00",
+		"endJp": "2026-02-25T04:00",
+		"group": "J Raid",
+		"subgroup": "TA",
+		"style": "color:black;background-color:pink",
+		"endG": "2026-07-13T19:00",
+		"startG": "2026-07-07T02:00",
+		"title": "[TA] ???????<br>G: 2026-07-07 02:00 Tue ~ 2026-07-13 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[JFD] ???????",
+		"start": "2026-07-14T02:00",
+		"startJp": "2026-02-25T11:00",
+		"end": "2026-07-20T19:00",
+		"endJp": "2026-03-04T04:00",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:black;background-color:pink",
+		"endG": "2026-07-20T19:00",
+		"startG": "2026-07-14T02:00",
+		"title": "[JFD] ???????<br>G: 2026-07-14 02:00 Tue ~ 2026-07-20 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[GA] ???????",
+		"start": "2026-07-21T02:00",
+		"startJp": "2026-03-04T11:00",
+		"end": "2026-07-27T19:00",
+		"endJp": "2026-03-11T04:00",
+		"group": "J Raid",
+		"subgroup": "GA",
+		"style": "color:black;background-color:pink",
+		"endG": "2026-07-27T19:00",
+		"startG": "2026-07-21T02:00",
+		"title": "[GA] ???????<br>G: 2026-07-21 02:00 Tue ~ 2026-07-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-11 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	}
 ]

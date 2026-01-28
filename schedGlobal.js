@@ -2778,6 +2778,20 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
   },{
+    "content": "[TA] Geburah Outdoors Red (Blue atk)",
+    "start": "2026-02-17T02:00:00.000Z",
+    "end": "2026-02-23T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:white; background-color:red"
+  },{
+    "content": "[JFD] Defense Indoors Red. Enemy MOV SPD up and deal AOE dmg to students on death. Knocked back on hit.",
+    "start": "2026-02-24T02:00:00.000Z",
+    "end": "2026-03-02T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:white; background-color:red"
+  },{
 //
 /// CAMPAIGNS
 //
