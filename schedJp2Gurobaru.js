@@ -15081,8 +15081,8 @@ jpSched = [
 		"duration": "9d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kei\" title=\"Kei\">Kei</a> [L Bluefes]",
-		"start": "2026-06-24T02:00",
-		"startJp": "2026-01-29T11:00",
+		"start": "2026-06-24T08:00",
+		"startJp": "2026-01-29T17:00",
 		"end": "2026-07-01T01:59",
 		"endJp": "2026-02-05T10:59",
 		"group": "J Gacha",
@@ -15094,8 +15094,8 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Battle)?action=edit&amp;redlink=1\" class=\"new\" title=\"Arisu (Battle) (page does not exist)\">Arisu (Battle)</a> [L Bluefes]",
-		"start": "2026-06-24T02:00",
-		"startJp": "2026-01-29T11:00",
+		"start": "2026-06-24T08:00",
+		"startJp": "2026-01-29T17:00",
 		"end": "2026-07-01T01:59",
 		"endJp": "2026-02-05T10:59",
 		"group": "J Gacha",
@@ -15107,8 +15107,8 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino_(Battle)\" title=\"Hoshino (Battle)\">Hoshino (Battle)</a> [L Bluefes]",
-		"start": "2026-06-24T02:00",
-		"startJp": "2026-01-29T11:00",
+		"start": "2026-06-24T08:00",
+		"startJp": "2026-01-29T17:00",
 		"end": "2026-07-01T01:59",
 		"endJp": "2026-02-05T10:59",
 		"group": "J Gacha",
@@ -15120,8 +15120,8 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko%EF%BC%8ATerror\" title=\"Shiroko＊Terror\">Shiroko＊Terror</a> [L Bluefes]",
-		"start": "2026-06-24T02:00",
-		"startJp": "2026-01-29T11:00",
+		"start": "2026-06-24T08:00",
+		"startJp": "2026-01-29T17:00",
 		"end": "2026-07-01T01:59",
 		"endJp": "2026-02-05T10:59",
 		"group": "J Gacha",
@@ -19266,8 +19266,8 @@ jpSched = [
 		"duration": "9d"
 	},{
 		"content": "[Main Story] Vol.EX: Deca C3 P3 (P4 TBA, February)",
-		"start": "2026-06-24T02:00",
-		"startJp": "2026-01-29T11:00",
+		"start": "2026-06-24T08:00",
+		"startJp": "2026-01-29T17:00",
 		"end": "2026-07-01T02:00",
 		"endJp": "2026-02-05T11:00",
 		"group": "J Event",
@@ -19292,8 +19292,8 @@ jpSched = [
 		"duration": "9d"
 	},{
 		"content": "[Bluefes] 2x 3* rate",
-		"start": "2026-06-24T02:00",
-		"startJp": "2026-01-29T11:00",
+		"start": "2026-06-24T08:00",
+		"startJp": "2026-01-29T17:00",
 		"end": "2026-07-01T02:00",
 		"endJp": "2026-02-05T11:00",
 		"group": "J Gacha",
@@ -19435,7 +19435,21 @@ jpSched = [
 		"title": "[Perm] Trip-Trap-Train<br>G: 2026-07-01 02:00 Wed ~ 2026-07-08 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 11:00 Thu 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[CO] 鋼鉄大陸攻略戦 (Main Story Raid, 3 borrows per battle)",
+		"content": "EOS",
+		"start": "2026-06-24T02:00",
+		"startJp": "2026-01-29T11:00",
+		"end": "2026-06-24T08:00",
+		"endJp": "2026-01-29T17:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/629",
+		"endG": "2026-06-24T08:00",
+		"startG": "2026-06-24T02:00",
+		"title": "EOS<br>G: 2026-06-24 02:00 Wed ~ 2026-06-24 08:00 Wed 6h (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-01-29 17:00 Thu 6h (JST y-m-d)",
+		"duration": "6h"
+	},{
+		"content": "[CO] 鋼鉄大陸攻略戦 (Main Story)",
 		"start": "2026-06-16T02:00",
 		"startJp": "2026-01-21T11:00",
 		"end": "2026-06-23T19:00",
@@ -19446,25 +19460,26 @@ jpSched = [
 		"url": "https://bluearchive.jp/news/newsJump/625",
 		"endG": "2026-06-23T19:00",
 		"startG": "2026-06-16T02:00",
-		"title": "[CO] 鋼鉄大陸攻略戦 (Main Story Raid, 3 borrows per battle)<br>G: 2026-06-16 02:00 Tue ~ 2026-06-23 19:00 Tue 8d (UTC y-m-d)<br>Jp: 2026-01-21 11:00 Wed ~ 2026-01-29 04:00 Thu 8d (JST y-m-d)",
+		"title": "[CO] 鋼鉄大陸攻略戦 (Main Story)<br>G: 2026-06-16 02:00 Tue ~ 2026-06-23 19:00 Tue 8d (UTC y-m-d)<br>Jp: 2026-01-21 11:00 Wed ~ 2026-01-29 04:00 Thu 8d (JST y-m-d)",
 		"duration": "8d"
 	},{
-		"content": "Confirmed: NO GA",
-		"start": "2026-07-01T02:00",
-		"startJp": "2026-02-05T11:00",
+		"content": "[CO] 鋼鉄大陸攻略戦 -マルクト戦- (Main Story)",
+		"start": "2026-06-24T08:00",
+		"startJp": "2026-01-29T17:00",
 		"end": "2026-07-07T19:00",
 		"endJp": "2026-02-12T04:00",
 		"group": "J Raid",
 		"subgroup": "",
 		"style": "color:black;background-color:pink",
+		"url": "https://bluearchive.jp/news/newsJump/630",
 		"endG": "2026-07-07T19:00",
-		"startG": "2026-07-01T02:00",
-		"title": "Confirmed: NO GA<br>G: 2026-07-01 02:00 Wed ~ 2026-07-07 19:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 04:00 Thu 7d (JST y-m-d)",
-		"duration": "7d"
+		"startG": "2026-06-24T02:00",
+		"title": "[CO] 鋼鉄大陸攻略戦 -マルクト戦- (Main Story)<br>G: 2026-06-24 02:00 Wed ~ 2026-07-07 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-12 04:00 Thu 14d (JST y-m-d)",
+		"duration": "14d"
 	},{
 		"content": "[JFD] Defense Blue Indoors. Blue AR+RG buff. Dead Enemies deal AOE dmg to other enemies. High HP enemies.",
-		"start": "2026-06-24T02:00",
-		"startJp": "2026-01-29T11:00",
+		"start": "2026-06-24T08:00",
+		"startJp": "2026-01-29T17:00",
 		"end": "2026-06-30T19:00",
 		"endJp": "2026-02-05T04:00",
 		"group": "J Raid",
