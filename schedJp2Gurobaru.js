@@ -19265,7 +19265,7 @@ jpSched = [
 		"title": "[Main Story] Vol.EX: Deca C3 P2<br>G: 2026-06-15 02:00 Mon ~ 2026-06-24 02:00 Wed 9d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
 		"duration": "9d"
 	},{
-		"content": "[Main Story] Vol.EX: Deca C3 P3 (P4 TBA, February)",
+		"content": "[Main Story] Vol.EX: Deca C3 P3",
 		"start": "2026-06-24T08:00",
 		"startJp": "2026-01-29T17:00",
 		"end": "2026-07-01T02:00",
@@ -19275,8 +19275,21 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-07-01T02:00",
 		"startG": "2026-06-24T02:00",
-		"title": "[Main Story] Vol.EX: Deca C3 P3 (P4 TBA, February)<br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 11:00 Thu 7d (JST y-m-d)",
+		"title": "[Main Story] Vol.EX: Deca C3 P3<br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 11:00 Thu 7d (JST y-m-d)",
 		"duration": "7d"
+	},{
+		"content": "[Main Story] Vol.EX: Deca C3 P4",
+		"start": "2026-07-08T02:00",
+		"startJp": "2026-02-12T11:00",
+		"end": "2026-07-16T02:00",
+		"endJp": "2026-02-20T11:00",
+		"group": "J Event",
+		"subgroup": "",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-07-16T02:00",
+		"startG": "2026-07-08T02:00",
+		"title": "[Main Story] Vol.EX: Deca C3 P4<br>G: 2026-07-08 02:00 Wed ~ 2026-07-16 02:00 Thu 8d (UTC y-m-d)<br>Jp: 2026-02-12 11:00 Thu ~ 2026-02-20 11:00 Fri 8d (JST y-m-d)",
+		"duration": "8d"
 	},{
 		"content": "[Welfare] Toki (Battle) (New)",
 		"start": "2026-06-15T10:00",
