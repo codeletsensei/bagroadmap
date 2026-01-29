@@ -1186,15 +1186,15 @@ jpSched = [
 		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Steel_Continent_Assault\" title=\"Steel Continent Assault\">Steel Continent Assault</a>",
 		"start": "2026-06-08T10:00",
 		"startJp": "2026-01-20T19:00",
-		"end": "2026-07-01T02:00",
-		"endJp": "2026-02-12T11:00",
+		"end": "2026-07-07T02:00",
+		"endJp": "2026-02-18T11:00",
 		"group": "J Event",
 		"subgroup": "Main",
 		"style": "color:black;background-color:yellow",
-		"endG": "2026-07-01T02:00",
+		"endG": "2026-07-07T02:00",
 		"startG": "2026-06-08T02:00",
-		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Steel_Continent_Assault\" title=\"Steel Continent Assault\">Steel Continent Assault</a><br>G: 2026-06-08 02:00 Mon ~ 2026-07-01 02:00 Wed 23d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-02-12 11:00 Thu 23d (JST y-m-d)",
-		"duration": "23d"
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Steel_Continent_Assault\" title=\"Steel Continent Assault\">Steel Continent Assault</a><br>G: 2026-06-08 02:00 Mon ~ 2026-07-07 02:00 Tue 29d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-02-18 11:00 Wed 29d (JST y-m-d)",
+		"duration": "29d"
 	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
 		"start": "2023-10-31T08:00",
@@ -7592,7 +7592,7 @@ jpSched = [
 		"title": "[JFD] Escort Urban Yellow<br>G: 2026-05-26 02:00 Tue ~ 2026-06-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-14 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[JFD] Shooting Urban Red",
+		"content": "[JFD] Shooting Urban Red. Enemies take more dmg, 3rd nero has higher HP. basic proficiency buff for AR + SR",
 		"start": "2026-07-14T02:00",
 		"startJp": "2026-02-25T11:00",
 		"end": "2026-07-20T18:59",
@@ -7602,7 +7602,7 @@ jpSched = [
 		"style": "color:white;background-color:red",
 		"endG": "2026-07-20T18:59",
 		"startG": "2026-07-14T02:00",
-		"title": "[JFD] Shooting Urban Red<br>G: 2026-07-14 02:00 Tue ~ 2026-07-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 03:59 Wed 7d (JST y-m-d)",
+		"title": "[JFD] Shooting Urban Red. Enemies take more dmg, 3rd nero has higher HP. basic proficiency buff for AR + SR<br>G: 2026-07-14 02:00 Tue ~ 2026-07-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
