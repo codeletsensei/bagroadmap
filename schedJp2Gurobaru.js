@@ -1186,15 +1186,15 @@ jpSched = [
 		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Steel_Continent_Assault\" title=\"Steel Continent Assault\">Steel Continent Assault</a>",
 		"start": "2026-06-08T10:00",
 		"startJp": "2026-01-20T19:00",
-		"end": "2026-06-17T02:00",
-		"endJp": "2026-01-29T11:00",
+		"end": "2026-07-01T02:00",
+		"endJp": "2026-02-12T11:00",
 		"group": "J Event",
 		"subgroup": "Main",
 		"style": "color:black;background-color:yellow",
-		"endG": "2026-06-17T02:00",
+		"endG": "2026-07-01T02:00",
 		"startG": "2026-06-08T02:00",
-		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Steel_Continent_Assault\" title=\"Steel Continent Assault\">Steel Continent Assault</a><br>G: 2026-06-08 02:00 Mon ~ 2026-06-17 02:00 Wed 9d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
-		"duration": "9d"
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Steel_Continent_Assault\" title=\"Steel Continent Assault\">Steel Continent Assault</a><br>G: 2026-06-08 02:00 Mon ~ 2026-07-01 02:00 Wed 23d (UTC y-m-d)<br>Jp: 2026-01-20 11:00 Tue ~ 2026-02-12 11:00 Thu 23d (JST y-m-d)",
+		"duration": "23d"
 	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
 		"start": "2023-10-31T08:00",
@@ -7590,6 +7590,19 @@ jpSched = [
 		"endG": "2026-06-01T18:59",
 		"startG": "2026-05-26T02:00",
 		"title": "[JFD] Escort Urban Yellow<br>G: 2026-05-26 02:00 Tue ~ 2026-06-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-14 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[JFD] Shooting Urban Red",
+		"start": "2026-07-14T02:00",
+		"startJp": "2026-02-25T11:00",
+		"end": "2026-07-20T18:59",
+		"endJp": "2026-03-04T03:59",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:white;background-color:red",
+		"endG": "2026-07-20T18:59",
+		"startG": "2026-07-14T02:00",
+		"title": "[JFD] Shooting Urban Red<br>G: 2026-07-14 02:00 Tue ~ 2026-07-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
@@ -15093,7 +15106,7 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kei\" title=\"Kei\">Kei</a> [L Bluefes]<br>G: 2026-06-17 02:00 Wed ~ 2026-06-24 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 10:59 Thu 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Battle)?action=edit&amp;redlink=1\" class=\"new\" title=\"Arisu (Battle) (page does not exist)\">Arisu (Battle)</a> [L Bluefes]",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Battle)\" title=\"Arisu (Battle)\">Arisu (Battle)</a> [L Bluefes]",
 		"start": "2026-06-17T08:00",
 		"startJp": "2026-01-29T17:00",
 		"end": "2026-06-24T01:59",
@@ -15103,7 +15116,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-06-24T01:59",
 		"startG": "2026-06-17T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Battle)?action=edit&amp;redlink=1\" class=\"new\" title=\"Arisu (Battle) (page does not exist)\">Arisu (Battle)</a> [L Bluefes]<br>G: 2026-06-17 02:00 Wed ~ 2026-06-24 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 10:59 Thu 7d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Arisu_(Battle)\" title=\"Arisu (Battle)\">Arisu (Battle)</a> [L Bluefes]<br>G: 2026-06-17 02:00 Wed ~ 2026-06-24 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 10:59 Thu 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hoshino_(Battle)\" title=\"Hoshino (Battle)\">Hoshino (Battle)</a> [L Bluefes]",
@@ -19465,30 +19478,82 @@ jpSched = [
 		"content": "[CO] 鋼鉄大陸攻略戦 (Main Story)",
 		"start": "2026-06-09T02:00",
 		"startJp": "2026-01-21T11:00",
-		"end": "2026-06-16T19:00",
-		"endJp": "2026-01-29T04:00",
+		"end": "2026-06-17T02:00",
+		"endJp": "2026-01-29T11:00",
 		"group": "J Raid",
 		"subgroup": "",
 		"style": "color:black;background-color:pink",
 		"url": "https://bluearchive.jp/news/newsJump/625",
-		"endG": "2026-06-16T19:00",
+		"endG": "2026-06-17T02:00",
 		"startG": "2026-06-09T02:00",
-		"title": "[CO] 鋼鉄大陸攻略戦 (Main Story)<br>G: 2026-06-09 02:00 Tue ~ 2026-06-16 19:00 Tue 8d (UTC y-m-d)<br>Jp: 2026-01-21 11:00 Wed ~ 2026-01-29 04:00 Thu 8d (JST y-m-d)",
+		"title": "[CO] 鋼鉄大陸攻略戦 (Main Story)<br>G: 2026-06-09 02:00 Tue ~ 2026-06-17 02:00 Wed 8d (UTC y-m-d)<br>Jp: 2026-01-21 11:00 Wed ~ 2026-01-29 11:00 Thu 8d (JST y-m-d)",
 		"duration": "8d"
 	},{
 		"content": "[CO] 鋼鉄大陸攻略戦 -マルクト戦- (Main Story)",
-		"start": "2026-06-17T08:00",
-		"startJp": "2026-01-29T17:00",
-		"end": "2026-06-30T19:00",
-		"endJp": "2026-02-12T04:00",
+		"start": "2026-06-18T02:00",
+		"startJp": "2026-01-30T11:00",
+		"end": "2026-07-01T02:00",
+		"endJp": "2026-02-12T11:00",
 		"group": "J Raid",
 		"subgroup": "",
 		"style": "color:black;background-color:pink",
 		"url": "https://bluearchive.jp/news/newsJump/630",
-		"endG": "2026-06-30T19:00",
-		"startG": "2026-06-17T02:00",
-		"title": "[CO] 鋼鉄大陸攻略戦 -マルクト戦- (Main Story)<br>G: 2026-06-17 02:00 Wed ~ 2026-06-30 19:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-12 04:00 Thu 14d (JST y-m-d)",
-		"duration": "14d"
+		"endG": "2026-07-01T02:00",
+		"startG": "2026-06-18T02:00",
+		"title": "[CO] 鋼鉄大陸攻略戦 -マルクト戦- (Main Story)<br>G: 2026-06-18 02:00 Thu ~ 2026-07-01 02:00 Wed 13d (UTC y-m-d)<br>Jp: 2026-01-30 11:00 Fri ~ 2026-02-12 11:00 Thu 13d (JST y-m-d)",
+		"duration": "13d"
+	},{
+		"content": "Eimi (Swimsuit) (New)",
+		"start": "2026-06-24T02:00",
+		"startJp": "2026-02-05T11:00",
+		"end": "2026-07-01T02:00",
+		"endJp": "2026-02-12T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-01T02:00",
+		"startG": "2026-06-24T02:00",
+		"title": "Eimi (Swimsuit) (New)<br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 11:00 Thu 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Ichika (New)",
+		"start": "2026-06-24T02:00",
+		"startJp": "2026-02-05T11:00",
+		"end": "2026-07-01T02:00",
+		"endJp": "2026-02-12T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-01T02:00",
+		"startG": "2026-06-24T02:00",
+		"title": "Ichika (New)<br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 11:00 Thu 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Kasumi (New)",
+		"start": "2026-06-24T02:00",
+		"startJp": "2026-02-05T11:00",
+		"end": "2026-07-01T02:00",
+		"endJp": "2026-02-12T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-01T02:00",
+		"startG": "2026-06-24T02:00",
+		"title": "Kasumi (New)<br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 11:00 Thu 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Sakurako (New)",
+		"start": "2026-06-24T02:00",
+		"startJp": "2026-02-05T11:00",
+		"end": "2026-07-01T02:00",
+		"endJp": "2026-02-12T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-01T02:00",
+		"startG": "2026-06-24T02:00",
+		"title": "Sakurako (New)<br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 11:00 Thu 7d (JST y-m-d)",
+		"duration": "7d"
 	},{
 		"content": "[JFD] Defense Blue Indoors. Blue AR+RG buff. Dead Enemies deal AOE dmg to other enemies. High HP enemies.",
 		"start": "2026-06-17T08:00",
@@ -19514,19 +19579,6 @@ jpSched = [
 		"endG": "2026-07-13T19:00",
 		"startG": "2026-07-07T02:00",
 		"title": "[TA] ???????<br>G: 2026-07-07 02:00 Tue ~ 2026-07-13 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "[JFD] ???????",
-		"start": "2026-07-14T02:00",
-		"startJp": "2026-02-25T11:00",
-		"end": "2026-07-20T19:00",
-		"endJp": "2026-03-04T04:00",
-		"group": "J Raid",
-		"subgroup": "JFD",
-		"style": "color:black;background-color:pink",
-		"endG": "2026-07-20T19:00",
-		"startG": "2026-07-14T02:00",
-		"title": "[JFD] ???????<br>G: 2026-07-14 02:00 Tue ~ 2026-07-20 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[GA] ???????",
