@@ -7592,17 +7592,17 @@ jpSched = [
 		"title": "[JFD] Escort Urban Yellow<br>G: 2026-05-26 02:00 Tue ~ 2026-06-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-14 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[JFD] Shooting Urban Red. Enemies take more dmg, 3rd nero has higher HP. basic proficiency buff for AR + SR",
-		"start": "2026-07-14T02:00",
-		"startJp": "2026-02-25T11:00",
-		"end": "2026-07-20T18:59",
-		"endJp": "2026-03-04T03:59",
+		"content": "[JFD] Defense Indoors Blue",
+		"start": "2026-06-17T08:00",
+		"startJp": "2026-01-29T17:00",
+		"end": "2026-06-23T18:59",
+		"endJp": "2026-02-05T03:59",
 		"group": "J Raid",
 		"subgroup": "JFD",
-		"style": "color:white;background-color:red",
-		"endG": "2026-07-20T18:59",
-		"startG": "2026-07-14T02:00",
-		"title": "[JFD] Shooting Urban Red. Enemies take more dmg, 3rd nero has higher HP. basic proficiency buff for AR + SR<br>G: 2026-07-14 02:00 Tue ~ 2026-07-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 03:59 Wed 7d (JST y-m-d)",
+		"style": "color:white;background-color:blue",
+		"endG": "2026-06-23T18:59",
+		"startG": "2026-06-17T02:00",
+		"title": "[JFD] Defense Indoors Blue<br>G: 2026-06-17 02:00 Wed ~ 2026-06-23 18:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 03:59 Thu 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
@@ -15145,6 +15145,58 @@ jpSched = [
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shiroko%EF%BC%8ATerror\" title=\"Shiroko＊Terror\">Shiroko＊Terror</a> [L Bluefes]<br>G: 2026-06-17 02:00 Wed ~ 2026-06-24 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 10:59 Thu 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ichika\" title=\"Ichika\">Ichika</a>",
+		"start": "2026-06-24T02:00",
+		"startJp": "2026-02-05T11:00",
+		"end": "2026-07-01T01:59",
+		"endJp": "2026-02-12T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-01T01:59",
+		"startG": "2026-06-24T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ichika\" title=\"Ichika\">Ichika</a><br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 10:59 Thu 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kasumi\" title=\"Kasumi\">Kasumi</a>",
+		"start": "2026-06-24T02:00",
+		"startJp": "2026-02-05T11:00",
+		"end": "2026-07-01T01:59",
+		"endJp": "2026-02-12T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-01T01:59",
+		"startG": "2026-06-24T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kasumi\" title=\"Kasumi\">Kasumi</a><br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 10:59 Thu 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako\" title=\"Sakurako\">Sakurako</a>",
+		"start": "2026-06-24T02:00",
+		"startJp": "2026-02-05T11:00",
+		"end": "2026-07-01T01:59",
+		"endJp": "2026-02-12T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-01T01:59",
+		"startG": "2026-06-24T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sakurako\" title=\"Sakurako\">Sakurako</a><br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 10:59 Thu 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi_(Swimsuit)\" title=\"Eimi (Swimsuit)\">Eimi (Swimsuit)</a>",
+		"start": "2026-06-24T02:00",
+		"startJp": "2026-02-05T11:00",
+		"end": "2026-07-01T01:59",
+		"endJp": "2026-02-12T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-01T01:59",
+		"startG": "2026-06-24T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eimi_(Swimsuit)\" title=\"Eimi (Swimsuit)\">Eimi (Swimsuit)</a><br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 10:59 Thu 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "EOS",
 		"start": "2021-07-06T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -19503,71 +19555,6 @@ jpSched = [
 		"title": "[CO] 鋼鉄大陸攻略戦 -マルクト戦- (Main Story)<br>G: 2026-06-18 02:00 Thu ~ 2026-07-01 02:00 Wed 13d (UTC y-m-d)<br>Jp: 2026-01-30 11:00 Fri ~ 2026-02-12 11:00 Thu 13d (JST y-m-d)",
 		"duration": "13d"
 	},{
-		"content": "Eimi (Swimsuit) (New)",
-		"start": "2026-06-24T02:00",
-		"startJp": "2026-02-05T11:00",
-		"end": "2026-07-01T02:00",
-		"endJp": "2026-02-12T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-07-01T02:00",
-		"startG": "2026-06-24T02:00",
-		"title": "Eimi (Swimsuit) (New)<br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 11:00 Thu 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "Ichika (New)",
-		"start": "2026-06-24T02:00",
-		"startJp": "2026-02-05T11:00",
-		"end": "2026-07-01T02:00",
-		"endJp": "2026-02-12T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-07-01T02:00",
-		"startG": "2026-06-24T02:00",
-		"title": "Ichika (New)<br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 11:00 Thu 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "Kasumi (New)",
-		"start": "2026-06-24T02:00",
-		"startJp": "2026-02-05T11:00",
-		"end": "2026-07-01T02:00",
-		"endJp": "2026-02-12T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-07-01T02:00",
-		"startG": "2026-06-24T02:00",
-		"title": "Kasumi (New)<br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 11:00 Thu 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "Sakurako (New)",
-		"start": "2026-06-24T02:00",
-		"startJp": "2026-02-05T11:00",
-		"end": "2026-07-01T02:00",
-		"endJp": "2026-02-12T11:00",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-07-01T02:00",
-		"startG": "2026-06-24T02:00",
-		"title": "Sakurako (New)<br>G: 2026-06-24 02:00 Wed ~ 2026-07-01 02:00 Wed 7d (UTC y-m-d)<br>Jp: 2026-02-05 11:00 Thu ~ 2026-02-12 11:00 Thu 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "[JFD] Defense Blue Indoors. Blue AR+RG buff. Dead Enemies deal AOE dmg to other enemies. High HP enemies.",
-		"start": "2026-06-17T08:00",
-		"startJp": "2026-01-29T17:00",
-		"end": "2026-06-23T19:00",
-		"endJp": "2026-02-05T04:00",
-		"group": "J Raid",
-		"subgroup": "JFD",
-		"style": "color:white;background-color:blue",
-		"endG": "2026-06-23T19:00",
-		"startG": "2026-06-17T02:00",
-		"title": "[JFD] Defense Blue Indoors. Blue AR+RG buff. Dead Enemies deal AOE dmg to other enemies. High HP enemies.<br>G: 2026-06-17 02:00 Wed ~ 2026-06-23 19:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 04:00 Thu 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
 		"content": "[TA] ???????",
 		"start": "2026-07-07T02:00",
 		"startJp": "2026-02-18T11:00",
@@ -19579,6 +19566,19 @@ jpSched = [
 		"endG": "2026-07-13T19:00",
 		"startG": "2026-07-07T02:00",
 		"title": "[TA] ???????<br>G: 2026-07-07 02:00 Tue ~ 2026-07-13 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[JFD] Shooting Urban Red. Enemies take more dmg, 3rd nero has higher HP. basic proficiency buff for AR + SR",
+		"start": "2026-07-14T02:00",
+		"startJp": "2026-02-25T11:00",
+		"end": "2026-07-20T19:00",
+		"endJp": "2026-03-04T04:00",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:white;background-color:red",
+		"endG": "2026-07-20T19:00",
+		"startG": "2026-07-14T02:00",
+		"title": "[JFD] Shooting Urban Red. Enemies take more dmg, 3rd nero has higher HP. basic proficiency buff for AR + SR<br>G: 2026-07-14 02:00 Tue ~ 2026-07-20 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[GA] ???????",
@@ -19593,5 +19593,31 @@ jpSched = [
 		"startG": "2026-07-21T02:00",
 		"title": "[GA] ???????<br>G: 2026-07-21 02:00 Tue ~ 2026-07-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-11 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
+	},{
+		"content": "???Yuzu (Battle)???",
+		"start": "2026-07-01T02:00",
+		"startJp": "2026-02-12T11:00",
+		"end": "2026-07-09T02:00",
+		"endJp": "2026-02-20T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-09T02:00",
+		"startG": "2026-07-01T02:00",
+		"title": "???Yuzu (Battle)???<br>G: 2026-07-01 02:00 Wed ~ 2026-07-09 02:00 Thu 8d (UTC y-m-d)<br>Jp: 2026-02-12 11:00 Thu ~ 2026-02-20 11:00 Fri 8d (JST y-m-d)",
+		"duration": "8d"
+	},{
+		"content": "??????????????????",
+		"start": "2026-07-01T02:00",
+		"startJp": "2026-02-12T11:00",
+		"end": "2026-07-09T02:00",
+		"endJp": "2026-02-20T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-09T02:00",
+		"startG": "2026-07-01T02:00",
+		"title": "??????????????????<br>G: 2026-07-01 02:00 Wed ~ 2026-07-09 02:00 Thu 8d (UTC y-m-d)<br>Jp: 2026-02-12 11:00 Thu ~ 2026-02-20 11:00 Fri 8d (JST y-m-d)",
+		"duration": "8d"
 	}
 ]
