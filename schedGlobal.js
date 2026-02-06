@@ -319,6 +319,14 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": ""
   },{
+    "content": "EOS",
+    "start": "2026-02-10T02:00:00.000Z",
+    "end": "2026-02-10T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
+    "url": ""
+  },{
 //
 /// GASHA
 //
