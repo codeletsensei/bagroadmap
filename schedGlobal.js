@@ -1604,7 +1604,7 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
-    "content": "Mio (New)",
+    "content": "Miyo (New)",
     "start": "2026-02-10T02:00:00.000Z",
     "end": "2026-02-24T02:00:00.000Z",
     "group": "G Gacha",
