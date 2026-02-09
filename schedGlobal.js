@@ -4715,26 +4715,26 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:lightgrey"
   },{
-    "content": "[Bond Gear] Koyuki Umika Momoi, Haruna (Track)",
+    "content": "[Bond Gear] Koyuki, Umika, Momoi, Haruna (Track)",
     "start": "2026-02-10T02:00:00.000Z",
     "end": "2026-02-24T19:00:00.000Z",
     "group": "G Other",
     "subgroup": "",
-    "style": "color:black; background-color:lightgrey"
+    "style": "color:black; background-color:lightblue"
   },{
     "content": "[Lesson Area] Wildhunt",
     "start": "2026-02-10T02:00:00.000Z",
     "end": "2026-02-24T19:00:00.000Z",
     "group": "G Other",
     "subgroup": "",
-    "style": "color:black; background-color:lightgrey"
+    "style": "color:black; background-color:lightblue"
   },{
-    "content": "[Lesson Area] Wildhunt",
+    "content": "[Crafting] Furniture: \"Wildhunt Campus\" + Pancake Tea Table + Medicine Organizer White Table",
     "start": "2026-02-10T02:00:00.000Z",
     "end": "2026-02-24T19:00:00.000Z",
     "group": "G Other",
     "subgroup": "",
-    "style": "color:black; background-color:lightgrey"
+    "style": "color:black; background-color:lightblue"
   }
 ]
 
