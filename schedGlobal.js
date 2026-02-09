@@ -317,7 +317,7 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
-    "url": ""
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3355429"
   },{
     "content": "EOS",
     "start": "2026-02-10T02:00:00.000Z",
@@ -325,7 +325,7 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
-    "url": ""
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3367918"
   },{
 //
 /// GASHA
@@ -2181,6 +2181,28 @@ confirmed = [
     "subgroup": "Main",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[Main] To Whom Art Belongs: The Fate of Forgeries and Aesthetics ",
+    "start": "2026-02-10T02:00:00.000Z",
+    "end": "2026-03-03T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Main",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[My Office] To Whom Art Belongs Event Story Completion Special Task",
+    "start": "2026-02-10T02:00:00.000Z",
+    "end": "2026-03-03T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow",
+    "url": "https://bluearchive.nexon.com/user/myoffice"
+  },{
+    "content": "[Web Event] Search for the Hidden Seeds!",
+    "start": "2026-02-10T02:00:00.000Z",
+    "end": "2026-03-02T19:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow",
+  },{
 //
 /// RAIDS
 //
@@ -2820,6 +2842,13 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "JFD",
     "style": "color:white; background-color:red"
+  },{
+    "content": "[LBA] S19 The Fury of Set Blue (Red atk)",
+    "start": "2026-02-11T02:00:00.000Z",
+    "end": "2026-03-09T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "LBA",
+    "style": "color:white; background-color:blue "
   },{
 //
 /// CAMPAIGNS
@@ -4682,6 +4711,27 @@ confirmed = [
     "content": "[Permit Shop] Mika (Swimsuit) + Nagisa (Swimsuit) elephs, Wildhunt mats.",
     "start": "2026-01-31T19:00:00.000Z",
     "end": "2026-02-17T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Bond Gear] Koyuki Umika Momoi, Haruna (Track)",
+    "start": "2026-02-10T02:00:00.000Z",
+    "end": "2026-02-24T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Lesson Area] Wildhunt",
+    "start": "2026-02-10T02:00:00.000Z",
+    "end": "2026-02-24T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Lesson Area] Wildhunt",
+    "start": "2026-02-10T02:00:00.000Z",
+    "end": "2026-02-24T19:00:00.000Z",
     "group": "G Other",
     "subgroup": "",
     "style": "color:black; background-color:lightgrey"
