@@ -2202,6 +2202,7 @@ confirmed = [
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow",
+    "url": "https://bluearchive.nexon.com/events/2026/02/wildhunt"
   },{
 //
 /// RAIDS
@@ -4735,6 +4736,13 @@ confirmed = [
     "group": "G Other",
     "subgroup": "",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[PVP] Season 10. Urban.",
+    "start": "2026-03-24T02:00:00.000Z",
+    "end": "2026-04-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:orange"
   }
 ]
 
