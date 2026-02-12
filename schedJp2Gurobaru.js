@@ -143,18 +143,18 @@ jpSched = [
 		"title": "[Mini] Valentine's Day Promise<br>G: 2026-07-07 02:00 Tue ~ 2026-07-21 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-03-04 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "Deca epilogue event",
+		"content": "[Main] Game Development Department Cleanup Mission!",
 		"start": "2026-07-07T02:00",
 		"startJp": "2026-02-18T11:00",
-		"end": "2026-07-14T02:00",
-		"endJp": "2026-02-25T11:00",
+		"end": "2026-07-21T02:00",
+		"endJp": "2026-03-04T11:00",
 		"group": "J Event",
 		"subgroup": "",
 		"style": "color:black;background-color:yellow",
-		"endG": "2026-07-14T02:00",
+		"endG": "2026-07-21T02:00",
 		"startG": "2026-07-07T02:00",
-		"title": "Deca epilogue event<br>G: 2026-07-07 02:00 Tue ~ 2026-07-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 11:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"title": "[Main] Game Development Department Cleanup Mission!<br>G: 2026-07-07 02:00 Tue ~ 2026-07-21 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-03-04 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
 	},{
 		"content": "[ER] Azusa (S), Mashiro (S), Hina (S), Iori (S), Karin (BG), Neru (BG), Mutsuki (NY), Aru (NY), Chise (S), Izuna (S)",
 		"start": "2026-07-14T02:00",
@@ -438,15 +438,15 @@ jpSched = [
 		"content": "[Main Story] Vol.EX: Deca C3 P4",
 		"start": "2026-07-01T10:00",
 		"startJp": "2026-02-12T19:00",
-		"end": "2026-07-09T02:00",
-		"endJp": "2026-02-20T11:00",
+		"end": "2026-07-07T02:00",
+		"endJp": "2026-02-18T11:00",
 		"group": "J Event",
 		"subgroup": "",
 		"style": "color:black;background-color:yellow",
-		"endG": "2026-07-09T02:00",
+		"endG": "2026-07-07T02:00",
 		"startG": "2026-07-01T02:00",
-		"title": "[Main Story] Vol.EX: Deca C3 P4<br>G: 2026-07-01 02:00 Wed ~ 2026-07-09 02:00 Thu 8d (UTC y-m-d)<br>Jp: 2026-02-12 11:00 Thu ~ 2026-02-20 11:00 Fri 8d (JST y-m-d)",
-		"duration": "8d"
+		"title": "[Main Story] Vol.EX: Deca C3 P4<br>G: 2026-07-01 02:00 Wed ~ 2026-07-07 02:00 Tue 6d (UTC y-m-d)<br>Jp: 2026-02-12 11:00 Thu ~ 2026-02-18 11:00 Wed 6d (JST y-m-d)",
+		"duration": "6d"
 	},{
 		"content": "[Main Story] Vol.EX: Deca C3 P3",
 		"start": "2026-06-17T08:00",
