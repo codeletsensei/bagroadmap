@@ -78,6 +78,58 @@ jpSched = [
 		"title": "[TA] Binah Outdoors Yellow (Yellow atk)<br>G: 2026-07-07 02:00 Tue ~ 2026-07-13 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "Koyuki (Pajama) (New)",
+		"start": "2026-07-21T02:00",
+		"startJp": "2026-03-04T11:00",
+		"end": "2026-08-04T02:00",
+		"endJp": "2026-03-18T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-08-04T02:00",
+		"startG": "2026-07-21T02:00",
+		"title": "Koyuki (Pajama) (New)<br>G: 2026-07-21 02:00 Tue ~ 2026-08-04 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-18 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Noa (Pajama)",
+		"start": "2026-07-21T02:00",
+		"startJp": "2026-03-04T11:00",
+		"end": "2026-08-04T02:00",
+		"endJp": "2026-03-18T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-08-04T02:00",
+		"startG": "2026-07-21T02:00",
+		"title": "Noa (Pajama)<br>G: 2026-07-21 02:00 Tue ~ 2026-08-04 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-18 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Yuuka (Pajama)",
+		"start": "2026-07-21T02:00",
+		"startJp": "2026-03-04T11:00",
+		"end": "2026-08-04T02:00",
+		"endJp": "2026-03-18T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-08-04T02:00",
+		"startG": "2026-07-21T02:00",
+		"title": "Yuuka (Pajama)<br>G: 2026-07-21 02:00 Tue ~ 2026-08-04 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-18 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[R] Secret Midnight Party ~ Oni Holds a Bell ~",
+		"start": "2026-07-21T02:00",
+		"startJp": "2026-03-04T11:00",
+		"end": "2026-08-04T02:00",
+		"endJp": "2026-03-18T11:00",
+		"group": "J Event",
+		"subgroup": "",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-08-04T02:00",
+		"startG": "2026-07-21T02:00",
+		"title": "[R] Secret Midnight Party ~ Oni Holds a Bell ~<br>G: 2026-07-21 02:00 Tue ~ 2026-08-04 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-18 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "[Mini] Valentine's Day Promise",
 		"start": "2026-07-07T02:00",
 		"startJp": "2026-02-18T11:00",
@@ -90,6 +142,19 @@ jpSched = [
 		"startG": "2026-07-07T02:00",
 		"title": "[Mini] Valentine's Day Promise<br>G: 2026-07-07 02:00 Tue ~ 2026-07-21 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-03-04 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
+	},{
+		"content": "Deca epilogue event",
+		"start": "2026-07-07T02:00",
+		"startJp": "2026-02-18T11:00",
+		"end": "2026-07-14T02:00",
+		"endJp": "2026-02-25T11:00",
+		"group": "J Event",
+		"subgroup": "",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-07-14T02:00",
+		"startG": "2026-07-07T02:00",
+		"title": "Deca epilogue event<br>G: 2026-07-07 02:00 Tue ~ 2026-07-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	},{
 		"content": "[ER] Azusa (S), Mashiro (S), Hina (S), Iori (S), Karin (BG), Neru (BG), Mutsuki (NY), Aru (NY), Chise (S), Izuna (S)",
 		"start": "2026-07-14T02:00",
