@@ -52,7 +52,7 @@ jpSched = [
 		"title": "[LBA] S24 The Fury Of Set Blue (Red atk)<br>G: 2026-07-02 02:00 Thu ~ 2026-08-03 19:00 Mon 33d (UTC y-m-d)<br>Jp: 2026-02-13 11:00 Fri ~ 2026-03-18 04:00 Wed 33d (JST y-m-d)",
 		"duration": "33d"
 	},{
-		"content": "[GA] ???????",
+		"content": "[GA] Hieronymus Urban (Yellow+Blue TOR / Red INS) (Red atk)",
 		"start": "2026-07-21T02:00",
 		"startJp": "2026-03-04T11:00",
 		"end": "2026-07-27T19:00",
@@ -62,7 +62,7 @@ jpSched = [
 		"style": "color:black;background-color:pink",
 		"endG": "2026-07-27T19:00",
 		"startG": "2026-07-21T02:00",
-		"title": "[GA] ???????<br>G: 2026-07-21 02:00 Tue ~ 2026-07-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-11 04:00 Wed 7d (JST y-m-d)",
+		"title": "[GA] Hieronymus Urban (Yellow+Blue TOR / Red INS) (Red atk)<br>G: 2026-07-21 02:00 Tue ~ 2026-07-27 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-11 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
@@ -167,6 +167,58 @@ jpSched = [
 		"endG": "2026-07-21T02:00",
 		"startG": "2026-07-14T02:00",
 		"title": "[ER] Azusa (S), Mashiro (S), Hina (S), Iori (S), Karin (BG), Neru (BG), Mutsuki (NY), Aru (NY), Chise (S), Izuna (S)<br>G: 2026-07-14 02:00 Tue ~ 2026-07-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Momoi (Maid)",
+		"start": "2026-07-14T02:00",
+		"startJp": "2026-02-25T11:00",
+		"end": "2026-07-21T02:00",
+		"endJp": "2026-03-04T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-21T02:00",
+		"startG": "2026-07-14T02:00",
+		"title": "Momoi (Maid)<br>G: 2026-07-14 02:00 Tue ~ 2026-07-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Arisu (Maid)",
+		"start": "2026-07-14T02:00",
+		"startJp": "2026-02-25T11:00",
+		"end": "2026-07-21T02:00",
+		"endJp": "2026-03-04T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-21T02:00",
+		"startG": "2026-07-14T02:00",
+		"title": "Arisu (Maid)<br>G: 2026-07-14 02:00 Tue ~ 2026-07-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Midori (Maid)",
+		"start": "2026-07-14T02:00",
+		"startJp": "2026-02-25T11:00",
+		"end": "2026-07-21T02:00",
+		"endJp": "2026-03-04T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-21T02:00",
+		"startG": "2026-07-14T02:00",
+		"title": "Midori (Maid)<br>G: 2026-07-14 02:00 Tue ~ 2026-07-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Kayoko (New Year))",
+		"start": "2026-07-14T02:00",
+		"startJp": "2026-02-25T11:00",
+		"end": "2026-07-21T02:00",
+		"endJp": "2026-03-04T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-07-21T02:00",
+		"startG": "2026-07-14T02:00",
+		"title": "Kayoko (New Year))<br>G: 2026-07-14 02:00 Tue ~ 2026-07-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[JFD] Shooting Urban Red. Enemies take more dmg, 3rd nero has higher HP. basic proficiency buff for AR + SR",
