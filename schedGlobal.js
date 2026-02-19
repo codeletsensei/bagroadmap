@@ -1625,6 +1625,27 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Ritsu (New)",
+    "start": "2026-02-24T02:00:00.000Z",
+    "end": "2026-03-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Miyu",
+    "start": "2026-02-24T02:00:00.000Z",
+    "end": "2026-03-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Shigure",
+    "start": "2026-02-24T02:00:00.000Z",
+    "end": "2026-03-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 /// EVENTS
 //
