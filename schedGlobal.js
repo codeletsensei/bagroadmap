@@ -327,6 +327,14 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3367918"
   },{
+    "content": "EOS",
+    "start": "2026-02-24T02:00:00.000Z",
+    "end": "2026-02-24T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
+    "url": ""
+  },{
 //
 /// GASHA
 //
@@ -4764,6 +4772,13 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:orange"
+  },{
+    "content": "[Main Story] V6C2",
+    "start": "2026-02-24T02:00:00.000Z",
+    "end": "2026-03-10T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
   }
 ]
 
