@@ -333,7 +333,7 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
-    "url": ""
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3374459"
   },{
 //
 /// GASHA
@@ -1654,6 +1654,27 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Hina (Swimsuit) [L]",
+    "start": "2026-03-03T02:00:00.000Z",
+    "end": "2026-03-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Iori (Swimsuit) [L]",
+    "start": "2026-03-03T02:00:00.000Z",
+    "end": "2026-03-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
+    "content": "Mimori (Swimsuit)",
+    "start": "2026-03-03T02:00:00.000Z",
+    "end": "2026-03-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey "
+  },{
 //
 /// EVENTS
 //
@@ -2232,6 +2253,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow",
     "url": "https://bluearchive.nexon.com/events/2026/02/wildhunt"
+  },{
+    "content": "Balancing Schale's Books with the General Student Council",
+    "start": "2026-03-03T02:00:00.000Z",
+    "end": "2026-03-10T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
   },{
 //
 /// RAIDS
@@ -2879,6 +2907,13 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
+  },{
+    "content": "[GA] ShiroKuro Indoors (Red+Purple TOR / Blue INS) (Yellow atk)",
+    "start": "2026-03-03T02:00:00.000Z",
+    "end": "2026-03-09T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "GA",
+    "style": "color:black; background-color:pink "
   },{
 //
 /// CAMPAIGNS
@@ -4003,6 +4038,13 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Comm",
+    "start": "2026-03-02T19:00:00.000Z",
+    "end": "2026-03-09T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 /// MISC
 //
@@ -4777,6 +4819,13 @@ confirmed = [
     "start": "2026-02-24T02:00:00.000Z",
     "end": "2026-03-10T02:00:00.000Z",
     "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini Story] And Yet, the Prefectural Council Goes On",
+    "start": "2026-03-03T02:00:00.000Z",
+    "end": "2026-03-10T02:00:00.000Z",
+    "group": "G Other",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   }
