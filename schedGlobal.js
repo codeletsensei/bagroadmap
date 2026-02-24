@@ -2915,6 +2915,20 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:black; background-color:pink "
   },{
+    "content": "[TA] Yesod Urban Purple (Red atk)",
+    "start": "2026-03-17T02:00:00.000Z",
+    "end": "2026-03-23T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "TA",
+    "style": "color:white; background-color:purple"
+  },{
+    "content": "[JFD] Escort Indoors Purple. High DEF enemies. Defeating an enemy debuffs the others. Enemies heal the others when their HP fall every 25%.",
+    "start": "2026-03-24T02:00:00.000Z",
+    "end": "2026-03-30T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "JFD",
+    "style": "color:white; background-color:purple"
+  },{
 //
 /// CAMPAIGNS
 //
