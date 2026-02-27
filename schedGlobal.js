@@ -2268,6 +2268,7 @@ confirmed = [
     "start": "2024-05-07T02:00:00.000Z",
     "end": "2024-05-13T19:00:00.000Z",
     "group": "G Raid",
+    "season": 59,
     "subgroup": "TA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2275,6 +2276,7 @@ confirmed = [
     "start": "2024-05-14T02:00:00.000Z",
     "end": "2024-05-20T19:00:00.000Z",
     "group": "G Raid",
+    "season": 21,
     "subgroup": "JFD",
     "style": "color:white; background-color:blue "
   },{
@@ -2282,6 +2284,7 @@ confirmed = [
     "start": "2024-05-21T02:00:00.000Z",
     "end": "2024-05-27T19:00:00.000Z",
     "group": "G Raid",
+    "season": 4,
     "subgroup": "GA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2289,6 +2292,7 @@ confirmed = [
     "start": "2024-06-04T02:00:00.000Z",
     "end": "2024-06-10T19:00:00.000Z",
     "group": "G Raid",
+    "season": 60,
     "subgroup": "TA",
     "style": "color:white; background-color:purple "
   },{
@@ -2296,6 +2300,7 @@ confirmed = [
     "start": "2024-06-11T02:00:00.000Z",
     "end": "2024-06-17T19:00:00.000Z",
     "group": "G Raid",
+    "season": 22,
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow "
   },{
@@ -2303,6 +2308,7 @@ confirmed = [
     "start": "2024-06-18T02:00:00.000Z",
     "end": "2024-06-24T19:00:00.000Z",
     "group": "G Raid",
+    "season": 5,
     "subgroup": "GA",
     "style": "color:white; background-color:blue "
   },{
@@ -2310,13 +2316,15 @@ confirmed = [
     "start": "2024-07-02T02:00:00.000Z",
     "end": "2024-07-08T19:00:00.000Z",
     "group": "G Raid",
-    "subgroup": "GA",
+    "season": 61,
+    "subgroup": "TA",
     "style": "color:black; background-color:yellow "
   },{
     "content": "[JFD] Assault. Yellow. Fuck Triniggers",
     "start": "2024-07-09T02:00:00.000Z",
     "end": "2024-07-15T19:00:00.000Z",
     "group": "G Raid",
+    "season": 23,
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow "
   },{
@@ -2324,6 +2332,7 @@ confirmed = [
     "start": "2024-07-16T02:00:00.000Z",
     "end": "2024-07-22T19:00:00.000Z",
     "group": "G Raid",
+    "season": 6,
     "subgroup": "GA",
     "style": "color:white; background-color:blue "
   },{
@@ -2331,6 +2340,7 @@ confirmed = [
     "start": "2024-07-30T02:00:00.000Z",
     "end": "2024-08-05T19:00:00.000Z",
     "group": "G Raid",
+    "season": 62,
     "subgroup": "TA",
     "style": "color:white; background-color:red "
   },{
@@ -2338,6 +2348,7 @@ confirmed = [
     "start": "2024-08-06T02:00:00.000Z",
     "end": "2024-08-12T19:00:00.000Z",
     "group": "G Raid",
+    "season": 24,
     "subgroup": "JFD",
     "style": "color:white; background-color:red "
   },{
@@ -2345,6 +2356,7 @@ confirmed = [
     "start": "2024-08-13T02:00:00.000Z",
     "end": "2024-08-19T19:00:00.000Z",
     "group": "G Raid",
+    "season": 7,
     "subgroup": "GA",
     "style": "color:white; background-color:red "
   },{
@@ -2352,6 +2364,7 @@ confirmed = [
     "start": "2024-08-27T02:00:00.000Z",
     "end": "2024-09-02T19:00:00.000Z",
     "group": "G Raid",
+    "season": 63,
     "subgroup": "TA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2359,6 +2372,7 @@ confirmed = [
     "start": "2024-09-03T02:00:00.000Z",
     "end": "2024-09-09T19:00:00.000Z",
     "group": "G Raid",
+    "season": 25,
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow "
   },{
@@ -2366,6 +2380,7 @@ confirmed = [
     "start": "2024-09-10T02:00:00.000Z",
     "end": "2024-09-16T19:00:00.000Z",
     "group": "G Raid",
+    "season": 8,
     "subgroup": "GA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2373,6 +2388,7 @@ confirmed = [
     "start": "2024-10-01T02:00:00.000Z",
     "end": "2024-10-07T19:00:00.000Z",
     "group": "G Raid",
+    "season": 64,
     "subgroup": "TA",
     "style": "color:white; background-color:blue "
   },{
@@ -2387,6 +2403,7 @@ confirmed = [
     "start": "2024-10-08T02:00:00.000Z",
     "end": "2024-10-14T19:00:00.000Z",
     "group": "G Raid",
+    "season": 26,
     "subgroup": "JFD",
     "style": "color:white; background-color:purple "
   },{
@@ -2394,6 +2411,7 @@ confirmed = [
     "start": "2024-10-15T02:00:00.000Z",
     "end": "2024-10-21T19:00:00.000Z",
     "group": "G Raid",
+    "season": 9,
     "subgroup": "GA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2408,13 +2426,15 @@ confirmed = [
     "start": "2024-10-29T02:00:00.000Z",
     "end": "2024-11-04T19:00:00.000Z",
     "group": "G Raid",
-    "subgroup": "GA",
+    "season": 65,
+    "subgroup": "TA",
     "style": "color:black; background-color:yellow "
   },{
     "content": "[JFD] Shooting Yellow Urban. Specials atk up, debuff > dmg up",
     "start": "2024-11-05T02:00:00.000Z",
     "end": "2024-11-11T19:00:00.000Z",
     "group": "G Raid",
+    "season": 27,
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow "
   },{
@@ -2422,6 +2442,7 @@ confirmed = [
     "start": "2024-11-12T02:00:00.000Z",
     "end": "2024-11-18T19:00:00.000Z",
     "group": "G Raid",
+    "season": 10,
     "subgroup": "GA",
     "style": "color:white; background-color:blue "
   },{
@@ -2436,6 +2457,7 @@ confirmed = [
     "start": "2024-11-26T02:00:00.000Z",
     "end": "2024-12-02T19:00:00.000Z",
     "group": "G Raid",
+    "season": 66,
     "subgroup": "TA",
     "style": "color:white; background-color:blue "
   },{
@@ -2443,6 +2465,7 @@ confirmed = [
     "start": "2024-12-03T02:00:00.000Z",
     "end": "2024-12-09T19:00:00.000Z",
     "group": "G Raid",
+    "season": 28,
     "subgroup": "JFD",
     "style": "color:white; background-color:red"
   },{
@@ -2450,6 +2473,7 @@ confirmed = [
     "start": "2024-12-10T02:00:00.000Z",
     "end": "2024-12-16T19:00:00.000Z",
     "group": "G Raid",
+    "season": 11,
     "subgroup": "GA",
     "style": "color:white; background-color:red "
   },{
@@ -2464,6 +2488,7 @@ confirmed = [
     "start": "2024-12-31T02:00:00.000Z",
     "end": "2025-01-06T19:00:00.000Z",
     "group": "G Raid",
+    "season": 67,
     "subgroup": "TA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2471,6 +2496,7 @@ confirmed = [
     "start": "2025-01-07T02:00:00.000Z",
     "end": "2025-01-13T19:00:00.000Z",
     "group": "G Raid",
+    "season": 29,
     "subgroup": "JFD",
     "style": "color:white; background-color:purple "
   },{
@@ -2478,6 +2504,7 @@ confirmed = [
     "start": "2025-01-14T02:00:00.000Z",
     "end": "2025-01-20T19:00:00.000Z",
     "group": "G Raid",
+    "season": 12,
     "subgroup": "GA",
     "style": "color:white; background-color:blue "
   },{
@@ -2492,6 +2519,7 @@ confirmed = [
     "start": "2025-01-28T02:00:00.000Z",
     "end": "2025-02-03T19:00:00.000Z",
     "group": "G Raid",
+    "season": 68,
     "subgroup": "TA",
     "style": "color:white; background-color:blue "
   },{
@@ -2499,6 +2527,7 @@ confirmed = [
     "start": "2025-02-04T02:00:00.000Z",
     "end": "2025-02-10T19:00:00.000Z",
     "group": "G Raid",
+    "season": 30,
     "subgroup": "JFD",
     "style": "color:white; background-color:blue "
   },{
@@ -2506,6 +2535,7 @@ confirmed = [
     "start": "2025-02-11T02:00:00.000Z",
     "end": "2025-02-17T19:00:00.000Z",
     "group": "G Raid",
+    "season": 13,
     "subgroup": "GA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2520,6 +2550,7 @@ confirmed = [
     "start": "2025-02-25T02:00:00.000Z",
     "end": "2025-03-03T19:00:00.000Z",
     "group": "G Raid",
+    "season": 69,
     "subgroup": "TA",
     "style": "color:white; background-color:blue "
   },{
@@ -2527,6 +2558,7 @@ confirmed = [
     "start": "2025-03-04T02:00:00.000Z",
     "end": "2025-03-10T19:00:00.000Z",
     "group": "G Raid",
+    "season": 31,
     "subgroup": "JFD",
     "style": "color:white; background-color:blue "
   },{
@@ -2534,6 +2566,7 @@ confirmed = [
     "start": "2025-03-11T02:00:00.000Z",
     "end": "2025-03-17T19:00:00.000Z",
     "group": "G Raid",
+    "season": 14,
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
   },{
@@ -2541,6 +2574,7 @@ confirmed = [
     "start": "2025-03-25T02:00:00.000Z",
     "end": "2025-03-31T19:00:00.000Z",
     "group": "G Raid",
+    "season": 70,
     "subgroup": "TA",
     "style": "color:white; background-color:red "
   },{
@@ -2548,6 +2582,7 @@ confirmed = [
     "start": "2025-04-01T02:00:00.000Z",
     "end": "2025-04-07T19:00:00.000Z",
     "group": "G Raid",
+    "season": 32,
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow "
   },{
@@ -2562,6 +2597,7 @@ confirmed = [
     "start": "2025-04-08T02:00:00.000Z",
     "end": "2025-04-14T19:00:00.000Z",
     "group": "G Raid",
+    "season": 15,
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
   },{
@@ -2569,6 +2605,7 @@ confirmed = [
     "start": "2025-04-22T02:00:00.000Z",
     "end": "2025-04-28T19:00:00.000Z",
     "group": "G Raid",
+    "season": 71,
     "subgroup": "TA",
     "style": "color:white; background-color:red "
   },{
@@ -2576,6 +2613,7 @@ confirmed = [
     "start": "2025-04-29T02:00:00.000Z",
     "end": "2025-05-05T19:00:00.000Z",
     "group": "G Raid",
+    "season": 33,
     "subgroup": "JFD",
     "style": "color:white; background-color:red "
   },{
@@ -2583,6 +2621,7 @@ confirmed = [
     "start": "2025-05-06T02:00:00.000Z",
     "end": "2025-05-12T19:00:00.000Z",
     "group": "G Raid",
+    "season": 16,
     "subgroup": "GA",
     "style": "color:white; background-color:blue "
   },{
@@ -2604,6 +2643,7 @@ confirmed = [
     "start": "2025-05-20T02:00:00.000Z",
     "end": "2025-05-26T19:00:00.000Z",
     "group": "G Raid",
+    "season": 72,
     "subgroup": "TA",
     "style": "color:white; background-color:red "
   },{
@@ -2611,6 +2651,7 @@ confirmed = [
     "start": "2025-05-27T02:00:00.000Z",
     "end": "2025-06-02T19:00:00.000Z",
     "group": "G Raid",
+    "season": 34,
     "subgroup": "JFD",
     "style": "color:white; background-color:red "
   },{
@@ -2618,7 +2659,8 @@ confirmed = [
     "start": "2025-06-03T02:00:00.000Z",
     "end": "2025-06-09T19:00:00.000Z",
     "group": "G Raid",
-    "subgroup": "JFD",
+    "season": 17,
+    "subgroup": "GA",
     "style": "color:black; background-color:yellow "
   },{
     "content": "[LBA] S10 Chokmah Yellow (Blue atk)",
@@ -2632,6 +2674,7 @@ confirmed = [
     "start": "2025-06-17T02:00:00.000Z",
     "end": "2025-06-23T19:00:00.000Z",
     "group": "G Raid",
+    "season": 73,
     "subgroup": "TA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2639,6 +2682,7 @@ confirmed = [
     "start": "2025-06-24T02:00:00.000Z",
     "end": "2025-06-30T19:00:00.000Z",
     "group": "G Raid",
+    "season": 35,
     "subgroup": "JFD",
     "style": "color:white; background-color:purple "
   },{
@@ -2646,6 +2690,7 @@ confirmed = [
     "start": "2025-07-01T02:00:00.000Z",
     "end": "2025-07-07T19:00:00.000Z",
     "group": "G Raid",
+    "season": 18,
     "subgroup": "GA",
     "style": "color:white; background-color:red "
   },{
@@ -2660,13 +2705,15 @@ confirmed = [
     "start": "2025-07-15T02:00:00.000Z",
     "end": "2025-07-21T19:00:00.000Z",
     "group": "G Raid",
-    "subgroup": "JFD",
+    "season": 74,
+    "subgroup": "TA",
     "style": "color:white; background-color:red "
   },{
     "content": "[JFD] Defense Blue Indoor. Enemies heal when they take dmg. Millennium and Abydos students buff.",
     "start": "2025-07-22T02:00:00.000Z",
     "end": "2025-07-28T19:00:00.000Z",
     "group": "G Raid",
+    "season": 36,
     "subgroup": "JFD",
     "style": "color:white; background-color:blue "
   },{
@@ -2674,6 +2721,7 @@ confirmed = [
     "start": "2025-07-29T02:00:00.000Z",
     "end": "2025-08-04T19:00:00.000Z",
     "group": "G Raid",
+    "season": 19,
     "subgroup": "GA",
     "style": "color:white; background-color:blue "
   },{
@@ -2688,6 +2736,7 @@ confirmed = [
     "start": "2025-08-05T02:00:00.000Z",
     "end": "2025-08-11T19:00:00.000Z",
     "group": "G Raid",
+    "season": 75,
     "subgroup": "TA",
     "style": "color:white; background-color:purple "
   },{
@@ -2695,6 +2744,7 @@ confirmed = [
     "start": "2025-08-12T02:00:00.000Z",
     "end": "2025-08-18T19:00:00.000Z",
     "group": "G Raid",
+    "season": 37,
     "subgroup": "JFD",
     "style": "color:white; background-color:blue "
   },{
@@ -2702,6 +2752,7 @@ confirmed = [
     "start": "2025-08-19T02:00:00.000Z",
     "end": "2025-08-25T19:00:00.000Z",
     "group": "G Raid",
+    "season": 20,
     "subgroup": "GA",
     "style": "color:white; background-color:red "
   },{
@@ -2716,6 +2767,7 @@ confirmed = [
     "start": "2025-09-02T02:00:00.000Z",
     "end": "2025-09-08T19:00:00.000Z",
     "group": "G Raid",
+    "season": 76,
     "subgroup": "TA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2723,6 +2775,7 @@ confirmed = [
     "start": "2025-09-09T02:00:00.000Z",
     "end": "2025-09-15T19:00:00.000Z",
     "group": "G Raid",
+    "season": 38,
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow "
   },{
@@ -2730,6 +2783,7 @@ confirmed = [
     "start": "2025-09-16T02:00:00.000Z",
     "end": "2025-09-22T19:00:00.000Z",
     "group": "G Raid",
+    "season": 21,
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
   },{
@@ -2737,6 +2791,7 @@ confirmed = [
     "start": "2025-09-30T02:00:00.000Z",
     "end": "2025-10-06T19:00:00.000Z",
     "group": "G Raid",
+    "season": 77,
     "subgroup": "TA",
     "style": "color:white; background-color:red "
   },{
@@ -2744,6 +2799,7 @@ confirmed = [
     "start": "2025-10-07T02:00:00.000Z",
     "end": "2025-10-13T19:00:00.000Z",
     "group": "G Raid",
+    "season": 39,
     "subgroup": "JFD",
     "style": "color:white; background-color:red "
   },{
@@ -2758,6 +2814,7 @@ confirmed = [
     "start": "2025-10-14T02:00:00.000Z",
     "end": "2025-10-20T19:00:00.000Z",
     "group": "G Raid",
+    "season": 22,
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
   },{
@@ -2772,6 +2829,7 @@ confirmed = [
     "start": "2025-10-28T02:00:00.000Z",
     "end": "2025-11-03T19:00:00.000Z",
     "group": "G Raid",
+    "season": 78,
     "subgroup": "TA",
     "style": "color:white; background-color:red "
   },{
@@ -2779,6 +2837,7 @@ confirmed = [
     "start": "2025-11-04T02:00:00.000Z",
     "end": "2025-11-10T19:00:00.000Z",
     "group": "G Raid",
+    "season": 40,
     "subgroup": "JFD",
     "style": "color:white; background-color:purple "
   },{
@@ -2786,6 +2845,7 @@ confirmed = [
     "start": "2025-11-11T02:00:00.000Z",
     "end": "2025-11-17T19:00:00.000Z",
     "group": "G Raid",
+    "season": 23,
     "subgroup": "GA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2800,6 +2860,7 @@ confirmed = [
     "start": "2025-11-25T02:00:00.000Z",
     "end": "2025-12-01T19:00:00.000Z",
     "group": "G Raid",
+    "season": 79,
     "subgroup": "TA",
     "style": "color:white; background-color:blue "
   },{
@@ -2807,6 +2868,7 @@ confirmed = [
     "start": "2025-12-02T02:00:00.000Z",
     "end": "2025-12-08T19:00:00.000Z",
     "group": "G Raid",
+    "season": 41,
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow "
   },{
@@ -2814,6 +2876,7 @@ confirmed = [
     "start": "2025-12-09T02:00:00.000Z",
     "end": "2025-12-15T19:00:00.000Z",
     "group": "G Raid",
+    "season": 24,
     "subgroup": "GA",
     "style": "color:white; background-color:blue "
   },{
@@ -2828,6 +2891,7 @@ confirmed = [
     "start": "2025-12-23T02:00:00.000Z",
     "end": "2025-12-29T19:00:00.000Z",
     "group": "G Raid",
+    "season": 80,
     "subgroup": "TA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2842,6 +2906,7 @@ confirmed = [
     "start": "2025-12-30T02:00:00.000Z",
     "end": "2026-01-05T19:00:00.000Z",
     "group": "G Raid",
+    "season": 42,
     "subgroup": "JFD",
     "style": "color:white; background-color:blue "
   },{
@@ -2849,6 +2914,7 @@ confirmed = [
     "start": "2026-01-06T02:00:00.000Z",
     "end": "2026-01-12T19:00:00.000Z",
     "group": "G Raid",
+    "season": 25,
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
   },{
@@ -2863,6 +2929,7 @@ confirmed = [
     "start": "2026-01-20T02:00:00.000Z",
     "end": "2026-01-26T19:00:00.000Z",
     "group": "G Raid",
+    "season": 81,
     "subgroup": "TA",
     "style": "color:white; background-color:blue "
   },{
@@ -2870,6 +2937,7 @@ confirmed = [
     "start": "2026-01-27T02:00:00.000Z",
     "end": "2026-02-02T19:00:00.000Z",
     "group": "G Raid",
+    "season": 43,
     "subgroup": "JFD",
     "style": "color:white; background-color:purple "
   },{
@@ -2884,6 +2952,7 @@ confirmed = [
     "start": "2026-02-03T02:00:00.000Z",
     "end": "2026-02-09T19:00:00.000Z",
     "group": "G Raid",
+    "season": 26,
     "subgroup": "GA",
     "style": "color:white; background-color:purple "
   },{
@@ -2891,6 +2960,7 @@ confirmed = [
     "start": "2026-02-17T02:00:00.000Z",
     "end": "2026-02-23T19:00:00.000Z",
     "group": "G Raid",
+    "season": 82,
     "subgroup": "TA",
     "style": "color:white; background-color:red"
   },{
@@ -2898,6 +2968,7 @@ confirmed = [
     "start": "2026-02-24T02:00:00.000Z",
     "end": "2026-03-02T19:00:00.000Z",
     "group": "G Raid",
+    "season": 44,
     "subgroup": "JFD",
     "style": "color:white; background-color:red"
   },{
@@ -2912,6 +2983,7 @@ confirmed = [
     "start": "2026-03-03T02:00:00.000Z",
     "end": "2026-03-09T19:00:00.000Z",
     "group": "G Raid",
+    "season": 27,
     "subgroup": "GA",
     "style": "color:black; background-color:pink "
   },{
@@ -2919,6 +2991,7 @@ confirmed = [
     "start": "2026-03-17T02:00:00.000Z",
     "end": "2026-03-23T19:00:00.000Z",
     "group": "G Raid",
+    "season": 83,
     "subgroup": "TA",
     "style": "color:white; background-color:purple"
   },{
@@ -2926,6 +2999,7 @@ confirmed = [
     "start": "2026-03-24T02:00:00.000Z",
     "end": "2026-03-30T19:00:00.000Z",
     "group": "G Raid",
+    "season": 45,
     "subgroup": "JFD",
     "style": "color:white; background-color:purple"
   },{
@@ -4854,11 +4928,28 @@ let maintTimes = confirmed.map(i=>{
 }).filter(i=>{return i})
 
 // to make any content starting during maintenence to start after maintenance.
+confirmed.sort((a,b)=>{
+ return Date.parse(a.start) - Date.parse(b.start) 
+})
 confirmed.forEach(i=>{
   if (!i.group.includes("Maint")) {
     let startTime = Date.parse(i.start)
     maintTimes.forEach(maint=>{
       if (startTime >= Date.parse(maint.start) && startTime < Date.parse(maint.end)) i.start = maint.end
     })
+    if (i.group == "G Raid" && i.subgroup == "LBA") {
+      if (i.content.toLowerCase().includes("fury of set")) {
+        if (i.content.split(" (")[0].includes("Blue")) i["season"] = 1
+        else i["season"] = 2
+      }
+      else if (i.content.toLowerCase().includes("chokmah")) {
+        if (i.content.split(" (")[0].includes("Blue")) i["season"] = 3
+        else i["season"] = 4
+      }
+      else if (i.content.toLowerCase().includes("tiphareth")) {
+        if (i.content.split(" (")[0].includes("Purple")) i["season"] = 5
+        else i["season"] = 6
+      }
+    }
   }
 })

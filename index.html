@@ -119,9 +119,9 @@ Do you guys not have pasokons?
 <script type="text/javascript">
 document.getElementById("welcomeBaggot").remove()
 
-let siteVersion = 20260129
+let siteVersion = 20260227
 let currentVersion = localStorage.getItem("version")
-let lastShitAdded = "2026/01/29: Fixed the shifted JP schedule not shifting content before an acceleration period concludes<br>2025/12/15: Clicking on a (future) Maintenance/Stream cell will ask to open its related link, if it's already available and I didn't forget about it.<br>2025/8/8: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
+let lastShitAdded = "2026/02/27: Clicking on a raid should now open its souriki-border page.<br>2026/01/29: Fixed the shifted JP schedule not shifting content before an acceleration period concludes<br>2025/12/15: Clicking on a (future) Maintenance/Stream cell will ask to open its related link, if it's already available and I didn't forget about it.<br>2025/8/8: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
 if ( !currentVersion || Number(currentVersion) < siteVersion ) {
   Swal.fire({
     title: "Changelog",
@@ -421,7 +421,17 @@ function searchThis(searchInput){
 
 async function itemClicked(item){
   let itemId = item.items[0]
-  if (itemId && allData[itemId].url) openExternalLink(allData[itemId].url)
+  if (!itemId) return
+  if (allData[itemId].url) openExternalLink(allData[itemId].url)
+  else if (allData[itemId].season) {
+    let url = "https://www.souriki-border.com/"
+    if (allData[itemId].subgroup == "TA") url += "total_assault/season" 
+    else if (allData[itemId].subgroup == "JFD") url += "joint_firing_drill/season"
+    else if (allData[itemId].subgroup == "GA") url += "decisive_battle/season"
+    else if (allData[itemId].subgroup == "LBA") url += "final-restriction-release"
+    url += "/" + allData[itemId].season
+    openExternalLink(url)
+  }
 }
 
 async function openExternalLink(url){

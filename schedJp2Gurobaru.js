@@ -7148,7 +7148,8 @@ jpSched = [
 		"endG": "2022-08-08T14:59",
 		"startG": "2022-08-02T02:00",
 		"title": "[JFD] Shooting Outdoors Red<br>G: 2022-08-02 02:00 Tue ~ 2022-08-08 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-09 11:00 Wed ~ 2022-03-15 23:59 Tue 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 1
 	},{
 		"content": "[JFD] Defense Outdoors Blue",
 		"start": "2022-08-16T10:00",
@@ -7161,7 +7162,8 @@ jpSched = [
 		"endG": "2022-08-22T18:59",
 		"startG": "2022-08-16T02:00",
 		"title": "[JFD] Defense Outdoors Blue<br>G: 2022-08-16 02:00 Tue ~ 2022-08-22 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-23 11:00 Wed ~ 2022-03-30 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 2
 	},{
 		"content": "[JFD] Assault Outdoors Yellow",
 		"start": "2022-10-04T08:00",
@@ -7174,7 +7176,8 @@ jpSched = [
 		"endG": "2022-10-10T18:59",
 		"startG": "2022-10-04T02:00",
 		"title": "[JFD] Assault Outdoors Yellow<br>G: 2022-10-04 02:00 Tue ~ 2022-10-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-05-11 11:00 Wed ~ 2022-05-18 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 3
 	},{
 		"content": "[JFD] Shooting Indoors Yellow",
 		"start": "2022-11-01T14:00",
@@ -7187,7 +7190,8 @@ jpSched = [
 		"endG": "2022-11-07T18:59",
 		"startG": "2022-11-01T02:00",
 		"title": "[JFD] Shooting Indoors Yellow<br>G: 2022-11-01 02:00 Tue ~ 2022-11-07 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-06-08 11:00 Wed ~ 2022-06-15 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 4
 	},{
 		"content": "[JFD] Defense Indoors Red",
 		"start": "2022-11-29T02:00",
@@ -7200,7 +7204,8 @@ jpSched = [
 		"endG": "2022-12-05T18:59",
 		"startG": "2022-11-29T02:00",
 		"title": "[JFD] Defense Indoors Red<br>G: 2022-11-29 02:00 Tue ~ 2022-12-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-07-06 11:00 Wed ~ 2022-07-13 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 5
 	},{
 		"content": "[JFD] Assault Indoors Blue",
 		"start": "2022-12-27T02:00",
@@ -7213,7 +7218,8 @@ jpSched = [
 		"endG": "2023-01-01T18:59",
 		"startG": "2022-12-27T02:00",
 		"title": "[JFD] Assault Indoors Blue<br>G: 2022-12-27 02:00 Tue ~ 2023-01-01 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2022-08-03 11:00 Wed ~ 2022-08-09 03:59 Tue 6d (JST y-m-d)",
-		"duration": "6d"
+		"duration": "6d",
+		"season": 6
 	},{
 		"content": "[JFD] Shooting Urban Blue",
 		"start": "2023-02-14T08:00",
@@ -7226,7 +7232,8 @@ jpSched = [
 		"endG": "2023-02-20T18:59",
 		"startG": "2023-02-14T02:00",
 		"title": "[JFD] Shooting Urban Blue<br>G: 2023-02-14 02:00 Tue ~ 2023-02-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-09-21 11:00 Wed ~ 2022-09-28 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 7
 	},{
 		"content": "[JFD] Defense Urban Yellow",
 		"start": "2023-03-07T08:00",
@@ -7239,7 +7246,8 @@ jpSched = [
 		"endG": "2023-03-13T18:59",
 		"startG": "2023-03-07T02:00",
 		"title": "[JFD] Defense Urban Yellow<br>G: 2023-03-07 02:00 Tue ~ 2023-03-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-10-12 11:00 Wed ~ 2022-10-19 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 8
 	},{
 		"content": "[JFD] Assault Urban Red",
 		"start": "2023-04-04T02:00",
@@ -7252,7 +7260,8 @@ jpSched = [
 		"endG": "2023-04-10T18:59",
 		"startG": "2023-04-04T02:00",
 		"title": "[JFD] Assault Urban Red<br>G: 2023-04-04 02:00 Tue ~ 2023-04-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-09 11:00 Wed ~ 2022-11-16 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 9
 	},{
 		"content": "[JFD] Shooting Indoors Red",
 		"start": "2023-04-25T10:00",
@@ -7265,7 +7274,8 @@ jpSched = [
 		"endG": "2023-05-01T18:59",
 		"startG": "2023-04-25T02:00",
 		"title": "[JFD] Shooting Indoors Red<br>G: 2023-04-25 02:00 Tue ~ 2023-05-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-30 11:00 Wed ~ 2022-12-07 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 10
 	},{
 		"content": "[JFD] Defense Indoors Blue",
 		"start": "2023-05-23T10:00",
@@ -7278,7 +7288,8 @@ jpSched = [
 		"endG": "2023-05-29T18:59",
 		"startG": "2023-05-23T02:00",
 		"title": "[JFD] Defense Indoors Blue<br>G: 2023-05-23 02:00 Tue ~ 2023-05-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-28 11:00 Wed ~ 2023-01-04 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 11
 	},{
 		"content": "[JFD] Assault Indoors Yellow",
 		"start": "2023-07-11T02:00",
@@ -7291,7 +7302,8 @@ jpSched = [
 		"endG": "2023-07-17T18:59",
 		"startG": "2023-07-11T02:00",
 		"title": "[JFD] Assault Indoors Yellow<br>G: 2023-07-11 02:00 Tue ~ 2023-07-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-02-15 11:00 Wed ~ 2023-02-22 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 12
 	},{
 		"content": "[JFD] Shooting Outdoors Blue",
 		"start": "2023-08-01T10:00",
@@ -7304,7 +7316,8 @@ jpSched = [
 		"endG": "2023-08-07T18:59",
 		"startG": "2023-08-01T02:00",
 		"title": "[JFD] Shooting Outdoors Blue<br>G: 2023-08-01 02:00 Tue ~ 2023-08-07 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-08 11:00 Wed ~ 2023-03-15 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 13
 	},{
 		"content": "[JFD] Defense Outdoors Yellow",
 		"start": "2023-08-29T08:00",
@@ -7317,7 +7330,8 @@ jpSched = [
 		"endG": "2023-09-04T18:59",
 		"startG": "2023-08-29T02:00",
 		"title": "[JFD] Defense Outdoors Yellow<br>G: 2023-08-29 02:00 Tue ~ 2023-09-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-04-05 11:00 Wed ~ 2023-04-12 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 14
 	},{
 		"content": "[JFD] Assault Outdoors Red",
 		"start": "2023-10-03T08:00",
@@ -7330,7 +7344,8 @@ jpSched = [
 		"endG": "2023-10-09T18:59",
 		"startG": "2023-10-03T02:00",
 		"title": "[JFD] Assault Outdoors Red<br>G: 2023-10-03 02:00 Tue ~ 2023-10-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-10 11:00 Wed ~ 2023-05-17 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 15
 	},{
 		"content": "[JFD] Shooting Urban Yellow",
 		"start": "2023-10-31T08:00",
@@ -7343,7 +7358,8 @@ jpSched = [
 		"endG": "2023-11-06T18:59",
 		"startG": "2023-10-31T02:00",
 		"title": "[JFD] Shooting Urban Yellow<br>G: 2023-10-31 02:00 Tue ~ 2023-11-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-07 11:00 Wed ~ 2023-06-14 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 16
 	},{
 		"content": "[JFD] Defense Urban Red",
 		"start": "2023-11-14T10:00",
@@ -7356,7 +7372,8 @@ jpSched = [
 		"endG": "2023-11-20T18:59",
 		"startG": "2023-11-14T02:00",
 		"title": "[JFD] Defense Urban Red<br>G: 2023-11-14 02:00 Tue ~ 2023-11-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-21 11:00 Wed ~ 2023-06-28 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 17
 	},{
 		"content": "[JFD] Assault Urban Blue",
 		"start": "2024-01-02T02:00",
@@ -7369,7 +7386,8 @@ jpSched = [
 		"endG": "2024-01-08T18:59",
 		"startG": "2024-01-02T02:00",
 		"title": "[JFD] Assault Urban Blue<br>G: 2024-01-02 02:00 Tue ~ 2024-01-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-09 11:00 Wed ~ 2023-08-16 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 18
 	},{
 		"content": "[JFD] Shooting Indoors Red",
 		"start": "2024-01-30T08:00",
@@ -7382,7 +7400,8 @@ jpSched = [
 		"endG": "2024-02-05T18:59",
 		"startG": "2024-01-30T02:00",
 		"title": "[JFD] Shooting Indoors Red<br>G: 2024-01-30 02:00 Tue ~ 2024-02-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-09-06 11:00 Wed ~ 2023-09-13 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 19
 	},{
 		"content": "[JFD] Defense Urban Purple",
 		"start": "2024-03-05T08:00",
@@ -7395,7 +7414,8 @@ jpSched = [
 		"endG": "2024-03-11T18:59",
 		"startG": "2024-03-05T02:00",
 		"title": "[JFD] Defense Urban Purple<br>G: 2024-03-05 02:00 Tue ~ 2024-03-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-10-11 11:00 Wed ~ 2023-10-18 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 20
 	},{
 		"content": "[JFD] Escort Outdoors Blue",
 		"start": "2024-04-02T08:00",
@@ -7408,7 +7428,8 @@ jpSched = [
 		"endG": "2024-04-08T18:59",
 		"startG": "2024-04-02T02:00",
 		"title": "[JFD] Escort Outdoors Blue<br>G: 2024-04-02 02:00 Tue ~ 2024-04-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-08 11:00 Wed ~ 2023-11-15 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 21
 	},{
 		"content": "[JFD] Assault Indoors Yellow",
 		"start": "2024-04-30T08:00",
@@ -7421,7 +7442,8 @@ jpSched = [
 		"endG": "2024-05-06T18:59",
 		"startG": "2024-04-30T02:00",
 		"title": "[JFD] Assault Indoors Yellow<br>G: 2024-04-30 02:00 Tue ~ 2024-05-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-12-06 11:00 Wed ~ 2023-12-13 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 22
 	},{
 		"content": "[JFD] Shooting Urban Yellow",
 		"start": "2024-06-04T08:00",
@@ -7434,7 +7456,8 @@ jpSched = [
 		"endG": "2024-06-10T18:59",
 		"startG": "2024-06-04T02:00",
 		"title": "[JFD] Shooting Urban Yellow<br>G: 2024-06-04 02:00 Tue ~ 2024-06-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-10 11:00 Wed ~ 2024-01-17 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 23
 	},{
 		"content": "[JFD] Defense Outdoors Red",
 		"start": "2024-07-02T08:00",
@@ -7447,7 +7470,8 @@ jpSched = [
 		"endG": "2024-07-08T18:59",
 		"startG": "2024-07-02T02:00",
 		"title": "[JFD] Defense Outdoors Red<br>G: 2024-07-02 02:00 Tue ~ 2024-07-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-07 11:00 Wed ~ 2024-02-14 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 24
 	},{
 		"content": "[JFD] Escort Urban Yellow",
 		"start": "2024-07-30T08:00",
@@ -7460,7 +7484,8 @@ jpSched = [
 		"endG": "2024-08-05T18:59",
 		"startG": "2024-07-30T02:00",
 		"title": "[JFD] Escort Urban Yellow<br>G: 2024-07-30 02:00 Tue ~ 2024-08-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-03-06 11:00 Wed ~ 2024-03-13 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 25
 	},{
 		"content": "[JFD] Assault Urban Purple",
 		"start": "2024-09-04T08:00",
@@ -7473,7 +7498,8 @@ jpSched = [
 		"endG": "2024-09-09T18:59",
 		"startG": "2024-09-04T02:00",
 		"title": "[JFD] Assault Urban Purple<br>G: 2024-09-04 02:00 Wed ~ 2024-09-09 18:59 Mon 6d (UTC y-m-d)<br>Jp: 2024-04-11 11:00 Thu ~ 2024-04-17 03:59 Wed 6d (JST y-m-d)",
-		"duration": "6d"
+		"duration": "6d",
+		"season": 26
 	},{
 		"content": "[JFD] Shooting Urban Yellow",
 		"start": "2024-10-01T08:00",
@@ -7486,7 +7512,8 @@ jpSched = [
 		"endG": "2024-10-07T18:59",
 		"startG": "2024-10-01T02:00",
 		"title": "[JFD] Shooting Urban Yellow<br>G: 2024-10-01 02:00 Tue ~ 2024-10-07 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-08 11:00 Wed ~ 2024-05-15 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 27
 	},{
 		"content": "[JFD] Defense Indoors Red",
 		"start": "2024-10-29T08:00",
@@ -7499,7 +7526,8 @@ jpSched = [
 		"endG": "2024-11-04T18:59",
 		"startG": "2024-10-29T02:00",
 		"title": "[JFD] Defense Indoors Red<br>G: 2024-10-29 02:00 Tue ~ 2024-11-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-06-05 11:00 Wed ~ 2024-06-12 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 28
 	},{
 		"content": "[JFD] Escort Urban Purple",
 		"start": "2024-12-03T02:00",
@@ -7512,7 +7540,8 @@ jpSched = [
 		"endG": "2024-12-09T18:59",
 		"startG": "2024-12-03T02:00",
 		"title": "[JFD] Escort Urban Purple<br>G: 2024-12-03 02:00 Tue ~ 2024-12-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-07-10 11:00 Wed ~ 2024-07-17 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 29
 	},{
 		"content": "[JFD] Assault Outdoors Blue",
 		"start": "2024-12-31T08:00",
@@ -7525,7 +7554,8 @@ jpSched = [
 		"endG": "2025-01-06T18:59",
 		"startG": "2024-12-31T02:00",
 		"title": "[JFD] Assault Outdoors Blue<br>G: 2024-12-31 02:00 Tue ~ 2025-01-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-07 11:00 Wed ~ 2024-08-14 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 30
 	},{
 		"content": "[JFD] Shooting Indoors Blue",
 		"start": "2025-01-28T08:00",
@@ -7538,7 +7568,8 @@ jpSched = [
 		"endG": "2025-02-03T18:59",
 		"startG": "2025-01-28T02:00",
 		"title": "[JFD] Shooting Indoors Blue<br>G: 2025-01-28 02:00 Tue ~ 2025-02-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-04 11:00 Wed ~ 2024-09-11 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 31
 	},{
 		"content": "[JFD] Defense Indoors Yellow",
 		"start": "2025-03-05T08:00",
@@ -7551,7 +7582,8 @@ jpSched = [
 		"endG": "2025-03-10T18:59",
 		"startG": "2025-03-05T02:00",
 		"title": "[JFD] Defense Indoors Yellow<br>G: 2025-03-05 02:00 Wed ~ 2025-03-10 18:59 Mon 6d (UTC y-m-d)<br>Jp: 2024-10-10 11:00 Thu ~ 2024-10-16 03:59 Wed 6d (JST y-m-d)",
-		"duration": "6d"
+		"duration": "6d",
+		"season": 32
 	},{
 		"content": "[JFD] Escort Indoors Red",
 		"start": "2025-04-01T08:00",
@@ -7564,7 +7596,8 @@ jpSched = [
 		"endG": "2025-04-07T18:59",
 		"startG": "2025-04-01T02:00",
 		"title": "[JFD] Escort Indoors Red<br>G: 2025-04-01 02:00 Tue ~ 2025-04-07 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-06 11:00 Wed ~ 2024-11-13 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 33
 	},{
 		"content": "[JFD] Assault Urban Red",
 		"start": "2025-04-29T08:00",
@@ -7577,7 +7610,8 @@ jpSched = [
 		"endG": "2025-05-05T18:59",
 		"startG": "2025-04-29T02:00",
 		"title": "[JFD] Assault Urban Red<br>G: 2025-04-29 02:00 Tue ~ 2025-05-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-12-04 11:00 Wed ~ 2024-12-11 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 34
 	},{
 		"content": "[JFD] Shooting Urban Purple",
 		"start": "2025-06-03T08:00",
@@ -7590,7 +7624,8 @@ jpSched = [
 		"endG": "2025-06-09T18:59",
 		"startG": "2025-06-03T02:00",
 		"title": "[JFD] Shooting Urban Purple<br>G: 2025-06-03 02:00 Tue ~ 2025-06-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-01-08 11:00 Wed ~ 2025-01-15 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 35
 	},{
 		"content": "[JFD] Defense Indoors Blue",
 		"start": "2025-06-29T08:00",
@@ -7603,7 +7638,8 @@ jpSched = [
 		"endG": "2025-07-07T18:59",
 		"startG": "2025-06-29T02:00",
 		"title": "[JFD] Defense Indoors Blue<br>G: 2025-06-29 02:00 Sun ~ 2025-07-07 18:59 Mon 9d (UTC y-m-d)<br>Jp: 2025-02-03 11:00 Mon ~ 2025-02-12 03:59 Wed 9d (JST y-m-d)",
-		"duration": "9d"
+		"duration": "9d",
+		"season": 36
 	},{
 		"content": "[JFD] Escort Outdoors Blue",
 		"start": "2025-08-05T08:00",
@@ -7616,7 +7652,8 @@ jpSched = [
 		"endG": "2025-08-11T18:59",
 		"startG": "2025-08-05T02:00",
 		"title": "[JFD] Escort Outdoors Blue<br>G: 2025-08-05 02:00 Tue ~ 2025-08-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-12 11:00 Wed ~ 2025-03-19 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 37
 	},{
 		"content": "[JFD] Assault Urban Yellow",
 		"start": "2025-09-02T08:00",
@@ -7629,7 +7666,8 @@ jpSched = [
 		"endG": "2025-09-08T18:59",
 		"startG": "2025-09-02T02:00",
 		"title": "[JFD] Assault Urban Yellow<br>G: 2025-09-02 02:00 Tue ~ 2025-09-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-09 11:00 Wed ~ 2025-04-16 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 38
 	},{
 		"content": "[JFD] Shooting Urban Red",
 		"start": "2025-09-30T08:00",
@@ -7642,7 +7680,8 @@ jpSched = [
 		"endG": "2025-10-06T18:59",
 		"startG": "2025-09-30T02:00",
 		"title": "[JFD] Shooting Urban Red<br>G: 2025-09-30 02:00 Tue ~ 2025-10-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-07 11:00 Wed ~ 2025-05-14 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 39
 	},{
 		"content": "[JFD] Defense Outdoors Purple",
 		"start": "2025-10-28T08:00",
@@ -7655,7 +7694,8 @@ jpSched = [
 		"endG": "2025-11-03T18:59",
 		"startG": "2025-10-28T02:00",
 		"title": "[JFD] Defense Outdoors Purple<br>G: 2025-10-28 02:00 Tue ~ 2025-11-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-04 11:00 Wed ~ 2025-06-11 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 40
 	},{
 		"content": "[JFD] Escort Indoors Yellow",
 		"start": "2025-12-02T08:00",
@@ -7668,7 +7708,8 @@ jpSched = [
 		"endG": "2025-12-08T18:59",
 		"startG": "2025-12-02T02:00",
 		"title": "[JFD] Escort Indoors Yellow<br>G: 2025-12-02 02:00 Tue ~ 2025-12-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-07-09 11:00 Wed ~ 2025-07-16 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 41
 	},{
 		"content": "[JFD] Assault Indoors Blue",
 		"start": "2025-12-30T08:00",
@@ -7681,7 +7722,8 @@ jpSched = [
 		"endG": "2026-01-05T18:59",
 		"startG": "2025-12-30T02:00",
 		"title": "[JFD] Assault Indoors Blue<br>G: 2025-12-30 02:00 Tue ~ 2026-01-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-08-06 11:00 Wed ~ 2025-08-13 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 42
 	},{
 		"content": "[JFD] Shooting Urban Purple",
 		"start": "2026-01-27T08:00",
@@ -7694,7 +7736,8 @@ jpSched = [
 		"endG": "2026-02-02T18:59",
 		"startG": "2026-01-27T02:00",
 		"title": "[JFD] Shooting Urban Purple<br>G: 2026-01-27 02:00 Tue ~ 2026-02-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-09-03 11:00 Wed ~ 2025-09-10 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 43
 	},{
 		"content": "[JFD] Defense Indoors Red",
 		"start": "2026-02-24T02:00",
@@ -7707,7 +7750,8 @@ jpSched = [
 		"endG": "2026-03-02T18:59",
 		"startG": "2026-02-24T02:00",
 		"title": "[JFD] Defense Indoors Red<br>G: 2026-02-24 02:00 Tue ~ 2026-03-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-08 11:00 Wed ~ 2025-10-15 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 44
 	},{
 		"content": "[JFD] Escort Outdoors Purple",
 		"start": "2026-03-24T08:00",
@@ -7720,7 +7764,8 @@ jpSched = [
 		"endG": "2026-03-30T18:59",
 		"startG": "2026-03-24T02:00",
 		"title": "[JFD] Escort Outdoors Purple<br>G: 2026-03-24 02:00 Tue ~ 2026-03-30 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-11-05 11:00 Wed ~ 2025-11-12 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 45
 	},{
 		"content": "[JFD] Assault Outdoors Red",
 		"start": "2026-04-21T08:00",
@@ -7733,7 +7778,50 @@ jpSched = [
 		"endG": "2026-04-27T18:59",
 		"startG": "2026-04-21T02:00",
 		"title": "[JFD] Assault Outdoors Red<br>G: 2026-04-21 02:00 Tue ~ 2026-04-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-12-03 11:00 Wed ~ 2025-12-10 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 46
+	},{
+		"content": "[JFD] Escort Urban Yellow",
+		"start": "2026-05-26T08:00",
+		"startJp": "2026-01-07T17:00",
+		"end": "2026-06-01T18:59",
+		"endJp": "2026-01-14T03:59",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-06-01T18:59",
+		"startG": "2026-05-26T02:00",
+		"title": "[JFD] Escort Urban Yellow<br>G: 2026-05-26 02:00 Tue ~ 2026-06-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-14 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d",
+		"season": 47
+	},{
+		"content": "[JFD] Defense Indoors Blue",
+		"start": "2026-06-17T08:00",
+		"startJp": "2026-01-29T17:00",
+		"end": "2026-06-23T18:59",
+		"endJp": "2026-02-05T03:59",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:white;background-color:blue",
+		"endG": "2026-06-23T18:59",
+		"startG": "2026-06-17T02:00",
+		"title": "[JFD] Defense Indoors Blue<br>G: 2026-06-17 02:00 Wed ~ 2026-06-23 18:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 03:59 Thu 7d (JST y-m-d)",
+		"duration": "7d",
+		"season": 48
+	},{
+		"content": "[JFD] Shooting Urban Red",
+		"start": "2026-07-14T02:00",
+		"startJp": "2026-02-25T11:00",
+		"end": "2026-07-20T18:59",
+		"endJp": "2026-03-04T03:59",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:white;background-color:red",
+		"endG": "2026-07-20T18:59",
+		"startG": "2026-07-14T02:00",
+		"title": "[JFD] Shooting Urban Red<br>G: 2026-07-14 02:00 Tue ~ 2026-07-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d",
+		"season": 49
 	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
 		"start": "2021-07-10T19:00",
@@ -7743,6 +7831,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "0",
 		"endG": "2021-07-17T14:59",
 		"startG": "2021-07-10T19:00",
 		"title": "[TA] Binah Outdoors Yellow (Yellow atk)<br>G: 2021-07-10 19:00 Sat ~ 2021-07-17 14:59 Sat 7d (UTC y-m-d)<br>Jp: 2021-02-15 04:00 Mon ~ 2021-02-21 23:59 Sun 7d (JST y-m-d)",
@@ -7756,6 +7845,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "0",
 		"endG": "2021-08-10T14:59",
 		"startG": "2021-08-04T05:30",
 		"title": "[TA] Chesed Indoors Yellow (Red atk)<br>G: 2021-08-04 05:30 Wed ~ 2021-08-10 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-03-11 14:30 Thu ~ 2021-03-17 23:59 Wed 7d (JST y-m-d)",
@@ -7769,6 +7859,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "1",
 		"endG": "2021-08-24T14:59",
 		"startG": "2021-08-18T03:00",
 		"title": "[TA] ShiroKuro Urban Blue (Yellow atk)<br>G: 2021-08-18 03:00 Wed ~ 2021-08-24 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-03-25 12:00 Thu ~ 2021-03-31 23:59 Wed 7d (JST y-m-d)",
@@ -7782,6 +7873,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "2",
 		"endG": "2021-09-07T14:59",
 		"startG": "2021-09-01T03:00",
 		"title": "[TA] Binah Urban Yellow (Yellow atk)<br>G: 2021-09-01 03:00 Wed ~ 2021-09-07 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-04-08 12:00 Thu ~ 2021-04-14 23:59 Wed 7d (JST y-m-d)",
@@ -7795,6 +7887,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "3",
 		"endG": "2021-09-28T14:59",
 		"startG": "2021-09-22T03:30",
 		"title": "[TA] Chesed Outdoors Yellow (Red atk)<br>G: 2021-09-22 03:30 Wed ~ 2021-09-28 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-04-29 12:30 Thu ~ 2021-05-05 23:59 Wed 7d (JST y-m-d)",
@@ -7808,6 +7901,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "4",
 		"endG": "2021-10-12T14:59",
 		"startG": "2021-10-06T03:30",
 		"title": "[TA] ShiroKuro Urban Blue (Yellow atk)<br>G: 2021-10-06 03:30 Wed ~ 2021-10-12 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-05-13 12:30 Thu ~ 2021-05-19 23:59 Wed 7d (JST y-m-d)",
@@ -7821,6 +7915,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "5",
 		"endG": "2021-10-26T14:59",
 		"startG": "2021-10-20T03:30",
 		"title": "[TA] Hieronymus Indoors Red (Red atk)<br>G: 2021-10-20 03:30 Wed ~ 2021-10-26 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-05-27 12:30 Thu ~ 2021-06-02 23:59 Wed 7d (JST y-m-d)",
@@ -7834,6 +7929,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "6",
 		"endG": "2021-11-09T14:59",
 		"startG": "2021-11-03T03:30",
 		"title": "[TA] Binah Outdoors Yellow (Yellow atk)<br>G: 2021-11-03 03:30 Wed ~ 2021-11-09 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-06-10 12:30 Thu ~ 2021-06-16 23:59 Wed 7d (JST y-m-d)",
@@ -7847,6 +7943,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "7",
 		"endG": "2021-11-20T14:59",
 		"startG": "2021-11-17T03:30",
 		"title": "[TA] Hieronymus Indoors Red (Red atk)<br>G: 2021-11-17 03:30 Wed ~ 2021-11-20 14:59 Sat 4d (UTC y-m-d)<br>Jp: 2021-06-24 12:30 Thu ~ 2021-06-27 23:59 Sun 4d (JST y-m-d)",
@@ -7860,6 +7957,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "8",
 		"endG": "2021-11-30T14:59",
 		"startG": "2021-11-23T03:30",
 		"title": "[TA] ShiroKuro Indoors Blue (Yellow atk)<br>G: 2021-11-23 03:30 Tue ~ 2021-11-30 14:59 Tue 8d (UTC y-m-d)<br>Jp: 2021-06-30 12:30 Wed ~ 2021-07-07 23:59 Wed 8d (JST y-m-d)",
@@ -7873,6 +7971,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "9",
 		"endG": "2021-12-14T14:59",
 		"startG": "2021-12-08T03:30",
 		"title": "[TA] Chesed Indoors Yellow (Red atk)<br>G: 2021-12-08 03:30 Wed ~ 2021-12-14 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-07-15 12:30 Thu ~ 2021-07-21 23:59 Wed 7d (JST y-m-d)",
@@ -7886,6 +7985,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "10",
 		"endG": "2021-12-28T14:59",
 		"startG": "2021-12-22T03:30",
 		"title": "[TA] Kaiten Outdoors Red (Yellow atk)<br>G: 2021-12-22 03:30 Wed ~ 2021-12-28 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-07-29 12:30 Thu ~ 2021-08-04 23:59 Wed 7d (JST y-m-d)",
@@ -7899,6 +7999,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "11",
 		"endG": "2022-01-11T14:59",
 		"startG": "2022-01-05T03:30",
 		"title": "[TA] ShiroKuro Urban Blue (Yellow atk)<br>G: 2022-01-05 03:30 Wed ~ 2022-01-11 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-08-12 12:30 Thu ~ 2021-08-18 23:59 Wed 7d (JST y-m-d)",
@@ -7912,6 +8013,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "12",
 		"endG": "2022-01-25T14:59",
 		"startG": "2022-01-19T03:30",
 		"title": "[TA] Hieronymus Urban Red (Red atk)<br>G: 2022-01-19 03:30 Wed ~ 2022-01-25 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-08-26 12:30 Thu ~ 2021-09-01 23:59 Wed 7d (JST y-m-d)",
@@ -7925,6 +8027,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "13",
 		"endG": "2022-02-08T14:59",
 		"startG": "2022-02-02T03:30",
 		"title": "[TA] Chesed Outdoors Yellow (Red atk)<br>G: 2022-02-02 03:30 Wed ~ 2022-02-08 14:59 Tue 7d (UTC y-m-d)<br>Jp: 2021-09-09 12:30 Thu ~ 2021-09-15 23:59 Wed 7d (JST y-m-d)",
@@ -7938,6 +8041,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "14",
 		"endG": "2022-02-19T14:59",
 		"startG": "2022-02-16T03:30",
 		"title": "[TA] Hieronymus Urban Red (Red atk)<br>G: 2022-02-16 03:30 Wed ~ 2022-02-19 14:59 Sat 4d (UTC y-m-d)<br>Jp: 2021-09-23 12:30 Thu ~ 2021-09-26 23:59 Sun 4d (JST y-m-d)",
@@ -7951,6 +8055,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "15",
 		"endG": "2022-02-28T14:59",
 		"startG": "2022-02-22T03:30",
 		"title": "[TA] Kaiten Outdoors Red (Yellow atk)<br>G: 2022-02-22 03:30 Tue ~ 2022-02-28 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2021-09-29 12:30 Wed ~ 2021-10-05 23:59 Tue 7d (JST y-m-d)",
@@ -7964,6 +8069,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "16",
 		"endG": "2022-03-14T14:59",
 		"startG": "2022-03-07T03:30",
 		"title": "[TA] ShiroKuro Indoors Blue (Yellow atk)<br>G: 2022-03-07 03:30 Mon ~ 2022-03-14 14:59 Mon 8d (UTC y-m-d)<br>Jp: 2021-10-12 12:30 Tue ~ 2021-10-19 23:59 Tue 8d (JST y-m-d)",
@@ -7977,6 +8083,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "17",
 		"endG": "2022-03-28T14:59",
 		"startG": "2022-03-22T03:30",
 		"title": "[TA] Peroro Indoors Blue (Blue atk)<br>G: 2022-03-22 03:30 Tue ~ 2022-03-28 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2021-10-27 12:30 Wed ~ 2021-11-02 23:59 Tue 7d (JST y-m-d)",
@@ -7990,6 +8097,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "18",
 		"endG": "2022-04-11T14:59",
 		"startG": "2022-04-04T03:30",
 		"title": "[TA] Kaiten Urban Red (Yellow atk)<br>G: 2022-04-04 03:30 Mon ~ 2022-04-11 14:59 Mon 8d (UTC y-m-d)<br>Jp: 2021-11-09 12:30 Tue ~ 2021-11-16 23:59 Tue 8d (JST y-m-d)",
@@ -8003,6 +8111,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "19",
 		"endG": "2022-04-22T14:59",
 		"startG": "2022-04-19T03:30",
 		"title": "[TA] Peroro Indoors Blue (Blue atk)<br>G: 2022-04-19 03:30 Tue ~ 2022-04-22 14:59 Fri 4d (UTC y-m-d)<br>Jp: 2021-11-24 12:30 Wed ~ 2021-11-27 23:59 Sat 4d (JST y-m-d)",
@@ -8016,6 +8125,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "20",
 		"endG": "2022-05-02T14:59",
 		"startG": "2022-04-25T03:30",
 		"title": "[TA] Binah Outdoors Yellow (Yellow atk)<br>G: 2022-04-25 03:30 Mon ~ 2022-05-02 14:59 Mon 8d (UTC y-m-d)<br>Jp: 2021-11-30 12:30 Tue ~ 2021-12-07 23:59 Tue 8d (JST y-m-d)",
@@ -8029,6 +8139,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "21",
 		"endG": "2022-05-16T14:59",
 		"startG": "2022-05-10T03:30",
 		"title": "[TA] Hieronymus Indoors Red (Red atk)<br>G: 2022-05-10 03:30 Tue ~ 2022-05-16 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2021-12-15 12:30 Wed ~ 2021-12-21 23:59 Tue 7d (JST y-m-d)",
@@ -8042,6 +8153,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "22",
 		"endG": "2022-05-30T14:59",
 		"startG": "2022-05-24T03:30",
 		"title": "[TA] Chesed Outdoors Yellow (Red atk)<br>G: 2022-05-24 03:30 Tue ~ 2022-05-30 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2021-12-29 12:30 Wed ~ 2022-01-04 23:59 Tue 7d (JST y-m-d)",
@@ -8055,6 +8167,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "23",
 		"endG": "2022-06-13T14:59",
 		"startG": "2022-06-07T03:30",
 		"title": "[TA] Peroro Outdoors Blue (Blue atk)<br>G: 2022-06-07 03:30 Tue ~ 2022-06-13 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-01-12 12:30 Wed ~ 2022-01-18 23:59 Tue 7d (JST y-m-d)",
@@ -8068,6 +8181,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "24",
 		"endG": "2022-07-04T14:59",
 		"startG": "2022-06-28T03:00",
 		"title": "[TA] Hod Urban Yellow (Blue atk)<br>G: 2022-06-28 03:00 Tue ~ 2022-07-04 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-02-02 12:00 Wed ~ 2022-02-08 23:59 Tue 7d (JST y-m-d)",
@@ -8081,6 +8195,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "25",
 		"endG": "2022-07-18T14:59",
 		"startG": "2022-07-12T03:00",
 		"title": "[TA] ShiroKuro Urban Blue (Yellow atk)<br>G: 2022-07-12 03:00 Tue ~ 2022-07-18 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-02-16 12:00 Wed ~ 2022-02-22 23:59 Tue 7d (JST y-m-d)",
@@ -8094,6 +8209,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "26",
 		"endG": "2022-08-01T14:59",
 		"startG": "2022-07-26T02:00",
 		"title": "[TA] Kaiten Outdoors Red (Yellow atk)<br>G: 2022-07-26 02:00 Tue ~ 2022-08-01 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-02 11:00 Wed ~ 2022-03-08 23:59 Tue 7d (JST y-m-d)",
@@ -8107,6 +8223,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "27",
 		"endG": "2022-08-15T14:59",
 		"startG": "2022-08-09T02:00",
 		"title": "[TA] Binah Urban Yellow (Yellow atk)<br>G: 2022-08-09 02:00 Tue ~ 2022-08-15 14:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-16 11:00 Wed ~ 2022-03-22 23:59 Tue 7d (JST y-m-d)",
@@ -8120,6 +8237,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "28",
 		"endG": "2022-08-29T18:59",
 		"startG": "2022-08-23T02:00",
 		"title": "[TA] Hod Urban Yellow (Blue atk)<br>G: 2022-08-23 02:00 Tue ~ 2022-08-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-03-30 11:00 Wed ~ 2022-04-06 03:59 Wed 7d (JST y-m-d)",
@@ -8133,6 +8251,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "29",
 		"endG": "2022-09-12T18:59",
 		"startG": "2022-09-06T02:00",
 		"title": "[TA] Chesed Indoors Yellow (Red atk)<br>G: 2022-09-06 02:00 Tue ~ 2022-09-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-04-13 11:00 Wed ~ 2022-04-20 03:59 Wed 7d (JST y-m-d)",
@@ -8146,6 +8265,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "30",
 		"endG": "2022-10-03T18:59",
 		"startG": "2022-09-27T02:00",
 		"title": "[TA] Peroro Indoors Blue (Blue atk)<br>G: 2022-09-27 02:00 Tue ~ 2022-10-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-05-04 11:00 Wed ~ 2022-05-11 03:59 Wed 7d (JST y-m-d)",
@@ -8159,6 +8279,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "31",
 		"endG": "2022-10-16T18:59",
 		"startG": "2022-10-11T02:00",
 		"title": "[TA] ShiroKuro Indoors Blue (Yellow atk)<br>G: 2022-10-11 02:00 Tue ~ 2022-10-16 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2022-05-18 11:00 Wed ~ 2022-05-24 03:59 Tue 6d (JST y-m-d)",
@@ -8172,6 +8293,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "32",
 		"endG": "2022-10-31T18:59",
 		"startG": "2022-10-25T02:00",
 		"title": "[TA] Kaiten Urban Red (Yellow atk)<br>G: 2022-10-25 02:00 Tue ~ 2022-10-31 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-06-01 11:00 Wed ~ 2022-06-08 03:59 Wed 7d (JST y-m-d)",
@@ -8185,6 +8307,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "33",
 		"endG": "2022-11-14T18:59",
 		"startG": "2022-11-08T02:00",
 		"title": "[TA] Hieronymus Indoors Red (Red atk)<br>G: 2022-11-08 02:00 Tue ~ 2022-11-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-06-15 11:00 Wed ~ 2022-06-22 03:59 Wed 7d (JST y-m-d)",
@@ -8198,6 +8321,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "34",
 		"endG": "2022-12-12T18:59",
 		"startG": "2022-12-06T02:00",
 		"title": "[TA] Binah Outdoors Yellow (Yellow atk)<br>G: 2022-12-06 02:00 Tue ~ 2022-12-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-07-13 11:00 Wed ~ 2022-07-20 03:59 Wed 7d (JST y-m-d)",
@@ -8211,6 +8335,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "35",
 		"endG": "2022-12-26T18:59",
 		"startG": "2022-12-20T02:00",
 		"title": "[TA] Chesed Outdoors Yellow (Red atk)<br>G: 2022-12-20 02:00 Tue ~ 2022-12-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-07-27 11:00 Wed ~ 2022-08-03 03:59 Wed 7d (JST y-m-d)",
@@ -8224,6 +8349,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "36",
 		"endG": "2023-01-09T18:59",
 		"startG": "2023-01-02T02:00",
 		"title": "[TA] Peroro Outdoors Blue (Blue atk)<br>G: 2023-01-02 02:00 Mon ~ 2023-01-09 18:59 Mon 8d (UTC y-m-d)<br>Jp: 2022-08-09 11:00 Tue ~ 2022-08-17 03:59 Wed 8d (JST y-m-d)",
@@ -8237,6 +8363,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "37",
 		"endG": "2023-01-30T18:59",
 		"startG": "2023-01-24T02:00",
 		"title": "[TA] Hieronymus Urban Red (Red atk)<br>G: 2023-01-24 02:00 Tue ~ 2023-01-30 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-08-31 11:00 Wed ~ 2022-09-07 03:59 Wed 7d (JST y-m-d)",
@@ -8250,6 +8377,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "38",
 		"endG": "2023-02-13T18:59",
 		"startG": "2023-02-07T02:00",
 		"title": "[TA] Hod Urban Yellow (Blue atk)<br>G: 2023-02-07 02:00 Tue ~ 2023-02-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-09-14 11:00 Wed ~ 2022-09-21 03:59 Wed 7d (JST y-m-d)",
@@ -8263,6 +8391,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "39",
 		"endG": "2023-03-06T18:59",
 		"startG": "2023-02-28T02:00",
 		"title": "[TA] ShiroKuro Urban Blue (Yellow atk)<br>G: 2023-02-28 02:00 Tue ~ 2023-03-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-10-05 11:00 Wed ~ 2022-10-12 03:59 Wed 7d (JST y-m-d)",
@@ -8276,6 +8405,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "40",
 		"endG": "2023-03-20T18:59",
 		"startG": "2023-03-14T02:00",
 		"title": "[TA] Kaiten Outdoors Red (Yellow atk)<br>G: 2023-03-14 02:00 Tue ~ 2023-03-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-10-19 11:00 Wed ~ 2022-10-26 03:59 Wed 7d (JST y-m-d)",
@@ -8289,6 +8419,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "41",
 		"endG": "2023-04-03T18:59",
 		"startG": "2023-03-28T02:00",
 		"title": "[TA] Goz Indoors Blue (Red atk)<br>G: 2023-03-28 02:00 Tue ~ 2023-04-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-02 11:00 Wed ~ 2022-11-09 03:59 Wed 7d (JST y-m-d)",
@@ -8302,6 +8433,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "42",
 		"endG": "2023-04-17T18:59",
 		"startG": "2023-04-11T02:00",
 		"title": "[TA] Binah Urban Yellow (Yellow atk)<br>G: 2023-04-11 02:00 Tue ~ 2023-04-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-11-16 11:00 Wed ~ 2022-11-23 03:59 Wed 7d (JST y-m-d)",
@@ -8315,6 +8447,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "43",
 		"endG": "2023-05-08T18:59",
 		"startG": "2023-05-02T02:00",
 		"title": "[TA] Chesed Indoors Yellow (Red atk)<br>G: 2023-05-02 02:00 Tue ~ 2023-05-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-07 11:00 Wed ~ 2022-12-14 03:59 Wed 7d (JST y-m-d)",
@@ -8328,6 +8461,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "44",
 		"endG": "2023-05-22T18:59",
 		"startG": "2023-05-16T02:00",
 		"title": "[TA] Peroro Indoors Blue (Blue atk)<br>G: 2023-05-16 02:00 Tue ~ 2023-05-22 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2022-12-21 11:00 Wed ~ 2022-12-28 03:59 Wed 7d (JST y-m-d)",
@@ -8341,6 +8475,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "45",
 		"endG": "2023-06-05T18:59",
 		"startG": "2023-05-30T02:00",
 		"title": "[TA] Hieronymus Indoors Red (Red atk)<br>G: 2023-05-30 02:00 Tue ~ 2023-06-05 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-01-04 11:00 Wed ~ 2023-01-11 03:59 Wed 7d (JST y-m-d)",
@@ -8354,6 +8489,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "46",
 		"endG": "2023-06-18T18:59",
 		"startG": "2023-06-13T02:00",
 		"title": "[TA] ShiroKuro Indoors Blue (Yellow atk)<br>G: 2023-06-13 02:00 Tue ~ 2023-06-18 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2023-01-18 11:00 Wed ~ 2023-01-24 03:59 Tue 6d (JST y-m-d)",
@@ -8367,6 +8503,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "47",
 		"endG": "2023-07-31T18:59",
 		"startG": "2023-07-25T02:00",
 		"title": "[TA] Hieronymus Urban Red (Red atk)<br>G: 2023-07-25 02:00 Tue ~ 2023-07-31 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-01 11:00 Wed ~ 2023-03-08 03:59 Wed 7d (JST y-m-d)",
@@ -8380,6 +8517,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "48",
 		"endG": "2023-08-14T18:59",
 		"startG": "2023-08-08T02:00",
 		"title": "[TA] Goz Indoors Blue (Red atk)<br>G: 2023-08-08 02:00 Tue ~ 2023-08-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-15 11:00 Wed ~ 2023-03-22 03:59 Wed 7d (JST y-m-d)",
@@ -8393,6 +8531,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "49",
 		"endG": "2023-08-28T18:59",
 		"startG": "2023-08-22T02:00",
 		"title": "[TA] Binah Outdoors Yellow (Yellow atk)<br>G: 2023-08-22 02:00 Tue ~ 2023-08-28 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-03-29 11:00 Wed ~ 2023-04-05 03:59 Wed 7d (JST y-m-d)",
@@ -8406,6 +8545,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "50",
 		"endG": "2023-09-11T18:59",
 		"startG": "2023-09-05T02:00",
 		"title": "[TA] Chesed Indoors Yellow (Red atk)<br>G: 2023-09-05 02:00 Tue ~ 2023-09-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-04-12 11:00 Wed ~ 2023-04-19 03:59 Wed 7d (JST y-m-d)",
@@ -8419,6 +8559,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "51",
 		"endG": "2023-10-02T18:59",
 		"startG": "2023-09-26T02:00",
 		"title": "[TA] ShiroKuro Urban Blue (Yellow atk)<br>G: 2023-09-26 02:00 Tue ~ 2023-10-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-03 11:00 Wed ~ 2023-05-10 03:59 Wed 7d (JST y-m-d)",
@@ -8432,6 +8573,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "52",
 		"endG": "2023-10-16T18:59",
 		"startG": "2023-10-10T02:00",
 		"title": "[TA] Kaiten Outdoors Red (Yellow atk)<br>G: 2023-10-10 02:00 Tue ~ 2023-10-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-17 11:00 Wed ~ 2023-05-24 03:59 Wed 7d (JST y-m-d)",
@@ -8445,6 +8587,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "53",
 		"endG": "2023-10-30T18:59",
 		"startG": "2023-10-24T02:00",
 		"title": "[TA] Peroro Outdoors Blue (Blue atk)<br>G: 2023-10-24 02:00 Tue ~ 2023-10-30 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-05-31 11:00 Wed ~ 2023-06-07 03:59 Wed 7d (JST y-m-d)",
@@ -8458,6 +8601,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "54",
 		"endG": "2023-11-13T18:59",
 		"startG": "2023-11-07T02:00",
 		"title": "[TA] Hod Indoors Yellow (Blue atk)<br>G: 2023-11-07 02:00 Tue ~ 2023-11-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-14 11:00 Wed ~ 2023-06-21 03:59 Wed 7d (JST y-m-d)",
@@ -8471,6 +8615,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "55",
 		"endG": "2023-12-04T18:59",
 		"startG": "2023-11-28T02:00",
 		"title": "[TA] Gregorius Indoors Red (Blue atk)<br>G: 2023-11-28 02:00 Tue ~ 2023-12-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-07-05 11:00 Wed ~ 2023-07-12 03:59 Wed 7d (JST y-m-d)",
@@ -8484,6 +8629,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "56",
 		"endG": "2024-01-01T18:59",
 		"startG": "2023-12-26T02:00",
 		"title": "[TA] Goz Outdoors Blue (Red atk)<br>G: 2023-12-26 02:00 Tue ~ 2024-01-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-02 11:00 Wed ~ 2023-08-09 03:59 Wed 7d (JST y-m-d)",
@@ -8497,6 +8643,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "57",
 		"endG": "2024-01-29T18:59",
 		"startG": "2024-01-23T02:00",
 		"title": "[TA] Hovercraft Outdoors Yellow (Yellow atk)<br>G: 2024-01-23 02:00 Tue ~ 2024-01-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-30 11:00 Wed ~ 2023-09-06 03:59 Wed 7d (JST y-m-d)",
@@ -8510,6 +8657,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "58",
 		"endG": "2024-03-04T18:59",
 		"startG": "2024-02-27T02:00",
 		"title": "[TA] Binah Urban Yellow (Yellow atk)<br>G: 2024-02-27 02:00 Tue ~ 2024-03-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-10-04 11:00 Wed ~ 2023-10-11 03:59 Wed 7d (JST y-m-d)",
@@ -8523,6 +8671,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "59",
 		"endG": "2024-04-01T18:59",
 		"startG": "2024-03-26T02:00",
 		"title": "[TA] Chesed Outdoors Yellow (Red atk)<br>G: 2024-03-26 02:00 Tue ~ 2024-04-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-01 11:00 Wed ~ 2023-11-08 03:59 Wed 7d (JST y-m-d)",
@@ -8536,6 +8685,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:purple",
+		"season": "60",
 		"endG": "2024-04-29T18:59",
 		"startG": "2024-04-23T02:00",
 		"title": "[TA] Kurokage Urban Purple (Blue atk)<br>G: 2024-04-23 02:00 Tue ~ 2024-04-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-29 11:00 Wed ~ 2023-12-06 03:59 Wed 7d (JST y-m-d)",
@@ -8549,6 +8699,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "61",
 		"endG": "2024-06-03T18:59",
 		"startG": "2024-05-28T02:00",
 		"title": "[TA] Hovercraft Outdoors Yellow (Yellow atk)<br>G: 2024-05-28 02:00 Tue ~ 2024-06-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-03 11:00 Wed ~ 2024-01-10 03:59 Wed 7d (JST y-m-d)",
@@ -8562,6 +8713,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "62",
 		"endG": "2024-07-01T18:59",
 		"startG": "2024-06-25T02:00",
 		"title": "[TA] Hieronymus Indoors Red (Red atk)<br>G: 2024-06-25 02:00 Tue ~ 2024-07-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-31 11:00 Wed ~ 2024-02-07 03:59 Wed 7d (JST y-m-d)",
@@ -8575,6 +8727,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "63",
 		"endG": "2024-07-29T18:59",
 		"startG": "2024-07-23T02:00",
 		"title": "[TA] Chesed Indoors Yellow (Red atk)<br>G: 2024-07-23 02:00 Tue ~ 2024-07-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-28 11:00 Wed ~ 2024-03-06 03:59 Wed 7d (JST y-m-d)",
@@ -8588,6 +8741,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "64",
 		"endG": "2024-09-03T18:59",
 		"startG": "2024-08-27T02:00",
 		"title": "[TA] Peroro Indoors Blue (Blue atk)<br>G: 2024-08-27 02:00 Tue ~ 2024-09-03 18:59 Tue 8d (UTC y-m-d)<br>Jp: 2024-04-03 11:00 Wed ~ 2024-04-11 03:59 Thu 8d (JST y-m-d)",
@@ -8601,6 +8755,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "65",
 		"endG": "2024-09-30T18:59",
 		"startG": "2024-09-24T02:00",
 		"title": "[TA] Hod Urban Yellow (Blue atk)<br>G: 2024-09-24 02:00 Tue ~ 2024-09-30 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-01 11:00 Wed ~ 2024-05-08 03:59 Wed 7d (JST y-m-d)",
@@ -8614,6 +8769,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "66",
 		"endG": "2024-10-28T18:59",
 		"startG": "2024-10-22T02:00",
 		"title": "[TA] Goz Indoors Blue (Red atk)<br>G: 2024-10-22 02:00 Tue ~ 2024-10-28 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-29 11:00 Wed ~ 2024-06-05 03:59 Wed 7d (JST y-m-d)",
@@ -8627,6 +8783,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "67",
 		"endG": "2024-12-02T18:59",
 		"startG": "2024-11-26T02:00",
 		"title": "[TA] Binah Outdoors Yellow (Yellow atk)<br>G: 2024-11-26 02:00 Tue ~ 2024-12-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-07-03 11:00 Wed ~ 2024-07-10 03:59 Wed 7d (JST y-m-d)",
@@ -8640,6 +8797,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "68",
 		"endG": "2024-12-30T18:59",
 		"startG": "2024-12-24T02:00",
 		"title": "[TA] Peroro Outdoors Blue (Blue atk)<br>G: 2024-12-24 02:00 Tue ~ 2024-12-30 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-07-31 11:00 Wed ~ 2024-08-07 03:59 Wed 7d (JST y-m-d)",
@@ -8653,6 +8811,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "69",
 		"endG": "2025-01-27T18:59",
 		"startG": "2025-01-21T02:00",
 		"title": "[TA] ShiroKuro Indoors Blue (Yellow atk)<br>G: 2025-01-21 02:00 Tue ~ 2025-01-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-28 11:00 Wed ~ 2024-09-04 03:59 Wed 7d (JST y-m-d)",
@@ -8666,6 +8825,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "70",
 		"endG": "2025-03-04T18:59",
 		"startG": "2025-02-25T02:00",
 		"title": "[TA] Kaiten Urban Red (Yellow atk)<br>G: 2025-02-25 02:00 Tue ~ 2025-03-04 18:59 Tue 8d (UTC y-m-d)<br>Jp: 2024-10-02 11:00 Wed ~ 2024-10-10 03:59 Thu 8d (JST y-m-d)",
@@ -8679,6 +8839,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "71",
 		"endG": "2025-03-31T18:59",
 		"startG": "2025-03-25T02:00",
 		"title": "[TA] Gregorius Indoors Red (Blue atk)<br>G: 2025-03-25 02:00 Tue ~ 2025-03-31 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-10-30 11:00 Wed ~ 2024-11-06 03:59 Wed 7d (JST y-m-d)",
@@ -8692,6 +8853,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "72",
 		"endG": "2025-04-28T18:59",
 		"startG": "2025-04-22T02:00",
 		"title": "[TA] Hieronymus Urban Red (Red atk)<br>G: 2025-04-22 02:00 Tue ~ 2025-04-28 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-27 11:00 Wed ~ 2024-12-04 03:59 Wed 7d (JST y-m-d)",
@@ -8705,6 +8867,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "73",
 		"endG": "2025-06-02T18:59",
 		"startG": "2025-05-27T02:00",
 		"title": "[TA] Hovercraft Outdoors Yellow (Yellow atk)<br>G: 2025-05-27 02:00 Tue ~ 2025-06-02 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-01-01 11:00 Wed ~ 2025-01-08 03:59 Wed 7d (JST y-m-d)",
@@ -8718,6 +8881,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "74",
 		"endG": "2025-06-28T18:59",
 		"startG": "2025-06-22T02:00",
 		"title": "[TA] Geburah Outdoors Red (Blue atk)<br>G: 2025-06-22 02:00 Sun ~ 2025-06-28 18:59 Sat 7d (UTC y-m-d)<br>Jp: 2025-01-27 11:00 Mon ~ 2025-02-03 03:59 Mon 7d (JST y-m-d)",
@@ -8731,6 +8895,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:purple",
+		"season": "75",
 		"endG": "2025-08-04T18:59",
 		"startG": "2025-07-29T02:00",
 		"title": "[TA] Kurokage Urban Purple (Blue atk)<br>G: 2025-07-29 02:00 Tue ~ 2025-08-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-05 11:00 Wed ~ 2025-03-12 03:59 Wed 7d (JST y-m-d)",
@@ -8744,6 +8909,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "76",
 		"endG": "2025-09-01T18:59",
 		"startG": "2025-08-26T02:00",
 		"title": "[TA] Hovercraft Outdoors Yellow (Yellow atk)<br>G: 2025-08-26 02:00 Tue ~ 2025-09-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-02 11:00 Wed ~ 2025-04-09 03:59 Wed 7d (JST y-m-d)",
@@ -8757,6 +8923,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "77",
 		"endG": "2025-09-29T18:59",
 		"startG": "2025-09-23T02:00",
 		"title": "[TA] Gregorius Indoors Red (Blue atk)<br>G: 2025-09-23 02:00 Tue ~ 2025-09-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-04-30 11:00 Wed ~ 2025-05-07 03:59 Wed 7d (JST y-m-d)",
@@ -8770,6 +8937,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "78",
 		"endG": "2025-10-27T18:59",
 		"startG": "2025-10-21T02:00",
 		"title": "[TA] Geburah Outdoors Red (Blue atk)<br>G: 2025-10-21 02:00 Tue ~ 2025-10-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-28 11:00 Wed ~ 2025-06-04 03:59 Wed 7d (JST y-m-d)",
@@ -8783,6 +8951,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "79",
 		"endG": "2025-12-01T18:59",
 		"startG": "2025-11-25T02:00",
 		"title": "[TA] Goz Indoors Blue (Red atk)<br>G: 2025-11-25 02:00 Tue ~ 2025-12-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-07-02 11:00 Wed ~ 2025-07-09 03:59 Wed 7d (JST y-m-d)",
@@ -8796,6 +8965,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "80",
 		"endG": "2025-12-29T18:59",
 		"startG": "2025-12-23T02:00",
 		"title": "[TA] Hod Urban Yellow (Blue atk)<br>G: 2025-12-23 02:00 Tue ~ 2025-12-29 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-07-30 11:00 Wed ~ 2025-08-06 03:59 Wed 7d (JST y-m-d)",
@@ -8809,6 +8979,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:blue",
+		"season": "81",
 		"endG": "2026-01-26T18:59",
 		"startG": "2026-01-20T02:00",
 		"title": "[TA] Peroro Outdoors Blue (Blue atk)<br>G: 2026-01-20 02:00 Tue ~ 2026-01-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-08-27 11:00 Wed ~ 2025-09-03 03:59 Wed 7d (JST y-m-d)",
@@ -8822,6 +8993,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
+		"season": "82",
 		"endG": "2026-02-23T18:59",
 		"startG": "2026-02-17T02:00",
 		"title": "[TA] Geburah Outdoors Red (Blue atk)<br>G: 2026-02-17 02:00 Tue ~ 2026-02-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-01 11:00 Wed ~ 2025-10-08 03:59 Wed 7d (JST y-m-d)",
@@ -8835,6 +9007,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:purple",
+		"season": "83",
 		"endG": "2026-03-23T18:59",
 		"startG": "2026-03-17T02:00",
 		"title": "[TA] Yesod Urban Purple (Red atk)<br>G: 2026-03-17 02:00 Tue ~ 2026-03-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-29 11:00 Wed ~ 2025-11-05 03:59 Wed 7d (JST y-m-d)",
@@ -8848,6 +9021,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:white;background-color:purple",
+		"season": "84",
 		"endG": "2026-04-20T18:59",
 		"startG": "2026-04-14T02:00",
 		"title": "[TA] Kurokage Urban Purple (Blue atk)<br>G: 2026-04-14 02:00 Tue ~ 2026-04-20 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-11-26 11:00 Wed ~ 2025-12-03 03:59 Wed 7d (JST y-m-d)",
@@ -8861,9 +9035,24 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "TA",
 		"style": "color:black;background-color:yellow",
+		"season": "85",
 		"endG": "2026-05-25T18:59",
 		"startG": "2026-05-19T02:00",
 		"title": "[TA] Hovercraft Outdoors Yellow (Yellow atk)<br>G: 2026-05-19 02:00 Tue ~ 2026-05-25 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
+		"start": "2026-07-07T02:00",
+		"startJp": "2026-02-18T11:00",
+		"end": "2026-07-13T18:59",
+		"endJp": "2026-02-25T03:59",
+		"group": "J Raid",
+		"subgroup": "TA",
+		"style": "color:black;background-color:yellow",
+		"season": "86",
+		"endG": "2026-07-13T18:59",
+		"startG": "2026-07-07T02:00",
+		"title": "[TA] Binah Outdoors Yellow (Yellow atk)<br>G: 2026-07-07 02:00 Tue ~ 2026-07-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[GA] Binah Urban (Yellow TOR / Red+Blue INS) (Yellow atk)",
@@ -8874,6 +9063,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:yellow",
+		"season": "0",
 		"endG": "2023-11-27T18:59",
 		"startG": "2023-11-21T02:00",
 		"title": "[GA] Binah Urban (Yellow TOR / Red+Blue INS) (Yellow atk)<br>G: 2023-11-21 02:00 Tue ~ 2023-11-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-28 11:00 Wed ~ 2023-07-05 03:59 Wed 7d (JST y-m-d)",
@@ -8887,6 +9077,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:red",
+		"season": "0",
 		"endG": "2023-12-11T18:59",
 		"startG": "2023-12-05T02:00",
 		"title": "[GA] KAITEN Urban (Red TOR / Yellow+Blue INS) (Yellow atk)<br>G: 2023-12-05 02:00 Tue ~ 2023-12-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-07-12 11:00 Wed ~ 2023-07-19 03:59 Wed 7d (JST y-m-d)",
@@ -8900,6 +9091,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:blue",
+		"season": "1",
 		"endG": "2024-01-15T18:59",
 		"startG": "2024-01-09T02:00",
 		"title": "[GA] Perorodzilla Outdoors (Blue TOR / Red+Yellow INS) (Blue atk)<br>G: 2024-01-09 02:00 Tue ~ 2024-01-15 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-08-16 11:00 Wed ~ 2023-08-23 03:59 Wed 7d (JST y-m-d)",
@@ -8913,6 +9105,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:yellow",
+		"season": "2",
 		"endG": "2024-02-12T18:59",
 		"startG": "2024-02-06T02:00",
 		"title": "[GA] ShiroKuro Indoors (Yellow TOR / Red+Blue INS) (Yellow atk)<br>G: 2024-02-06 02:00 Tue ~ 2024-02-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-09-13 11:00 Wed ~ 2023-09-20 03:59 Wed 7d (JST y-m-d)",
@@ -8926,6 +9119,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:blue",
+		"season": "3",
 		"endG": "2024-03-17T18:59",
 		"startG": "2024-03-11T02:00",
 		"title": "[GA] KAITEN Outdoors (Blue TOR / Red+Yellow INS) (Yellow atk)<br>G: 2024-03-11 02:00 Mon ~ 2024-03-17 18:59 Sun 7d (UTC y-m-d)<br>Jp: 2023-10-17 11:00 Tue ~ 2023-10-24 03:59 Tue 7d (JST y-m-d)",
@@ -8939,6 +9133,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:yellow",
+		"season": "4",
 		"endG": "2024-04-15T18:59",
 		"startG": "2024-04-09T02:00",
 		"title": "[GA] Hod Urban (Yellow TOR / Red+Blue INS) (Blue atk)<br>G: 2024-04-09 02:00 Tue ~ 2024-04-15 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-11-15 11:00 Wed ~ 2023-11-22 03:59 Wed 7d (JST y-m-d)",
@@ -8952,6 +9147,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:yellow",
+		"season": "5",
 		"endG": "2024-05-13T18:59",
 		"startG": "2024-05-07T02:00",
 		"title": "[GA] Goz Outdoors (Yellow TOR / Red+Blue INS) (Red atk)<br>G: 2024-05-07 02:00 Tue ~ 2024-05-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-12-13 11:00 Wed ~ 2023-12-20 03:59 Wed 7d (JST y-m-d)",
@@ -8965,6 +9161,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:red",
+		"season": "6",
 		"endG": "2024-06-17T18:59",
 		"startG": "2024-06-11T02:00",
 		"title": "[GA] ShiroKuro Urban (Red TOR / Yellow+Blue INS) (Yellow atk)<br>G: 2024-06-11 02:00 Tue ~ 2024-06-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-17 11:00 Wed ~ 2024-01-24 03:59 Wed 7d (JST y-m-d)",
@@ -8978,6 +9175,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:red",
+		"season": "7",
 		"endG": "2024-07-15T18:59",
 		"startG": "2024-07-09T02:00",
 		"title": "[GA] KAITEN Outdoors (Red TOR / Yellow+Blue INS) (Yellow atk)<br>G: 2024-07-09 02:00 Tue ~ 2024-07-15 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-02-14 11:00 Wed ~ 2024-02-21 03:59 Wed 7d (JST y-m-d)",
@@ -8991,6 +9189,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:blue",
+		"season": "8",
 		"endG": "2024-08-12T18:59",
 		"startG": "2024-08-06T02:00",
 		"title": "[GA] Binah Urban (Blue TOR / Red+Yellow INS) (Yellow atk)<br>G: 2024-08-06 02:00 Tue ~ 2024-08-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-03-13 11:00 Wed ~ 2024-03-20 03:59 Wed 7d (JST y-m-d)",
@@ -9004,6 +9203,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:yellow",
+		"season": "9",
 		"endG": "2024-09-16T18:59",
 		"startG": "2024-09-10T02:00",
 		"title": "[GA] Gregorius Indoors (Yellow TOR / Red+Blue INS) (Blue atk)<br>G: 2024-09-10 02:00 Tue ~ 2024-09-16 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-04-17 11:00 Wed ~ 2024-04-24 03:59 Wed 7d (JST y-m-d)",
@@ -9017,6 +9217,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:blue",
+		"season": "10",
 		"endG": "2024-10-14T18:59",
 		"startG": "2024-10-08T02:00",
 		"title": "[GA] Hieronymus Urban (Blue TOR / Red+Yellow INS) (Red atk)<br>G: 2024-10-08 02:00 Tue ~ 2024-10-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-05-15 11:00 Wed ~ 2024-05-22 03:59 Wed 7d (JST y-m-d)",
@@ -9030,6 +9231,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:red",
+		"season": "11",
 		"endG": "2024-11-11T18:59",
 		"startG": "2024-11-05T02:00",
 		"title": "[GA] Hovercraft Outdoors (Red TOR / Yellow+Blue INS) (Yellow atk)<br>G: 2024-11-05 02:00 Tue ~ 2024-11-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-06-12 11:00 Wed ~ 2024-06-19 03:59 Wed 7d (JST y-m-d)",
@@ -9043,6 +9245,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:yellow",
+		"season": "12",
 		"endG": "2024-12-14T18:59",
 		"startG": "2024-12-10T02:00",
 		"title": "[GA] ShiroKuro Indoors (Yellow TOR / Red+Purple INS) (Yellow atk)<br>G: 2024-12-10 02:00 Tue ~ 2024-12-14 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2024-07-17 11:00 Wed ~ 2024-07-22 03:59 Mon 5d (JST y-m-d)",
@@ -9056,6 +9259,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:yellow",
+		"season": "13",
 		"endG": "2025-01-13T18:59",
 		"startG": "2025-01-07T02:00",
 		"title": "[GA] Goz Outdoors (Yellow TOR / Red+Blue INS) (Red atk)<br>G: 2025-01-07 02:00 Tue ~ 2025-01-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-08-14 11:00 Wed ~ 2024-08-21 03:59 Wed 7d (JST y-m-d)",
@@ -9069,6 +9273,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:purple",
+		"season": "14",
 		"endG": "2025-02-10T18:59",
 		"startG": "2025-02-04T02:00",
 		"title": "[GA] Perorodzilla Outdoors (Purple TOR / Yellow+Blue INS) (Blue atk)<br>G: 2025-02-04 02:00 Tue ~ 2025-02-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-09-11 11:00 Wed ~ 2024-09-18 03:59 Wed 7d (JST y-m-d)",
@@ -9082,6 +9287,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:purple",
+		"season": "15",
 		"endG": "2025-03-17T18:59",
 		"startG": "2025-03-11T02:00",
 		"title": "[GA] Kurokage Urban (Purple TOR / Red+Blue INS) (Blue atk)<br>G: 2025-03-11 02:00 Tue ~ 2025-03-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-10-16 11:00 Wed ~ 2024-10-23 03:59 Wed 7d (JST y-m-d)",
@@ -9095,6 +9301,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:blue",
+		"season": "16",
 		"endG": "2025-04-14T18:59",
 		"startG": "2025-04-08T02:00",
 		"title": "[GA] Chesed Outdoors (Blue TOR / Yellow+Purple INS) (Red atk)<br>G: 2025-04-08 02:00 Tue ~ 2025-04-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-11-13 11:00 Wed ~ 2024-11-20 03:59 Wed 7d (JST y-m-d)",
@@ -9108,6 +9315,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:yellow",
+		"season": "17",
 		"endG": "2025-05-12T18:59",
 		"startG": "2025-05-06T02:00",
 		"title": "[GA] Binah Urban (Yellow TOR / Blue+Purple INS) (Yellow atk)<br>G: 2025-05-06 02:00 Tue ~ 2025-05-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-12-11 11:00 Wed ~ 2024-12-18 03:59 Wed 7d (JST y-m-d)",
@@ -9121,6 +9329,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:red",
+		"season": "18",
 		"endG": "2025-06-14T18:59",
 		"startG": "2025-06-10T02:00",
 		"title": "[GA] KAITEN Urban (Red TOR / Yellow+Blue INS) (Yellow atk)<br>G: 2025-06-10 02:00 Tue ~ 2025-06-14 18:59 Sat 5d (UTC y-m-d)<br>Jp: 2025-01-15 11:00 Wed ~ 2025-01-20 03:59 Mon 5d (JST y-m-d)",
@@ -9134,6 +9343,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:blue",
+		"season": "19",
 		"endG": "2025-07-14T18:59",
 		"startG": "2025-07-08T02:00",
 		"title": "[GA] Gregorius Indoors (Blue TOR / Red+Yellow INS) (Blue atk)<br>G: 2025-07-08 02:00 Tue ~ 2025-07-14 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-02-12 11:00 Wed ~ 2025-02-19 03:59 Wed 7d (JST y-m-d)",
@@ -9147,6 +9357,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:red",
+		"season": "20",
 		"endG": "2025-08-18T18:59",
 		"startG": "2025-08-12T02:00",
 		"title": "[GA] Binah Outdoors (Red TOR / Blue+Purple INS) (Yellow atk)<br>G: 2025-08-12 02:00 Tue ~ 2025-08-18 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-03-19 11:00 Wed ~ 2025-03-26 03:59 Wed 7d (JST y-m-d)",
@@ -9160,6 +9371,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:purple",
+		"season": "21",
 		"endG": "2025-09-14T18:59",
 		"startG": "2025-09-09T02:00",
 		"title": "[GA] Chesed Indoors (Purple TOR / Red+Yellow INS) (Red atk)<br>G: 2025-09-09 02:00 Tue ~ 2025-09-14 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2025-04-16 11:00 Wed ~ 2025-04-22 03:59 Tue 6d (JST y-m-d)",
@@ -9173,6 +9385,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:purple",
+		"season": "22",
 		"endG": "2025-10-13T18:59",
 		"startG": "2025-10-07T02:00",
 		"title": "[GA] ShiroKuro Indoors (Purple TOR / Yellow+Blue INS) (Yellow atk)<br>G: 2025-10-07 02:00 Tue ~ 2025-10-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-05-14 11:00 Wed ~ 2025-05-21 03:59 Wed 7d (JST y-m-d)",
@@ -9186,6 +9399,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:yellow",
+		"season": "23",
 		"endG": "2025-11-10T18:59",
 		"startG": "2025-11-04T02:00",
 		"title": "[GA] Hieronymus Urban (Yellow TOR / Red+Purple INS) (Red atk)<br>G: 2025-11-04 02:00 Tue ~ 2025-11-10 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-06-11 11:00 Wed ~ 2025-06-18 03:59 Wed 7d (JST y-m-d)",
@@ -9199,6 +9413,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:blue",
+		"season": "24",
 		"endG": "2025-12-14T18:59",
 		"startG": "2025-12-09T02:00",
 		"title": "[GA] KAITEN Outdoors (Blue TOR / Red+Purple INS) (Yellow atk)<br>G: 2025-12-09 02:00 Tue ~ 2025-12-14 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2025-07-16 11:00 Wed ~ 2025-07-22 03:59 Tue 6d (JST y-m-d)",
@@ -9212,6 +9427,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:purple",
+		"season": "25",
 		"endG": "2026-01-12T18:59",
 		"startG": "2026-01-06T02:00",
 		"title": "[GA] Binah Urban (Purple TOR / Red+Blue INS) (Yellow atk)<br>G: 2026-01-06 02:00 Tue ~ 2026-01-12 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-08-13 11:00 Wed ~ 2025-08-20 03:59 Wed 7d (JST y-m-d)",
@@ -9225,6 +9441,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:white;background-color:purple",
+		"season": "26",
 		"endG": "2026-02-09T18:59",
 		"startG": "2026-02-03T02:00",
 		"title": "[GA] Chesed Outdoors (Purple TOR / Red+Yellow INS) (Red atk)<br>G: 2026-02-03 02:00 Tue ~ 2026-02-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-09-10 11:00 Wed ~ 2025-09-17 03:59 Wed 7d (JST y-m-d)",
@@ -9238,6 +9455,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:pink",
+		"season": "27",
 		"endG": "2026-03-09T18:59",
 		"startG": "2026-03-03T02:00",
 		"title": "[GA] ShiroKuro Indoors (Red+Purple TOR / Blue INS) (Yellow atk)<br>G: 2026-03-03 02:00 Tue ~ 2026-03-09 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-10-15 11:00 Wed ~ 2025-10-22 03:59 Wed 7d (JST y-m-d)",
@@ -9251,6 +9469,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:pink",
+		"season": "28",
 		"endG": "2026-04-06T18:59",
 		"startG": "2026-03-31T02:00",
 		"title": "[GA] Hieronymus Urban (Red+Blue TOR / Purple INS) (Red atk)<br>G: 2026-03-31 02:00 Tue ~ 2026-04-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-11-12 11:00 Wed ~ 2025-11-19 03:59 Wed 7d (JST y-m-d)",
@@ -9264,6 +9483,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:pink",
+		"season": "29",
 		"endG": "2026-05-04T18:59",
 		"startG": "2026-04-28T02:00",
 		"title": "[GA] KAITEN Urban (Red+Yellow TOR / Blue INS) (Yellow atk)<br>G: 2026-04-28 02:00 Tue ~ 2026-05-04 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2025-12-10 11:00 Wed ~ 2025-12-17 03:59 Wed 7d (JST y-m-d)",
@@ -9277,6 +9497,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:pink",
+		"season": "30",
 		"endG": "2026-06-07T18:59",
 		"startG": "2026-06-02T02:00",
 		"title": "[GA] ShiroKuro Urban (Blue+Purple TOR / Yellow INS) (Yellow atk)<br>G: 2026-06-02 02:00 Tue ~ 2026-06-07 18:59 Sun 6d (UTC y-m-d)<br>Jp: 2026-01-14 11:00 Wed ~ 2026-01-20 03:59 Tue 6d (JST y-m-d)",
@@ -9290,6 +9511,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "GA",
 		"style": "color:black;background-color:pink",
+		"season": "31",
 		"endG": "2026-07-27T18:59",
 		"startG": "2026-07-21T02:00",
 		"title": "[GA] Hieronymus Urban (Yellow+Blue TOR / Red INS) (Red atk)<br>G: 2026-07-21 02:00 Tue ~ 2026-07-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-11 03:59 Wed 7d (JST y-m-d)",
@@ -9303,6 +9525,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:blue",
+		"season": 1,
 		"endG": "2024-09-16T18:59",
 		"startG": "2024-08-21T02:00",
 		"title": "[LBA] S1 The Fury of Set Blue (Red atk)<br>G: 2024-08-21 02:00 Wed ~ 2024-09-16 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2024-03-28 11:00 Thu ~ 2024-04-24 03:59 Wed 27d (JST y-m-d)",
@@ -9316,6 +9539,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:red",
+		"season": 2,
 		"endG": "2024-10-14T18:59",
 		"startG": "2024-09-18T02:00",
 		"title": "[LBA] S2 The Fury of Set Red (Red atk)<br>G: 2024-09-18 02:00 Wed ~ 2024-10-14 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2024-04-25 11:00 Thu ~ 2024-05-22 03:59 Wed 27d (JST y-m-d)",
@@ -9329,6 +9553,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:blue",
+		"season": 1,
 		"endG": "2024-11-18T18:59",
 		"startG": "2024-10-16T02:00",
 		"title": "[LBA] S3 The Fury of Set Blue (Red atk)<br>G: 2024-10-16 02:00 Wed ~ 2024-11-18 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2024-05-23 11:00 Thu ~ 2024-06-26 03:59 Wed 34d (JST y-m-d)",
@@ -9342,6 +9567,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:red",
+		"season": 2,
 		"endG": "2024-12-14T18:59",
 		"startG": "2024-11-20T02:00",
 		"title": "[LBA] S4 The Fury of Set Red (Red atk)<br>G: 2024-11-20 02:00 Wed ~ 2024-12-14 18:59 Sat 25d (UTC y-m-d)<br>Jp: 2024-06-27 11:00 Thu ~ 2024-07-22 03:59 Mon 25d (JST y-m-d)",
@@ -9355,6 +9581,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:blue",
+		"season": 1,
 		"endG": "2025-01-13T18:59",
 		"startG": "2024-12-16T02:00",
 		"title": "[LBA] S5 The Fury of Set Blue (Red atk)<br>G: 2024-12-16 02:00 Mon ~ 2025-01-13 18:59 Mon 29d (UTC y-m-d)<br>Jp: 2024-07-23 11:00 Tue ~ 2024-08-21 03:59 Wed 29d (JST y-m-d)",
@@ -9368,6 +9595,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:red",
+		"season": 2,
 		"endG": "2025-02-17T18:59",
 		"startG": "2025-01-15T02:00",
 		"title": "[LBA] S6 The Fury of Set Red (Red atk)<br>G: 2025-01-15 02:00 Wed ~ 2025-02-17 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2024-08-22 11:00 Thu ~ 2024-09-25 03:59 Wed 34d (JST y-m-d)",
@@ -9381,6 +9609,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:blue",
+		"season": 1,
 		"endG": "2025-03-17T18:59",
 		"startG": "2025-02-19T02:00",
 		"title": "[LBA] S7 The Fury of Set Blue (Red atk)<br>G: 2025-02-19 02:00 Wed ~ 2025-03-17 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2024-09-26 11:00 Thu ~ 2024-10-23 03:59 Wed 27d (JST y-m-d)",
@@ -9394,6 +9623,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:blue",
+		"season": 3,
 		"endG": "2025-04-14T18:59",
 		"startG": "2025-03-19T02:00",
 		"title": "[LBA] S8 Chokmah Blue (Blue atk)<br>G: 2025-03-19 02:00 Wed ~ 2025-04-14 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2024-10-24 11:00 Thu ~ 2024-11-20 03:59 Wed 27d (JST y-m-d)",
@@ -9407,6 +9637,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:red",
+		"season": 2,
 		"endG": "2025-05-18T18:59",
 		"startG": "2025-04-16T02:00",
 		"title": "[LBA] S9 The Fury of Set Red (Red atk)<br>G: 2025-04-16 02:00 Wed ~ 2025-05-18 18:59 Sun 33d (UTC y-m-d)<br>Jp: 2024-11-21 11:00 Thu ~ 2024-12-24 03:59 Tue 33d (JST y-m-d)",
@@ -9420,6 +9651,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:black;background-color:yellow",
+		"season": 4,
 		"endG": "2025-06-14T18:59",
 		"startG": "2025-05-20T02:00",
 		"title": "[LBA] S10 Chokmah Yellow (Blue atk)<br>G: 2025-05-20 02:00 Tue ~ 2025-06-14 18:59 Sat 26d (UTC y-m-d)<br>Jp: 2024-12-25 11:00 Wed ~ 2025-01-20 03:59 Mon 26d (JST y-m-d)",
@@ -9433,6 +9665,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:blue",
+		"season": 1,
 		"endG": "2025-07-21T18:59",
 		"startG": "2025-06-16T02:00",
 		"title": "[LBA] S11 The Fury of Set Blue (Red atk)<br>G: 2025-06-16 02:00 Mon ~ 2025-07-21 18:59 Mon 36d (UTC y-m-d)<br>Jp: 2025-01-21 11:00 Tue ~ 2025-02-26 03:59 Wed 36d (JST y-m-d)",
@@ -9446,6 +9679,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:blue",
+		"season": 3,
 		"endG": "2025-08-18T18:59",
 		"startG": "2025-07-23T02:00",
 		"title": "[LBA] S12 Chokmah Blue (Blue atk)<br>G: 2025-07-23 02:00 Wed ~ 2025-08-18 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2025-02-27 11:00 Thu ~ 2025-03-26 03:59 Wed 27d (JST y-m-d)",
@@ -9459,6 +9693,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:red",
+		"season": 2,
 		"endG": "2025-09-14T18:59",
 		"startG": "2025-08-20T02:00",
 		"title": "[LBA] S13 The Fury of Set Red (Red atk)<br>G: 2025-08-20 02:00 Wed ~ 2025-09-14 18:59 Sun 26d (UTC y-m-d)<br>Jp: 2025-03-27 11:00 Thu ~ 2025-04-22 03:59 Tue 26d (JST y-m-d)",
@@ -9472,6 +9707,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:purple",
+		"season": 5,
 		"endG": "2025-10-13T18:59",
 		"startG": "2025-09-16T02:00",
 		"title": "[LBA] S14 Tiphareth Purple (Yellow atk)<br>G: 2025-09-16 02:00 Tue ~ 2025-10-13 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2025-04-23 11:00 Wed ~ 2025-05-21 03:59 Wed 28d (JST y-m-d)",
@@ -9485,6 +9721,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:black;background-color:yellow",
+		"season": 4,
 		"endG": "2025-11-17T18:59",
 		"startG": "2025-10-15T02:00",
 		"title": "[LBA] S15 Chokmah Yellow (Blue atk)<br>G: 2025-10-15 02:00 Wed ~ 2025-11-17 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2025-05-22 11:00 Thu ~ 2025-06-25 03:59 Wed 34d (JST y-m-d)",
@@ -9498,6 +9735,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:red",
+		"season": 2,
 		"endG": "2025-12-14T18:59",
 		"startG": "2025-11-19T02:00",
 		"title": "[LBA] S16 The Fury of Set Red (Red atk)<br>G: 2025-11-19 02:00 Wed ~ 2025-12-14 18:59 Sun 26d (UTC y-m-d)<br>Jp: 2025-06-26 11:00 Thu ~ 2025-07-22 03:59 Tue 26d (JST y-m-d)",
@@ -9511,6 +9749,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:black;background-color:yellow",
+		"season": 6,
 		"endG": "2026-01-12T18:59",
 		"startG": "2025-12-16T02:00",
 		"title": "[LBA] S17 Tiphareth Yellow (Yellow atk)<br>G: 2025-12-16 02:00 Tue ~ 2026-01-12 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2025-07-23 11:00 Wed ~ 2025-08-20 03:59 Wed 28d (JST y-m-d)",
@@ -9524,6 +9763,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:blue",
+		"season": 3,
 		"endG": "2026-02-16T18:59",
 		"startG": "2026-01-14T02:00",
 		"title": "[LBA] S18 Chokmah Blue (Blue atk)<br>G: 2026-01-14 02:00 Wed ~ 2026-02-16 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2025-08-21 11:00 Thu ~ 2025-09-24 03:59 Wed 34d (JST y-m-d)",
@@ -9537,6 +9777,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:blue",
+		"season": 1,
 		"endG": "2026-03-09T18:59",
 		"startG": "2026-02-11T02:00",
 		"title": "[LBA] S19 The Fury of Set Blue (Red atk)<br>G: 2026-02-11 02:00 Wed ~ 2026-03-09 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2025-09-25 11:00 Thu ~ 2025-10-22 03:59 Wed 27d (JST y-m-d)",
@@ -9550,6 +9791,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:purple",
+		"season": 5,
 		"endG": "2026-04-06T18:59",
 		"startG": "2026-03-11T02:00",
 		"title": "[LBA] S20 Tiphareth Purple (Yellow atk)<br>G: 2026-03-11 02:00 Wed ~ 2026-04-06 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2025-10-23 11:00 Thu ~ 2025-11-19 03:59 Wed 27d (JST y-m-d)",
@@ -9563,6 +9805,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:black;background-color:yellow",
+		"season": 4,
 		"endG": "2026-05-11T18:59",
 		"startG": "2026-04-08T02:00",
 		"title": "[LBA] S21 Chokmah Yellow (Blue atk)<br>G: 2026-04-08 02:00 Wed ~ 2026-05-11 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2025-11-20 11:00 Thu ~ 2025-12-24 03:59 Wed 34d (JST y-m-d)",
@@ -9576,6 +9819,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:red",
+		"season": 2,
 		"endG": "2026-06-07T18:59",
 		"startG": "2026-05-13T02:00",
 		"title": "[LBA] S22 The Fury of Set Red (Red atk)<br>G: 2026-05-13 02:00 Wed ~ 2026-06-07 18:59 Sun 26d (UTC y-m-d)<br>Jp: 2025-12-25 11:00 Thu ~ 2026-01-20 03:59 Tue 26d (JST y-m-d)",
@@ -9589,10 +9833,25 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "LBA",
 		"style": "color:white;background-color:blue",
+		"season": 3,
 		"endG": "2026-06-30T18:59",
 		"startG": "2026-06-09T02:00",
 		"title": "[LBA] S23 Chokmah Blue (Blue atk)<br>G: 2026-06-09 02:00 Tue ~ 2026-06-30 18:59 Tue 22d (UTC y-m-d)<br>Jp: 2026-01-21 11:00 Wed ~ 2026-02-12 03:59 Thu 22d (JST y-m-d)",
 		"duration": "22d"
+	},{
+		"content": "[LBA] S24 The Fury of Set Blue (Red atk)",
+		"start": "2026-07-02T02:00",
+		"startJp": "2026-02-13T11:00",
+		"end": "2026-08-03T18:59",
+		"endJp": "2026-03-18T03:59",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:white;background-color:blue",
+		"season": 1,
+		"endG": "2026-08-03T18:59",
+		"startG": "2026-07-02T02:00",
+		"title": "[LBA] S24 The Fury of Set Blue (Red atk)<br>G: 2026-07-02 02:00 Thu ~ 2026-08-03 18:59 Mon 33d (UTC y-m-d)<br>Jp: 2026-02-13 11:00 Fri ~ 2026-03-18 03:59 Wed 33d (JST y-m-d)",
+		"duration": "33d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Momoi_(Maid)\" title=\"Momoi (Maid)\">Momoi (Maid)</a>",
 		"start": "2026-07-14T02:00",
@@ -19828,7 +20087,8 @@ jpSched = [
 		"endG": "2026-06-01T19:00",
 		"startG": "2026-05-26T02:00",
 		"title": "[JFD] Escort Yellow Urban. Healing AG deals DMG to enemies. Yellow dmg buff depending on AG's current HP. Enemies with high HP and ATK.<br>G: 2026-05-26 02:00 Tue ~ 2026-06-01 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-14 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 50
 	},{
 		"content": "[JFD] Defense Blue Indoors. Blue AR+RG buff. Dead Enemies deal AOE dmg to other enemies. High HP enemies.",
 		"start": "2026-06-17T08:00",
@@ -19841,7 +20101,8 @@ jpSched = [
 		"endG": "2026-06-23T19:00",
 		"startG": "2026-06-17T02:00",
 		"title": "[JFD] Defense Blue Indoors. Blue AR+RG buff. Dead Enemies deal AOE dmg to other enemies. High HP enemies.<br>G: 2026-06-17 02:00 Wed ~ 2026-06-23 19:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-01-29 11:00 Thu ~ 2026-02-05 04:00 Thu 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 51
 	},{
 		"content": "[JFD] Shooting Urban Red. Enemies take more dmg, 3rd nero has higher HP. basic proficiency buff for AR + SR",
 		"start": "2026-07-14T02:00",
@@ -19854,7 +20115,8 @@ jpSched = [
 		"endG": "2026-07-20T19:00",
 		"startG": "2026-07-14T02:00",
 		"title": "[JFD] Shooting Urban Red. Enemies take more dmg, 3rd nero has higher HP. basic proficiency buff for AR + SR<br>G: 2026-07-14 02:00 Tue ~ 2026-07-20 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"duration": "7d",
+		"season": 52
 	},{
 		"content": "[ER] Azusa (S), Mashiro (S), Hina (S), Iori (S), Karin (BG), Neru (BG), Mutsuki (NY), Aru (NY), Chise (S), Izuna (S)",
 		"start": "2026-07-14T02:00",
@@ -19869,7 +20131,7 @@ jpSched = [
 		"title": "[ER] Azusa (S), Mashiro (S), Hina (S), Iori (S), Karin (BG), Neru (BG), Mutsuki (NY), Aru (NY), Chise (S), Izuna (S)<br>G: 2026-07-14 02:00 Tue ~ 2026-07-21 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[JFD] Assault Outdoor Blue. Enemies take additional dmg when hit. Scarecrow has a healing debuff, cleanse it = cost recovery buff.",
+		"content": "[JFD] Assault Outdoor Blue. Enemies take additional dmg when hit. Scarecrow has a healing debuff, cleanse it = recovery buff.",
 		"start": "2026-08-18T02:00",
 		"startJp": "2026-04-01T11:00",
 		"end": "2026-08-24T19:00",
@@ -19879,8 +20141,9 @@ jpSched = [
 		"style": "color:white;background-color:blue",
 		"endG": "2026-08-24T19:00",
 		"startG": "2026-08-18T02:00",
-		"title": "[JFD] Assault Outdoor Blue. Enemies take additional dmg when hit. Scarecrow has a healing debuff, cleanse it = cost recovery buff.<br>G: 2026-08-18 02:00 Tue ~ 2026-08-24 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-04-01 11:00 Wed ~ 2026-04-08 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
+		"title": "[JFD] Assault Outdoor Blue. Enemies take additional dmg when hit. Scarecrow has a healing debuff, cleanse it = recovery buff.<br>G: 2026-08-18 02:00 Tue ~ 2026-08-24 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-04-01 11:00 Wed ~ 2026-04-08 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d",
+		"season": 53
 	},{
 		"content": "Yuuka (Pajama)",
 		"start": "2026-07-21T02:00",
@@ -19921,19 +20184,6 @@ jpSched = [
 		"title": "Koyuki (Pajama) (New)<br>G: 2026-07-21 02:00 Tue ~ 2026-08-04 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-18 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
-		"start": "2026-07-07T02:00",
-		"startJp": "2026-02-18T11:00",
-		"end": "2026-07-13T19:00",
-		"endJp": "2026-02-25T04:00",
-		"group": "J Raid",
-		"subgroup": "TA",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-07-13T19:00",
-		"startG": "2026-07-07T02:00",
-		"title": "[TA] Binah Outdoors Yellow (Yellow atk)<br>G: 2026-07-07 02:00 Tue ~ 2026-07-13 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
 		"content": "[QoL] Revised some of Binah's skills.",
 		"start": "2026-07-07T02:00",
 		"startJp": "2026-02-18T11:00",
@@ -19946,19 +20196,6 @@ jpSched = [
 		"startG": "2026-07-07T02:00",
 		"title": "[QoL] Revised some of Binah's skills.<br>G: 2026-07-07 02:00 Tue ~ 2026-07-13 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
-	},{
-		"content": "[LBA] S24 The Fury Of Set Blue (Red atk)",
-		"start": "2026-07-02T02:00",
-		"startJp": "2026-02-13T11:00",
-		"end": "2026-08-03T19:00",
-		"endJp": "2026-03-18T04:00",
-		"group": "J Raid",
-		"subgroup": "LBA",
-		"style": "color:white;background-color:blue",
-		"endG": "2026-08-03T19:00",
-		"startG": "2026-07-02T02:00",
-		"title": "[LBA] S24 The Fury Of Set Blue (Red atk)<br>G: 2026-07-02 02:00 Thu ~ 2026-08-03 19:00 Mon 33d (UTC y-m-d)<br>Jp: 2026-02-13 11:00 Fri ~ 2026-03-18 04:00 Wed 33d (JST y-m-d)",
-		"duration": "33d"
 	},{
 		"content": "[Crafting] Furniture: Trinityfes2 students (except BP furniture)",
 		"start": "2026-07-02T02:00",
