@@ -2396,6 +2396,7 @@ confirmed = [
     "start": "2024-09-25T02:00:00.000Z",
     "end": "2024-10-21T19:00:00.000Z",
     "group": "G Raid",
+    "season": 1,
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
@@ -2419,6 +2420,7 @@ confirmed = [
     "start": "2024-10-23T02:00:00.000Z",
     "end": "2024-11-18T19:00:00.000Z",
     "group": "G Raid",
+    "season": 2,
     "subgroup": "LBA",
     "style": "color:white; background-color:red "
   },{
@@ -2450,6 +2452,7 @@ confirmed = [
     "start": "2024-11-20T02:00:00.000Z",
     "end": "2024-12-23T19:00:00.000Z",
     "group": "G Raid",
+    "season": 3,
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
@@ -2481,6 +2484,7 @@ confirmed = [
     "start": "2024-12-25T02:00:00.000Z",
     "end": "2025-01-22T19:00:00.000Z",
     "group": "G Raid",
+    "season": 4,
     "subgroup": "TA",
     "style": "color:black; background-color:red "
   },{
@@ -2512,6 +2516,7 @@ confirmed = [
     "start": "2025-01-24T02:00:00.000Z",
     "end": "2025-02-18T19:00:00.000Z",
     "group": "G Raid",
+    "season": 5,
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
@@ -2543,6 +2548,7 @@ confirmed = [
     "start": "2025-02-19T02:00:00.000Z",
     "end": "2025-03-18T19:00:00.000Z",
     "group": "G Raid",
+    "season": 6,
     "subgroup": "LBA",
     "style": "color:white; background-color:red "
   },{
@@ -2590,6 +2596,7 @@ confirmed = [
     "start": "2025-03-19T02:00:00.000Z",
     "end": "2025-04-14T19:00:00.000Z",
     "group": "G Raid",
+    "season": 7,
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
@@ -2629,6 +2636,7 @@ confirmed = [
     "start": "2025-04-16T02:00:00.000Z",
     "end": "2025-05-12T19:00:00.000Z",
     "group": "G Raid",
+    "season": 8,
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
@@ -2636,6 +2644,7 @@ confirmed = [
     "start": "2025-05-14T02:00:00.000Z",
     "end": "2025-06-09T19:00:00.000Z",
     "group": "G Raid",
+    "season": 9,
     "subgroup": "LBA",
     "style": "color:white; background-color:red "
   },{
@@ -2667,6 +2676,7 @@ confirmed = [
     "start": "2025-06-11T02:00:00.000Z",
     "end": "2025-07-07T19:00:00.000Z",
     "group": "G Raid",
+    "season": 10,
     "subgroup": "TA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2698,6 +2708,7 @@ confirmed = [
     "start": "2025-07-09T02:00:00.000Z",
     "end": "2025-08-04T19:00:00.000Z",
     "group": "G Raid",
+    "season": 11,
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
@@ -2729,6 +2740,7 @@ confirmed = [
     "start": "2025-08-06T02:00:00.000Z",
     "end": "2025-08-25T19:00:00.000Z",
     "group": "G Raid",
+    "season": 12,
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
@@ -2760,6 +2772,7 @@ confirmed = [
     "start": "2025-08-27T02:00:00.000Z",
     "end": "2025-09-22T19:00:00.000Z",
     "group": "G Raid",
+    "season": 13,
     "subgroup": "LBA",
     "style": "color:white; background-color:red "
   },{
@@ -2807,6 +2820,7 @@ confirmed = [
     "start": "2025-09-24T02:00:00.000Z",
     "end": "2025-10-20T19:00:00.000Z",
     "group": "G Raid",
+    "season": 14,
     "subgroup": "LBA",
     "style": "color:white; background-color:purple "
   },{
@@ -2822,6 +2836,7 @@ confirmed = [
     "start": "2025-10-22T02:00:00.000Z",
     "end": "2025-11-17T19:00:00.000Z",
     "group": "G Raid",
+    "season": 15,
     "subgroup": "LBA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2853,6 +2868,7 @@ confirmed = [
     "start": "2025-11-19T02:00:00.000Z",
     "end": "2025-12-15T19:00:00.000Z",
     "group": "G Raid",
+    "season": 16,
     "subgroup": "LBA",
     "style": "color:white; background-color:red"
   },{
@@ -2922,6 +2938,7 @@ confirmed = [
     "start": "2025-12-17T02:00:00.000Z",
     "end": "2026-01-12T19:00:00.000Z",
     "group": "G Raid",
+    "season": 17,
     "subgroup": "LBA",
     "style": "color:black; background-color:yellow "
   },{
@@ -2945,6 +2962,7 @@ confirmed = [
     "start": "2026-01-14T02:00:00.000Z",
     "end": "2026-02-09T19:00:00.000Z",
     "group": "G Raid",
+    "season": 18,
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
@@ -2976,6 +2994,7 @@ confirmed = [
     "start": "2026-02-11T02:00:00.000Z",
     "end": "2026-03-09T19:00:00.000Z",
     "group": "G Raid",
+    "season": 19,
     "subgroup": "LBA",
     "style": "color:white; background-color:blue "
   },{
@@ -4969,29 +4988,12 @@ let maintTimes = confirmed.map(i=>{
   }
 }).filter(i=>{return i})
 
-// to make any content starting during maintenence to start after maintenance.
-confirmed.sort((a,b)=>{
- return Date.parse(a.start) - Date.parse(b.start) 
-})
 confirmed.forEach(i=>{
   if (!i.group.includes("Maint")) {
+    // to make any content starting during maintenence to start after maintenance.
     let startTime = Date.parse(i.start)
     maintTimes.forEach(maint=>{
       if (startTime >= Date.parse(maint.start) && startTime < Date.parse(maint.end)) i.start = maint.end
     })
-    if (i.group == "G Raid" && i.subgroup == "LBA") {
-      if (i.content.toLowerCase().includes("fury of set")) {
-        if (i.content.split(" (")[0].includes("Blue")) i["season"] = 1
-        else i["season"] = 2
-      }
-      else if (i.content.toLowerCase().includes("chokmah")) {
-        if (i.content.split(" (")[0].includes("Blue")) i["season"] = 3
-        else i["season"] = 4
-      }
-      else if (i.content.toLowerCase().includes("tiphareth")) {
-        if (i.content.split(" (")[0].includes("Purple")) i["season"] = 5
-        else i["season"] = 6
-      }
-    }
   }
 })

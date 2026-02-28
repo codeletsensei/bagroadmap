@@ -422,13 +422,32 @@ function searchThis(searchInput){
 async function itemClicked(item){
   let itemId = item.items[0]
   if (!itemId) return
-  if (allData[itemId].url) openExternalLink(allData[itemId].url)
+  if (allData[itemId].url) {
+    openExternalLink(allData[itemId].url)
+    return
+  }
   else if (allData[itemId].season) {
     let url = "https://www.souriki-border.com/"
     if (allData[itemId].subgroup == "TA") url += "total_assault/season" 
     else if (allData[itemId].subgroup == "JFD") url += "joint_firing_drill/season"
     else if (allData[itemId].subgroup == "GA") url += "decisive_battle/season"
-    else if (allData[itemId].subgroup == "LBA") url += "final-restriction-release"
+    else if (allData[itemId].subgroup == "LBA") {
+      url += "final-restriction-release"
+      if (allData[itemId].content.toLowerCase().includes("fury of set")) {
+        if (allData[itemId].content.split(" (")[0].includes("Blue")) url += "/1"
+        else url += "/2"
+      }
+      else if (allData[itemId].content.toLowerCase().includes("chokmah")) {
+        if (allData[itemId].content.split(" (")[0].includes("Blue")) url += "/3"
+        else url += "/4"
+      }
+      else if (allData[itemId].content.toLowerCase().includes("tiphareth")) {
+        if (allData[itemId].content.split(" (")[0].includes("Purple")) url += "/5"
+        else url += "/6"
+      }
+      openExternalLink(url)
+      return
+    }
     url += "/" + allData[itemId].season
     openExternalLink(url)
   }
