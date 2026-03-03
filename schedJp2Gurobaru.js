@@ -1210,8 +1210,8 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Secret_Midnight_Party_~_Oni_Holds_a_Bell_~/Rerun\" title=\"Secret Midnight Party ~ Oni Holds a Bell ~/Rerun\">Secret Midnight Party ~ Oni Holds a Bell ~</a>",
-		"start": "2026-07-21T02:00",
-		"startJp": "2026-03-04T11:00",
+		"start": "2026-07-21T08:00",
+		"startJp": "2026-03-04T17:00",
 		"end": "2026-08-04T02:00",
 		"endJp": "2026-03-18T11:00",
 		"group": "J Event",
@@ -9449,8 +9449,8 @@ jpSched = [
 		"duration": "6d"
 	},{
 		"content": "[GA] Hieronymus Urban (Yellow+Blue TOR / Red INS) (Red atk)",
-		"start": "2026-07-21T02:00",
-		"startJp": "2026-03-04T11:00",
+		"start": "2026-07-21T08:00",
+		"startJp": "2026-03-04T17:00",
 		"end": "2026-07-27T18:59",
 		"endJp": "2026-03-11T03:59",
 		"group": "J Raid",
@@ -10057,19 +10057,6 @@ jpSched = [
 		"startG": "2026-05-26T02:00",
 		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Mari_(Sportswear)\" title=\"Mari (Sportswear)\">Mari (Sportswear)</a> [L]<br>G: 2026-05-26 02:00 Tue ~ 2026-06-08 01:59 Mon 13d (UTC y-m-d)<br>Jp: 2026-01-07 11:00 Wed ~ 2026-01-20 10:59 Tue 13d (JST y-m-d)",
 		"duration": "13d"
-	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo\" title=\"Wakamo\">Wakamo</a> [L Bluefes]",
-		"start": "2026-05-19T02:00",
-		"startJp": "2025-12-31T11:00",
-		"end": "2026-05-26T01:59",
-		"endJp": "2026-01-07T10:59",
-		"group": "J Gacha",
-		"subgroup": "Gacha",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-05-26T01:59",
-		"startG": "2026-05-19T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Wakamo\" title=\"Wakamo\">Wakamo</a> [L Bluefes]<br>G: 2026-05-19 02:00 Tue ~ 2026-05-26 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 10:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsukuyo_(Dress)\" title=\"Tsukuyo (Dress)\">Tsukuyo (Dress)</a> (New)",
 		"start": "2026-05-12T10:00",
@@ -19584,7 +19571,7 @@ jpSched = [
 		"title": "[RR] Wakamo, Mika, Hoshino (Swimsuit) [L Bluefes]<br>G: 2026-05-19 02:00 Tue ~ 2026-05-26 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool) that don't carry over. Extra 100 elephs only for 1 student on that run. Can use normal tickets.",
+		"content": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool) that don't carry over.> Extra 100 elephs only for 1 student on that run. Can use normal tickets.",
 		"start": "2026-05-19T02:00",
 		"startJp": "2025-12-31T11:00",
 		"end": "2026-05-26T02:00",
@@ -19594,7 +19581,7 @@ jpSched = [
 		"style": "color:black;background-color:white",
 		"endG": "2026-05-26T02:00",
 		"startG": "2026-05-19T02:00",
-		"title": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool) that don't carry over. Extra 100 elephs only for 1 student on that run. Can use normal tickets.<br>G: 2026-05-19 02:00 Tue ~ 2026-05-26 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
+		"title": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points (+ pool) that don't carry over.<br> Extra 100 elephs only for 1 student on that run. Can use normal tickets.<br>G: 2026-05-19 02:00 Tue ~ 2026-05-26 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-31 11:00 Wed ~ 2026-01-07 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[Mission] Area 30 (Cherino + Momiji + Cafe2 Lv10)",
@@ -20090,9 +20077,23 @@ jpSched = [
 		"duration": "7d",
 		"season": 50
 	},{
-		"content": "Yuuka (Pajama)",
+		"content": "EOS",
 		"start": "2026-07-21T02:00",
 		"startJp": "2026-03-04T11:00",
+		"end": "2026-07-21T08:00",
+		"endJp": "2026-03-04T17:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/639",
+		"endG": "2026-07-21T08:00",
+		"startG": "2026-07-21T02:00",
+		"title": "EOS<br>G: 2026-07-21 02:00 Tue ~ 2026-07-21 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-04 17:00 Wed 6h (JST y-m-d)",
+		"duration": "6h"
+	},{
+		"content": "Yuuka (Pajama)",
+		"start": "2026-07-21T08:00",
+		"startJp": "2026-03-04T17:00",
 		"end": "2026-08-04T02:00",
 		"endJp": "2026-03-18T11:00",
 		"group": "J Gacha",
@@ -20104,8 +20105,8 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "Noa (Pajama)",
-		"start": "2026-07-21T02:00",
-		"startJp": "2026-03-04T11:00",
+		"start": "2026-07-21T08:00",
+		"startJp": "2026-03-04T17:00",
 		"end": "2026-08-04T02:00",
 		"endJp": "2026-03-18T11:00",
 		"group": "J Gacha",
@@ -20117,8 +20118,8 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "Koyuki (Pajama) (New)",
-		"start": "2026-07-21T02:00",
-		"startJp": "2026-03-04T11:00",
+		"start": "2026-07-21T08:00",
+		"startJp": "2026-03-04T17:00",
 		"end": "2026-08-04T02:00",
 		"endJp": "2026-03-18T11:00",
 		"group": "J Gacha",
