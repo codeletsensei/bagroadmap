@@ -335,6 +335,13 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3374459"
   },{
+    "content": "EOS",
+    "start": "2026-03-10T02:00:00.000Z",
+    "end": "2026-03-10T08:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
+  },{
 //
 /// GASHA
 //
@@ -1675,6 +1682,27 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
+    "content": "Rabu [Welfare] (New)",
+    "start": "2026-03-10T02:00:00.000Z",
+    "end": "2026-03-24T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Reisa (Magical) [L] (New)",
+    "start": "2026-03-10T02:00:00.000Z",
+    "end": "2026-03-24T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Suzumi (Magical) [L] (New)",
+    "start": "2026-03-10T02:00:00.000Z",
+    "end": "2026-03-24T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -2257,6 +2285,13 @@ confirmed = [
     "content": "Balancing Schale's Books with the General Student Council",
     "start": "2026-03-03T02:00:00.000Z",
     "end": "2026-03-10T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] Magical Girl Heavy Caliber: Era's Ambitions and the Qualifications of Justice",
+    "start": "2026-03-10T02:00:00.000Z",
+    "end": "2026-03-24T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
@@ -3020,6 +3055,14 @@ confirmed = [
     "group": "G Raid",
     "season": 45,
     "subgroup": "JFD",
+    "style": "color:white; background-color:purple"
+  },{
+    "content": "[LBA] S20 Tiphareth Purple (Yellow atk)",
+    "start": "2026-03-11T02:00:00.000Z",
+    "end": "2026-04-06T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 20,
+    "subgroup": "LBA",
     "style": "color:white; background-color:purple"
   },{
 //
