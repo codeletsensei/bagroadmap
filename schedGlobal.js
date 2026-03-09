@@ -1703,6 +1703,90 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Marina (Qipao)",
+    "start": "2026-03-24T02:00:00.000Z",
+    "end": "2026-03-31T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Tomoe (Qipao)",
+    "start": "2026-03-24T02:00:00.000Z",
+    "end": "2026-03-31T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Saki",
+    "start": "2026-03-24T02:00:00.000Z",
+    "end": "2026-03-31T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Moe",
+    "start": "2026-03-24T02:00:00.000Z",
+    "end": "2026-03-31T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Miyako",
+    "start": "2026-03-24T02:00:00.000Z",
+    "end": "2026-03-31T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Subaru (New)",
+    "start": "2026-03-31T02:00:00.000Z",
+    "end": "2026-04-07T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Ui (Swimsuit) [L]",
+    "start": "2026-03-31T02:00:00.000Z",
+    "end": "2026-04-07T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Hinata (Swimsuit) [L]",
+    "start": "2026-03-31T02:00:00.000Z",
+    "end": "2026-04-07T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Reisa",
+    "start": "2026-03-31T02:00:00.000Z",
+    "end": "2026-04-07T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Mine",
+    "start": "2026-03-31T02:00:00.000Z",
+    "end": "2026-04-07T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Takane (New)",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Yakumo (New)",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -1972,7 +2056,7 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[R] In Search of Hidden Ruins Trinity Extracurriculars [R]",
+    "content": "[R] In Search of Hidden Ruins ~Trinity Extracurriculars~",
     "start": "2025-03-04T02:00:00.000Z",
     "end": "2025-03-18T02:00:00.000Z",
     "group": "G Event",
@@ -2292,6 +2376,35 @@ confirmed = [
     "content": "[Main] Magical Girl Heavy Caliber: Era's Ambitions and the Qualifications of Justice",
     "start": "2026-03-10T02:00:00.000Z",
     "end": "2026-03-24T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[My Office] Magical Girl Heavy Caliber Special Event Story Completion Task",
+    "start": "2026-03-10T02:00:00.000Z",
+    "end": "2026-03-24T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow",
+    "url": "https://bluearchive.nexon.com/user/myoffice"
+  },{
+    "content": "[R] Radiant Moon, Raucous Dream",
+    "start": "2026-03-24T02:00:00.000Z",
+    "end": "2026-03-31T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Perm] In Search of Hidden Ruins ~Trinity Extracurriculars~",
+    "start": "2026-03-31T02:00:00.000Z",
+    "end": "2026-04-07T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] Winter Skies Renaissance ～On Wholesome Cultural Exchange～",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
@@ -5020,6 +5133,20 @@ confirmed = [
     "group": "G Other",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main Story] V6C3",
+    "start": "2026-03-31T02:00:00.000Z",
+    "end": "2026-04-14T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Crafting] Furniture: Rei, Sumire (Part-Timer), Saori (Dress), Jukebox",
+    "start": "2026-03-10T02:00:00.000Z",
+    "end": "2026-03-24T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
   }
 ]
 
