@@ -264,8 +264,9 @@ async function createHoardingPlan(ev){
     didOpen: () => {
       Swal.getInput().step = "0.5"
       Swal.getInput().min = "0.5"
-      Swal.getInput().placeholder = "6"
+      Swal.getInput().placeholder = "hours"
       Swal.getInput().value = "6"
+      Swal.getInput().select()
     },
     inputValidator: (value) => {
       if (!value) {
@@ -328,9 +329,10 @@ async function createHoardingPlan(ev){
   plotStuff(region, apHoardingItems[region])
   Swal.fire({
     title: "AP hoarding timeline created in the Maintenance Lane.",
+    text: "Hover over them to see the details.",
     toast: true,
     showConfirmButton: false,
-    timer: 4000,
+    timer: 5000,
     position: "top"
   })
 
