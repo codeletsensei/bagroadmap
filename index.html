@@ -119,9 +119,9 @@ Do you guys not have pasokons?
 <script type="text/javascript">
 document.getElementById("welcomeBaggot").remove()
 
-let siteVersion = 20260227
+let siteVersion = 20260310
 let currentVersion = localStorage.getItem("version")
-let lastShitAdded = "2026/02/27: Clicking on a raid should now open its souriki-border page.<br>2026/01/29: Fixed the shifted JP schedule not shifting content before an acceleration period concludes<br>2025/12/15: Clicking on a (future) Maintenance/Stream cell will ask to open its related link, if it's already available and I didn't forget about it.<br>2025/8/8: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
+let lastShitAdded = "2026/03/10: Right-clicking a cell lets you create a basic <b>AP hoarding timeline</b> for that cell (preferably a maintenance/event/welfare cell). Right clicking it deletes it.<br>2026/02/27: Clicking on a raid should now open its <b>souriki-border</b> page.<br>2026/01/29: Fixed the shifted JP schedule not shifting content before an acceleration period concludes<br>2025/12/15: Clicking on a (future) Maintenance/Stream cell will ask to open its related link, if it's already available and I didn't forget about it.<br>2025/8/8: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
 if ( !currentVersion || Number(currentVersion) < siteVersion ) {
   Swal.fire({
     title: "Changelog",
@@ -142,7 +142,7 @@ confirmed.forEach(a=>{
   a.title += "(UTC y-m-d)"
 })
 
-function getItems(){
+function getItems(extraItemsArray){
   allData = []
   if ([1,2,3].includes(region)) allData = JSON.parse(JSON.stringify(jpSched))
   if ([0,2].includes(region)) JSON.parse(JSON.stringify(confirmed)).forEach(a=>allData.push(a))
@@ -157,6 +157,9 @@ function getItems(){
       style: "color:black; font-weight:bold; background-color:black;height:5px "
     })
   }
+
+  if (extraItemsArray) allData = allData.concat(extraItemsArray)
+
   allData.forEach((a,i)=>{
     a.id = i
     if (!a.end) a.type = "point"
@@ -171,7 +174,7 @@ function getItems(){
   }
   else if (region == 3) {
     allData.forEach(a=>{
-      a.start = a.startJp
+      if (a.startJp) a.start = a.startJp
       if (a.endJp) a.end = a.endJp
     })
     timeline.setCurrentTime(new Date().toLocaleString("ja", { timeZone: "Asia/Tokyo"}))
@@ -206,6 +209,106 @@ function getGroup(){
   return groups
 }
 
+apHoardingItems = []
+async function createHoardingPlan(ev){
+  ev.event.preventDefault()
+  if (!ev.group || !ev.item) return
+  let item = allData[ev.item]
+  if (item.subgroup == "hoarding") {
+    response = await Swal.fire({
+      title: "Remove this AP hoarding plan?",
+      showCancelButton: true,
+    });
+    if (response.isConfirmed) {
+      apHoardingItems = apHoardingItems.filter(i=>{
+        return i.hoardGroup != item.hoardGroup
+      })
+      apHoardingItems.filter(i=>{ return i })
+      plotStuff(region, apHoardingItems)
+    }
+    return
+  }
+  let group = ev.group.substr(0,2) + "Maint"
+  let apDumpingTime = item.end
+  if (!item.group.includes("Maint")) apDumpingTime = item.start
+
+  let buffer = await Swal.fire({
+    input: "number",
+    title: "HOARDING AP?\nInput your buffer time:",
+    html: `How many <b style="color:lightblue">hours</b> do you think maintenance could get extendend, and you will finally dump all of your hoarded AP?
+    <br>Don't forget to add to your buffer the time your BA takes to update, you'll need to buy pakejis, roll, buy more pakejis, roll, post your exploits on /bag/, and clear missions!
+    <br><br>According to what you've clicked, maintenence is supposed to end at
+    <p style='text-align:center;font-size:25px;color:lightblue'>` + new Date(apDumpingTime).toISOString().slice(0,-8).replace("T"," ") + " UTC</p>" +
+    "<br>If that's not the correct ending time, add the maintenance duration to your input (usually +3~6 hours on Global, and +6~8 on JP)",
+    footer: "This very basic AP hoarding plan was done in a hurry, without much thought, sot it might be missing something.<br>Change your plans if you've got the AP pakeji up.",
+    showCancelButton: true,
+    didOpen: () => {
+      Swal.getInput().step = "0.5"
+      Swal.getInput().min = "0.5"
+      Swal.getInput().placeholder = "6"
+      Swal.getInput().value = "6"
+    },
+    inputValidator: (value) => {
+      if (!value) {
+        return "Invalid Value...";
+      }
+    }
+  });
+  if (!buffer || !buffer.isConfirmed) return
+  apDumpingTime = Date.parse(apDumpingTime) + parseFloat(buffer.value)*60*60*1000
+  let hoardGroup = Date.now()
+  let newEntries = [
+    {
+      content: "D",
+      start: new Date(apDumpingTime).toLocaleString("ja"),
+      end: new Date(apDumpingTime + 24*60*60*1000).toLocaleString("ja"),
+      title: "Dump all your hoarded AP<br>before they expire at " + new Date(apDumpingTime + 24*60*60*1000).toLocaleString("ja") + " (Y/M/D H:M UTC).<br><br>Patch's already up, good luck!<br>",
+      subgroup: "hoarding",
+      hoardGroup: hoardGroup,
+      style: "color:black; background-color:lightgreen",
+      group: group
+    },
+    {
+      content: "2",
+      title: "Collect your daily APs (Cafe + Dailies + PVP).<br><br>You should have 999 on hand and<br>at least (739 + 150 + 90*4 + the 10 club/pajekis) in your mail<br><br>To collect your Cafe AP, and PVP/Raid rewards,<br>you need to have 998 on hand.<br>You can lose 1 AP by forfeiting a normal mission.<br><br>Right-click to delete this hoarding plan.",
+      subgroup: "hoarding",
+      hoardGroup: hoardGroup,
+      style: "color:black; background-color:lightgreen",
+      group: group
+    },
+    {
+      content: "1",
+      title: "Collect your PVP and raid rewards, if possible.<br>Then collect your cafe AP first, then your dailies to have 999 or 998 AP on hand.<br><br>To collect PVP/raid rewards, you need 998 AP at most.<br>If you're doing them after reaching 999 AP,<br>you can lose 1 AP by forfeiting a normal mission.<br><br>If you didn't save your daily task APs, then buy AP with PVP coins to reach 999,<br>but don't go further than 999 or 998.<br><br>If needed, use any extra AP that gets sent to the mail on hards<br>or whatever after the daily reset,and before the mail AP expires.<br><br>Right-click to delete this hoarding plan.",
+      subgroup: "hoarding",
+      hoardGroup: hoardGroup,
+      style: "color:black; background-color:lightgreen",
+      group: group
+    },
+    {
+      content: "0",
+      title: "Collect your cafe AP and use most of your AP<br>in a way that it'll natural regen to the cap (240)<br>by this time tomorrow (we regen 10AP per hour).<br><br>You should save a daily task AP from or 2 until then too, just in case.<br><br>This is to set up so you'll have 999 AP on hand after 24h from now.<br>(739 cafe AP, 240- normal regen, 30+ from the dailies) <br><br>Right-click to delete this hoarding plan.",
+      subgroup: "hoarding",
+      hoardGroup: hoardGroup,
+      style: "color:black; background-color:lightgreen",
+      group: group
+    },
+  ]
+
+  for (let i = 1 ; i < 4 ; i++) {
+    newEntries[i].end = new Date(apDumpingTime).toLocaleString("ja")
+    apDumpingTime -= 24*60*60*1000
+    newEntries[i].start = new Date(apDumpingTime).toLocaleString("ja")
+    newEntries[i].title = "At around " + newEntries[i].start.slice(0,-3) + " (Y/M/D H:M UTC):<br>" + newEntries[i].title + "<br>"
+  }
+  
+  newEntries.forEach(i=>{
+  })
+
+  apHoardingItems = apHoardingItems.concat(newEntries)
+  plotStuff(region, apHoardingItems)
+
+}
+
 function run(){
   document.documentElement.style.setProperty("--gridColor","#f5f5f5")
   changeDarkMode()
@@ -214,6 +317,7 @@ function run(){
   var container = document.getElementById('visualization');
   timeline = new vis.Timeline(container);
   timeline.on("click",endSearch)
+  timeline.on("contextmenu", createHoardingPlan)
   timeline.on("select",itemClicked)
   plotStuff(region)
   //adding buttons to scroll back to today or the end of the graph
@@ -252,8 +356,8 @@ function run(){
   container.appendChild(btnEOS2)
 }
 
-function plotStuff(groups,items){
-  var items = getItems()
+function plotStuff(groups, extraItemsArray){
+  var items = getItems(extraItemsArray)
   var groups = getGroup()
   var options = {
     groupHeightMode: "fitItems",
@@ -422,11 +526,11 @@ function searchThis(searchInput){
 async function itemClicked(item){
   let itemId = item.items[0]
   if (!itemId) return
-  if (allData[itemId].url) {
+  if (allData[itemId]?.url) {
     openExternalLink(allData[itemId].url)
     return
   }
-  else if (allData[itemId].season) {
+  else if (allData[itemId]?.season) {
     let url = "https://www.souriki-border.com/"
     if (allData[itemId].subgroup == "TA") url += "total_assault/season" 
     else if (allData[itemId].subgroup == "JFD") url += "joint_firing_drill/season"
