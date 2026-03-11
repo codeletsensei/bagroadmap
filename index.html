@@ -497,14 +497,13 @@ function plotStuff(groups, extraItemsArray){
       let couponDate = Date.parse(d)
       if (couponDate > Date.now()) return d
     })
-    if (Object.keys(couponDates).length > 0) couponsDiv.innerHTML = "Global Coupons: "
+    if (Object.keys(couponDates).length > 0) couponsDiv.innerHTML = "Global Coupons (UTC): "
     else return
     Object.keys(couponDates).forEach((date,i)=>{
       date = couponDates[date]
       coupons[date][coupons[date].length -1] = "<b style='color:lightblue'>" + coupons[date][coupons[date].length -1] + "</b>"
-      console.log(coupons[date])
       couponCodes = coupons[date].join(", ")
-      couponsDiv.innerHTML += "Until <b style='color:red'>" + date + "</b> UTC: " + couponCodes
+      couponsDiv.innerHTML += "Until <b style='color:red'>" + date.substr(5) + "</b>: " + couponCodes
       if (i < Object.keys(couponDates).length -1) couponsDiv.innerHTML += " | "
     })
   }
