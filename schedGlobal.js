@@ -5150,6 +5150,10 @@ confirmed = [
   }
 ]
 
+coupons = {
+  "2026-03-24 02:00": [ "MAGICALVIGILANTE", "BOLTCATCH831" ],
+}
+
 /// get the time when any future maintenance ends
 let maintTimes = confirmed.map(i=>{
   if (i.group.includes("Maint") && i.subgroup != "Stream") {

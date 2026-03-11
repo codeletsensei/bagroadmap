@@ -103,7 +103,7 @@
 <input type="text" id="searchbox" placeholder="ctrl+F" onfocus="searchThis(this.value)" onchange="searchThis(this.value)" oninput="searchThis(this.value)"></input>
 <span id="searchResultsSpan" style="display:none; position:absolute; top:30px; left:410px; color:black; background-color:lightgrey; border:1px solid black; z-index:1000; min-width:500px; max-height:90%; overflow:auto"></span>
 <span style="color:red;background-color:lightgreen;font-weight:bold"><a href="https://forum.nexon.com/bluearchive/board_view?thread=2721110&board=1077" target="_blank">GRADUAL ACCELERATION ONGOING!</a> DON'T USE THE SHIFTED JP SCHED FOR EXACT DATES!</span>
-
+<div id="couponCodes"></div>
 <button id="btnDarkMode" style="position:absolute; right:6px" onclick="changeDarkMode()">Flashbang</button>
 <div id="visualization"></div>
 Notes:
@@ -234,6 +234,7 @@ async function createHoardingTips(ev){
   ev.event.preventDefault()
   if (!ev.group || !ev.item) return
   let item = allData[ev.item]
+  let maintEndTime = item.end
   if (item.subgroup == "hoarding") {
     response = await Swal.fire({
       title: "Remove these event's AP hoarding tips?",
@@ -244,11 +245,13 @@ async function createHoardingTips(ev){
         return i.hoardGroup != item.hoardGroup
       })
       plotStuff(region, apHoardingItems[region])
+      timeline.moveTo(maintEndTime)
+      currentSelection = item.hoardEvent
+      flashItem(item.hoardEvent)
     }
     return
   }
   let group = ev.group.substr(0,2) + "Maint"
-  let maintEndTime = item.end
   if (!item.group.includes("Maint")) maintEndTime = item.start
 
   let buffer = await Swal.fire({
@@ -284,27 +287,30 @@ async function createHoardingTips(ev){
   let newEntries = [
     {
       content: "D",
-      start: new Date(apDumpingTime).toLocaleString("ja"),
-      end: new Date(apDumpingTime + 24*60*60*1000).toLocaleString("ja"),
-      title: "DUMP all your hoarded/mailed AP after maint ends and<br>BEFORE they expire at around " + new Date(apDumpingTime).toLocaleString("ja") + " (Y/M/D H:M UTC)<br>Collect and use your cafe AP at that time too.<br><br>Use your PVP refresh + dailies AP before reset.<br><br>Good luck!<br>",
+      start: new Date(maintEndTime).toLocaleString("ja"),
+      end: new Date(Date.parse(maintEndTime) + 24*60*60*1000).toLocaleString("ja"),
+      title: "DUMP all your hoarded/mailed AP after maint ends and<br>BEFORE they expire at around " + new Date(apDumpingTime).toLocaleString("ja") + " (Y/M/D H:M UTC)<br>Collect and use your cafe AP at that time too.<br><br>Use your PVP refresh + dailies AP before reset.<br><br>Your buffer was set to " + buffer.value + " hours<br><br>Good luck!<br><br>Right-click to delete this event's AP hoarding tips group.",
       subgroup: "hoarding",
       hoardGroup: hoardGroup,
+      hoardEvent: ev.item,
       style: "color:black; background-color:lightgreen",
       group: group
     },
     {
       content: "3",
-      title: "Collect your daily APs (Cafe + Dailies + PVP).<br><br>You should have 999 on hand and<br>at least (739 + 150 + 90*4 + about 7*10 club APs) in your mail<br><br>To collect your Cafe AP, and PVP/Raid rewards,<br>you need to have 998 on hand at most.<br>You can lose 1 AP by forfeiting a normal mission.<br><br>Right-click to delete this event's AP hoarding tips group.",
+      title: "Collect your daily APs (Cafe + Daily Tasks + PVP refresh + Free Pakeji).<br><br>You should now have 999 on hand and<br>at least (739 + 150 + 90*4 + 10 + ~7*10 club APs) in your mail<br><br>To collect your Cafe AP, and PVP/Raid rewards,<br>you need to have 998 on hand at most.<br>You can lose 1 AP by forfeiting a normal mission.<br><br>Right-click to delete this event's AP hoarding tips group.",
       subgroup: "hoarding",
       hoardGroup: hoardGroup,
+      hoardEvent: ev.item,
       style: "color:black; background-color:lightgreen",
       group: group
     },
     {
       content: "2",
-      title: "Collect your PVP and raid rewards, if possible.<br>Then collect your cafe AP first, then your dailies to have 999 or 998 AP.<br><br>To collect PVP/raid rewards, you have to hold 998 AP at most.<br>If you're collecting them after reaching 999 AP,<br>you can lose 1 AP by forfeiting a normal mission.<br><br>If you didn't save your daily task APs,<br>then buy AP with PVP coins to reach 999,<br>but don't go further than 999.<br><br>If needed, use any extra AP that gets sent to the mail on hards<br>or whatever after the daily reset, and before the mail AP expires.<br><br>Right-click to delete this event's AP hoarding tips group.",
+      title: "Collect your PVP and raid rewards, if possible.<br>Then collect your cafe AP first, then your dailies to have 999 or 998 AP.<br><br>To collect PVP/raid rewards, you have to hold 998 AP at most.<br>If you're collecting them after reaching 999 AP,<br>you can lose 1 AP by forfeiting a normal mission.<br><br>If you didn't save your daily task APs,<br>then buy AP with PVP coins to reach 999,<br>but don't go further than 999.<br><br>If needed, use any extra AP that gets sent to the mail on hards<br>or whatever after the daily reset, and before the mail AP expires.<br><br>Beware that to collect that mailed AP,<br>your current AP needs to have enough room for that AP<br>(if you're collecting 50 mailed AP, you'll need to have at most 949 AP<br><br>Right-click to delete this event's AP hoarding tips group.",
       subgroup: "hoarding",
       hoardGroup: hoardGroup,
+      hoardEvent: ev.item,
       style: "color:black; background-color:lightgreen",
       group: group
     },
@@ -313,16 +319,18 @@ async function createHoardingTips(ev){
       title: "Collect your cafe AP and use most of your AP in a way<br>that it'll natural regen to the cap (240) by this time tomorrow<br><br>We regen 1 AP every 6 min, or 10AP per hour,<br>so basically, having 0 AP on hand right now should be fine,<br>but you could save some AP to use on hards after reset for the keystone.<br><br>You should save a daily task AP from or 2 until then too, just in case.<br><br>This is to set up so you'll have 999 AP on hand after 24h from now.<br>(739 cafe AP, 240- normal regen, 30+ from the dailies) <br><br>Right-click to delete this event's AP hoarding tips group.",
       subgroup: "hoarding",
       hoardGroup: hoardGroup,
+      hoardEvent: ev.item,
       style: "color:black; background-color:lightgreen",
       group: group
     },
     {
       content: "0",
-      title: "After " + new Date(apDumpingTime - 7*24*60*60*1000).toLocaleString("ja") + " and before daily reset<br>Visit your club to send its AP to the mail, and start saving your club + login AP in the mail.<br><br>You can visit your club anytime during the next days.<br><br>Right-click to delete this event's AP hoarding tips group.<br>",
+      title: "After " + new Date(apDumpingTime - 7*24*60*60*1000).toLocaleString("ja") + " and before daily reset<br>Visit your club to send its AP to the mail,<br>and start saving your club + login AP in the mail, unless they're about to expire<br><br>You can visit your club anytime during the next days.<br><br>Right-click to delete this event's AP hoarding tips group.<br>",
       start: new Date(apDumpingTime - 7*24*60*60*1000).toLocaleString("ja"),
       end: new Date(apDumpingTime - 6*24*60*60*1000).toLocaleString("ja"),
       subgroup: "hoarding",
       hoardGroup: hoardGroup,
+      hoardEvent: ev.item,
       style: "color:black; background-color:lightgreen",
       group: group
     },
@@ -338,6 +346,9 @@ async function createHoardingTips(ev){
   if (!apHoardingItems[region]) apHoardingItems[region] = []
   apHoardingItems[region] = apHoardingItems[region].concat(newEntries)
   plotStuff(region, apHoardingItems[region])
+  timeline.moveTo(maintEndTime)
+  currentSelection = ev.item
+  flashItem(ev.item)
   Swal.fire({
     title: "AP hoarding timeline created in the Maintenance Lane.",
     text: "Hover over them to see the details.",
@@ -479,6 +490,24 @@ function plotStuff(groups, extraItemsArray){
   timeline.setItems(items);
   for (let i = 0 ; i < document.getElementsByClassName("regionSelect").length ; i++) document.getElementById("reg"+i).style.backgroundColor=""
   document.getElementById("reg"+region).style.backgroundColor = "lightblue"
+
+  let couponsDiv = document.getElementById("couponCodes")
+  if (region != 3) {
+    let couponDates = Object.keys(coupons).filter(d=>{
+      let couponDate = Date.parse(d)
+      if (couponDate > Date.now()) return d
+    })
+    couponsDiv.innerHTML = "Global Coupons: "
+    Object.keys(couponDates).forEach((date,i)=>{
+      date = couponDates[date]
+      coupons[date][coupons[date].length -1] = "<b style='color:lightblue'>" + coupons[date][coupons[date].length -1] + "</b>"
+      console.log(coupons[date])
+      couponCodes = coupons[date].join(", ")
+      couponsDiv.innerHTML += "Until <b style='color:red'>" + date + "</b>: " + couponCodes
+      if (i < Object.keys(couponDates).length -1) couponsDiv.innerHTML += " | "
+    })
+  }
+  else couponsDiv.innerHTML = ""
 }
 
 function searchThis(searchInput){
@@ -487,7 +516,7 @@ function searchThis(searchInput){
   //still gotta make it search multiple words...
   searchInput = searchInput.toLowerCase().split(" ")
   let results = allData.filter(a=>{ 
-    if (!["G Maint","J Maint","-"].includes(a.group)) {
+    if (!["G Maint","J Maint","-"].includes(a.group) || a.subgroup == "Stream") {
       let bing = []
       for (let i = 0 ; i < searchInput.length; i++) {
         let searchMatch = 0
@@ -551,12 +580,8 @@ function searchThis(searchInput){
       el.className = "searchResults"
       el.onclick = function(e){
         timeline.setSelection( resultId , { focus:1, zoom:0 })
-        let c = 0
-        while (c <= 15 ) {
-          if (c%2==0) setTimeout(function(){timeline.setSelection( [] )},c*200)
-          else setTimeout(function(){timeline.setSelection( resultId , { focus:1, zoom:0 })},c*200)
-          c++
-        }
+        currentSelection = resultId
+        flashItem(resultId)
         endSearch()
       }
       document.getElementById("searchResultsSpan").appendChild(el) 
@@ -564,9 +589,23 @@ function searchThis(searchInput){
   }
 }
 
+currentSelection = -1
+function flashItem(resultId) {
+  let c = 0
+  while (c <= 15) {
+    if (c%2==0) setTimeout(function(){if (currentSelection == resultId) timeline.setSelection( [] )},c*200)
+    else setTimeout(function(){if (currentSelection == resultId) timeline.setSelection( resultId , { focus:1, zoom:0 })},c*200)
+    c++
+  }
+}
+
 async function itemClicked(item){
   let itemId = item.items[0]
-  if (!itemId) return
+  if (!itemId) {
+    currentSelection = -1
+    return
+  }
+  currentSelection = itemId
   if (allData[itemId]?.url) {
     openExternalLink(allData[itemId].url)
     return
