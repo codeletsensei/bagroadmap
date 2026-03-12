@@ -497,7 +497,7 @@ function plotStuff(groups, extraItemsArray){
       let couponDate = Date.parse(d)
       if (couponDate > Date.now()) return d
     })
-    if (Object.keys(couponDates).length > 0) couponsDiv.innerHTML = "Global Coupons (UTC): "
+    if (Object.keys(couponDates).length > 0) couponsDiv.innerHTML = "<a style='color:red' href='https://mcoupon.nexon.com/bluearchive'>Global Coupons</a> (UTC): "
     else return
     Object.keys(couponDates).forEach((date,i)=>{
       date = couponDates[date]

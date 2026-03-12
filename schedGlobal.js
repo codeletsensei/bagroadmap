@@ -5151,7 +5151,7 @@ confirmed = [
 ]
 
 coupons = {
-  "2026-03-24 02:00": [ "MAGICALVIGILANTE", "BOLTCATCH831" ],
+  "2026-03-24 02:00": [ "MAGICALVIGILANTE", "BOLTCATCH831", "HEAVYCALIBER310" ],
 }
 
 /// get the time when any future maintenance ends
