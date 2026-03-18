@@ -1222,6 +1222,32 @@ jpSched = [
 		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Secret_Midnight_Party_~_Oni_Holds_a_Bell_~/Rerun\" title=\"Secret Midnight Party ~ Oni Holds a Bell ~/Rerun\">Secret Midnight Party ~ Oni Holds a Bell ~</a><br>G: 2026-07-21 02:00 Tue ~ 2026-08-04 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-18 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kivotos_Unsolved_Mysteries_%EF%BD%9EThe_Great_Tsuchinoko_Investigation_to_Ward_Off_Evil%EF%BD%9E\" title=\"Kivotos Unsolved Mysteries ～The Great Tsuchinoko Investigation to Ward Off Evil～\">Kivotos Unsolved Mysteries ～The Great Tsuchinoko Investigation to Ward Off Evil～</a>",
+		"start": "2026-08-04T10:00",
+		"startJp": "2026-03-18T19:00",
+		"end": "2026-08-18T02:00",
+		"endJp": "2026-04-01T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-08-18T02:00",
+		"startG": "2026-08-04T02:00",
+		"title": "[Main] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kivotos_Unsolved_Mysteries_%EF%BD%9EThe_Great_Tsuchinoko_Investigation_to_Ward_Off_Evil%EF%BD%9E\" title=\"Kivotos Unsolved Mysteries ～The Great Tsuchinoko Investigation to Ward Off Evil～\">Kivotos Unsolved Mysteries ～The Great Tsuchinoko Investigation to Ward Off Evil～</a><br>G: 2026-08-04 02:00 Tue ~ 2026-08-18 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-03-18 11:00 Wed ~ 2026-04-01 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Code:_BOX_Shadow_Looming_Over_Millennium_%EF%BD%9EOne_Question_and_Two_Answers%EF%BD%9E/Rerun\" title=\"Code: BOX Shadow Looming Over Millennium ～One Question and Two Answers～/Rerun\">Code: BOX Shadow Looming Over Millennium</a>",
+		"start": "2026-08-18T02:00",
+		"startJp": "2026-04-01T11:00",
+		"end": "2026-09-01T02:00",
+		"endJp": "2026-04-15T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-09-01T02:00",
+		"startG": "2026-08-18T02:00",
+		"title": "[R] <a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Code:_BOX_Shadow_Looming_Over_Millennium_%EF%BD%9EOne_Question_and_Two_Answers%EF%BD%9E/Rerun\" title=\"Code: BOX Shadow Looming Over Millennium ～One Question and Two Answers～/Rerun\">Code: BOX Shadow Looming Over Millennium</a><br>G: 2026-08-18 02:00 Tue ~ 2026-09-01 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-04-01 11:00 Wed ~ 2026-04-15 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
 		"start": "2023-10-31T08:00",
 		"startJp": "2023-06-07T17:00",
@@ -1494,6 +1520,19 @@ jpSched = [
 		"startG": "2026-07-07T02:00",
 		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Valentine%27s_Day_Promise_(2026)\" title=\"Valentine's Day Promise (2026)\">Valentine's Day Promise</a><br>G: 2026-07-07 02:00 Tue ~ 2026-07-21 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-03-04 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
+	},{
+		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
+		"start": "2026-09-01T02:00",
+		"startJp": "2026-04-15T11:00",
+		"end": "2026-09-07T01:59",
+		"endJp": "2026-04-21T10:59",
+		"group": "J Event",
+		"subgroup": "Mini",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-09-07T01:59",
+		"startG": "2026-09-01T02:00",
+		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br>G: 2026-09-01 02:00 Tue ~ 2026-09-07 01:59 Mon 6d (UTC y-m-d)<br>Jp: 2026-04-15 11:00 Wed ~ 2026-04-21 10:59 Tue 6d (JST y-m-d)",
+		"duration": "6d"
 	},{
 		"content": "[Login] 1st Anniversary Login Bonus",
 		"start": "2022-06-21T14:00",
@@ -9476,6 +9515,20 @@ jpSched = [
 		"title": "[GA] Hieronymus Urban (Yellow+Blue TOR / Red INS) (Red atk)<br>G: 2026-07-21 02:00 Tue ~ 2026-07-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-03-04 11:00 Wed ~ 2026-03-11 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "[GA] Perorodzilla Outdoors (Yellow+Blue TOR / Red INS) (Blue atk)",
+		"start": "2026-08-25T02:00",
+		"startJp": "2026-04-08T11:00",
+		"end": "2026-08-31T18:59",
+		"endJp": "2026-04-15T03:59",
+		"group": "J Raid",
+		"subgroup": "GA",
+		"style": "color:black;background-color:pink",
+		"season": "32",
+		"endG": "2026-08-31T18:59",
+		"startG": "2026-08-25T02:00",
+		"title": "[GA] Perorodzilla Outdoors (Yellow+Blue TOR / Red INS) (Blue atk)<br>G: 2026-08-25 02:00 Tue ~ 2026-08-31 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-04-08 11:00 Wed ~ 2026-04-15 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "[LBA] S1 The Fury of Set Blue (Red atk)",
 		"start": "2024-08-21T02:00",
 		"startJp": "2024-03-28T11:00",
@@ -9825,6 +9878,32 @@ jpSched = [
 		"startG": "2026-08-05T02:00",
 		"title": "[LBA] S25 Tiphareth Purple (Yellow atk)<br>G: 2026-08-05 02:00 Wed ~ 2026-09-06 18:59 Sun 33d (UTC y-m-d)<br>Jp: 2026-03-19 11:00 Thu ~ 2026-04-21 03:59 Tue 33d (JST y-m-d)",
 		"duration": "33d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Konoka\" title=\"Konoka\">Konoka</a> (New)",
+		"start": "2026-08-04T10:00",
+		"startJp": "2026-03-18T19:00",
+		"end": "2026-08-18T01:59",
+		"endJp": "2026-04-01T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-08-18T01:59",
+		"startG": "2026-08-04T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Konoka\" title=\"Konoka\">Konoka</a> (New)<br>G: 2026-08-04 02:00 Tue ~ 2026-08-18 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-03-18 11:00 Wed ~ 2026-04-01 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rena\" title=\"Rena\">Rena</a> (New)",
+		"start": "2026-08-04T10:00",
+		"startJp": "2026-03-18T19:00",
+		"end": "2026-08-18T01:59",
+		"endJp": "2026-04-01T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-08-18T01:59",
+		"startG": "2026-08-04T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rena\" title=\"Rena\">Rena</a> (New)<br>G: 2026-08-04 02:00 Tue ~ 2026-08-18 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-03-18 11:00 Wed ~ 2026-04-01 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Koyuki_(Pajama)\" title=\"Koyuki (Pajama)\">Koyuki (Pajama)</a> (New)",
 		"start": "2026-07-21T08:00",
@@ -20276,45 +20355,6 @@ jpSched = [
 		"title": "[QoL] Gifting: Gifts can now be dropped onto students' portraits<br>G: 2026-08-04 02:00 Tue ~ 2026-08-17 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-03-18 11:00 Wed ~ 2026-04-01 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Main Main] キヴォトス・未確認ミステリー～邪を払うツチノコ大調査～",
-		"start": "2026-08-04T10:00",
-		"startJp": "2026-03-18T19:00",
-		"end": "2026-08-17T19:00",
-		"endJp": "2026-04-01T04:00",
-		"group": "J Event",
-		"subgroup": "Main",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-08-17T19:00",
-		"startG": "2026-08-04T02:00",
-		"title": "[Main Main] キヴォトス・未確認ミステリー～邪を払うツチノコ大調査～<br>G: 2026-08-04 02:00 Tue ~ 2026-08-17 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-03-18 11:00 Wed ~ 2026-04-01 04:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Konoka (New)",
-		"start": "2026-08-04T10:00",
-		"startJp": "2026-03-18T19:00",
-		"end": "2026-08-17T19:00",
-		"endJp": "2026-04-01T04:00",
-		"group": "J Gacha",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-08-17T19:00",
-		"startG": "2026-08-04T02:00",
-		"title": "Konoka (New)<br>G: 2026-08-04 02:00 Tue ~ 2026-08-17 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-03-18 11:00 Wed ~ 2026-04-01 04:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Rena (New)",
-		"start": "2026-08-04T10:00",
-		"startJp": "2026-03-18T19:00",
-		"end": "2026-08-17T19:00",
-		"endJp": "2026-04-01T04:00",
-		"group": "J Gacha",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-08-17T19:00",
-		"startG": "2026-08-04T02:00",
-		"title": "Rena (New)<br>G: 2026-08-04 02:00 Tue ~ 2026-08-17 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-03-18 11:00 Wed ~ 2026-04-01 04:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
 		"content": "2x Bounty",
 		"start": "2026-08-03T19:00",
 		"startJp": "2026-03-18T04:00",
@@ -20431,5 +20471,83 @@ jpSched = [
 		"startG": "2026-08-13T19:00",
 		"title": "<b>2x XP</b><br>G: 2026-08-13 19:00 Thu ~ 2026-08-15 19:00 Sat 2d (UTC y-m-d)<br>Jp: 2026-03-28 04:00 Sat ~ 2026-03-30 04:00 Mon 2d (JST y-m-d)",
 		"duration": "2d"
+	},{
+		"content": "Akane (Uniform) (New)",
+		"start": "2026-08-18T02:00",
+		"startJp": "2026-04-01T11:00",
+		"end": "2026-09-01T02:00",
+		"endJp": "2026-04-15T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-09-01T02:00",
+		"startG": "2026-08-18T02:00",
+		"title": "Akane (Uniform) (New)<br>G: 2026-08-18 02:00 Tue ~ 2026-09-01 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-04-01 11:00 Wed ~ 2026-04-15 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Seia [L]",
+		"start": "2026-08-18T02:00",
+		"startJp": "2026-04-01T11:00",
+		"end": "2026-09-01T02:00",
+		"endJp": "2026-04-15T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-09-01T02:00",
+		"startG": "2026-08-18T02:00",
+		"title": "Seia [L]<br>G: 2026-08-18 02:00 Tue ~ 2026-09-01 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-04-01 11:00 Wed ~ 2026-04-15 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Asuna (School Uniform) [L]",
+		"start": "2026-08-18T02:00",
+		"startJp": "2026-04-01T11:00",
+		"end": "2026-09-01T02:00",
+		"endJp": "2026-04-15T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-09-01T02:00",
+		"startG": "2026-08-18T02:00",
+		"title": "Asuna (School Uniform) [L]<br>G: 2026-08-18 02:00 Tue ~ 2026-09-01 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-04-01 11:00 Wed ~ 2026-04-15 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Karin (School Uniform) [Welfare]",
+		"start": "2026-08-18T02:00",
+		"startJp": "2026-04-01T11:00",
+		"end": "2026-09-01T02:00",
+		"endJp": "2026-04-15T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-09-01T02:00",
+		"startG": "2026-08-18T02:00",
+		"title": "Karin (School Uniform) [Welfare]<br>G: 2026-08-18 02:00 Tue ~ 2026-09-01 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-04-01 11:00 Wed ~ 2026-04-15 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Perm] (Cyber) New Year March",
+		"start": "2026-09-01T02:00",
+		"startJp": "2026-04-15T11:00",
+		"end": "2026-09-07T02:00",
+		"endJp": "2026-04-21T11:00",
+		"group": "J Event",
+		"subgroup": "",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-09-07T02:00",
+		"startG": "2026-09-01T02:00",
+		"title": "[Perm] (Cyber) New Year March<br>G: 2026-09-01 02:00 Tue ~ 2026-09-07 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2026-04-15 11:00 Wed ~ 2026-04-21 11:00 Tue 6d (JST y-m-d)",
+		"duration": "6d"
+	},{
+		"content": "[PVP] Season 11",
+		"start": "2026-10-06T02:00",
+		"startJp": "2026-05-20T11:00",
+		"end": "2026-10-21T02:00",
+		"endJp": "2026-06-04T11:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:orange",
+		"endG": "2026-10-21T02:00",
+		"startG": "2026-10-06T02:00",
+		"title": "[PVP] Season 11<br>G: 2026-10-06 02:00 Tue ~ 2026-10-21 02:00 Wed 15d (UTC y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-06-04 11:00 Thu 15d (JST y-m-d)",
+		"duration": "15d"
 	}
 ]
