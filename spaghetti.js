@@ -1,6 +1,6 @@
 document.getElementById("welcomeBaggot").remove()
 
-let siteVersion = 20260310
+let siteVersion = 20260321
 let currentVersion = localStorage.getItem("version")
 let lastShitAdded = "2026/03/21: Raid links should now have youtube links too.<br>2026/03/10: Right-clicking a cell lets you create a basic <b>AP hoarding timeline</b> for that cell (preferably a maintenance/event/welfare cell). It'll show up in the maintenance lane. Right clicking it deletes it.<br>2026/02/27: Clicking on a raid should now open its <b>souriki-border</b> page.<br>2026/01/29: Fixed the shifted JP schedule not shifting content before an acceleration period concludes<br>2025/12/15: Clicking on a (future) Maintenance/Stream cell will ask to open its related link, if it's already available and I didn't forget about it.<br>2025/8/8: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
 if ( !currentVersion || Number(currentVersion) < siteVersion ) {
