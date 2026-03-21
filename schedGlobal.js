@@ -340,7 +340,7 @@ confirmed = [
     "end": "2026-03-10T08:00:00.000Z",
     "group": "G Maint",
     "subgroup": "",
-    "style": "color:red; background-color:red; height:15px",
+    "style": "color:red; background-color:red; height:15px"
   },{
 //
 /// GASHA
@@ -2307,7 +2307,7 @@ confirmed = [
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
-  },{ 
+  },{
     "content": "[Main] Summer Sky's Promise",
     "start": "2025-12-16T02:00:00.000Z",
     "end": "2025-12-30T02:00:00.000Z",
@@ -2418,7 +2418,8 @@ confirmed = [
     "group": "G Raid",
     "season": 59,
     "subgroup": "TA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Chesed"
   },{
     "content": "[JFD] Escort Blue no CC",
     "start": "2024-05-14T02:00:00.000Z",
@@ -2426,7 +2427,8 @@ confirmed = [
     "group": "G Raid",
     "season": 21,
     "subgroup": "JFD",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Escort"
   },{
     "content": "[GA] Hod Urban (Blue atk)",
     "start": "2024-05-21T02:00:00.000Z",
@@ -2434,7 +2436,9 @@ confirmed = [
     "group": "G Raid",
     "season": 4,
     "subgroup": "GA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Hod",
+    "terrain": "Urban"
   },{
     "content": "[TA] Kurokage Urban (Blue atk)",
     "start": "2024-06-04T02:00:00.000Z",
@@ -2442,7 +2446,9 @@ confirmed = [
     "group": "G Raid",
     "season": 60,
     "subgroup": "TA",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Kurokage",
+    "terrain": "Urban"
   },{
     "content": "[JFD] Shooting. Yellow. All Roles",
     "start": "2024-06-11T02:00:00.000Z",
@@ -2450,7 +2456,8 @@ confirmed = [
     "group": "G Raid",
     "season": 22,
     "subgroup": "JFD",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Shooting"
   },{
     "content": "[GA] Goz Field (Red atk)",
     "start": "2024-06-18T02:00:00.000Z",
@@ -2458,7 +2465,8 @@ confirmed = [
     "group": "G Raid",
     "season": 5,
     "subgroup": "GA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Goz"
   },{
     "content": "[TA] Hovercraft Field (Yellow atk)",
     "start": "2024-07-02T02:00:00.000Z",
@@ -2466,7 +2474,8 @@ confirmed = [
     "group": "G Raid",
     "season": 61,
     "subgroup": "TA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Hovercraft"
   },{
     "content": "[JFD] Assault. Yellow. Fuck Triniggers",
     "start": "2024-07-09T02:00:00.000Z",
@@ -2474,7 +2483,8 @@ confirmed = [
     "group": "G Raid",
     "season": 23,
     "subgroup": "JFD",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Assault"
   },{
     "content": "[GA] ShiroKuro (Yellow atk)",
     "start": "2024-07-16T02:00:00.000Z",
@@ -2482,7 +2492,8 @@ confirmed = [
     "group": "G Raid",
     "season": 6,
     "subgroup": "GA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "ShiroKuro"
   },{
     "content": "[TA] Hieronymus (Red atk)",
     "start": "2024-07-30T02:00:00.000Z",
@@ -2490,7 +2501,8 @@ confirmed = [
     "group": "G Raid",
     "season": 62,
     "subgroup": "TA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Hieronymus"
   },{
     "content": "[JFD] Defense. Red. Front buff",
     "start": "2024-08-06T02:00:00.000Z",
@@ -2498,7 +2510,8 @@ confirmed = [
     "group": "G Raid",
     "season": 24,
     "subgroup": "JFD",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Defense"
   },{
     "content": "[GA] Kaiten (Yellow atk)",
     "start": "2024-08-13T02:00:00.000Z",
@@ -2506,7 +2519,8 @@ confirmed = [
     "group": "G Raid",
     "season": 7,
     "subgroup": "GA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Kaiten"
   },{
     "content": "[TA] Chesed Indoor (Red atk)",
     "start": "2024-08-27T02:00:00.000Z",
@@ -2514,7 +2528,8 @@ confirmed = [
     "group": "G Raid",
     "season": 63,
     "subgroup": "TA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Chesed"
   },{
     "content": "[JFD] Escort Yellow, Buff Riobot onegaishimasu",
     "start": "2024-09-03T02:00:00.000Z",
@@ -2522,7 +2537,8 @@ confirmed = [
     "group": "G Raid",
     "season": 25,
     "subgroup": "JFD",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Escort"
   },{
     "content": "[GA] Binah Urban (Yellow atk)",
     "start": "2024-09-10T02:00:00.000Z",
@@ -2530,7 +2546,9 @@ confirmed = [
     "group": "G Raid",
     "season": 8,
     "subgroup": "GA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Binah",
+    "terrain": "Urban"
   },{
     "content": "[TA] Perorodzilla Indoors (Blue atk)",
     "start": "2024-10-01T02:00:00.000Z",
@@ -2538,7 +2556,9 @@ confirmed = [
     "group": "G Raid",
     "season": 64,
     "subgroup": "TA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Peroro",
+    "terrain": "Indoors"
   },{
     "content": "[LBA] S1 The Fury of Set Blue (Red atk)",
     "start": "2024-09-25T02:00:00.000Z",
@@ -2546,7 +2566,8 @@ confirmed = [
     "group": "G Raid",
     "season": 1,
     "subgroup": "LBA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Fury of Set"
   },{
     "content": "[JFD] Assault Purple Urban. SR weapons buff. Healing heals scarecrow",
     "start": "2024-10-08T02:00:00.000Z",
@@ -2554,7 +2575,9 @@ confirmed = [
     "group": "G Raid",
     "season": 26,
     "subgroup": "JFD",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Assault",
+    "terrain": "Urban"
   },{
     "content": "[GA] Gregorius Indoors (Yellow Tor + Red/Blue) (Blue atk)",
     "start": "2024-10-15T02:00:00.000Z",
@@ -2562,7 +2585,9 @@ confirmed = [
     "group": "G Raid",
     "season": 9,
     "subgroup": "GA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Gregorius",
+    "terrain": "Indoors"
   },{
     "content": "[LBA] S2 The Fury of Set Red (Red atk)",
     "start": "2024-10-23T02:00:00.000Z",
@@ -2570,7 +2595,8 @@ confirmed = [
     "group": "G Raid",
     "season": 2,
     "subgroup": "LBA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Fury of Set"
   },{
     "content": "[TA] Hod Urban (Blue atk)",
     "start": "2024-10-29T02:00:00.000Z",
@@ -2578,7 +2604,9 @@ confirmed = [
     "group": "G Raid",
     "season": 65,
     "subgroup": "TA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Hod",
+    "terrain": "Urban"
   },{
     "content": "[JFD] Shooting Yellow Urban. Specials atk up, debuff > dmg up",
     "start": "2024-11-05T02:00:00.000Z",
@@ -2586,7 +2614,9 @@ confirmed = [
     "group": "G Raid",
     "season": 27,
     "subgroup": "JFD",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Shooting",
+    "terrain": "Urban"
   },{
     "content": "[GA] Hieronymus Urban (Blue Tor + Red/Yellow) (Red atk)",
     "start": "2024-11-12T02:00:00.000Z",
@@ -2594,7 +2624,9 @@ confirmed = [
     "group": "G Raid",
     "season": 10,
     "subgroup": "GA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Hieronymus",
+    "terrain": "Urban"
   },{
     "content": "[LBA] S3 The Fury of Set Blue (Red atk)",
     "start": "2024-11-20T02:00:00.000Z",
@@ -2602,7 +2634,8 @@ confirmed = [
     "group": "G Raid",
     "season": 3,
     "subgroup": "LBA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Fury of Set"
   },{
     "content": "[TA] Goz Indoors (Red atk)",
     "start": "2024-11-26T02:00:00.000Z",
@@ -2610,7 +2643,9 @@ confirmed = [
     "group": "G Raid",
     "season": 66,
     "subgroup": "TA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Goz",
+    "terrain": "Indoors"
   },{
     "content": "[JFD] Defense Red. GL/MG/MT atk buff",
     "start": "2024-12-03T02:00:00.000Z",
@@ -2618,7 +2653,8 @@ confirmed = [
     "group": "G Raid",
     "season": 28,
     "subgroup": "JFD",
-    "style": "color:white; background-color:red"
+    "style": "color:white; background-color:red",
+    "boss": "Defense"
   },{
     "content": "[GA] Hovercraft Outdoors (Red Tor + Yellow/Blue) (Yellow atk)",
     "start": "2024-12-10T02:00:00.000Z",
@@ -2626,7 +2662,9 @@ confirmed = [
     "group": "G Raid",
     "season": 11,
     "subgroup": "GA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Hovercraft",
+    "terrain": "Outdoors"
   },{
     "content": "[LBA] S4 The Fury of Set Red (Red atk)",
     "start": "2024-12-25T02:00:00.000Z",
@@ -2634,7 +2672,8 @@ confirmed = [
     "group": "G Raid",
     "season": 4,
     "subgroup": "TA",
-    "style": "color:black; background-color:red "
+    "style": "color:black; background-color:red ",
+    "boss": "Fury of Set"
   },{
     "content": "[TA] Binah Outdoors (Yellow atk)",
     "start": "2024-12-31T02:00:00.000Z",
@@ -2642,7 +2681,9 @@ confirmed = [
     "group": "G Raid",
     "season": 67,
     "subgroup": "TA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Binah",
+    "terrain": "Outdoors"
   },{
     "content": "[JFD] Escort Purple. High def enemies. Avant Guard takes DoT.",
     "start": "2025-01-07T02:00:00.000Z",
@@ -2650,7 +2691,8 @@ confirmed = [
     "group": "G Raid",
     "season": 29,
     "subgroup": "JFD",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Escort"
   },{
     "content": "[GA] ShiroKuro Indoors (Yellow atk)",
     "start": "2025-01-14T02:00:00.000Z",
@@ -2658,7 +2700,9 @@ confirmed = [
     "group": "G Raid",
     "season": 12,
     "subgroup": "GA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "ShiroKuro",
+    "terrain": "Indoors"
   },{
     "content": "[LBA] The Fury of Set Blue (Red atk)",
     "start": "2025-01-24T02:00:00.000Z",
@@ -2666,7 +2710,8 @@ confirmed = [
     "group": "G Raid",
     "season": 5,
     "subgroup": "LBA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Fury of Set"
   },{
     "content": "[TA] Perorodzilla Outdoors (Blue atk)",
     "start": "2025-01-28T02:00:00.000Z",
@@ -2674,7 +2719,9 @@ confirmed = [
     "group": "G Raid",
     "season": 68,
     "subgroup": "TA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Peroro",
+    "terrain": "Outdoors"
   },{
     "content": "[JFD] Assault Blue Urban. Healing scarecrow damages everyone.",
     "start": "2025-02-04T02:00:00.000Z",
@@ -2682,7 +2729,9 @@ confirmed = [
     "group": "G Raid",
     "season": 30,
     "subgroup": "JFD",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Assault",
+    "terrain": "Urban"
   },{
     "content": "[GA] Goz Outdoors (Yellow Tor + Red/Blue) (Red atk)",
     "start": "2025-02-11T02:00:00.000Z",
@@ -2690,7 +2739,9 @@ confirmed = [
     "group": "G Raid",
     "season": 13,
     "subgroup": "GA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Goz",
+    "terrain": "Outdoors"
   },{
     "content": "[LBA] The Fury of Set Red (Red atk)",
     "start": "2025-02-19T02:00:00.000Z",
@@ -2698,7 +2749,8 @@ confirmed = [
     "group": "G Raid",
     "season": 6,
     "subgroup": "LBA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Fury of Set"
   },{
     "content": "[TA] ShiroKuro Indoor (Yellow atk)",
     "start": "2025-02-25T02:00:00.000Z",
@@ -2706,7 +2758,8 @@ confirmed = [
     "group": "G Raid",
     "season": 69,
     "subgroup": "TA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "ShiroKuro"
   },{
     "content": "[JFD] Shooting Blue. DoT dmg up. Debuffs = dmg up (up to 4)",
     "start": "2025-03-04T02:00:00.000Z",
@@ -2714,7 +2767,8 @@ confirmed = [
     "group": "G Raid",
     "season": 31,
     "subgroup": "JFD",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Shooting"
   },{
     "content": "[GA] Peroro Outdoors (Purple TOR + Yellow/Blue) (Blue atk)",
     "start": "2025-03-11T02:00:00.000Z",
@@ -2722,7 +2776,9 @@ confirmed = [
     "group": "G Raid",
     "season": 14,
     "subgroup": "GA",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Peroro",
+    "terrain": "Outdoors"
   },{
     "content": "[TA] Kaiten Urban Red",
     "start": "2025-03-25T02:00:00.000Z",
@@ -2730,7 +2786,9 @@ confirmed = [
     "group": "G Raid",
     "season": 70,
     "subgroup": "TA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Kaiten",
+    "terrain": "Urban"
   },{
     "content": "[JFD] Defense Yellow. Shotgun buff. Stronger/tankier but slow enemies, can't move them (Mine?/Hoshino?)",
     "start": "2025-04-01T02:00:00.000Z",
@@ -2738,7 +2796,8 @@ confirmed = [
     "group": "G Raid",
     "season": 32,
     "subgroup": "JFD",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Defense"
   },{
     "content": "[LBA] The Fury of Set Purple (Red atk)",
     "start": "2025-03-19T02:00:00.000Z",
@@ -2746,7 +2805,8 @@ confirmed = [
     "group": "G Raid",
     "season": 7,
     "subgroup": "LBA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Fury of Set"
   },{
     "content": "[GA] Kurokage Urban (Purple Tor + Red/Blue) (Blue atk)",
     "start": "2025-04-08T02:00:00.000Z",
@@ -2754,7 +2814,9 @@ confirmed = [
     "group": "G Raid",
     "season": 15,
     "subgroup": "GA",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Kurokage",
+    "terrain": "Urban"
   },{
     "content": "[TA] Gregorius Indoors Red (Blue atk)",
     "start": "2025-04-22T02:00:00.000Z",
@@ -2762,7 +2824,9 @@ confirmed = [
     "group": "G Raid",
     "season": 71,
     "subgroup": "TA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Gregorius",
+    "terrain": "Indoors"
   },{
     "content": "[JFD] Escort Indoor Red. Striker debuff, Special Buff. High DEF enemies.",
     "start": "2025-04-29T02:00:00.000Z",
@@ -2770,7 +2834,8 @@ confirmed = [
     "group": "G Raid",
     "season": 33,
     "subgroup": "JFD",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Escort"
   },{
     "content": "[GA] Chesed Outdoors (Blue Tor + Yellow/Purple) (Red atk)",
     "start": "2025-05-06T02:00:00.000Z",
@@ -2778,7 +2843,9 @@ confirmed = [
     "group": "G Raid",
     "season": 16,
     "subgroup": "GA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Chesed",
+    "terrain": "Outdoors"
   },{
     "content": "[LBA] Chokmah Blue (Blue atk)",
     "start": "2025-04-16T02:00:00.000Z",
@@ -2786,7 +2853,8 @@ confirmed = [
     "group": "G Raid",
     "season": 8,
     "subgroup": "LBA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Chokmah"
   },{
     "content": "[LBA] S9 The Fury of Set Red (Red atk)",
     "start": "2025-05-14T02:00:00.000Z",
@@ -2794,7 +2862,8 @@ confirmed = [
     "group": "G Raid",
     "season": 9,
     "subgroup": "LBA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Fury of Set"
   },{
     "content": "[TA] Hieronymus Urban Red (Red atk)",
     "start": "2025-05-20T02:00:00.000Z",
@@ -2802,7 +2871,9 @@ confirmed = [
     "group": "G Raid",
     "season": 72,
     "subgroup": "TA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Hieronymus",
+    "terrain": "Urban"
   },{
     "content": "[JFD] Assault Red Urban. Additional dmg on atk. Red healers heal the dummy for more.",
     "start": "2025-05-27T02:00:00.000Z",
@@ -2810,7 +2881,9 @@ confirmed = [
     "group": "G Raid",
     "season": 34,
     "subgroup": "JFD",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Assault",
+    "terrain": "Urban"
   },{
     "content": "[GA] Binah Urban (Yellow Tor + Blue/Purple) (Yellow Atk)",
     "start": "2025-06-03T02:00:00.000Z",
@@ -2818,7 +2891,9 @@ confirmed = [
     "group": "G Raid",
     "season": 17,
     "subgroup": "GA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Binah",
+    "terrain": "Urban"
   },{
     "content": "[LBA] S10 Chokmah Yellow (Blue atk)",
     "start": "2025-06-11T02:00:00.000Z",
@@ -2826,7 +2901,8 @@ confirmed = [
     "group": "G Raid",
     "season": 10,
     "subgroup": "TA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Chokmah"
   },{
     "content": "[TA] Hovercraft Outdoors Yellow (Yellow atk)",
     "start": "2025-06-17T02:00:00.000Z",
@@ -2834,7 +2910,9 @@ confirmed = [
     "group": "G Raid",
     "season": 73,
     "subgroup": "TA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Hovercraft",
+    "terrain": "Outdoors"
   },{
     "content": "[JFD] Shooting Purple Urban. Purple students deal additional dmg to DoT'ed enemies. High crit RES.",
     "start": "2025-06-24T02:00:00.000Z",
@@ -2842,7 +2920,9 @@ confirmed = [
     "group": "G Raid",
     "season": 35,
     "subgroup": "JFD",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Shooting",
+    "terrain": "Urban"
   },{
     "content": "[GA] Kaiten Urban (Red Tor + Yellow/Blue) (Yellow atk)",
     "start": "2025-07-01T02:00:00.000Z",
@@ -2850,7 +2930,9 @@ confirmed = [
     "group": "G Raid",
     "season": 18,
     "subgroup": "GA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Kaiten",
+    "terrain": "Urban"
   },{
     "content": "[LBA] S11 The Fury of Set Blue (Red atk)",
     "start": "2025-07-09T02:00:00.000Z",
@@ -2858,7 +2940,8 @@ confirmed = [
     "group": "G Raid",
     "season": 11,
     "subgroup": "LBA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Fury of Set"
   },{
     "content": "[TA] Geburah Outdoors Red (Blue atk)",
     "start": "2025-07-15T02:00:00.000Z",
@@ -2866,7 +2949,9 @@ confirmed = [
     "group": "G Raid",
     "season": 74,
     "subgroup": "TA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Geburah",
+    "terrain": "Outdoors"
   },{
     "content": "[JFD] Defense Blue Indoor. Enemies heal when they take dmg. Millennium and Abydos students buff.",
     "start": "2025-07-22T02:00:00.000Z",
@@ -2874,7 +2959,8 @@ confirmed = [
     "group": "G Raid",
     "season": 36,
     "subgroup": "JFD",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Defense"
   },{
     "content": "[GA] Gregorius Indoor (Blue Tor + Red/Yellow) (Blue atk)",
     "start": "2025-07-29T02:00:00.000Z",
@@ -2882,7 +2968,8 @@ confirmed = [
     "group": "G Raid",
     "season": 19,
     "subgroup": "GA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Gregorius"
   },{
     "content": "[LBA] S12 Chokmah Blue (Blue atk)",
     "start": "2025-08-06T02:00:00.000Z",
@@ -2890,7 +2977,8 @@ confirmed = [
     "group": "G Raid",
     "season": 12,
     "subgroup": "LBA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Chokmah"
   },{
     "content": "[TA] Kurokage Urban Purple (Blue atk)",
     "start": "2025-08-05T02:00:00.000Z",
@@ -2898,7 +2986,9 @@ confirmed = [
     "group": "G Raid",
     "season": 75,
     "subgroup": "TA",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Kurokage",
+    "terrain": "Urban"
   },{
     "content": "[JFD] Escort Blue Field. EX costing <=2 deal dmg to AG. ATK buff based on AG's HP.",
     "start": "2025-08-12T02:00:00.000Z",
@@ -2906,7 +2996,8 @@ confirmed = [
     "group": "G Raid",
     "season": 37,
     "subgroup": "JFD",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Escort"
   },{
     "content": "[GA] Binah Outdoors (Red Tor + Blue/Purple) (Yellow atk)",
     "start": "2025-08-19T02:00:00.000Z",
@@ -2914,7 +3005,9 @@ confirmed = [
     "group": "G Raid",
     "season": 20,
     "subgroup": "GA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Binah",
+    "terrain": "Outdoors"
   },{
     "content": "[LBA] S13 The Fury of Set Red (Red atk)",
     "start": "2025-08-27T02:00:00.000Z",
@@ -2922,7 +3015,8 @@ confirmed = [
     "group": "G Raid",
     "season": 13,
     "subgroup": "LBA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Fury of Set"
   },{
     "content": "[TA] Hovercraft Outdoors Yellow (Yellow atk)",
     "start": "2025-09-02T02:00:00.000Z",
@@ -2930,7 +3024,9 @@ confirmed = [
     "group": "G Raid",
     "season": 76,
     "subgroup": "TA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Hovercraft",
+    "terrain": "Outdoors"
   },{
     "content": "[JFD] Assault Yellow Urban. Scarecrow loses HP every sec. Allies deal more dmg when scarecrow's HP >= 99%",
     "start": "2025-09-09T02:00:00.000Z",
@@ -2938,7 +3034,9 @@ confirmed = [
     "group": "G Raid",
     "season": 38,
     "subgroup": "JFD",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Assault",
+    "terrain": "Urban"
   },{
     "content": "[GA] Chesed Indoors (Purple Tor + Red/Yellow)",
     "start": "2025-09-16T02:00:00.000Z",
@@ -2946,7 +3044,9 @@ confirmed = [
     "group": "G Raid",
     "season": 21,
     "subgroup": "GA",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Chesed",
+    "terrain": "Indoors"
   },{
     "content": "[TA] Gregorius Indoors Red (Blue atk)",
     "start": "2025-09-30T02:00:00.000Z",
@@ -2954,7 +3054,9 @@ confirmed = [
     "group": "G Raid",
     "season": 77,
     "subgroup": "TA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Gregorius",
+    "terrain": "Indoors"
   },{
     "content": "[JFD] Shooting Red Urban. AR & SR buff. Enemies with high DEF & HP.",
     "start": "2025-10-07T02:00:00.000Z",
@@ -2962,7 +3064,9 @@ confirmed = [
     "group": "G Raid",
     "season": 39,
     "subgroup": "JFD",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Shooting",
+    "terrain": "Urban"
   },{
     "content": "[LBA] S14 Tiphareth Purple (Yellow atk)",
     "start": "2025-09-24T02:00:00.000Z",
@@ -2970,7 +3074,8 @@ confirmed = [
     "group": "G Raid",
     "season": 14,
     "subgroup": "LBA",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Tiphareth"
   },{
     "content": "[GA] Shirokuro Indoor (Purple TOR + Yellow/Blue)",
     "start": "2025-10-14T02:00:00.000Z",
@@ -2986,7 +3091,8 @@ confirmed = [
     "group": "G Raid",
     "season": 15,
     "subgroup": "LBA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Chokmah"
   },{
     "content": "[TA] Geburah Outdoors Red (Blue atk)",
     "start": "2025-10-28T02:00:00.000Z",
@@ -2994,7 +3100,9 @@ confirmed = [
     "group": "G Raid",
     "season": 78,
     "subgroup": "TA",
-    "style": "color:white; background-color:red "
+    "style": "color:white; background-color:red ",
+    "boss": "Geburah",
+    "terrain": "Outdoors"
   },{
     "content": "[JFD] Defense Purple Outdoors. 1dmg/hit, sonic strikers deal additional dmg when at >99% HP.",
     "start": "2025-11-04T02:00:00.000Z",
@@ -3002,7 +3110,9 @@ confirmed = [
     "group": "G Raid",
     "season": 40,
     "subgroup": "JFD",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Defense",
+    "terrain": "Outdoors"
   },{
     "content": "[GA] Hieronymus Urban (Yellow TOR / Red+Purple INS) (Red atk)",
     "start": "2025-11-11T02:00:00.000Z",
@@ -3010,7 +3120,9 @@ confirmed = [
     "group": "G Raid",
     "season": 23,
     "subgroup": "GA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Hieronymus",
+    "terrain": "Urban"
   },{
     "content": "[LBA] The Fury of Set Red (Red atk)",
     "start": "2025-11-19T02:00:00.000Z",
@@ -3018,7 +3130,8 @@ confirmed = [
     "group": "G Raid",
     "season": 16,
     "subgroup": "LBA",
-    "style": "color:white; background-color:red"
+    "style": "color:white; background-color:red",
+    "boss": "Fury of Set"
   },{
     "content": "[TA] Goz Indoors Blue (Red atk)",
     "start": "2025-11-25T02:00:00.000Z",
@@ -3026,7 +3139,9 @@ confirmed = [
     "group": "G Raid",
     "season": 79,
     "subgroup": "TA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Goz",
+    "terrain": "Indoors"
   },{
     "content": "[JFD] Escort Indoors Yellow. AG + Hyakkiyako buff. Buffing AG = enemy DEF down (x5).",
     "start": "2025-12-02T02:00:00.000Z",
@@ -3034,7 +3149,9 @@ confirmed = [
     "group": "G Raid",
     "season": 41,
     "subgroup": "JFD",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Escort",
+    "terrain": "Indoors"
   },{
     "content": "[GA] KAITEN Outdoors (Blue TOR / Red+Purple INS) (Yellow atk)",
     "start": "2025-12-09T02:00:00.000Z",
@@ -3042,14 +3159,16 @@ confirmed = [
     "group": "G Raid",
     "season": 24,
     "subgroup": "GA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "terrain": "Outdoors"
   },{
     "content": "Kaiten revisions: Red+Black EVA nerf. Mackarel slash's direction locked. Adjusted EX pattern on INS and below.",
     "start": "2025-12-09T02:00:00.000Z",
     "end": "2025-12-15T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "GA",
-    "style": "color:black; background-color:pink "
+    "style": "color:black; background-color:pink ",
+    "boss": "Kaiten"
   },{
     "content": "[TA] Hod Urban Yellow (Blue atk)",
     "start": "2025-12-23T02:00:00.000Z",
@@ -3057,14 +3176,17 @@ confirmed = [
     "group": "G Raid",
     "season": 80,
     "subgroup": "TA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Hod",
+    "terrain": "Urban"
   },{
     "content": "[QoL] Hod adjustments: Some of Hod's skills will be locked",
     "start": "2025-12-23T02:00:00.000Z",
     "end": "2025-12-29T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "",
-    "style": "color:black; background-color:pink "
+    "style": "color:black; background-color:pink ",
+    "boss": "Hod"
   },{
     "content": "[JFD] Assault Indoors Blue. Healing scarecrow deals dmg to everyone. Debuffing enemies removes their shield",
     "start": "2025-12-30T02:00:00.000Z",
@@ -3072,7 +3194,9 @@ confirmed = [
     "group": "G Raid",
     "season": 42,
     "subgroup": "JFD",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Assault",
+    "terrain": "Indoors"
   },{
     "content": "[GA] Binah Urban (Purple TOR / Red+Blue INS)",
     "start": "2026-01-06T02:00:00.000Z",
@@ -3080,7 +3204,9 @@ confirmed = [
     "group": "G Raid",
     "season": 25,
     "subgroup": "GA",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Binah",
+    "terrain": "Urban"
   },{
     "content": "[LBA] S17 Tiphareth Yellow (Yellow atk)",
     "start": "2025-12-17T02:00:00.000Z",
@@ -3088,7 +3214,8 @@ confirmed = [
     "group": "G Raid",
     "season": 17,
     "subgroup": "LBA",
-    "style": "color:black; background-color:yellow "
+    "style": "color:black; background-color:yellow ",
+    "boss": "Tiphareth"
   },{
     "content": "[TA] Peroro Outdoors Blue (Blue atk)",
     "start": "2026-01-20T02:00:00.000Z",
@@ -3096,7 +3223,9 @@ confirmed = [
     "group": "G Raid",
     "season": 81,
     "subgroup": "TA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Peroro",
+    "terrain": "Outdoors"
   },{
     "content": "[JFD] Shooting Purple Urban. Decreases the dmg taken by the last cat. SR buff.",
     "start": "2026-01-27T02:00:00.000Z",
@@ -3104,7 +3233,9 @@ confirmed = [
     "group": "G Raid",
     "season": 43,
     "subgroup": "JFD",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Shooting",
+    "terrain": "Urban"
   },{
     "content": "[LBA] S18 Chokmah Blue (Blue atk)",
     "start": "2026-01-14T02:00:00.000Z",
@@ -3112,7 +3243,8 @@ confirmed = [
     "group": "G Raid",
     "season": 18,
     "subgroup": "LBA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Chokmah"
   },{
     "content": "[GA] Chesed Outdoors (Purple TOR / Red+Yellow INS) (Red atk)",
     "start": "2026-02-03T02:00:00.000Z",
@@ -3120,7 +3252,9 @@ confirmed = [
     "group": "G Raid",
     "season": 26,
     "subgroup": "GA",
-    "style": "color:white; background-color:purple "
+    "style": "color:white; background-color:purple ",
+    "boss": "Chesed",
+    "terrain": "Outdoors"
   },{
     "content": "[TA] Geburah Outdoors Red (Blue atk)",
     "start": "2026-02-17T02:00:00.000Z",
@@ -3128,7 +3262,9 @@ confirmed = [
     "group": "G Raid",
     "season": 82,
     "subgroup": "TA",
-    "style": "color:white; background-color:red"
+    "style": "color:white; background-color:red",
+    "boss": "Geburah",
+    "terrain": "Outdoors"
   },{
     "content": "[JFD] Defense Indoors Red. Enemy MOV SPD up and deal AOE dmg to students on death. Knocked back on hit.",
     "start": "2026-02-24T02:00:00.000Z",
@@ -3136,7 +3272,9 @@ confirmed = [
     "group": "G Raid",
     "season": 44,
     "subgroup": "JFD",
-    "style": "color:white; background-color:red"
+    "style": "color:white; background-color:red",
+    "boss": "Defense",
+    "terrain": "Indoors"
   },{
     "content": "[LBA] S19 The Fury of Set Blue (Red atk)",
     "start": "2026-02-11T02:00:00.000Z",
@@ -3144,7 +3282,8 @@ confirmed = [
     "group": "G Raid",
     "season": 19,
     "subgroup": "LBA",
-    "style": "color:white; background-color:blue "
+    "style": "color:white; background-color:blue ",
+    "boss": "Fury of Set"
   },{
     "content": "[GA] ShiroKuro Indoors (Red+Purple TOR / Blue INS) (Yellow atk)",
     "start": "2026-03-03T02:00:00.000Z",
@@ -3152,7 +3291,9 @@ confirmed = [
     "group": "G Raid",
     "season": 27,
     "subgroup": "GA",
-    "style": "color:black; background-color:pink "
+    "style": "color:black; background-color:pink ",
+    "boss": "ShiroKuro",
+    "terrain": "Indoors"
   },{
     "content": "[TA] Yesod Urban Purple (Red atk)",
     "start": "2026-03-17T02:00:00.000Z",
@@ -3160,7 +3301,9 @@ confirmed = [
     "group": "G Raid",
     "season": 83,
     "subgroup": "TA",
-    "style": "color:white; background-color:purple"
+    "style": "color:white; background-color:purple",
+    "boss": "Yesod",
+    "terrain": "Urban"
   },{
     "content": "[JFD] Escort Indoors Purple. High DEF enemies. Defeating an enemy debuffs the others. Enemies heal the others when their HP fall every 25%.",
     "start": "2026-03-24T02:00:00.000Z",
@@ -3168,7 +3311,9 @@ confirmed = [
     "group": "G Raid",
     "season": 45,
     "subgroup": "JFD",
-    "style": "color:white; background-color:purple"
+    "style": "color:white; background-color:purple",
+    "boss": "Escort",
+    "terrain": "Indoors"
   },{
     "content": "[LBA] S20 Tiphareth Purple (Yellow atk)",
     "start": "2026-03-11T02:00:00.000Z",
@@ -3176,11 +3321,9 @@ confirmed = [
     "group": "G Raid",
     "season": 20,
     "subgroup": "LBA",
-    "style": "color:white; background-color:purple"
+    "style": "color:white; background-color:purple",
+    "boss": "Tiphareth"
   },{
-//
-/// CAMPAIGNS
-//
     "content": "2x Bounty",
     "start": "2024-04-29T19:00:00.000Z",
     "end": "2024-05-08T19:00:00.000Z",
@@ -4968,7 +5111,7 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "Stream",
     "style": "color:black;background-color:cyan",
-    "url": "https://www.youtube.com/live/To4kTwOHslU",
+    "url": "https://www.youtube.com/live/To4kTwOHslU"
   },{
     "content": "[Day 1 Stream] BURUAKAFESU! GO~! GO~!! SENSEI♪ 2026 (Stream time not defined yet)",
     "start": "2026-01-17T01:00",

@@ -1,0 +1,679 @@
+document.getElementById("welcomeBaggot").remove()
+
+let siteVersion = 20260310
+let currentVersion = localStorage.getItem("version")
+let lastShitAdded = "2026/03/21: Raid links should now have youtube links too.<br>2026/03/10: Right-clicking a cell lets you create a basic <b>AP hoarding timeline</b> for that cell (preferably a maintenance/event/welfare cell). It'll show up in the maintenance lane. Right clicking it deletes it.<br>2026/02/27: Clicking on a raid should now open its <b>souriki-border</b> page.<br>2026/01/29: Fixed the shifted JP schedule not shifting content before an acceleration period concludes<br>2025/12/15: Clicking on a (future) Maintenance/Stream cell will ask to open its related link, if it's already available and I didn't forget about it.<br>2025/8/8: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
+if ( !currentVersion || Number(currentVersion) < siteVersion ) {
+  Swal.fire({
+    title: "Changelog",
+    html: lastShitAdded
+  })
+  localStorage.setItem("version", siteVersion)
+}
+
+//https://visjs.github.io/vis-timeline/docs/timeline/
+prevRegion = 2
+region = 2 // 0 = confirmed global, 1 = "JP", 2 = both, 3 = current JP
+confirmed.forEach(a=>{
+  a.title = a.content + "<br>Confirmed: " + a.start.toString().substr(0,16).replace("T"," ") + " " + new Date(a.start).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3)
+  if (a.end) {
+    a.duration = Math.ceil((Date.parse(new Date(a.end)) - Date.parse(new Date(a.start)))/(1000*60*60*24))
+    a.title += " ~ " + a.end.toString().substr(0,16).replace("T"," ") + " " + new Date(a.end).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3) +" " + a.duration + "d"
+  }
+  a.title += "(UTC y-m-d)"
+})
+
+function getItems(extraItemsArray){
+  allData = []
+  if ([1,2,3].includes(region)) allData = JSON.parse(JSON.stringify(jpSched))
+  if ([0,2].includes(region)) JSON.parse(JSON.stringify(confirmed)).forEach(a=>allData.push(a))
+  if (region == 2) {
+    //add empty line to separate them
+    allData.push({
+      content: "",
+      start: Math.min(...allData.map(x => Date.parse(x.start)).filter((a)=>!isNaN(a)) ),
+      end: Math.max(...allData.map(x => Date.parse(x.end)).filter((a)=>!isNaN(a))),
+      group: "-",
+      subgroup: "",
+      style: "color:black; font-weight:bold; background-color:black;height:5px "
+    })
+  }
+
+  if (extraItemsArray) allData = allData.concat(extraItemsArray)
+
+  allData.forEach((a,i)=>{
+    a.id = i
+    if (!a.end) a.type = "point"
+  })
+
+  if (prevRegion == 3) {
+    allData.forEach(a=>{
+      if (a.startG) a.start = a.startG
+      if (a.endG) a.end = a.endG
+    })
+    timeline.setCurrentTime(new Date())
+  }
+  else if (region == 3) {
+    allData.forEach(a=>{
+      if (a.startJp) a.start = a.startJp
+      if (a.endJp) a.end = a.endJp
+    })
+    timeline.setCurrentTime(new Date().toLocaleString("ja", { timeZone: "Asia/Tokyo"}))
+  }
+  return new vis.DataSet(allData)
+}
+
+function getGroup(){
+  //colors and shit
+  if (region == 0) {
+    var names = ["G Maint","G Gacha","G Event","G Raid","G Camp","G Other"]
+    var styles = ["red","lightgrey","yellow","pink","lightgreen","lightblue"]
+    var styles2 = ["black","black","black","black","black","black"]
+  }
+  else if ([1,3].includes(region)) {
+    var names = ["J Maint","J Gacha","J Event","J Raid","J Camp","J Other"]
+    var styles = ["red","lightgrey","yellow","pink","lightgreen","lightblue"]
+    var styles2 = ["black","black","black","black","black","black"]
+  }
+  else if (region == 2) {
+    var names = ["G Maint","G Gacha","G Event","G Raid","G Camp","G Other","-","J Maint","J Gacha","J Event","J Raid","J Camp","J Other"]
+    var styles = ["red","lightgrey","yellow","pink","lightgreen","lightblue","white","red","lightgrey","yellow","pink","lightgreen","lightblue"]
+    var styles2 = ["black","black","black","black","black","black","white","black","black","black","black","black","black"]
+  }
+
+  var groups = new vis.DataSet();
+  for (let g = 0; g < names.length; g++) {
+    let add = ""
+    if (names[g] == "-") add = "; height:500px;font-size:0px"
+    groups.add({id: names[g], content: names[g], style: "color:" + styles2[g]+ "; text-align:right; font-weight:bold; width: 80px; background-color:" + styles[g] + add});
+  }
+  return groups
+}
+
+apHoardingItems = {}
+async function createHoardingTips(ev){
+  ev.event.preventDefault()
+  if (!ev.group || !ev.item) return
+  let item = allData[ev.item]
+  let maintEndTime = item.end
+  if (item.subgroup == "hoarding") {
+    response = await Swal.fire({
+      title: "Remove these event's AP hoarding tips?",
+      showCancelButton: true,
+    });
+    if (response.isConfirmed) {
+      apHoardingItems[region] = apHoardingItems[region].filter(i=>{
+        return i.hoardGroup != item.hoardGroup
+      })
+      plotStuff(region, apHoardingItems[region])
+      timeline.moveTo(maintEndTime)
+      currentSelection = item.hoardEvent
+      flashItem(item.hoardEvent)
+    }
+    return
+  }
+  let group = ev.group.substr(0,2) + "Maint"
+  if (!item.group.includes("Maint")) maintEndTime = item.start
+
+  let buffer = await Swal.fire({
+    input: "number",
+    title: "HOARDING AP?\nInput your buffer time:",
+    html: `How many <b style="color:lightblue">hours</b> do you think maintenance could get extendend, or how long after maintenance ends you'll dump your hoarded AP?
+    <br>Setting a higher buffer gives you less AP to hoard, but higher safety from losing everything if maintenance gets extended for too long.
+    <br>Don't forget to add to your buffer the time your BA takes to update, you'll need to buy pakejis, roll, buy more pakejis, roll, post your exploits on /bag/, and clear missions!
+    <br><br>According to what you've clicked, maintenence is supposed to end at
+    <p style='text-align:center;font-size:25px;color:lightblue'>` + new Date(maintEndTime).toISOString().slice(0,-8).replace("T"," ") + " UTC</p>" +
+    "If that's not the correct ending time (because there's no confirmed maint time in the roadmap yet), then add the maintenance duration to the buffer you input (usually <a target='_blank' href='https://forum.nexon.com/bluearchive-en/'> +3~6 hours on Global</a>, and <a target='_blank' href='https://bluearchive.jp/news/newsJump'>+6~8 on JP</a>)",
+    footer: "This very basic AP hoarding guide was done in a hurry, without much thought, so it might be missing something or be completely wrong.<br>It's 100% not my fault if your're dumb enough to trust me, follow this guide and lose your AP!<br>Also, adapt your plans if you've got the AP pakeji up. Or don't make any hoarding plan at all, you might be a happier sensei that way!",
+    showCancelButton: true,
+    didOpen: () => {
+      Swal.getInput().step = "0.5"
+      Swal.getInput().min = "0.5"
+      Swal.getInput().placeholder = "hours"
+      Swal.getInput().value = "6"
+      Swal.getInput().style.textAlign = "center"
+      Swal.getInput().style.color = "white"
+      Swal.getInput().style.fontWeight = "bold"
+      Swal.getInput().select()
+    },
+    inputValidator: (value) => {
+      if (!value) {
+        return "Invalid Value...";
+      }
+    }
+  });
+  if (!buffer || !buffer.isConfirmed) return
+  let apDumpingTime = Date.parse(maintEndTime) + parseFloat(buffer.value)*60*60*1000
+  let hoardGroup = Date.now()
+  let newEntries = [
+    {
+      content: "D",
+      start: new Date(maintEndTime).toLocaleString("ja"),
+      end: new Date(Date.parse(maintEndTime) + 24*60*60*1000).toLocaleString("ja"),
+      title: "DUMP all your hoarded/mailed AP after maint ends and<br>BEFORE they expire at around " + new Date(apDumpingTime).toLocaleString("ja") + " (Y/M/D H:M UTC)<br>Collect and use your cafe AP at that time too.<br><br>Use your PVP refresh + dailies AP before reset.<br><br>Your buffer was set to " + buffer.value + " hours<br><br>Good luck!<br><br>Right-click to delete this event's AP hoarding tips group.",
+      subgroup: "hoarding",
+      hoardGroup: hoardGroup,
+      hoardEvent: ev.item,
+      style: "color:black; background-color:lightgreen",
+      group: group
+    },
+    {
+      content: "3",
+      title: "Collect your daily APs (Cafe + Daily Tasks + PVP refresh + Free Pakeji).<br><br>You should now have 999 on hand and<br>at least (739 + 150 + 90*4 + 10 + ~7*10 club APs) in your mail<br><br>To collect your Cafe AP, and PVP/Raid rewards,<br>you need to have 998 on hand at most.<br>You can lose 1 AP by forfeiting a normal mission.<br><br>Right-click to delete this event's AP hoarding tips group.",
+      subgroup: "hoarding",
+      hoardGroup: hoardGroup,
+      hoardEvent: ev.item,
+      style: "color:black; background-color:lightgreen",
+      group: group
+    },
+    {
+      content: "2",
+      title: "Collect your PVP and raid rewards, if possible.<br>Then collect your cafe AP first, then your dailies to have 999 or 998 AP.<br><br>To collect PVP/raid rewards, you have to hold 998 AP at most.<br>If you're collecting them after reaching 999 AP,<br>you can lose 1 AP by forfeiting a normal mission.<br><br>If you didn't save your daily task APs,<br>then buy AP with PVP coins to reach 999,<br>but don't go further than 999.<br><br>If needed, use any extra AP that gets sent to the mail on hards<br>or whatever after the daily reset, and before the mail AP expires.<br><br>Beware that to collect that mailed AP,<br>your current AP needs to have enough room for that AP<br>(if you're collecting 50 mailed AP, you'll need to have at most 949 AP<br><br>Right-click to delete this event's AP hoarding tips group.",
+      subgroup: "hoarding",
+      hoardGroup: hoardGroup,
+      hoardEvent: ev.item,
+      style: "color:black; background-color:lightgreen",
+      group: group
+    },
+    {
+      content: "1",
+      title: "Collect your cafe AP and use most of your AP in a way<br>that it'll natural regen to the cap (240) by this time tomorrow<br><br>We regen 1 AP every 6 min, or 10AP per hour,<br>so basically, having 0 AP on hand right now should be fine,<br>but you could save some AP to use on hards after reset for the keystone.<br><br>You should save a daily task AP from or 2 until then too, just in case.<br><br>This is to set up so you'll have 999 AP on hand after 24h from now.<br>(739 cafe AP, 240- normal regen, 30+ from the dailies) <br><br>Right-click to delete this event's AP hoarding tips group.",
+      subgroup: "hoarding",
+      hoardGroup: hoardGroup,
+      hoardEvent: ev.item,
+      style: "color:black; background-color:lightgreen",
+      group: group
+    },
+    {
+      content: "0",
+      title: "After " + new Date(apDumpingTime - 7*24*60*60*1000).toLocaleString("ja") + " and before daily reset<br>Visit your club to send its AP to the mail,<br>and start saving your club + login AP in the mail, unless they're about to expire<br><br>You can visit your club anytime during the next days.<br><br>Right-click to delete this event's AP hoarding tips group.<br>",
+      start: new Date(apDumpingTime - 7*24*60*60*1000).toLocaleString("ja"),
+      end: new Date(apDumpingTime - 6*24*60*60*1000).toLocaleString("ja"),
+      subgroup: "hoarding",
+      hoardGroup: hoardGroup,
+      hoardEvent: ev.item,
+      style: "color:black; background-color:lightgreen",
+      group: group
+    },
+  ]
+
+  for (let i = 1 ; i < 4 ; i++) {
+    newEntries[i].end = new Date(apDumpingTime).toLocaleString("ja")
+    apDumpingTime -= 24*60*60*1000
+    newEntries[i].start = new Date(apDumpingTime).toLocaleString("ja")
+    newEntries[i].title = "At around " + newEntries[i].start.slice(0,-3) + " (Y/M/D H:M UTC):<br>" + newEntries[i].title + "<br>"
+  }
+
+  if (!apHoardingItems[region]) apHoardingItems[region] = []
+  apHoardingItems[region] = apHoardingItems[region].concat(newEntries)
+  plotStuff(region, apHoardingItems[region])
+  timeline.moveTo(maintEndTime)
+  currentSelection = ev.item
+  flashItem(ev.item)
+  Swal.fire({
+    title: "AP hoarding timeline created in the Maintenance Lane.",
+    text: "Hover over them to see the details.",
+    toast: true,
+    showConfirmButton: false,
+    timer: 5000,
+    position: "top"
+  })
+
+}
+
+function run(){
+  document.documentElement.style.setProperty("--gridColor","#f5f5f5")
+  changeDarkMode()
+  document.getElementById("spanChangelog").innerText = new Date().toLocaleString("ja").split(" ")[0] + ": I got raped today again... But I won't let it happen tomorrow!"
+  document.getElementById("spanChangelog").innerHTML += "<br>" + lastShitAdded
+  var container = document.getElementById('visualization');
+  timeline = new vis.Timeline(container);
+  timeline.on("click",endSearch)
+  timeline.on("contextmenu", createHoardingTips)
+  timeline.on("select",itemClicked)
+  plotStuff(region)
+  //adding buttons to scroll back to today or the end of the graph
+  btnToday = document.createElement("button")
+  btnToday.innerText = "2day"
+  btnToday.onclick = function(){ timeline.setWindow(new Date(Date.parse(new Date()) - 0.05*60*24*60*60*1000),new Date(Date.parse(new Date()) + 0.95*60*24*60*60*1000)) }
+  btnToday.style.position = "absolute"
+  btnToday.style.top = "1px"
+  btnToday.style.left = "1px"
+  btnToday.style.width = "40px"
+  btnToday.style.height = "48px"
+  container.appendChild(btnToday)
+  btnToday2 = btnToday.cloneNode(true)
+  btnToday2.style.top = "auto"
+  btnToday2.style.bottom = "1px"
+  btnToday2.onclick = function(){ timeline.setWindow(new Date(Date.parse(new Date()) - 0.05*60*24*60*60*1000),new Date(Date.parse(new Date()) + 0.95*60*24*60*60*1000)) }
+  container.appendChild(btnToday2)
+
+  function go2EOS(){
+    let lastDay = Math.max(...allData.map(x => {if (x.end) return Date.parse(x.end)}).filter((a)=>!isNaN(a)))
+    timeline.setWindow(new Date( lastDay - 0.95*60*24*60*60*1000) , new Date( lastDay + 0.05*60*24*60*60*1000) )
+  }
+  btnEOS = document.createElement("img")
+  btnEOS.src = "eos.jpg"
+  btnEOS.onclick = function(){go2EOS()}
+  btnEOS.style.position = "absolute"
+  btnEOS.style.top = "6px"
+  btnEOS.style.left = "38px"
+  btnEOS.style.width = "47px"
+  btnEOS.style.rotate = "-90deg"
+  container.appendChild(btnEOS)
+  btnEOS2 = btnEOS.cloneNode(true)
+  btnEOS2.style.top = "auto"
+  btnEOS2.style.bottom = "6px"
+  btnEOS2.onclick = function(){go2EOS()}
+  container.appendChild(btnEOS2)
+}
+
+function plotStuff(groups, extraItemsArray){
+  var items = getItems(extraItemsArray)
+  var groups = getGroup()
+  var options = {
+    groupHeightMode: "fitItems",
+    zoomKey: "ctrlKey",
+    zoomMin: 0.8*24*60*60*1000,
+    zoomMax: 6.5*30*24*60*60*1000,
+    zoomFriction: 10,
+    start: new Date(Date.parse(new Date()) - 0.05*60*24*60*60*1000),
+    end: new Date(Date.parse(new Date()) + 0.95*60*24*60*60*1000),
+    cluster: false,
+    horizontalScroll: false,
+    moment: function(date) { return vis.moment(date); },
+    orientation: {
+      axis: "both",
+      item: "top"
+    },
+    tooltip: {
+      followMouse: true,
+      delay: 0,
+      overflowMethod: "cap",
+      template: function (item, element, data) {
+        var html = "<a id='tooltip" + item + "'>"+item.title+"</a>"
+        if (item.start) {
+          let now = new Date()
+          if (region == 3 ) now = now.toLocaleString("ja", { timeZone: "Asia/Tokyo"})
+          now = Date.parse(now)
+          let start = Date.parse(new Date(item.start))
+          let end;
+          if (item.end) end = Date.parse(new Date(item.end))
+          if ( now > start && now < end) { 
+            let timeGone = (now - start)/1000/60/60/24
+            let hoursGone = timeGone%1*24
+            let minGone = hoursGone%1*60
+            html += "<br>>Started ~" + ("0"+Math.floor(timeGone).toFixed(0)).slice(-2) + "d " + ("0"+Math.floor(hoursGone).toFixed(0)).slice(-2) + "h " + ("0"+Math.floor(minGone).toFixed(0)).slice(-2) + "m ago"
+            if (end) {
+              let timeLeft = (end - now)/1000/60/60/24
+              let hoursLeft = timeLeft%1*24
+              let minLeft = hoursLeft%1*60
+              html += "<br>>Ends in ~" + ("0"+Math.floor(timeLeft).toFixed(0)).slice(-2) + "d " + ("0"+Math.floor(hoursLeft).toFixed(0)).slice(-2) + "h " + ("0"+Math.floor(minLeft).toFixed(0)).slice(-2) + "m"
+            }
+          }
+          else  {
+            if ( now < start ) {
+              let time2Start = (start - now)/1000/60/60/24
+              let hours2Start = time2Start%1*24
+              let min2Start = hours2Start%1*60
+              let timeLeft = (end - now)/1000/60/60/24
+              let hoursLeft = timeLeft%1*24
+              let minLeft = hoursLeft%1*60
+              html += "<br>>Starts in ~" + Math.floor(time2Start).toFixed(0) + "d " + Math.floor(hours2Start).toFixed(0) + "h " + Math.floor(min2Start).toFixed(0) + "m"
+              if (item.group.includes("Maint") && timeLeft < 7) html += "<br>>Ends in ~" + Math.floor(timeLeft).toFixed(0).slice(-2) + "d " + ("0"+Math.floor(hoursLeft).toFixed(0)).slice(-2) + "h " + ("0"+Math.floor(minLeft).toFixed(0)).slice(-2) + "m"
+            }
+            else {
+              if (end) {
+                let timeLeft = -((end - now)/1000/60/60/24).toFixed(0)
+                html += "<br>>Ended ~" + Math.floor(timeLeft).toFixed(0) + " days ago"
+              }
+              else {
+                let timeLeft = -((start - now)/1000/60/60/24).toFixed(0)
+                html += "<br>>Added ~" + Math.floor(timeLeft).toFixed(0) + " days ago"
+              }
+            }
+          }
+        }
+        return html;
+      },
+    },
+    selectable: true,
+    editable: {
+      add: false,         // add new items by double tapping
+      updateTime: false,  // drag items horizontally
+      updateGroup: false, // drag items from one group to another
+      remove: false,       // delete an item by tapping the delete button top right
+      overrideItems: true  // allow these options to override item.editable
+    },
+  };
+  timeline.setOptions(options);
+  timeline.setGroups(groups);
+  timeline.setItems(items);
+  for (let i = 0 ; i < document.getElementsByClassName("regionSelect").length ; i++) document.getElementById("reg"+i).style.backgroundColor=""
+  document.getElementById("reg"+region).style.backgroundColor = "lightblue"
+
+  let couponsDiv = document.getElementById("couponCodes")
+  if (region != 3) {
+    let couponDates = Object.keys(coupons).filter(d=>{
+      let couponDate = Date.parse(d)
+      if (couponDate > Date.now()) return d
+    })
+    if (Object.keys(couponDates).length > 0) couponsDiv.innerHTML = "<a style='color:red' href='https://mcoupon.nexon.com/bluearchive'>Global Coupons</a> (UTC): "
+    else return
+    Object.keys(couponDates).forEach((date,i)=>{
+      date = couponDates[date]
+      coupons[date][coupons[date].length -1] = "<b style='color:lightblue'>" + coupons[date][coupons[date].length -1] + "</b>"
+      couponCodes = coupons[date].join(", ")
+      couponsDiv.innerHTML += "Until <b style='color:red'>" + date.substr(5) + "</b>: " + couponCodes
+      if (i < Object.keys(couponDates).length -1) couponsDiv.innerHTML += " | "
+    })
+  }
+  else couponsDiv.innerHTML = ""
+}
+
+function searchThis(searchInput){
+  searchboxIsFocused = 1
+  sType = document.getElementById("selectSearchType").value
+  //still gotta make it search multiple words...
+  searchInput = searchInput.toLowerCase().split(" ")
+  let results = allData.filter(a=>{ 
+    if (!["G Maint","J Maint","-"].includes(a.group) || a.subgroup == "Stream") {
+      let bing = []
+      for (let i = 0 ; i < searchInput.length; i++) {
+        let searchMatch = 0
+        if (searchInput[i][0] != "-") searchMatch = a.content.toLowerCase().includes(searchInput[i])
+        else searchMatch = !a.content.toLowerCase().includes(searchInput[i].substr(1,searchInput[i].length))
+        if (searchMatch) bing.push(1)
+        else i = searchInput.length
+      }
+      if (bing.length == searchInput.length) return true 
+    }
+  })
+  if (sType != "All") results = results.filter(a=>a.group.includes(sType))
+  results = results.sort((a,b) => Date.parse(a.start) < Date.parse(b.start) ? 1 : -1)
+  document.getElementById("searchResultsSpan").innerHTML = ""
+  document.getElementById("searchResultsSpan").style.display = "block"
+  document.getElementById("EndOfSearch").style.display = "inline-block"
+  let count = 0
+  for (let i in results) {
+      let el = document.createElement("div")
+      let chars = []
+      if (results[i].content.includes("</a>")) {
+        let arr = results[i].content.split("</a>")
+        for (j in arr) {
+          let arr2 = arr[j].split(">")
+          if (arr2[arr2.length-1]) chars.push(arr2[arr2.length-1].trim())
+        }
+        chars = chars.join(" ")
+      }
+      else {
+        chars = results[i].content
+      }
+      let resultDate = new Date(results[i].start).toISOString()
+      let resultDateEnd = new Date(results[i].end).toISOString()
+      let resultType = results[i].group
+      let resultId = results[i].id
+      let duration = results[i].duration
+      el.innerHTML = "["+ resultDate.split("T")[0] + " - " + resultDateEnd.split("T")[0] + " "
+
+
+      if (results[i].end) {
+        let now = Date.parse(new Date())
+        let start = Date.parse(new Date(results[i].start))
+        let end = Date.parse(new Date(results[i].end))
+        if (now < start) {
+          let timeLeft = (start - now)/1000/60/60/24
+          let hoursLeft = timeLeft%1*24
+          let minLeft = hoursLeft%1*60
+          el.innerHTML += "in ~" + Math.floor(timeLeft).toFixed(0)
+          if (region != 3 && !results[i].title.includes("Confirmed")) el.innerHTML += "?"
+          el.innerHTML += " +"
+        }
+      }
+
+
+      el.innerHTML += ("0"+duration).slice(-3)
+      if (region != 3 && !results[i].title.includes("Confirmed")) el.innerHTML += "?"
+      el.innerHTML += "] &emsp;" + chars
+      el.id = "searchResult" + resultId
+      if (count%2 == 0) el.style.backgroundColor = "#999999"
+      count++
+      el.className = "searchResults"
+      el.onclick = function(e){
+        timeline.setSelection( resultId , { focus:1, zoom:0 })
+        currentSelection = resultId
+        flashItem(resultId)
+        endSearch()
+      }
+      document.getElementById("searchResultsSpan").appendChild(el) 
+
+  }
+}
+
+currentSelection = -1
+function flashItem(resultId) {
+  let c = 0
+  while (c <= 15) {
+    if (c%2==0) setTimeout(function(){if (currentSelection == resultId) timeline.setSelection( [] )},c*200)
+    else setTimeout(function(){if (currentSelection == resultId) timeline.setSelection( resultId , { focus:1, zoom:0 })},c*200)
+    c++
+  }
+}
+
+async function itemClicked(item){
+  let itemId = item.items[0]
+  if (!itemId) {
+    currentSelection = -1
+    return
+  }
+  currentSelection = itemId
+  if (allData[itemId]?.url) {
+    openExternalLink(allData[itemId].url)
+    return
+  }
+  else if (allData[itemId]?.season) {
+    let url = "https://www.souriki-border.com/"
+    let youtube = "https://www.youtube.com/results?search_query="
+    let translations = {
+      "Red": "軽装備",
+      "Yellow": "重装甲",
+      "Blue": "特殊装甲",
+      "Purple": "弾力装甲",
+      "Green": "複合装甲",
+
+      "Binah": "ビナー",
+      "Chesed": "ケセド",
+      "ShiroKuro": "シロクロ",
+      "Hieronymus": "ヒエロ",
+      "Kaiten": "(カイテン OR kaiten)",
+      "Peroro": "ペロロ",
+      "Hod": "ホド",
+      "Goz": "ゴズ",
+      "Gregorius": "グレゴリオ",
+      "Hovercraft": "ホバークラフト",
+      "Kurokage": "クロカゲ",
+      "Geburah": "ゲブラ",
+      "Yesod": "イェソド",
+
+      "Fury of Set": "セトの憤怒",
+      "Chokmah": "コクマー",
+      "Tiphareth": "ティファレト",
+
+      "TA": "総力戦",
+      "GA": "大決戦",
+      "JFD": "合同火力演習",
+      "LBA": "制約解除決戦",
+
+      "Urban": "市街地",
+      "Indoors": "屋内",
+      "Outdoors": "屋外",
+
+      "Shooting": "射撃演習",
+      "Defense": "防御演習",
+      "Assault": "突破演習",
+      "Breakthrough": "突破演習",
+      "Escort": "護衛演習",
+
+      "INS": "INS",
+      "TOR": "(TOR OR TMT)",
+      "LUN": "LUN"
+    }
+
+    function findJpRaid(itemId) {
+      let selected = allData[itemId]
+      let start = Date.parse(selected.start)
+      let end = Date.parse(selected.end)
+      let jpItem = allData.find(a=>{
+        if (a.boss && a.boss == selected.boss && a.startG) {
+          let checkStart = Date.parse(a.startG)
+          let checkEnd = Date.parse(a.endG)
+          if (checkStart + 1*24*60*60*1000 > start && checkStart - 1*24*60*60*1000 < start && checkEnd + 1*24*60*60*1000 > end && checkEnd - 1*24*60*60*1000 < end ) {
+            return a
+          }
+        }
+      })
+      return jpItem
+    }
+
+    let selectedItem = allData[itemId]
+    if (!selectedItem.startJp) selectedItem = findJpRaid(itemId) || allData[itemId]
+
+    youtube += translations[selectedItem.subgroup]
+    if (selectedItem.boss) youtube += "+" + translations[selectedItem.boss]
+    if (selectedItem.terrain) youtube += "+" + translations[selectedItem.terrain]
+    if (selectedItem.startJp) youtube += "+after:" + new Date(Date.parse(selectedItem.startJp) - 1*24*60*60*1000).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
+    if (selectedItem.endJp) youtube += "+before:" + new Date(Date.parse(selectedItem.endJp) + 14*24*60*60*1000).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
+    if (selectedItem.subgroup == "TA") {
+      url += "total-assault"
+      youtube = [youtube]
+    }
+    else if (selectedItem.subgroup == "JFD") {
+      url += "joint-firing-drill"
+      youtube = [youtube]
+    }
+    else if (selectedItem.subgroup == "GA") {
+      url += "grand-assault"
+      if (selectedItem.defType) {
+        let links = []
+        for (let i in selectedItem.defType) {
+          links.push(youtube + "+" + translations[i] + "+" + translations[selectedItem.defType[i]] )
+        }
+        youtube = links
+      }
+      else youtube = [youtube]
+    }
+    else if (selectedItem.subgroup == "LBA") {
+      url += "final-restriction-release/"
+      if (selectedItem.content.toLowerCase().includes("fury of set")) {
+        if (selectedItem.content.split(" (")[0].includes("Blue")) url += "fury-of-set/special"
+        else url += "fury-of-set/light"
+      }
+      else if (selectedItem.content.toLowerCase().includes("chokmah")) {
+        if (selectedItem.content.split(" (")[0].includes("Blue")) url += "chokmah/special"
+        else url += "chokmah/heavy"
+      }
+      else if (selectedItem.content.toLowerCase().includes("tiphareth")) {
+        if (selectedItem.content.split(" (")[0].includes("Purple")) url += "tiphareth/elastic"
+        else url += "tiphareth/heavy"
+      }
+      openExternalLink(url, [youtube])
+      return
+    }
+    url += "/" + selectedItem.season
+    openExternalLink(url, youtube)
+  }
+}
+
+async function openExternalLink(url, youtube){
+  let htmlContent = "Do you really want to visit <b style='color:red'>" + url + "</b> ?<br><br>Click OK if you know the link is safe or accept the risks."
+  if (youtube) {
+    htmlContent += "<br><br>Alternatively, you could search youtube with something like:"
+    youtube.forEach(link=>{
+      htmlContent += "<br><br><a href='" + link + "' target='_blank'>" + link + "<a>"  
+    })
+  }
+  let confirmation = await Swal.fire({
+    title: "Accessing another site.",
+    html: htmlContent,
+    showCancelButton: true,
+    returnFocus: false,
+  })
+  if (confirmation.isConfirmed) window.open(url, "_blank")
+}
+
+function endSearch(){
+  if (searchboxIsFocused == 1) {
+    document.getElementById("searchResultsSpan").style.display = "none"
+    document.getElementById("EndOfSearch").style.display = "none"
+    document.activeElement.blur()
+    searchboxIsFocused = 0
+  }
+}
+
+var currentFocus = -1;
+document.getElementById("searchbox").addEventListener("keydown", function(e) {
+  document.getElementById("searchResultsSpan").style.display = "block"
+  var x = document.getElementById("searchResultsSpan")
+  if (x) x = x.getElementsByTagName("div")
+  if (e.keyCode == 40) {
+    currentFocus++;
+    addActive(x);
+  } 
+  else if (e.keyCode == 38) {
+    currentFocus--;
+    addActive(x);
+  } 
+  else if (e.keyCode == 13) {
+    e.preventDefault();
+    if (currentFocus > -1) {
+      if (x) x[currentFocus].click();
+    }
+  }
+});
+function addActive(x) {
+    if (!x) return false;
+    removeActive(x);
+    if (currentFocus >= x.length) currentFocus = 0;
+    if (currentFocus < 0) currentFocus = (x.length - 1);
+    x[currentFocus].classList.add("selectedResult");
+  }
+function removeActive(x) {
+  for (var i = 0; i < x.length; i++) {
+    x[i].classList.remove("selectedResult");
+  }
+}
+
+var searchboxIsFocused = 0
+document.onkeydown = function(e){
+  if (e.ctrlKey && e.keyCode == 'F'.charCodeAt(0)){
+    e.preventDefault();
+    document.getElementById("searchbox").focus()
+    window.scrollTo(0,0)
+  }
+  else if (e.key == "Escape") {
+    endSearch()
+  }
+  else if (searchboxIsFocused == 0) { 
+    if (e.key == "ArrowLeft") {
+      timeline.moveTo(timeline.getWindow().start)
+    }
+    else if (e.key == "ArrowRight") {
+      timeline.moveTo(timeline.getWindow().end)
+    }
+  }
+}
+
+function changeDarkMode() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+  if (document.documentElement.style.getPropertyValue("--gridColor") == "#f5f5f5") {
+    document.documentElement.style.setProperty("--gridColor","#282A2E")
+    document.getElementById("btnDarkMode").style.backgroundColor = ""
+  }
+  else {
+    document.documentElement.style.setProperty("--gridColor","#f5f5f5")
+    document.getElementById("btnDarkMode").style.backgroundColor = "lightblue"
+  }
+}
+
+run()
