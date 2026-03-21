@@ -612,22 +612,22 @@ async function itemClicked(item){
   }
   else if (allData[itemId]?.season) {
     let url = "https://www.souriki-border.com/"
-    if (allData[itemId].subgroup == "TA") url += "total_assault/season" 
-    else if (allData[itemId].subgroup == "JFD") url += "joint_firing_drill/season"
-    else if (allData[itemId].subgroup == "GA") url += "decisive_battle/season"
+    if (allData[itemId].subgroup == "TA") url += "total-assault" 
+    else if (allData[itemId].subgroup == "JFD") url += "joint-firing-drill"
+    else if (allData[itemId].subgroup == "GA") url += "grand-assault"
     else if (allData[itemId].subgroup == "LBA") {
-      url += "final-restriction-release"
+      url += "final-restriction-release/"
       if (allData[itemId].content.toLowerCase().includes("fury of set")) {
-        if (allData[itemId].content.split(" (")[0].includes("Blue")) url += "/1"
-        else url += "/2"
+        if (allData[itemId].content.split(" (")[0].includes("Blue")) url += "fury-of-set/special"
+        else url += "fury-of-set/light"
       }
       else if (allData[itemId].content.toLowerCase().includes("chokmah")) {
-        if (allData[itemId].content.split(" (")[0].includes("Blue")) url += "/3"
-        else url += "/4"
+        if (allData[itemId].content.split(" (")[0].includes("Blue")) url += "chokmah/special"
+        else url += "chokmah/heavy"
       }
       else if (allData[itemId].content.toLowerCase().includes("tiphareth")) {
-        if (allData[itemId].content.split(" (")[0].includes("Purple")) url += "/5"
-        else url += "/6"
+        if (allData[itemId].content.split(" (")[0].includes("Purple")) url += "tiphareth/elastic"
+        else url += "tiphareth/heavy"
       }
       openExternalLink(url)
       return
