@@ -474,6 +474,8 @@ async function itemClicked(item){
   else if (allData[itemId]?.season) {
     let url = "https://www.souriki-border.com/"
     let youtube = "https://www.youtube.com/results?search_query="
+    let planaUrl = "https://www.plana-stats.com/JP/"
+
     let translations = {
       "Red": "軽装備",
       "Yellow": "重装甲",
@@ -518,7 +520,6 @@ async function itemClicked(item){
       "TOR": "(TOR OR TMT)",
       "LUN": "LUN"
     }
-
     function findJpRaid(itemId) {
       let selected = allData[itemId]
       let start = Date.parse(selected.start)
@@ -545,6 +546,7 @@ async function itemClicked(item){
     if (selectedItem.endJp) youtube += "+before:" + new Date(Date.parse(selectedItem.endJp) + 14*24*60*60*1000).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
     if (selectedItem.subgroup == "TA") {
       url += "total-assault"
+      planaUrl += "TotalAssault"
       youtube = [youtube]
     }
     else if (selectedItem.subgroup == "JFD") {
@@ -553,6 +555,7 @@ async function itemClicked(item){
     }
     else if (selectedItem.subgroup == "GA") {
       url += "grand-assault"
+      planaUrl += "GrandAssault"
       if (selectedItem.defType) {
         let links = []
         for (let i in selectedItem.defType) {
@@ -576,25 +579,37 @@ async function itemClicked(item){
         if (selectedItem.content.split(" (")[0].includes("Purple")) url += "tiphareth/elastic"
         else url += "tiphareth/heavy"
       }
-      openExternalLink(url, [youtube])
+
+      let htmlContent = "<br>Souriki-Border:<br><a href='" + url + "' target='_blank'>" + url + "</a>"
+      htmlContent += "<br><br>Youtube:<br><a href='" + youtube + "' target='_blank'>" + youtube + "<a><br>"  
+      openExternalLink(url, htmlContent)
       return
     }
     url += "/" + selectedItem.season
-    openExternalLink(url, youtube)
+    htmlContent = "<br>Souriki-Border:<br><a href='" + url + "' target='_blank'>" + url + "</a>"
+
+    if (["TA","GA"].includes(selectedItem.subgroup) && selectedItem.startJp) {
+      planaUrl += "/" + selectedItem.startJp.split("T")[0].replace(/-|\//g,"") + "/Rankings"
+      htmlContent += "<br><br>Plana-Stats<br><a href='" + planaUrl + "' target='_blank'>" + planaUrl + "</a>"
+    }
+
+    htmlContent += "<br><br>Youtube:"
+    youtube.forEach(link=>{
+      htmlContent += "<br><a href='" + link + "' target='_blank'>" + link + "<a><br>"  
+    })
+    openExternalLink(url, htmlContent)
   }
 }
 
-async function openExternalLink(url, youtube){
-  let htmlContent = "Do you really want to visit <b style='color:red'>" + url + "</b> ?<br><br>Click OK if you know the link is safe or accept the risks."
-  if (youtube) {
-    htmlContent += "<br><br>Alternatively, you could search youtube with something like:"
-    youtube.forEach(link=>{
-      htmlContent += "<br><br><a href='" + link + "' target='_blank'>" + link + "<a>"  
-    })
-  }
+async function openExternalLink(url, extraContent){
+  let htmlContent = "Do you really want to visit <b style='color:red'>" + url + "</b> ?<br><br>Only click OK "
+  if (extraContent) htmlContent += ", or alternative hyperlinks, "
+  htmlContent += "if you know the link is safe or accept the risks.<br>"
+  if (extraContent) htmlContent += extraContent
   let confirmation = await Swal.fire({
-    title: "Accessing another site.",
+    title: "Accessing external website(s).",
     html: htmlContent,
+    showConfirmButton: !extraContent,
     showCancelButton: true,
     returnFocus: false,
   })
