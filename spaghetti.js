@@ -44,6 +44,9 @@ function getItems(extraItemsArray){
   allData.forEach((a,i)=>{
     a.id = i
     if (!a.end) a.type = "point"
+    if (a.url || a.group.includes("Raid")) {
+      a.content = "<u>" + a.content + "</u>"
+    }
   })
 
   if (prevRegion == 3) {
@@ -218,7 +221,6 @@ async function createHoardingTips(ev){
     timer: 5000,
     position: "top"
   })
-
 }
 
 function run(){
@@ -477,11 +479,11 @@ async function itemClicked(item){
     let planaUrl = "https://www.plana-stats.com/JP/"
 
     let translations = {
-      "Red": "軽装備",
-      "Yellow": "重装甲",
-      "Blue": "特殊装甲",
-      "Purple": "弾力装甲",
-      "Green": "複合装甲",
+      "Red": "(爆発 OR 軽装備)",
+      "Yellow": "(貫通 OR 重装甲)",
+      "Blue": "(神秘 OR 特殊装甲)",
+      "Purple": "(振動 OR 弾力装甲)",
+      "Green": "(分解 OR 複合装甲)",
 
       "Binah": "ビナー",
       "Chesed": "ケセド",
@@ -497,7 +499,7 @@ async function itemClicked(item){
       "Geburah": "ゲブラ",
       "Yesod": "イェソド",
 
-      "Fury of Set": "セトの憤怒",
+      "Fury of Set": "セト",
       "Chokmah": "コクマー",
       "Tiphareth": "ティファレト",
 
@@ -541,13 +543,15 @@ async function itemClicked(item){
 
     youtube += translations[selectedItem.subgroup]
     if (selectedItem.boss) youtube += "+" + translations[selectedItem.boss]
-    if (selectedItem.terrain) youtube += "+" + translations[selectedItem.terrain]
+    //if (selectedItem.terrain) youtube += "+" + translations[selectedItem.terrain]
     if (selectedItem.startJp) youtube += "+after:" + new Date(Date.parse(selectedItem.startJp) - 1*24*60*60*1000).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
-    if (selectedItem.endJp) youtube += "+before:" + new Date(Date.parse(selectedItem.endJp) + 14*24*60*60*1000).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
+    let endDate = 70*24*60*60*1000
+    endDate = new Date(Date.parse(selectedItem.endJp) + endDate).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
+    if (selectedItem.endJp) youtube += "+before:" + endDate
     if (selectedItem.subgroup == "TA") {
       url += "total-assault"
       planaUrl += "TotalAssault"
-      youtube = [youtube]
+      youtube = [youtube + "+" + translations.TOR]
     }
     else if (selectedItem.subgroup == "JFD") {
       url += "joint-firing-drill"
@@ -559,7 +563,7 @@ async function itemClicked(item){
       if (selectedItem.defType) {
         let links = []
         for (let i in selectedItem.defType) {
-          links.push(youtube + "+" + translations[i] + "+" + translations[selectedItem.defType[i]] )
+          links.push(youtube + "+" + translations[selectedItem.defType[i]] + "+" + translations[i] )
         }
         youtube = links
       }
@@ -579,40 +583,60 @@ async function itemClicked(item){
         if (selectedItem.content.split(" (")[0].includes("Purple")) url += "tiphareth/elastic"
         else url += "tiphareth/heavy"
       }
-
-      let htmlContent = "<br>Souriki-Border:<br><a href='" + url + "' target='_blank'>" + url + "</a>"
-      htmlContent += "<br><br>Youtube:<br><a href='" + youtube + "' target='_blank'>" + youtube + "<a><br>"  
+      youtube += "+" + translations[selectedItem.defType]
+      let htmlContent = "<br>Souriki-Border: <a href='" + url + "' target='_blank'>" + url + "</a>"
+      htmlContent += "<br><br>Youtube:<br><a href='" + youtube + "' target='_blank'>" + youtube + "<a><br>"
       openExternalLink(url, htmlContent)
       return
     }
     url += "/" + selectedItem.season
-    htmlContent = "<br>Souriki-Border:<br><a href='" + url + "' target='_blank'>" + url + "</a>"
+    htmlContent = "<br>Souriki-Border: <a href='" + url + "' target='_blank'>" + url + "</a>"
 
     if (["TA","GA"].includes(selectedItem.subgroup) && selectedItem.startJp) {
       planaUrl += "/" + selectedItem.startJp.split("T")[0].replace(/-|\//g,"") + "/Rankings"
-      htmlContent += "<br><br>Plana-Stats<br><a href='" + planaUrl + "' target='_blank'>" + planaUrl + "</a>"
+      htmlContent += "<br><br>Plana-Stats: <a href='" + planaUrl + "' target='_blank'>" + planaUrl + "</a>"
     }
 
     htmlContent += "<br><br>Youtube:"
-    youtube.forEach(link=>{
-      htmlContent += "<br><a href='" + link + "' target='_blank'>" + link + "<a><br>"  
+    youtube.forEach((link,i)=>{
+      htmlContent += "<br>"
+      if (selectedItem.subgroup == "GA") {
+        htmlContent += Object.keys(selectedItem.defType)[i] + ": "
+      } 
+      htmlContent += "<a href='" + link + "' target='_blank'>" + link + "<a>"  
     })
+    htmlContent += "<br>"
+    if (selectedItem.subgroup == "GA") htmlContent += `Removing the difficulty + color from any search above (everything after the dates) will show more videos than all links together.<br>Some uploads contain all colors, instead of just one, so they might not show up in those links.<br><br>`
+    htmlContent += `For older clears, remove/change the "after:yyyy-mm-dd" from the search and maybe add the terrain`
+    if (selectedItem.terrain) htmlContent += ", which for this one should be <a style='color:red'>" + translations[selectedItem.terrain] + "</a> (" + selectedItem.terrain + ")" 
+    htmlContent += `.<br>`
+
+    htmlContent += `<br>Keywords of interest:<br>`
+    if (["TA", "GA"].includes(selectedItem.subgroup)) htmlContent += `- Difficulties: "(Hardcore OR HC)", "EX", "INS", "(TOR OR TMT)", "LUN".<br>`
+    htmlContent += `- Damage/Armor type: <a style='color:red'>Red: "(爆発 OR 軽装備)"</a> | <a style='color:yellow'>Yellow: "(貫通 OR 重装甲)"</a> | <a style='color:cyan'>Blue: "(神秘 OR 特殊装甲)"</a> | <a style='color:purple'>Purple: "(振動 OR 弾力装甲)"</a>| <a style='color:green'>Green: "(分解 OR 複合装甲)"</a><br>`
+    htmlContent += `- Terrain: <a style='color:red'>市街地 (Urban)</a> | 屋内 (Indoors) | <a style='color:green'>屋外 (Outdoors/Field)</a>.<br>`
+    if (["TA", "GA"].includes(selectedItem.subgroup)) htmlContent += `- Number of units: 1凸, 2凸, etc.<br>`
+    htmlContent += `- Don't use a specific student: add "なし" after the student's name (ex: シミコなし. Get her name in the <a href='https://bluearchive.wiki/wiki/Characters' target='_blank'>wiki</a>).<br>`
+    htmlContent += `<br>The more keywords you add, the less results you'll see, even if they should be valid. Worst offenders are the number of units and "no X student". Some TA uploads don't even specify the difficulty... `
     openExternalLink(url, htmlContent)
   }
 }
 
 async function openExternalLink(url, extraContent){
-  let htmlContent = "Do you really want to visit <b style='color:red'>" + url + "</b> ?<br><br>Only click OK "
+  let htmlContent = "Do you really want to visit <b style='color:red'>" + url + "</b> ?<br><br><b>Only click OK "
   if (extraContent) htmlContent += ", or alternative hyperlinks, "
-  htmlContent += "if you know the link is safe or accept the risks.<br>"
+  htmlContent += "if you know the link is safe or accept the risks.</b><br>"
   if (extraContent) htmlContent += extraContent
-  let confirmation = await Swal.fire({
-    title: "Accessing external website(s).",
+  let swalData = {
+    title: "<a style='color:red'>Accessing external website(s)</a>",
     html: htmlContent,
     showConfirmButton: !extraContent,
     showCancelButton: true,
     returnFocus: false,
-  })
+    width: "70%",
+  }
+  if (document.getElementById("btnDarkMode").style.backgroundColor == "lightblue") swalData["background"] = "lightgrey"
+  let confirmation = await Swal.fire(swalData)
   if (confirmation.isConfirmed) window.open(url, "_blank")
 }
 

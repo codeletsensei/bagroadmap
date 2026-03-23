@@ -340,7 +340,16 @@ confirmed = [
     "end": "2026-03-10T08:00:00.000Z",
     "group": "G Maint",
     "subgroup": "",
-    "style": "color:red; background-color:red; height:15px"
+    "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3393151"
+  },{
+    "content": "EOS",
+    "start": "2026-03-24T02:00:00.000Z",
+    "end": "2026-03-24T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3403455"
   },{
 //
 /// GASHA
@@ -3324,6 +3333,19 @@ confirmed = [
     "style": "color:white; background-color:purple",
     "boss": "Tiphareth"
   },{
+    "content": "[GA] Hieronymus Urban (Red+Blue TOR / Purple INS) (Red atk)",
+    "start": "2026-03-31T02:00:00.000Z",
+    "end": "2026-04-06T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 28,
+    "subgroup": "GA",
+    "style": "color:black; background-color:pink ",
+    "boss": "Hieronymus",
+    "terrain": "Urban"
+  },{
+//
+/// CAMPAIGNS
+//
     "content": "2x Bounty",
     "start": "2024-04-29T19:00:00.000Z",
     "end": "2024-05-08T19:00:00.000Z",
@@ -4479,6 +4501,13 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Hard",
+    "start": "2026-04-03T19:00:00.000Z",
+    "end": "2026-04-06T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
     "content": "<b>2x XP</b>",
     "start": "2026-03-13T19:00:00.000Z",
     "end": "2026-03-15T19:00:00.000Z",
@@ -5256,7 +5285,7 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:lightblue"
   },{
-    "content": "[PVP] Season 10. Urban.",
+    "content": "[PVP] Season 10 (Urban)",
     "start": "2026-03-24T02:00:00.000Z",
     "end": "2026-04-07T02:00:00.000Z",
     "group": "G Other",
@@ -5279,7 +5308,7 @@ confirmed = [
   },{
     "content": "[Main Story] V6C3",
     "start": "2026-03-31T02:00:00.000Z",
-    "end": "2026-04-14T02:00:00.000Z",
+    "end": "2026-04-13T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
@@ -5290,6 +5319,20 @@ confirmed = [
     "group": "G Other",
     "subgroup": "",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[GA Shop] Wakamo (Swimsuit). Blue.",
+    "start": "2026-03-31T19:00:00.000Z",
+    "end": "2026-04-13T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Permit Shop] Hikari + Nozomi",
+    "start": "2026-03-31T19:00:00.000Z",
+    "end": "2026-04-13T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightgrey"
   }
 ]
 
