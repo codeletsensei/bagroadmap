@@ -379,7 +379,7 @@ function searchThis(searchInput){
   //still gotta make it search multiple words...
   searchInput = searchInput.toLowerCase().split(" ")
   let results = allData.filter(a=>{ 
-    if (!["G Maint","J Maint","-"].includes(a.group) || a.subgroup == "Stream") {
+    if (!["G Maint","J Maint","-"].includes(a.group) || ["Stream" , "Acceleration"].includes(a.subgroup)) {
       let bing = []
       for (let i = 0 ; i < searchInput.length; i++) {
         let searchMatch = 0
