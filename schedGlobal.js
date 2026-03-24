@@ -2398,6 +2398,7 @@ confirmed = [
     "url": "https://bluearchive.nexon.com/user/myoffice"
   },{
     "content": "[R] Radiant Moon, Raucous Dream",
+    "jpName": "月華夢騒",
     "start": "2026-03-24T02:00:00.000Z",
     "end": "2026-03-31T02:00:00.000Z",
     "group": "G Event",
@@ -2412,6 +2413,7 @@ confirmed = [
     "style": "color:black; background-color:yellow"
   },{
     "content": "[Main] Winter Skies Renaissance ～On Wholesome Cultural Exchange～",
+    "jpName": "冬空の文芸復興～健全なる文化の交流について～",
     "start": "2026-04-07T02:00:00.000Z",
     "end": "2026-04-21T02:00:00.000Z",
     "group": "G Event",
@@ -3342,6 +3344,16 @@ confirmed = [
     "style": "color:black; background-color:pink ",
     "boss": "Hieronymus",
     "terrain": "Urban"
+  },{
+    "content": "[JFD] Assault Outdoors Red. Buffed special, debuffed strikers. Healers with blue atk buff scarecrow's max HP",
+    "start": "2026-04-14T02:00:00.000Z",
+    "end": "2026-04-20T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 45,
+    "subgroup": "JFD",
+    "style": "color:white; background-color:red",
+    "boss": "Escort",
+    "terrain": "Indoors"
   },{
 //
 /// CAMPAIGNS

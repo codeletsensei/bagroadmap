@@ -44,7 +44,7 @@ function getItems(extraItemsArray){
   allData.forEach((a,i)=>{
     a.id = i
     if (!a.end) a.type = "point"
-    if (a.url || a.group.includes("Raid")) {
+    if (a.url || a.group.includes("Raid") || (a.group == "G Event" && a.jpName) ) {
       a.content = "<u>" + a.content + "</u>"
     }
   })
@@ -462,14 +462,36 @@ function flashItem(resultId) {
   }
 }
 
-async function itemClicked(item){
+async function itemClicked(item) {
   let itemId = item.items[0]
   if (!itemId) {
     currentSelection = -1
     return
   }
   currentSelection = itemId
-  if (allData[itemId]?.url) {
+  let selectedItem = allData[itemId]
+
+  if ( allData[itemId].group.includes("Event") && allData[itemId].jpName ) {
+    if ( allData[itemId].group.includes("G ") ) {
+      let query = allData.findLast(i=>{ if (i.jpName && i.group == "J Event") return i.jpName == selectedItem.jpName })
+      console.log(query)
+      if (query) selectedItem = query
+    }
+    let htmlContent = ""
+    let eventTitle = selectedItem.jpName.split("～")
+    if (selectedItem.jpName[0] == "～") eventTitle = eventTitle[1]
+    else eventTitle = eventTitle[0]
+    let youtube = "https://www.youtube.com/results?search_query=ブルアカ+チャレンジ+after:" + new Date(Date.parse(selectedItem.startJp) - 1*24*60*60*1000).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-") + "+" +  eventTitle
+    htmlContent += "<br><br>WIKI: <a href='" + selectedItem.url + "' target='_blank'>" + selectedItem.url + "</a><br><br>"
+    htmlContent += "Challenges (Youtube): <a href='" + youtube + "' target='_blank'>" + youtube + "</a><br>(Some events don't have challenges)<br><br>"
+    if (eventTitle != selectedItem.jpName) {
+      htmlContent += "The event's japanese title may have been shortened in the youtube search query, because some uploads might not have the full title.<br>If you need its full title (because the search query is wrong), it's:<br>"
+      htmlContent += "<a style='color:green'>" + selectedItem.jpName + "</a> and it should go after the \"after\" date"
+    }
+    openExternalLink( null , htmlContent)
+    return
+  }
+  else if (allData[itemId]?.url) {
     openExternalLink(allData[itemId].url)
     return
   }
@@ -538,14 +560,13 @@ async function itemClicked(item){
       return jpItem
     }
 
-    let selectedItem = allData[itemId]
     if (!selectedItem.startJp) selectedItem = findJpRaid(itemId) || allData[itemId]
 
     youtube += translations[selectedItem.subgroup]
     if (selectedItem.boss) youtube += "+" + translations[selectedItem.boss]
     //if (selectedItem.terrain) youtube += "+" + translations[selectedItem.terrain]
     if (selectedItem.startJp) youtube += "+after:" + new Date(Date.parse(selectedItem.startJp) - 1*24*60*60*1000).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
-    let endDate = 70*24*60*60*1000
+    let endDate = 30*24*60*60*1000
     endDate = new Date(Date.parse(selectedItem.endJp) + endDate).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
     if (selectedItem.endJp) youtube += "+before:" + endDate
     if (selectedItem.subgroup == "TA") {
@@ -586,7 +607,7 @@ async function itemClicked(item){
       youtube += "+" + translations[selectedItem.defType]
       let htmlContent = "<br>Souriki-Border: <a href='" + url + "' target='_blank'>" + url + "</a>"
       htmlContent += "<br><br>Youtube:<br><a href='" + youtube + "' target='_blank'>" + youtube + "<a><br>"
-      openExternalLink(url, htmlContent)
+      openExternalLink(null, htmlContent)
       return
     }
     url += "/" + selectedItem.season
@@ -616,14 +637,16 @@ async function itemClicked(item){
     htmlContent += `- Damage/Armor type: <a style='color:red'>Red: "(爆発 OR 軽装備)"</a> | <a style='color:yellow'>Yellow: "(貫通 OR 重装甲)"</a> | <a style='color:cyan'>Blue: "(神秘 OR 特殊装甲)"</a> | <a style='color:purple'>Purple: "(振動 OR 弾力装甲)"</a>| <a style='color:green'>Green: "(分解 OR 複合装甲)"</a><br>`
     htmlContent += `- Terrain: <a style='color:red'>市街地 (Urban)</a> | 屋内 (Indoors) | <a style='color:green'>屋外 (Outdoors/Field)</a>.<br>`
     if (["TA", "GA"].includes(selectedItem.subgroup)) htmlContent += `- Number of units: 1凸, 2凸, etc.<br>`
-    htmlContent += `- Don't use a specific student: add "なし" after the student's name (ex: シミコなし. Get her name in the <a href='https://bluearchive.wiki/wiki/Characters' target='_blank'>wiki</a>).<br>`
+    htmlContent += `- Don't use a specific student: add "なし" after the student's name (e.g.: シミコなし. Get her name in the <a href='https://bluearchive.wiki/wiki/Characters' target='_blank'>wiki</a>).<br>`
     htmlContent += `<br>The more keywords you add, the less results you'll see, even if they should be valid. Worst offenders are the number of units and "no X student". Some TA uploads don't even specify the difficulty... `
-    openExternalLink(url, htmlContent)
+    openExternalLink(null, htmlContent)
   }
 }
 
-async function openExternalLink(url, extraContent){
-  let htmlContent = "Do you really want to visit <b style='color:red'>" + url + "</b> ?<br><br><b>Only click OK "
+async function openExternalLink(url, extraContent) {
+  let htmlContent = ""
+  if (url) htmlContent += "Do you really want to visit <b style='color:red'>" + url + "</b> ?<br><br>"
+  htmlContent += "<b>Only click OK "
   if (extraContent) htmlContent += ", or alternative hyperlinks, "
   htmlContent += "if you know the link is safe or accept the risks.</b><br>"
   if (extraContent) htmlContent += extraContent
