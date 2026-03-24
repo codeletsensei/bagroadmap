@@ -3349,11 +3349,11 @@ confirmed = [
     "start": "2026-04-14T02:00:00.000Z",
     "end": "2026-04-20T19:00:00.000Z",
     "group": "G Raid",
-    "season": 45,
+    "season": 46,
     "subgroup": "JFD",
     "style": "color:white; background-color:red",
     "boss": "Escort",
-    "terrain": "Indoors"
+    "terrain": "Outdoors"
   },{
 //
 /// CAMPAIGNS
