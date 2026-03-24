@@ -3314,9 +3314,8 @@ confirmed = [
     "subgroup": "TA",
     "style": "color:white; background-color:purple",
     "boss": "Yesod",
-    "terrain": "Urban"
   },{
-    "content": "[JFD] Escort Indoors Purple. High DEF enemies. Defeating an enemy debuffs the others. Enemies heal the others when their HP fall every 25%.",
+    "content": "[JFD] Escort Outdoors Purple. High DEF enemies. Defeating an enemy debuffs the others. Enemies heal the others when their HP fall every 25%.",
     "start": "2026-03-24T02:00:00.000Z",
     "end": "2026-03-30T19:00:00.000Z",
     "group": "G Raid",
@@ -3324,7 +3323,6 @@ confirmed = [
     "subgroup": "JFD",
     "style": "color:white; background-color:purple",
     "boss": "Escort",
-    "terrain": "Indoors"
   },{
     "content": "[LBA] S20 Tiphareth Purple (Yellow atk)",
     "start": "2026-03-11T02:00:00.000Z",
@@ -3343,7 +3341,6 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:black; background-color:pink ",
     "boss": "Hieronymus",
-    "terrain": "Urban"
   },{
     "content": "[JFD] Assault Outdoors Red. Buffed special, debuffed strikers. Healers with blue atk buff scarecrow's max HP",
     "start": "2026-04-14T02:00:00.000Z",
@@ -3353,7 +3350,6 @@ confirmed = [
     "subgroup": "JFD",
     "style": "color:white; background-color:red",
     "boss": "Escort",
-    "terrain": "Outdoors"
   },{
 //
 /// CAMPAIGNS

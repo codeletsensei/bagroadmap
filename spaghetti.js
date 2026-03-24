@@ -549,7 +549,10 @@ async function itemClicked(item) {
       let start = Date.parse(selected.start)
       let end = Date.parse(selected.end)
       let jpItem = allData.find(a=>{
-        if (a.boss && a.boss == selected.boss && a.startG) {
+        if ( (selected.subgroup == a.subgroup && selected.season == a.season) ) {
+          return a
+        }
+        else if (a.boss && a.boss == selected.boss && a.startG) {
           let checkStart = Date.parse(a.startG)
           let checkEnd = Date.parse(a.endG)
           if (checkStart + 1*24*60*60*1000 > start && checkStart - 1*24*60*60*1000 < start && checkEnd + 1*24*60*60*1000 > end && checkEnd - 1*24*60*60*1000 < end ) {
