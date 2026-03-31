@@ -399,6 +399,28 @@ function plotStuff(groups, extraItemsArray){
   else couponsDiv.innerHTML = ""
 }
 
+function setLanesHeights(){
+  let heights = {
+    "Maint": "80px",
+    "Gacha": "400px",
+    "Event": "240px",
+    "Raid": "120px",
+    "Camp": "160px",
+    "Other": "400px",
+  }
+  let groupsLanes = [...document.getElementsByClassName("vis-inner")]
+  let contentsLanes = [...document.getElementsByClassName("vis-foreground")[0].childNodes]
+  groupsLanes.forEach((g,i)=>{
+    let type = g.textContent.split(" ")[1]
+    if (heights[type]) {
+      g.parentNode.style.minHeight = heights[type]
+      contentsLanes[i].style.minHeight = heights[type]
+    }
+  })
+}
+
+
+
 function searchThis(searchInput){
   searchboxIsFocused = 1
   sType = document.getElementById("selectSearchType").value
