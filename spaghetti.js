@@ -1,15 +1,19 @@
 document.getElementById("welcomeBaggot").remove()
 
-let siteVersion = 20260321
+let siteVersion = 20260401
 let currentVersion = localStorage.getItem("version")
-let lastShitAdded = "2026/03/21: Raid links should now have youtube links too.<br>2026/03/10: Right-clicking a cell lets you create a basic <b>AP hoarding timeline</b> for that cell (preferably a maintenance/event/welfare cell). It'll show up in the maintenance lane. Right clicking it deletes it.<br>2026/02/27: Clicking on a raid should now open its <b>souriki-border</b> page.<br>2026/01/29: Fixed the shifted JP schedule not shifting content before an acceleration period concludes<br>2025/12/15: Clicking on a (future) Maintenance/Stream cell will ask to open its related link, if it's already available and I didn't forget about it.<br>2025/8/8: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
+let lastShitAdded = "2026/04/01: Groups now have a minimum height, so moving around feels less schizophrenic. Added an annoying pop-up to remind us about the monthly shop reset. Made maintenances also change a content's starting time on the shifted JP schedule, and fixed tooltips not reflecting the updated time.<br>2026/03/21: Raid links should now have youtube links too.<br>2026/03/10: Right-clicking a cell lets you create a basic <b>AP hoarding timeline</b> for that cell (preferably a maintenance/event/welfare cell). It'll show up in the maintenance lane. Right clicking it deletes it.<br>2026/02/27: Clicking on a raid should now open its <b>souriki-border</b> page.<br>2026/01/29: Fixed the shifted JP schedule not shifting content before an acceleration period concludes<br>2025/12/15: Clicking on a (future) Maintenance/Stream cell will ask to open its related link, if it's already available and I didn't forget about it.<br>2025/08/08: The shifted JP schedule will now also have the raids/campaigns shifted when needed/possible. The current JP schedule remains unchanged."
 if ( !currentVersion || Number(currentVersion) < siteVersion ) {
   Swal.fire({
     title: "Changelog",
     html: lastShitAdded
   })
+  .then(()=>{
+    shopReminder()
+  })
   localStorage.setItem("version", siteVersion)
 }
+else shopReminder()
 
 //https://visjs.github.io/vis-timeline/docs/timeline/
 prevRegion = 2
@@ -118,6 +122,9 @@ async function createHoardingTips(ev){
   let group = ev.group.substr(0,2) + "Maint"
   if (!item.group.includes("Maint")) maintEndTime = item.start
 
+  let timezone = "UTC"
+  if (region == 3) timezone = "JST"
+
   let buffer = await Swal.fire({
     input: "number",
     title: "HOARDING AP?\nInput your buffer time:",
@@ -125,7 +132,7 @@ async function createHoardingTips(ev){
     <br>Setting a higher buffer gives you less AP to hoard, but higher safety from losing everything if maintenance gets extended for too long.
     <br>Don't forget to add to your buffer the time your BA takes to update, you'll need to buy pakejis, roll, buy more pakejis, roll, post your exploits on /bag/, and clear missions!
     <br><br>According to what you've clicked, maintenence is supposed to end at
-    <p style='text-align:center;font-size:25px;color:lightblue'>` + new Date(maintEndTime).toISOString().slice(0,-8).replace("T"," ") + " UTC</p>" +
+    <p style='text-align:center;font-size:25px;color:lightblue'>` + new Date(maintEndTime).toISOString().slice(0,-8).replace("T"," ") + " " + timezone + "</p>" +
     "If that's not the correct ending time (because there's no confirmed maint time in the roadmap yet), then add the maintenance duration to the buffer you input (usually <a target='_blank' href='https://forum.nexon.com/bluearchive-en/'> +3~6 hours on Global</a>, and <a target='_blank' href='https://bluearchive.jp/news/newsJump'>+6~8 on JP</a>)",
     footer: "This very basic AP hoarding guide was done in a hurry, without much thought, so it might be missing something or be completely wrong.<br>It's 100% not my fault if your're dumb enough to trust me, follow this guide and lose your AP!<br>Also, adapt your plans if you've got the AP pakeji up. Or don't make any hoarding plan at all, you might be a happier sensei that way!",
     showCancelButton: true,
@@ -153,7 +160,7 @@ async function createHoardingTips(ev){
       content: "D",
       start: new Date(maintEndTime).toLocaleString("ja"),
       end: new Date(Date.parse(maintEndTime) + 24*60*60*1000).toLocaleString("ja"),
-      title: "DUMP all your hoarded/mailed AP after maint ends and<br>BEFORE they expire at around " + new Date(apDumpingTime).toLocaleString("ja") + " (Y/M/D H:M UTC)<br>Collect and use your cafe AP at that time too.<br><br>Use your PVP refresh + dailies AP before reset.<br><br>Your buffer was set to " + buffer.value + " hours<br><br>Good luck!<br><br>Right-click to delete this event's AP hoarding tips group.",
+      title: "DUMP all your hoarded/mailed AP after maint ends and<br>BEFORE they expire at around " + new Date(apDumpingTime).toLocaleString("ja") + " (Y/M/D H:M " + timezone + ")<br>Collect and use your cafe AP at that time too.<br><br>Use your PVP refresh + dailies AP before reset.<br><br>Your buffer was set to " + buffer.value + " hours<br><br>Good luck!<br><br>Right-click to delete this event's AP hoarding tips group.",
       subgroup: "hoarding",
       hoardGroup: hoardGroup,
       hoardEvent: ev.item,
@@ -204,7 +211,7 @@ async function createHoardingTips(ev){
     newEntries[i].end = new Date(apDumpingTime).toLocaleString("ja")
     apDumpingTime -= 24*60*60*1000
     newEntries[i].start = new Date(apDumpingTime).toLocaleString("ja")
-    newEntries[i].title = "At around " + newEntries[i].start.slice(0,-3) + " (Y/M/D H:M UTC):<br>" + newEntries[i].title + "<br>"
+    newEntries[i].title = "At around " + newEntries[i].start.slice(0,-3) + " (Y/M/D H:M " + timezone + "):<br>" + newEntries[i].title + "<br>"
   }
 
   if (!apHoardingItems[region]) apHoardingItems[region] = []
@@ -219,8 +226,24 @@ async function createHoardingTips(ev){
     toast: true,
     showConfirmButton: false,
     timer: 5000,
-    position: "top"
+    position: "top-end"
   })
+}
+
+function shopReminder() {
+  const today = new Date();
+  const endOfMonth = new Date(today.getFullYear(), today.getMonth() + 1, 0);
+  const daysUntilEndOfMonth = endOfMonth.getDate() - today.getDate();
+  if (daysUntilEndOfMonth <= 5) {
+    Swal.fire({
+      title: "<a style='color:red'>Shop reset reminder</a>",
+      html: "Go give Sora/Momoka your coins!",
+      toast: true,
+      showConfirmButton: false,
+      timer: 10000,
+      position: "top"
+    })
+  }
 }
 
 function run(){
@@ -354,21 +377,24 @@ function plotStuff(groups, extraItemsArray){
   for (let i = 0 ; i < document.getElementsByClassName("regionSelect").length ; i++) document.getElementById("reg"+i).style.backgroundColor=""
   document.getElementById("reg"+region).style.backgroundColor = "lightblue"
 
+  setLanesHeights()
+
   let couponsDiv = document.getElementById("couponCodes")
   if (region != 3) {
     let couponDates = Object.keys(coupons).filter(d=>{
       let couponDate = Date.parse(d)
       if (couponDate > Date.now()) return d
     })
-    if (Object.keys(couponDates).length > 0) couponsDiv.innerHTML = "<a style='color:red' href='https://mcoupon.nexon.com/bluearchive'>Global Coupons</a> (UTC): "
-    else return
-    Object.keys(couponDates).forEach((date,i)=>{
-      date = couponDates[date]
-      coupons[date][coupons[date].length -1] = "<b style='color:lightblue'>" + coupons[date][coupons[date].length -1] + "</b>"
-      couponCodes = coupons[date].join(", ")
-      couponsDiv.innerHTML += "Until <b style='color:red'>" + date.substr(5) + "</b>: " + couponCodes
-      if (i < Object.keys(couponDates).length -1) couponsDiv.innerHTML += " | "
-    })
+    if (Object.keys(couponDates).length > 0) {
+      couponsDiv.innerHTML = "<a style='color:red' href='https://mcoupon.nexon.com/bluearchive'>Global Coupons</a> (UTC): "
+      Object.keys(couponDates).forEach((date,i)=>{
+        date = couponDates[date]
+        coupons[date][coupons[date].length -1] = "<b style='color:lightblue'>" + coupons[date][coupons[date].length -1] + "</b>"
+        couponCodes = coupons[date].join(", ")
+        couponsDiv.innerHTML += "Until <b style='color:red'>" + date.substr(5) + "</b>: " + couponCodes
+        if (i < Object.keys(couponDates).length -1) couponsDiv.innerHTML += " | "
+      })
+    }
   }
   else couponsDiv.innerHTML = ""
 }
