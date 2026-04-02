@@ -3325,31 +3325,40 @@ confirmed = [
     "boss": "Escort",
   },{
     "content": "[LBA] S20 Tiphareth Purple (Yellow atk)",
+    "boss": "Tiphareth",
     "start": "2026-03-11T02:00:00.000Z",
     "end": "2026-04-06T19:00:00.000Z",
     "group": "G Raid",
     "season": 20,
     "subgroup": "LBA",
     "style": "color:white; background-color:purple",
-    "boss": "Tiphareth"
   },{
     "content": "[GA] Hieronymus Urban (Red+Blue TOR / Purple INS) (Red atk)",
+    "boss": "Hieronymus",
     "start": "2026-03-31T02:00:00.000Z",
     "end": "2026-04-06T19:00:00.000Z",
     "group": "G Raid",
     "season": 28,
     "subgroup": "GA",
     "style": "color:black; background-color:pink ",
-    "boss": "Hieronymus",
   },{
     "content": "[JFD] Assault Outdoors Red. Buffed special, debuffed strikers. Healers with blue atk buff scarecrow's max HP",
+    "boss": "Assault",
     "start": "2026-04-14T02:00:00.000Z",
     "end": "2026-04-20T19:00:00.000Z",
     "group": "G Raid",
     "season": 46,
     "subgroup": "JFD",
     "style": "color:white; background-color:red",
-    "boss": "Escort",
+  },{
+    "content": "[TA] Kurokage Urban Purple (Blue atk)",
+    "boss": "Kurokage",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-13T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 84,
+    "subgroup": "TA",
+    "style": "color:white; background-color:purple",
   },{
 //
 /// CAMPAIGNS
@@ -5402,6 +5411,7 @@ confirmed = [
 
 coupons = {
   "2026-03-24 02:00": [ "MAGICALVIGILANTE", "BOLTCATCH831", "HEAVYCALIBER310" ],
+  "2026-04-08 14:59": [ "DOKIDOKIRAID" ],
 }
 
 /// get the time when any future maintenance ends
