@@ -351,6 +351,14 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3403455"
   },{
+    "content": "EOS",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-07T06:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3403455"
+  },{
 //
 /// GASHA
 //
@@ -1790,6 +1798,34 @@ confirmed = [
     "style": "color:black; background-color:lightgrey"
   },{
     "content": "Yakumo (New)",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Serika (Swimsuit)",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Shigure (Onsen)",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Minori",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Meru, Momiji",
     "start": "2026-04-07T02:00:00.000Z",
     "end": "2026-04-21T02:00:00.000Z",
     "group": "G Gacha",

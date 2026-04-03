@@ -65,6 +65,7 @@ function getItems(extraItemsArray){
       if (a.startJp) a.start = a.startJp
       if (a.endJp) a.end = a.endJp
     })
+    allData = allData.filter(a=>{return a.subgroup != "Acceleration"})
     timeline.setCurrentTime(new Date().toLocaleString("ja", { timeZone: "Asia/Tokyo"}))
   }
   return new vis.DataSet(allData)
