@@ -2456,6 +2456,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[Perm] Academy Fan Fiction: A Finale for Two",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
 //
 /// RAIDS
 //
@@ -3395,6 +3402,31 @@ confirmed = [
     "season": 84,
     "subgroup": "TA",
     "style": "color:white; background-color:purple",
+  },{
+    "content": "[QoL] Revised Kurokage's Compulsion",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-13T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue",
+  },{
+    "content": "[LBA] S21 Chokmah Yellow (Blue atk)",
+    "boss": "Chokmah",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-27T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 21,
+    "subgroup": "LBA",
+    "style": "color:black; background-color:yellow",
+  },{
+    "content": "[GA] KAITEN Urban (Red+Yellow TOR / Blue INS) (Yellow atk)",
+    "boss": "Kaiten",
+    "start": "2026-04-21T02:00:00.000Z",
+    "end": "2026-04-27T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 29,
+    "subgroup": "GA",
+    "style": "color:black; background-color:pink ",
   },{
 //
 /// CAMPAIGNS
@@ -5442,6 +5474,76 @@ confirmed = [
     "group": "G Other",
     "subgroup": "",
     "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Perm GM] The Arius District’s Emergency Class Mission",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Crafting] Hikari + Nozomi + Aoba + TV/VCR",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Craftable Phrenapates' Adult Card (1 time)",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Bulk Sweep can be saved without sweeping",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Bounty shop on Sora's shop, with all items",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Copy others' cafe",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Search students by name",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Options button for/in the story mode",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Quick Craft: Selectable priority nodes increased to 5",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Profile displays LBA records",
+    "start": "2026-04-07T02:00:00.000Z",
+    "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
   }
 ]
 
