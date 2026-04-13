@@ -589,9 +589,9 @@ async function itemClicked(item) {
       "Breakthrough": "突破演習",
       "Escort": "護衛演習",
 
-      "INS": "INS",
+      "INS": "(INS OR INSANE)",
       "TOR": "(TOR OR TMT)",
-      "LUN": "LUN"
+      "LUN": "(LUN OR LUNATIC)"
     }
     function findJpRaid(itemId) {
       let selected = allData[itemId]

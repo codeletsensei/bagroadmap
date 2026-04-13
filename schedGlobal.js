@@ -357,7 +357,7 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
-    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3403455"
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3415801"
   },{
 //
 /// GASHA
@@ -5544,6 +5544,14 @@ confirmed = [
     "group": "G Other",
     "subgroup": "",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Stream] ブルアカらいぶ！すぷりんぐふぃーばー！SP",
+    "start": "2026-04-19T10:00",
+    "end": "2026-04-23T10:00",
+    "group": "G Maint",
+    "subgroup": "Stream",
+    "style": "color:black;background-color:cyan",
+    "url": "https://www.youtube.com/watch?v=jy-kAisDrLM"
   }
 ]
 

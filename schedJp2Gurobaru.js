@@ -21327,6 +21327,20 @@ jpSched = [
 		"title": "EOS<br><br>G: 2026-08-11 02:00 Tue ~ 2026-08-11 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2026-04-01 11:00 Wed ~ 2026-04-01 17:00 Wed 6h (JST y-m-d)",
 		"duration": "6h"
 	},{
+		"content": "[Stream] ブルアカらいぶ！すぷりんぐふぃーばー！SP",
+		"start": "2026-04-19T10:00",
+		"startJp": "2026-04-19T19:00",
+		"end": "2026-04-23T02:00",
+		"endJp": "2026-04-23T11:00",
+		"group": "J Maint",
+		"subgroup": "Stream",
+		"style": "color:black;background-color:cyan",
+		"url": "https://www.youtube.com/watch?v=jy-kAisDrLM",
+		"endG": "2026-04-23T02:00",
+		"startG": "2026-04-19T10:00",
+		"title": "[Stream] ブルアカらいぶ！すぷりんぐふぃーばー！SP<br><br>G: 2026-04-19 10:00 Sun ~ 2026-04-23 02:00 Thu 4d (UTC y-m-d)<br>Jp: 2026-04-19 19:00 Sun ~ 2026-04-23 11:00 Thu 4d (JST y-m-d)",
+		"duration": "4d"
+	},{
 		"content": "<b>2x XP</b>",
 		"start": "2026-08-06T19:00",
 		"startJp": "2026-03-28T04:00",
