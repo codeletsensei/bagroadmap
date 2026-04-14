@@ -3428,6 +3428,24 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:black; background-color:pink ",
   },{
+    "content": "[TA] Hovercraft Outdoors Yellow (Yellow atk)",
+    "boss": "Hovercraft",
+    "start": "2026-05-05T02:00:00.000Z",
+    "end": "2026-05-11T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 85,
+    "subgroup": "TA",
+    "style": "color:black; background-color:yellow",
+  },{
+    "content": "[JFD] Escort Yellow Urban. Heal AG = dmg enemy. Eff buff based on AG's HP. Enemy with high HP+ATK",
+    "boss": "Escort",
+    "start": "2026-05-12T02:00:00.000Z",
+    "end": "2026-05-18T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 47,
+    "subgroup": "JFD",
+    "style": "color:black; background-color:yellow",
+  },{
 //
 /// CAMPAIGNS
 //
