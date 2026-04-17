@@ -318,7 +318,7 @@ function plotStuff(groups, extraItemsArray){
       overflowMethod: "cap",
       template: function (item, element, data) {
         var html = "<a id='tooltip" + item + "'>"+item.title+"</a>"
-        if (item.start) {
+        if (item.start && item.subgroup != "Acceleration") {
           let now = new Date()
           if (region == 3 ) now = now.toLocaleString("ja", { timeZone: "Asia/Tokyo"})
           now = Date.parse(now)
@@ -346,10 +346,10 @@ function plotStuff(groups, extraItemsArray){
               let hoursLeft = timeLeft%1*24
               let minLeft = hoursLeft%1*60
               html += "<br>>Starts in ~" + Math.floor(time2Start).toFixed(0) + "d " + Math.floor(hours2Start).toFixed(0) + "h " + Math.floor(min2Start).toFixed(0) + "m"
-              if (item.group.includes("Maint") && timeLeft < 7) html += "<br>>Ends in ~" + Math.floor(timeLeft).toFixed(0).slice(-2) + "d " + ("0"+Math.floor(hoursLeft).toFixed(0)).slice(-2) + "h " + ("0"+Math.floor(minLeft).toFixed(0)).slice(-2) + "m"
+              if (item.group.includes("Maint") && item.subgroup != "Stream" && timeLeft < 7) html += "<br>>Ends in ~" + Math.floor(timeLeft).toFixed(0).slice(-2) + "d " + ("0"+Math.floor(hoursLeft).toFixed(0)).slice(-2) + "h " + ("0"+Math.floor(minLeft).toFixed(0)).slice(-2) + "m"
             }
             else {
-              if (end) {
+              if (end && item.subgroup != "Stream") {
                 let timeLeft = -((end - now)/1000/60/60/24).toFixed(0)
                 html += "<br>>Ended ~" + Math.floor(timeLeft).toFixed(0) + " days ago"
               }

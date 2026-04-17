@@ -359,6 +359,14 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3415801"
   },{
+    "content": "EOS",
+    "start": "2026-04-21T02:00:00.000Z",
+    "end": "2026-04-21T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
+    "url": ""
+  },{
 //
 /// GASHA
 //
@@ -1832,6 +1840,41 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Mari (Idol) [L]",
+    "start": "2026-04-21T02:00:00.000Z",
+    "end": "2026-04-28T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Sakurako (Idol) [L]",
+    "start": "2026-04-21T02:00:00.000Z",
+    "end": "2026-04-28T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Mine (Idol) [Welfare]",
+    "start": "2026-04-21T02:00:00.000Z",
+    "end": "2026-04-28T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Kazusa",
+    "start": "2026-04-21T02:00:00.000Z",
+    "end": "2026-04-28T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Kaho",
+    "start": "2026-04-21T02:00:00.000Z",
+    "end": "2026-04-28T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -2459,6 +2502,20 @@ confirmed = [
     "content": "[Perm] Academy Fan Fiction: A Finale for Two",
     "start": "2026-04-07T02:00:00.000Z",
     "end": "2026-04-21T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] Serenade Promenade",
+    "start": "2026-04-21T02:00:00.000Z",
+    "end": "2026-04-28T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini] Balancing Schale's Books with the General Student Council",
+    "start": "2026-04-21T02:00:00.000Z",
+    "end": "2026-04-28T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
@@ -3403,7 +3460,7 @@ confirmed = [
     "subgroup": "TA",
     "style": "color:white; background-color:purple",
   },{
-    "content": "[QoL] Revised Kurokage's Compulsion",
+    "content": "Revised Kurokage's Compulsion",
     "start": "2026-04-07T02:00:00.000Z",
     "end": "2026-04-13T19:00:00.000Z",
     "group": "G Raid",
@@ -3445,6 +3502,31 @@ confirmed = [
     "season": 47,
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow",
+  },{
+    "content": "?[GA] ShiroKuro Urban (Blue+Purple TOR / Yellow INS) (Yellow atk)?",
+    "boss": "ShiroKuro",
+    "start": "2026-05-19T02:00:00.000Z",
+    "end": "2026-05-25T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 30,
+    "subgroup": "GA",
+    "style": "color:black; background-color:pink ",
+  },{
+    "content": "?Fixed ShiroKuro's sticky bombs?",
+    "start": "2026-05-19T02:00:00.000Z",
+    "end": "2026-05-25T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue",
+  },{
+    "content": "?[LBA] S22 The Fury of Set Red (Red atk)?",
+    "boss": "Fury of Set",
+    "start": "2026-04-29T02:00:00.000Z",
+    "end": "2026-05-25T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 22,
+    "subgroup": "LBA",
+    "style": "color:white; background-color:red",
   },{
 //
 /// CAMPAIGNS
