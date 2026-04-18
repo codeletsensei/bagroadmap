@@ -121,7 +121,9 @@ async function createHoardingTips(ev){
     return
   }
   let group = ev.group.substr(0,2) + "Maint"
-  if (!item.group.includes("Maint")) maintEndTime = item.start
+
+  console.log(maintEndTime)
+  if (!item.group.includes("Maint") && Date.parse(item.start) > Date.now() ) maintEndTime = item.start
 
   let timezone = "UTC"
   if (region == 3) timezone = "JST"
