@@ -9619,6 +9619,22 @@ jpSched = [
 		"title": "[TA] Goz Outdoors Blue (Red atk)<br><br>G: 2026-07-28 02:00 Tue ~ 2026-08-03 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-03-25 11:00 Wed ~ 2026-04-01 03:59 Wed 7d (JST y-m-d)<br>Jp: 2026-03-25 11:00 Wed ~ 2026-04-01 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "[TA] Kaiten Urban Red (Yellow atk)",
+		"start": "2026-09-01T02:00",
+		"startJp": "2026-04-29T11:00",
+		"end": "2026-09-07T18:59",
+		"endJp": "2026-05-06T03:59",
+		"group": "J Raid",
+		"subgroup": "TA",
+		"style": "color:white;background-color:red",
+		"season": "88",
+		"boss": "Kaiten",
+		"terrain": "Urban",
+		"endG": "2026-09-07T18:59",
+		"startG": "2026-09-01T02:00",
+		"title": "[TA] Kaiten Urban Red (Yellow atk)<br><br>G: 2026-09-01 02:00 Tue ~ 2026-09-07 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-04-29 11:00 Wed ~ 2026-05-06 03:59 Wed 7d (JST y-m-d)<br>Jp: 2026-04-29 11:00 Wed ~ 2026-05-06 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "[GA] Binah Urban (Yellow TOR / Red+Blue INS) (Yellow atk)",
 		"start": "2023-11-21T02:00",
 		"startJp": "2023-06-28T11:00",
@@ -10732,6 +10748,22 @@ jpSched = [
 		"startG": "2026-07-22T02:00",
 		"title": "[LBA] S25 Tiphareth Purple (Yellow atk)<br><br>G: 2026-07-22 02:00 Wed ~ 2026-08-23 18:59 Sun 33d (UTC y-m-d)<br>Jp: 2026-03-19 11:00 Thu ~ 2026-04-21 03:59 Tue 33d (JST y-m-d)<br>Jp: 2026-03-19 11:00 Thu ~ 2026-04-21 03:59 Tue 33d (JST y-m-d)",
 		"duration": "33d"
+	},{
+		"content": "[LBA] S26 Chokmah Yellow (Blue atk)",
+		"start": "2026-08-25T02:00",
+		"startJp": "2026-04-22T11:00",
+		"end": "2026-09-28T18:59",
+		"endJp": "2026-05-27T03:59",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:black;background-color:yellow",
+		"season": "26",
+		"defType": "Yellow",
+		"boss": "Chokmah",
+		"endG": "2026-09-28T18:59",
+		"startG": "2026-08-25T02:00",
+		"title": "[LBA] S26 Chokmah Yellow (Blue atk)<br><br>G: 2026-08-25 02:00 Tue ~ 2026-09-28 18:59 Mon 35d (UTC y-m-d)<br>Jp: 2026-04-22 11:00 Wed ~ 2026-05-27 03:59 Wed 35d (JST y-m-d)<br>Jp: 2026-04-22 11:00 Wed ~ 2026-05-27 03:59 Wed 35d (JST y-m-d)",
+		"duration": "35d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Niko\" title=\"Niko\">Niko</a> [L]",
 		"start": "2026-08-24T02:00",
@@ -21432,17 +21464,17 @@ jpSched = [
 		"title": "[PVP] Season 11<br><br>G: 2026-09-22 02:00 Tue ~ 2026-10-07 02:00 Wed 15d (UTC y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-06-04 11:00 Thu 15d (JST y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-06-04 11:00 Thu 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[Mini] Special Operation: Lore Pursuit",
+		"content": "Special Operation: Lore Pursuit Edition",
 		"start": "2026-08-24T02:00",
 		"startJp": "2026-04-21T11:00",
 		"end": "2026-09-08T02:00",
 		"endJp": "2026-05-06T11:00",
 		"group": "J Event",
-		"subgroup": "Mini",
+		"subgroup": "",
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-09-08T02:00",
 		"startG": "2026-08-24T02:00",
-		"title": "[Mini] Special Operation: Lore Pursuit<br><br>G: 2026-08-24 02:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 11:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)<br>Jp: 2026-04-21 11:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
+		"title": "Special Operation: Lore Pursuit Edition<br><br>G: 2026-08-24 02:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 11:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)<br>Jp: 2026-04-21 11:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
 		"content": "Main Story Part 2 Prologue",
@@ -21575,22 +21607,6 @@ jpSched = [
 		"title": "Otogi [Welfare] (New)<br><br>G: 2026-08-24 02:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 11:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)<br>Jp: 2026-04-21 11:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[TA] Kaiten Urban Red (Yellow atk)",
-		"start": "2026-09-01T02:00",
-		"startJp": "2026-04-29T11:00",
-		"end": "2026-09-07T19:00",
-		"endJp": "2026-05-06T04:00",
-		"group": "J Raid",
-		"subgroup": "TA",
-		"style": "color:white;background-color:red",
-		"season": 88,
-		"boss": "Kaiten",
-		"terrain": "Urban",
-		"endG": "2026-09-07T19:00",
-		"startG": "2026-09-01T02:00",
-		"title": "[TA] Kaiten Urban Red (Yellow atk)<br><br>G: 2026-09-01 02:00 Tue ~ 2026-09-07 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-04-29 11:00 Wed ~ 2026-05-06 04:00 Wed 7d (JST y-m-d)<br>Jp: 2026-04-29 11:00 Wed ~ 2026-05-06 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
 		"content": "[JFD] Defense Yellow Urban. Kill enemies = Students get debuffed. Cleanse = ATK buff. Enemies do more dmg. Stronger shields.",
 		"start": "2026-09-08T02:00",
 		"startJp": "2026-05-06T11:00",
@@ -21604,22 +21620,6 @@ jpSched = [
 		"startG": "2026-09-08T02:00",
 		"title": "[JFD] Defense Yellow Urban. Kill enemies = Students get debuffed. Cleanse = ATK buff. Enemies do more dmg. Stronger shields.<br><br>G: 2026-09-08 02:00 Tue ~ 2026-09-14 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-13 04:00 Wed 7d (JST y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-13 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
-	},{
-		"content": "[LBA] S26 Chokmah Yellow (Blue atk)",
-		"start": "2026-08-25T02:00",
-		"startJp": "2026-04-22T11:00",
-		"end": "2026-09-28T19:00",
-		"endJp": "2026-05-27T04:00",
-		"group": "J Raid",
-		"subgroup": "LBA",
-		"style": "color:black;background-color:yellow",
-		"season": 26,
-		"defType": "Yellow",
-		"boss": "Chokmah",
-		"endG": "2026-09-28T19:00",
-		"startG": "2026-08-25T02:00",
-		"title": "[LBA] S26 Chokmah Yellow (Blue atk)<br><br>G: 2026-08-25 02:00 Tue ~ 2026-09-28 19:00 Mon 35d (UTC y-m-d)<br>Jp: 2026-04-22 11:00 Wed ~ 2026-05-27 04:00 Wed 35d (JST y-m-d)<br>Jp: 2026-04-22 11:00 Wed ~ 2026-05-27 04:00 Wed 35d (JST y-m-d)",
-		"duration": "35d"
 	},{
 		"content": "2x Lesson",
 		"start": "2026-08-23T19:00",
