@@ -190,7 +190,7 @@ async function createHoardingTips(ev){
     },
     {
       content: "1",
-      title: "Collect your cafe AP and use most of your AP in a way<br>that it'll natural regen to the cap (240) by this time tomorrow<br><br>We regen 1 AP every 6 min, or 10AP per hour,<br>so basically, having 0 AP on hand right now should be fine,<br>but you could save some AP to use on hards after reset for the keystone.<br><br>You should save a daily task AP from or 2 until then too, just in case.<br><br>This is to set up so you'll have 999 AP on hand after 24h from now.<br>(739 cafe AP, 240- normal regen, 30+ from the dailies) <br><br>Right-click to delete this event's AP hoarding tips group.",
+      title: "Collect your cafe AP and use most of your AP in a way<br>that it'll natural regen to the cap (240) by this time tomorrow<br><br>We regen 1 AP every 6 min, or 10AP per hour,<br>so basically, having 0 AP on hand right now should be fine,<br>but you could save some AP to use on hards after reset for the keystone.<br><br>You could save a daily task AP or 2 until then too, just in case.<br><br>This is to set up so you'll have 999 AP on hand after 24h from now.<br>(739 cafe AP, 240- normal regen, 30+ from the dailies) <br><br>Right-click to delete this event's AP hoarding tips group.",
       subgroup: "hoarding",
       hoardGroup: hoardGroup,
       hoardEvent: ev.item,
