@@ -21681,22 +21681,6 @@ jpSched = [
 		"title": "[Crafting] Furniture: Miyo, Fuyu, Ritsu, Valkyrie Set (Kirino?), Accessory Showcase<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[TA] Kaiten Urban Red (Yellow atk)",
-		"start": "2026-09-01T02:00",
-		"startJp": "2026-04-29T11:00",
-		"end": "2026-09-07T19:00",
-		"endJp": "2026-05-06T04:00",
-		"group": "J Raid",
-		"subgroup": "TA",
-		"style": "color:white;background-color:red",
-		"season": 88,
-		"boss": "Kaiten",
-		"terrain": "Urban",
-		"endG": "2026-09-07T19:00",
-		"startG": "2026-09-01T02:00",
-		"title": "[TA] Kaiten Urban Red (Yellow atk)<br><br>G: 2026-09-01 02:00 Tue ~ 2026-09-07 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-04-29 11:00 Wed ~ 2026-05-06 04:00 Wed 7d (JST y-m-d)<br>Jp: 2026-04-29 11:00 Wed ~ 2026-05-06 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
 		"content": "Display Kaiten's current Part's HP + minor stuff",
 		"start": "2026-09-01T02:00",
 		"startJp": "2026-04-29T11:00",
@@ -21723,38 +21707,6 @@ jpSched = [
 		"startG": "2026-09-08T02:00",
 		"title": "[JFD] Defense Yellow Urban. Kill enemies = Students get debuffed. Cleanse = ATK buff. Enemies do more dmg. Stronger shields.<br><br>G: 2026-09-08 02:00 Tue ~ 2026-09-14 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-13 04:00 Wed 7d (JST y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-13 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
-	},{
-		"content": "[GA] Kurokage Urban (Red+Puple TOR + Blue INS) (Yellow atk)",
-		"start": "2026-09-15T02:00",
-		"startJp": "2026-05-13T11:00",
-		"end": "2026-09-21T19:00",
-		"endJp": "2026-05-20T04:00",
-		"group": "J Raid",
-		"subgroup": "GA",
-		"style": "color:black;background-color:pink",
-		"season": 30,
-		"boss": "Kurokage",
-		"terrain": "Urban",
-		"endG": "2026-09-21T19:00",
-		"startG": "2026-09-15T02:00",
-		"title": "[GA] Kurokage Urban (Red+Puple TOR + Blue INS) (Yellow atk)<br><br>G: 2026-09-15 02:00 Tue ~ 2026-09-21 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-05-13 11:00 Wed ~ 2026-05-20 04:00 Wed 7d (JST y-m-d)<br>Jp: 2026-05-13 11:00 Wed ~ 2026-05-20 04:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "[LBA] S26 Chokmah Yellow (Blue atk)",
-		"start": "2026-08-25T02:00",
-		"startJp": "2026-04-22T11:00",
-		"end": "2026-09-28T19:00",
-		"endJp": "2026-05-27T04:00",
-		"group": "J Raid",
-		"subgroup": "LBA",
-		"style": "color:black;background-color:yellow",
-		"season": 26,
-		"defType": "Yellow",
-		"boss": "Chokmah",
-		"endG": "2026-09-28T19:00",
-		"startG": "2026-08-25T02:00",
-		"title": "[LBA] S26 Chokmah Yellow (Blue atk)<br><br>G: 2026-08-25 02:00 Tue ~ 2026-09-28 19:00 Mon 35d (UTC y-m-d)<br>Jp: 2026-04-22 11:00 Wed ~ 2026-05-27 04:00 Wed 35d (JST y-m-d)<br>Jp: 2026-04-22 11:00 Wed ~ 2026-05-27 04:00 Wed 35d (JST y-m-d)",
-		"duration": "35d"
 	},{
 		"content": "2x Lesson",
 		"start": "2026-08-23T19:00",
