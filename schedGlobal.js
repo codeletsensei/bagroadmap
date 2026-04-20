@@ -365,7 +365,7 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
-    "url": ""
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3425677"
   },{
 //
 /// GASHA
@@ -1875,6 +1875,34 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Michiru (Dress)",
+    "start": "2026-04-28T02:00:00.000Z",
+    "end": "2026-05-12T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Tsukuyo (Dress)",
+    "start": "2026-04-28T02:00:00.000Z",
+    "end": "2026-05-12T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Recollect Recruitment: Bluefes removed from bluefes, no 2x rates, separate spark points that don't carry over.<br> Extra 100 elephs only for 1 student on that run. Can use normal tickets.",
+    "start": "2026-05-05T02:00:00.000Z",
+    "end": "2026-05-12T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:white"
+  },{
+    "content": "[RR] Wakamo, Mika, Hoshino (Swimsuit)",
+    "start": "2026-05-05T02:00:00.000Z",
+    "end": "2026-05-12T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:white"
+  },{
 //
 /// EVENTS
 //
@@ -2516,6 +2544,13 @@ confirmed = [
     "content": "[Mini] Balancing Schale's Books with the General Student Council",
     "start": "2026-04-21T02:00:00.000Z",
     "end": "2026-04-28T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] An Unconcealed Path Episode: Fashion Show Security Duty!",
+    "start": "2026-04-28T02:00:00.000Z",
+    "end": "2026-05-12T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
@@ -3503,7 +3538,7 @@ confirmed = [
     "subgroup": "JFD",
     "style": "color:black; background-color:yellow",
   },{
-    "content": "?[GA] ShiroKuro Urban (Blue+Purple TOR / Yellow INS) (Yellow atk)?",
+    "content": "[GA] ShiroKuro Urban (Blue+Purple TOR / Yellow INS) (Yellow atk)",
     "boss": "ShiroKuro",
     "start": "2026-05-19T02:00:00.000Z",
     "end": "2026-05-25T19:00:00.000Z",
@@ -3512,14 +3547,14 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:black; background-color:pink ",
   },{
-    "content": "?Fixed ShiroKuro's sticky bombs?",
+    "content": "Fixed ShiroKuro's sticky bombs",
     "start": "2026-05-19T02:00:00.000Z",
     "end": "2026-05-25T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "",
     "style": "color:black; background-color:lightblue",
   },{
-    "content": "?[LBA] S22 The Fury of Set Red (Red atk)?",
+    "content": "[LBA] S22 The Fury of Set Red (Red atk)",
     "boss": "Fury of Set",
     "start": "2026-04-29T02:00:00.000Z",
     "end": "2026-05-25T19:00:00.000Z",
@@ -4763,6 +4798,34 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Lesson",
+    "start": "2026-05-04T19:00:00.000Z",
+    "end": "2026-05-11T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Normal",
+    "start": "2026-05-04T19:00:00.000Z",
+    "end": "2026-05-11T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-05-01T19:00:00.000Z",
+    "end": "2026-05-03T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-05-08T19:00:00.000Z",
+    "end": "2026-05-10T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 /// MISC
 //
@@ -5652,12 +5715,42 @@ confirmed = [
     "subgroup": "Stream",
     "style": "color:black;background-color:cyan",
     "url": "https://www.youtube.com/watch?v=jy-kAisDrLM"
+  },{
+    "content": "[Bond Gear] Arisu, Michiru, Yuzu",
+    "start": "2026-04-21T02:00:00.000Z",
+    "end": "2026-05-05T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow",
+    "url": "https://bluearchive.nexon.com/user/myoffice"
+  },{
+    "content": "[Permit Shop] Koharu Elephs",
+    "start": "2026-04-30T02:00:00.000Z",
+    "end": "2026-05-14T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black;background-color:lightgrey",
+  },{
+    "content": "[Mini Story] Ending Manual Transmission (Ep. 1-2)",
+    "start": "2026-04-21T02:00",
+    "end": "2026-05-05T19:00",
+    "group": "G Other",
+    "style": "color:black;background-color:yellow",
+  },{
+    "content": "[MyOffice] An Unconcealed Path Special Event Story Completion Task",
+    "start": "2026-04-28T02:00:00.000Z",
+    "end": "2026-05-12T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow",
+    "url": "https://bluearchive.nexon.com/user/myoffice"
   }
 ]
 
 coupons = {
   "2026-03-24 02:00": [ "MAGICALVIGILANTE", "BOLTCATCH831", "HEAVYCALIBER310" ],
   "2026-04-08 14:59": [ "DOKIDOKIRAID" ],
+  "2026-04-27 19:00": [ "REDWINTERFEST" ],
 }
 
 /// get the time when any future maintenance ends
