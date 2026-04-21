@@ -10786,7 +10786,72 @@ jpSched = [
 		"title": "[LBA] S26 Chokmah Yellow (Blue atk)<br><br>G: 2026-08-25 02:00 Tue ~ 2026-09-28 18:59 Mon 35d (UTC y-m-d)<br>Jp: 2026-04-22 11:00 Wed ~ 2026-05-27 03:59 Wed 35d (JST y-m-d)<br>Jp: 2026-04-22 11:00 Wed ~ 2026-05-27 03:59 Wed 35d (JST y-m-d)",
 		"duration": "35d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Niko\" title=\"Niko\">Niko</a> [L]",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sumire_(Part-Timer)\" title=\"Sumire (Part-Timer)\">Sumire (Part-Timer)</a>",
+		"start": "2026-09-08T02:00",
+		"startJp": "2026-05-06T11:00",
+		"end": "2026-09-22T01:59",
+		"endJp": "2026-05-20T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-09-22T01:59",
+		"startG": "2026-09-08T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Sumire_(Part-Timer)\" title=\"Sumire (Part-Timer)\">Sumire (Part-Timer)</a><br><br>G: 2026-09-08 02:00 Tue ~ 2026-09-22 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 10:59 Wed 14d (JST y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rei\" title=\"Rei\">Rei</a>",
+		"start": "2026-09-08T02:00",
+		"startJp": "2026-05-06T11:00",
+		"end": "2026-09-22T01:59",
+		"endJp": "2026-05-20T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-09-22T01:59",
+		"startG": "2026-09-08T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rei\" title=\"Rei\">Rei</a><br><br>G: 2026-09-08 02:00 Tue ~ 2026-09-22 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 10:59 Wed 14d (JST y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akari_(New_Year)\" title=\"Akari (New Year)\">Akari (New Year)</a>",
+		"start": "2026-09-08T02:00",
+		"startJp": "2026-05-06T11:00",
+		"end": "2026-09-22T01:59",
+		"endJp": "2026-05-20T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-09-22T01:59",
+		"startG": "2026-09-08T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Akari_(New_Year)\" title=\"Akari (New Year)\">Akari (New Year)</a><br><br>G: 2026-09-08 02:00 Tue ~ 2026-09-22 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 10:59 Wed 14d (JST y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izumi_(New_Year)\" title=\"Izumi (New Year)\">Izumi (New Year)</a>",
+		"start": "2026-09-08T02:00",
+		"startJp": "2026-05-06T11:00",
+		"end": "2026-09-22T01:59",
+		"endJp": "2026-05-20T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-09-22T01:59",
+		"startG": "2026-09-08T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Izumi_(New_Year)\" title=\"Izumi (New Year)\">Izumi (New Year)</a><br><br>G: 2026-09-08 02:00 Tue ~ 2026-09-22 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 10:59 Wed 14d (JST y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka (New Year)\">Haruka (New Year)</a>",
+		"start": "2026-09-08T02:00",
+		"startJp": "2026-05-06T11:00",
+		"end": "2026-09-22T01:59",
+		"endJp": "2026-05-20T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-09-22T01:59",
+		"startG": "2026-09-08T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Haruka_(New_Year)\" title=\"Haruka (New Year)\">Haruka (New Year)</a><br><br>G: 2026-09-08 02:00 Tue ~ 2026-09-22 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 10:59 Wed 14d (JST y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Niko\" title=\"Niko\">Niko</a> [L] (New)",
 		"start": "2026-08-24T10:00",
 		"startJp": "2026-04-21T19:00",
 		"end": "2026-09-08T01:59",
@@ -10796,10 +10861,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-09-08T01:59",
 		"startG": "2026-08-24T10:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Niko\" title=\"Niko\">Niko</a> [L]<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 10:59 Wed 15d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Niko\" title=\"Niko\">Niko</a> [L] (New)<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 10:59 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kurumi\" title=\"Kurumi\">Kurumi</a> [L]",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kurumi\" title=\"Kurumi\">Kurumi</a> [L] (New)",
 		"start": "2026-08-24T10:00",
 		"startJp": "2026-04-21T19:00",
 		"end": "2026-09-08T01:59",
@@ -10809,7 +10874,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-09-08T01:59",
 		"startG": "2026-08-24T10:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kurumi\" title=\"Kurumi\">Kurumi</a> [L]<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 10:59 Wed 15d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kurumi\" title=\"Kurumi\">Kurumi</a> [L] (New)<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 01:59 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 10:59 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Hare_(Camping)\" title=\"Hare (Camping)\">Hare (Camping)</a>",
@@ -21576,7 +21641,7 @@ jpSched = [
 		"title": "[QoL] Universal Blueprints from normal/hard/event stages.<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[QoL] UI/UX improvements to Lobby/Recruitment/Campaign (Shittim Chest). Student profile now displays favorite gifts.",
+		"content": "[QoL] Student profile now displays favorite gifts.",
 		"start": "2026-08-24T10:00",
 		"startJp": "2026-04-21T19:00",
 		"end": "2026-09-08T02:00",
@@ -21586,7 +21651,20 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-09-08T02:00",
 		"startG": "2026-08-24T10:00",
-		"title": "[QoL] UI/UX improvements to Lobby/Recruitment/Campaign (Shittim Chest). Student profile now displays favorite gifts.<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
+		"title": "[QoL] Student profile now displays favorite gifts.<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
+		"duration": "15d"
+	},{
+		"content": "UI/UX changes to Lobby/Recruitment/Campaign (Shittim Chest's Classroom) Menus after Vol.F.",
+		"start": "2026-08-24T10:00",
+		"startJp": "2026-04-21T19:00",
+		"end": "2026-09-08T02:00",
+		"endJp": "2026-05-06T11:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2026-09-08T02:00",
+		"startG": "2026-08-24T10:00",
+		"title": "UI/UX changes to Lobby/Recruitment/Campaign (Shittim Chest's Classroom) Menus after Vol.F.<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
 		"content": "[Dangles] Hanako, Mari, Hifumi (Swimsuit), Mashiro (Swimsuit),> Haruka (New Year), Haruna (Sportswear), Hibiki, Karin, Kisaki, Minori, Tomoe (Qipao)",
@@ -21642,7 +21720,7 @@ jpSched = [
 		"title": "EOS<br><br>G: 2026-08-24 02:00 Mon ~ 2026-08-24 10:00 Mon 8h (UTC y-m-d)<br>Jp: 2026-04-21 11:00 Tue ~ 2026-04-21 19:00 Tue 8h (JST y-m-d)",
 		"duration": "8h"
 	},{
-		"content": "[PVP Shop] Miyu elephs, on shop reset",
+		"content": "[PVP Shop] Miyu elephs",
 		"start": "2026-08-24T10:00",
 		"startJp": "2026-04-21T19:00",
 		"end": "2026-09-08T02:00",
@@ -21652,8 +21730,21 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-09-08T02:00",
 		"startG": "2026-08-24T10:00",
-		"title": "[PVP Shop] Miyu elephs, on shop reset<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
+		"title": "[PVP Shop] Miyu elephs<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
+	},{
+		"content": "Reminder: Buy all PVP AP before maintenance if you're hoarding.",
+		"start": "2026-08-23T19:00",
+		"startJp": "2026-04-21T04:00",
+		"end": "2026-08-30T19:00",
+		"endJp": "2026-04-28T04:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2026-08-30T19:00",
+		"startG": "2026-08-23T19:00",
+		"title": "Reminder: Buy all PVP AP before maintenance if you're hoarding.<br><br>G: 2026-08-23 19:00 Sun ~ 2026-08-30 19:00 Sun 7d (UTC y-m-d)<br>Jp: 2026-04-21 04:00 Tue ~ 2026-04-28 04:00 Tue 7d (JST y-m-d)<br>Jp: 2026-04-21 04:00 Tue ~ 2026-04-28 04:00 Tue 7d (JST y-m-d)",
+		"duration": "7d"
 	},{
 		"content": "[Permit Shop] Suzumi (Magical) + Reisa (Magical) elephs, on shop reset",
 		"start": "2026-09-02T19:00",
@@ -21811,6 +21902,58 @@ jpSched = [
 		"startG": "2026-09-03T19:00",
 		"title": "<b>2x XP</b><br><br>G: 2026-09-03 19:00 Thu ~ 2026-09-08 19:00 Tue 5d (UTC y-m-d)<br>Jp: 2026-05-02 04:00 Sat ~ 2026-05-07 04:00 Thu 5d (JST y-m-d)<br>Jp: 2026-05-02 04:00 Sat ~ 2026-05-07 04:00 Thu 5d (JST y-m-d)",
 		"duration": "5d"
+	},{
+		"content": "[Main] Pray-Ball! ～ Aim for a Grand Slam Home Run ～",
+		"start": "2026-09-08T02:00",
+		"startJp": "2026-05-06T11:00",
+		"end": "2026-09-22T02:00",
+		"endJp": "2026-05-20T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-09-22T02:00",
+		"startG": "2026-09-08T02:00",
+		"title": "[Main] Pray-Ball! ～ Aim for a Grand Slam Home Run ～<br><br>G: 2026-09-08 02:00 Tue ~ 2026-09-22 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 11:00 Wed 14d (JST y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Mini] ?SCHALE Settlement Task with General Student Council?",
+		"start": "2026-09-22T02:00",
+		"startJp": "2026-05-20T11:00",
+		"end": "2026-09-29T02:00",
+		"endJp": "2026-05-27T11:00",
+		"group": "J Event",
+		"subgroup": "Mini",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-09-29T02:00",
+		"startG": "2026-09-22T02:00",
+		"title": "[Mini] ?SCHALE Settlement Task with General Student Council?<br><br>G: 2026-09-22 02:00 Tue ~ 2026-09-29 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 11:00 Wed 7d (JST y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "?[Perm] Get Hyped and March On!?",
+		"start": "2026-09-22T02:00",
+		"startJp": "2026-05-20T11:00",
+		"end": "2026-09-29T02:00",
+		"endJp": "2026-05-27T11:00",
+		"group": "J Event",
+		"subgroup": "",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-09-29T02:00",
+		"startG": "2026-09-22T02:00",
+		"title": "?[Perm] Get Hyped and March On!?<br><br>G: 2026-09-22 02:00 Tue ~ 2026-09-29 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 11:00 Wed 7d (JST y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "?Erika (New)?",
+		"start": "2026-09-22T02:00",
+		"startJp": "2026-05-20T11:00",
+		"end": "2026-09-29T02:00",
+		"endJp": "2026-05-27T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-09-29T02:00",
+		"startG": "2026-09-22T02:00",
+		"title": "?Erika (New)?<br><br>G: 2026-09-22 02:00 Tue ~ 2026-09-29 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 11:00 Wed 7d (JST y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	},{
 		"content": "Full Acceleration",
 		"start": "2026-02-03T02:00",
