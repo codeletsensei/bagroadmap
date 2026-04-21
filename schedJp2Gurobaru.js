@@ -21654,7 +21654,7 @@ jpSched = [
 		"title": "[QoL] Student profile now displays favorite gifts.<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "UI/UX changes to Lobby/Recruitment/Campaign (Shittim Chest's Classroom) Menus after Vol.F.",
+		"content": "UI/UX changes to Lobby/Recruitment/Campaign (Shittim Chest's Classroom) Menus after Vol.F or P2 Vol.0.",
 		"start": "2026-08-24T10:00",
 		"startJp": "2026-04-21T19:00",
 		"end": "2026-09-08T02:00",
