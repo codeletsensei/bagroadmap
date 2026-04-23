@@ -591,9 +591,11 @@ async function itemClicked(item) {
       "Breakthrough": "突破演習",
       "Escort": "護衛演習",
 
-      "INS": "(INS OR INSANE)",
-      "TOR": "(TOR OR TMT)",
-      "LUN": "(LUN OR LUNATIC)"
+      "HC": "(HARDCORE OR HC)",
+      "EX": "(EXTREME OR EX)",
+      "INS": "(INSANE OR INS)",
+      "TOR": "(TORMENT OR TOR OR TMT)",
+      "LUN": "(LUNATIC OR LUN)"
     }
     function findJpRaid(itemId) {
       let selected = allData[itemId]
@@ -687,7 +689,7 @@ async function itemClicked(item) {
     htmlContent += `.<br>`
 
     htmlContent += `<br>Keywords of interest:<br>`
-    if (["TA", "GA"].includes(selectedItem.subgroup)) htmlContent += `- Difficulties: "(Hardcore OR HC)", "EX", "INS", "(TOR OR TMT)", "LUN".<br>`
+    if (["TA", "GA"].includes(selectedItem.subgroup)) htmlContent += `- Difficulties: "(Hardcore OR HC)", "(Extreme OR EX)", "(Insane OR INS)", "(Torment OR TOR OR TMT)", "(Lunatic OR LUN)".<br>`
     htmlContent += `- Damage/Armor type: <a style='color:red'>Red: "(爆発 OR 軽装備)"</a> | <a style='color:yellow'>Yellow: "(貫通 OR 重装甲)"</a> | <a style='color:cyan'>Blue: "(神秘 OR 特殊装甲)"</a> | <a style='color:purple'>Purple: "(振動 OR 弾力装甲)"</a>| <a style='color:green'>Green: "(分解 OR 複合装甲)"</a><br>`
     htmlContent += `- Terrain: <a style='color:red'>市街地 (Urban)</a> | 屋内 (Indoors) | <a style='color:green'>屋外 (Outdoors/Field)</a>.<br>`
     if (["TA", "GA"].includes(selectedItem.subgroup)) htmlContent += `- Number of units: 1凸, 2凸, etc.<br>`
