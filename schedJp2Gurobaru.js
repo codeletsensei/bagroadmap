@@ -1440,6 +1440,36 @@ jpSched = [
 		"title": "[Main] Code: BOX Shadow Looming Over Millennium<br><br>G: 2026-08-04 08:00 Tue ~ 2026-08-18 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-04-01 17:00 Wed ~ 2026-04-15 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "[Main] Special Operation: Lore Pursuit",
+		"start": "2026-08-24T10:00",
+		"startJp": "2026-04-21T19:00",
+		"end": "2026-09-08T02:00",
+		"endJp": "2026-05-06T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"jpName": "特殊作戦：ロア追跡編",
+		"url": "https://bluearchive.wiki/wiki/Special_Operation:_Lore_Pursuit",
+		"endG": "2026-09-08T02:00",
+		"startG": "2026-08-24T10:00",
+		"title": "[Main] Special Operation: Lore Pursuit<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
+		"duration": "15d"
+	},{
+		"content": "[Main] Pray-Ball! ～ Aim for a Grand Slam Home Run ～",
+		"start": "2026-09-08T02:00",
+		"startJp": "2026-05-06T11:00",
+		"end": "2026-09-22T02:00",
+		"endJp": "2026-05-20T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"jpName": "プレイボール！ ～目指せ！満塁ホームラン～",
+		"url": "https://bluearchive.wiki/wiki/Pray-Ball!_～_Aim_for_a_Grand_Slam_Home_Run_～/Rerun",
+		"endG": "2026-09-22T02:00",
+		"startG": "2026-09-08T02:00",
+		"title": "[Main] Pray-Ball! ～ Aim for a Grand Slam Home Run ～<br><br>G: 2026-09-08 02:00 Tue ~ 2026-09-22 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 11:00 Wed 14d (JST y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
 		"start": "2023-10-31T08:00",
 		"startJp": "2023-06-07T17:00",
@@ -1725,6 +1755,19 @@ jpSched = [
 		"startG": "2026-08-18T02:00",
 		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br><br>G: 2026-08-18 02:00 Tue ~ 2026-08-24 01:59 Mon 6d (UTC y-m-d)<br>Jp: 2026-04-15 11:00 Wed ~ 2026-04-21 10:59 Tue 6d (JST y-m-d)<br>Jp: 2026-04-15 11:00 Wed ~ 2026-04-21 10:59 Tue 6d (JST y-m-d)",
 		"duration": "6d"
+	},{
+		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
+		"start": "2026-09-22T02:00",
+		"startJp": "2026-05-20T11:00",
+		"end": "2026-09-29T01:59",
+		"endJp": "2026-05-27T10:59",
+		"group": "J Event",
+		"subgroup": "Mini",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-09-29T01:59",
+		"startG": "2026-09-22T02:00",
+		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br><br>G: 2026-09-22 02:00 Tue ~ 2026-09-29 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 10:59 Wed 7d (JST y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	},{
 		"content": "[Login] 1st Anniversary Login Bonus",
 		"start": "2022-06-21T14:00",
@@ -21550,19 +21593,6 @@ jpSched = [
 		"title": "[PVP] Season 11<br><br>G: 2026-09-22 02:00 Tue ~ 2026-10-07 02:00 Wed 15d (UTC y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-06-04 11:00 Thu 15d (JST y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-06-04 11:00 Thu 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "Special Operation: Lore Pursuit",
-		"start": "2026-08-24T10:00",
-		"startJp": "2026-04-21T19:00",
-		"end": "2026-09-08T02:00",
-		"endJp": "2026-05-06T11:00",
-		"group": "J Event",
-		"subgroup": "",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-09-08T02:00",
-		"startG": "2026-08-24T10:00",
-		"title": "Special Operation: Lore Pursuit<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
-		"duration": "15d"
-	},{
 		"content": "Main Story Part 2 Prologue",
 		"start": "2026-08-24T10:00",
 		"startJp": "2026-04-21T19:00",
@@ -21628,7 +21658,7 @@ jpSched = [
 		"title": "[QoL] Increased comms drop<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "[QoL] Universal Blueprints from normal/hard/event stages.>Selector blueprint but for tiers instead of slots.",
+		"content": "[QoL] Universal Blueprints from normal/hard/event stages.>\"Selector\" blueprints for tiers, instead of slots.",
 		"start": "2026-08-24T10:00",
 		"startJp": "2026-04-21T19:00",
 		"end": "2026-09-08T02:00",
@@ -21654,7 +21684,7 @@ jpSched = [
 		"title": "[QoL] Student profile now displays favorite gifts.<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "UI/UX changes to Lobby/Recruitment/Campaign (Shittim Chest's Classroom) Menus after Vol.F or P2 Vol.0.",
+		"content": "UI/UX changes to Lobby/Recruitment/Campaign (Shittim Chest's Classroom) Menus.",
 		"start": "2026-08-24T10:00",
 		"startJp": "2026-04-21T19:00",
 		"end": "2026-09-08T02:00",
@@ -21664,7 +21694,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-09-08T02:00",
 		"startG": "2026-08-24T10:00",
-		"title": "UI/UX changes to Lobby/Recruitment/Campaign (Shittim Chest's Classroom) Menus after Vol.F.<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
+		"title": "UI/UX changes to Lobby/Recruitment/Campaign (Shittim Chest's Classroom) Menus.<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
 		"content": "[Dangles] Hanako, Mari, Hifumi (Swimsuit), Mashiro (Swimsuit),> Haruka (New Year), Haruna (Sportswear), Hibiki, Karin, Kisaki, Minori, Tomoe (Qipao)",
@@ -21733,7 +21763,7 @@ jpSched = [
 		"title": "[PVP Shop] Miyu elephs<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
-		"content": "Reminder: Buy all PVP AP before maintenance if you're hoarding.",
+		"content": "Reminder: Buy all PVP AP before maintenance.",
 		"start": "2026-08-23T19:00",
 		"startJp": "2026-04-21T04:00",
 		"end": "2026-08-30T19:00",
@@ -21743,7 +21773,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgreen",
 		"endG": "2026-08-30T19:00",
 		"startG": "2026-08-23T19:00",
-		"title": "Reminder: Buy all PVP AP before maintenance if you're hoarding.<br><br>G: 2026-08-23 19:00 Sun ~ 2026-08-30 19:00 Sun 7d (UTC y-m-d)<br>Jp: 2026-04-21 04:00 Tue ~ 2026-04-28 04:00 Tue 7d (JST y-m-d)<br>Jp: 2026-04-21 04:00 Tue ~ 2026-04-28 04:00 Tue 7d (JST y-m-d)",
+		"title": "Reminder: Buy all PVP AP before maintenance.<br><br>G: 2026-08-23 19:00 Sun ~ 2026-08-30 19:00 Sun 7d (UTC y-m-d)<br>Jp: 2026-04-21 04:00 Tue ~ 2026-04-28 04:00 Tue 7d (JST y-m-d)<br>Jp: 2026-04-21 04:00 Tue ~ 2026-04-28 04:00 Tue 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[Permit Shop] Suzumi (Magical) + Reisa (Magical) elephs, on shop reset",
@@ -21759,7 +21789,7 @@ jpSched = [
 		"title": "[Permit Shop] Suzumi (Magical) + Reisa (Magical) elephs, on shop reset<br><br>G: 2026-09-02 19:00 Wed ~ 2026-09-15 19:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-05-01 04:00 Fri ~ 2026-05-14 04:00 Thu 13d (JST y-m-d)<br>Jp: 2026-05-01 04:00 Fri ~ 2026-05-14 04:00 Thu 13d (JST y-m-d)",
 		"duration": "13d"
 	},{
-		"content": "[Crafting] Furniture: Miyo, Fuyu, Ritsu, Valkyrie Set (Kirino?), Accessory Showcase",
+		"content": "[Crafting] Furniture: Miyo, Fuyu, Ritsu, Valkyrie Set, Accessory Showcase",
 		"start": "2026-08-24T10:00",
 		"startJp": "2026-04-21T19:00",
 		"end": "2026-09-08T02:00",
@@ -21769,7 +21799,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2026-09-08T02:00",
 		"startG": "2026-08-24T10:00",
-		"title": "[Crafting] Furniture: Miyo, Fuyu, Ritsu, Valkyrie Set (Kirino?), Accessory Showcase<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
+		"title": "[Crafting] Furniture: Miyo, Fuyu, Ritsu, Valkyrie Set, Accessory Showcase<br><br>G: 2026-08-24 10:00 Mon ~ 2026-09-08 02:00 Tue 15d (UTC y-m-d)<br>Jp: 2026-04-21 19:00 Tue ~ 2026-05-06 11:00 Wed 15d (JST y-m-d)",
 		"duration": "15d"
 	},{
 		"content": "Display Kaiten's current Part's HP + minor stuff",
@@ -21903,33 +21933,7 @@ jpSched = [
 		"title": "<b>2x XP</b><br><br>G: 2026-09-03 19:00 Thu ~ 2026-09-08 19:00 Tue 5d (UTC y-m-d)<br>Jp: 2026-05-02 04:00 Sat ~ 2026-05-07 04:00 Thu 5d (JST y-m-d)<br>Jp: 2026-05-02 04:00 Sat ~ 2026-05-07 04:00 Thu 5d (JST y-m-d)",
 		"duration": "5d"
 	},{
-		"content": "[Main] Pray-Ball! ～ Aim for a Grand Slam Home Run ～",
-		"start": "2026-09-08T02:00",
-		"startJp": "2026-05-06T11:00",
-		"end": "2026-09-22T02:00",
-		"endJp": "2026-05-20T11:00",
-		"group": "J Event",
-		"subgroup": "Main",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-09-22T02:00",
-		"startG": "2026-09-08T02:00",
-		"title": "[Main] Pray-Ball! ～ Aim for a Grand Slam Home Run ～<br><br>G: 2026-09-08 02:00 Tue ~ 2026-09-22 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 11:00 Wed 14d (JST y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-20 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "[Mini] ?SCHALE Settlement Task with General Student Council?",
-		"start": "2026-09-22T02:00",
-		"startJp": "2026-05-20T11:00",
-		"end": "2026-09-29T02:00",
-		"endJp": "2026-05-27T11:00",
-		"group": "J Event",
-		"subgroup": "Mini",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-09-29T02:00",
-		"startG": "2026-09-22T02:00",
-		"title": "[Mini] ?SCHALE Settlement Task with General Student Council?<br><br>G: 2026-09-22 02:00 Tue ~ 2026-09-29 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 11:00 Wed 7d (JST y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 11:00 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "?[Perm] Get Hyped and March On!?",
+		"content": "[Perm] Get Hyped and March On!",
 		"start": "2026-09-22T02:00",
 		"startJp": "2026-05-20T11:00",
 		"end": "2026-09-29T02:00",
@@ -21939,7 +21943,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-09-29T02:00",
 		"startG": "2026-09-22T02:00",
-		"title": "?[Perm] Get Hyped and March On!?<br><br>G: 2026-09-22 02:00 Tue ~ 2026-09-29 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 11:00 Wed 7d (JST y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 11:00 Wed 7d (JST y-m-d)",
+		"title": "[Perm] Get Hyped and March On!<br><br>G: 2026-09-22 02:00 Tue ~ 2026-09-29 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 11:00 Wed 7d (JST y-m-d)<br>Jp: 2026-05-20 11:00 Wed ~ 2026-05-27 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "?Erika (New)?",
