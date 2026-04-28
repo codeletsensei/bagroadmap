@@ -2555,6 +2555,14 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[Web Event] Special Ninjutsu Run Away",
+    "start": "2026-04-28T02:00:00.000Z",
+    "end": "2026-05-11T19:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow",
+    "url": "https://bluearchive.nexon.com/events/2026/04/runaway"
+  },{
 //
 /// RAIDS
 //
