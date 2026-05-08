@@ -5842,6 +5842,14 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow",
     "url": "https://bluearchive.nexon.com/user/myoffice"
+  },{
+    "content": "Kivotos Live (4.5th Anniversary Special Livestream)",
+    "start": "2026-05-15T08:00",
+    "end": "2026-05-18T09:00",
+    "group": "G Maint",
+    "subgroup": "Stream",
+    "style": "color:black;background-color:cyan",
+    "url": "https://www.youtube.com/@bluearchive_kr/streams"
   }
 ]
 

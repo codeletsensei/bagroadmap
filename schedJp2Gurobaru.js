@@ -21815,6 +21815,20 @@ jpSched = [
 		"title": "Display Kaiten's current Part's HP + minor stuff<br><br>G: 2026-09-01 02:00 Tue ~ 2026-09-07 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-04-29 11:00 Wed ~ 2026-05-06 04:00 Wed 7d (JST y-m-d)<br>Jp: 2026-04-29 11:00 Wed ~ 2026-05-06 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "Kivotos Live (4.5th Anniversary Special Livestream)",
+		"start": "2026-05-14T23:00",
+		"startJp": "2026-05-15T08:00",
+		"end": "2026-05-18T00:00",
+		"endJp": "2026-05-18T09:00",
+		"group": "J Maint",
+		"subgroup": "Stream",
+		"style": "color:black;background-color:cyan",
+		"url": "https://www.youtube.com/@bluearchive_kr/streams",
+		"endG": "2026-05-18T00:00",
+		"startG": "2026-05-14T23:00",
+		"title": "Kivotos Live (4.5th Anniversary Special Livestream)<br><br>G: 2026-05-14 23:00 Thu ~ 2026-05-18 00:00 Mon 4d (UTC y-m-d)<br>Jp: 2026-05-15 08:00 Fri ~ 2026-05-18 09:00 Mon 4d (JST y-m-d)",
+		"duration": "4d"
+	},{
 		"content": "[JFD] Defense Yellow Urban. Kill enemies = Students get debuffed. Cleanse = ATK buff. Enemies do more dmg. Stronger shields.",
 		"start": "2026-09-08T02:00",
 		"startJp": "2026-05-06T11:00",
