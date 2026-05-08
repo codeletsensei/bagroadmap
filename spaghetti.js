@@ -17,7 +17,7 @@ else shopReminder()
 
 //https://visjs.github.io/vis-timeline/docs/timeline/
 prevRegion = 2
-region = 2 // 0 = confirmed global, 1 = "JP", 2 = both, 3 = current JP
+region = Number(localStorage.getItem("roadmap-region")) || 2 // 0 = confirmed global, 1 = "JP", 2 = both, 3 = current JP
 confirmed.forEach(a=>{
   a.title = a.content + "<br>Confirmed: " + a.start.toString().substr(0,16).replace("T"," ") + " " + new Date(a.start).toLocaleString('en-us', {  timeZone: "UTC", weekday: 'long' }).substr(0,3)
   if (a.end) {
@@ -251,7 +251,8 @@ function shopReminder() {
 
 function run(){
   document.documentElement.style.setProperty("--gridColor","#f5f5f5")
-  changeDarkMode()
+  let darkmode = Number(localStorage.getItem("roadmap-darkMode") || 1)
+  if (darkmode) changeDarkMode()
   document.getElementById("spanChangelog").innerText = new Date().toLocaleString("ja").split(" ")[0] + ": I got raped today again... But I won't let it happen tomorrow!"
   document.getElementById("spanChangelog").innerHTML += "<br>" + lastShitAdded
   var container = document.getElementById('visualization');
@@ -296,7 +297,8 @@ function run(){
   container.appendChild(btnEOS2)
 }
 
-function plotStuff(groups, extraItemsArray){
+function plotStuff(region, extraItemsArray){
+  localStorage.setItem("roadmap-region", region)
   var items = getItems(extraItemsArray)
   var groups = getGroup()
   var options = {
@@ -521,14 +523,13 @@ async function itemClicked(item) {
   }
   currentSelection = itemId
   let selectedItem = allData[itemId]
+  let htmlContent = "<b>" + selectedItem.content.replace(/<u>|<\/u>/g,"") + "</b></br>"
 
   if ( allData[itemId].group.includes("Event") && allData[itemId].jpName ) {
     if ( allData[itemId].group.includes("G ") ) {
       let query = allData.findLast(i=>{ if (i.jpName && i.group == "J Event") return i.jpName == selectedItem.jpName })
-      console.log(query)
       if (query) selectedItem = query
     }
-    let htmlContent = ""
     let eventTitle = selectedItem.jpName.split("～")
     if (selectedItem.jpName[0] == "～") eventTitle = eventTitle[1]
     else eventTitle = eventTitle[0]
@@ -543,7 +544,7 @@ async function itemClicked(item) {
     return
   }
   else if (allData[itemId]?.url) {
-    openExternalLink(allData[itemId].url)
+    openExternalLink(allData[itemId].url, htmlContent)
     return
   }
   else if (allData[itemId]?.season) {
@@ -661,13 +662,13 @@ async function itemClicked(item) {
         else url += "tiphareth/heavy"
       }
       youtube += "+" + translations[selectedItem.defType]
-      let htmlContent = "<br>Souriki-Border: <a href='" + url + "' target='_blank'>" + url + "</a>"
+      htmlContent += "<br>Souriki-Border: <a href='" + url + "' target='_blank'>" + url + "</a>"
       htmlContent += "<br><br>Youtube:<br><a href='" + youtube + "' target='_blank'>" + youtube + "<a><br>"
       openExternalLink(null, htmlContent)
       return
     }
     url += "/" + selectedItem.season
-    htmlContent = "<br>Souriki-Border: <a href='" + url + "' target='_blank'>" + url + "</a>"
+    htmlContent += "<br>Souriki-Border: <a href='" + url + "' target='_blank'>" + url + "</a>"
 
     if (["TA","GA"].includes(selectedItem.subgroup) && selectedItem.startJp) {
       planaUrl += "/" + selectedItem.startJp.split("T")[0].replace(/-|\//g,"") + "/Rankings"
@@ -702,14 +703,14 @@ async function itemClicked(item) {
 async function openExternalLink(url, extraContent) {
   let htmlContent = ""
   if (url) htmlContent += "Do you really want to visit <b style='color:red'>" + url + "</b> ?<br><br>"
-  htmlContent += "<b>Only click OK "
-  if (extraContent) htmlContent += ", or alternative hyperlinks, "
+  if (extraContent) htmlContent += extraContent + "<br><br>"
+  htmlContent += "<b style='color:red'>Only click OK "
+  if (!url) htmlContent += ", or alternative hyperlinks, "
   htmlContent += "if you know the link is safe or accept the risks.</b><br>"
-  if (extraContent) htmlContent += extraContent
   let swalData = {
     title: "<a style='color:red'>Accessing external website(s)</a>",
     html: htmlContent,
-    showConfirmButton: !extraContent,
+    showConfirmButton: url,
     showCancelButton: true,
     returnFocus: false,
     width: "70%",
@@ -787,10 +788,12 @@ function changeDarkMode() {
   if (document.documentElement.style.getPropertyValue("--gridColor") == "#f5f5f5") {
     document.documentElement.style.setProperty("--gridColor","#282A2E")
     document.getElementById("btnDarkMode").style.backgroundColor = ""
+    localStorage.setItem("roadmap-darkMode","1")
   }
   else {
     document.documentElement.style.setProperty("--gridColor","#f5f5f5")
     document.getElementById("btnDarkMode").style.backgroundColor = "lightblue"
+    localStorage.setItem("roadmap-darkMode","0")
   }
 }
 

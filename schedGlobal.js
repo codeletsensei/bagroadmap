@@ -367,6 +367,13 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3425677"
   },{
+    "content": "EOS",
+    "start": "2026-05-12T02:00:00.000Z",
+    "end": "2026-05-12T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 /// GASHA
 //
@@ -1903,6 +1910,34 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:white"
   },{
+    "content": "Kisaki",
+    "start": "2026-05-12T02:00:00.000Z",
+    "end": "2026-05-26T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Reijo",
+    "start": "2026-05-12T02:00:00.000Z",
+    "end": "2026-05-26T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Mari (Sportswear) [L]",
+    "start": "2026-05-12T02:00:00.000Z",
+    "end": "2026-05-26T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Yuuka (Sportswear) [L]",
+    "start": "2026-05-12T02:00:00.000Z",
+    "end": "2026-05-26T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -2562,6 +2597,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow",
     "url": "https://bluearchive.nexon.com/events/2026/04/runaway"
+  },{
+    "content": "[Main] The Senses Descend",
+    "start": "2026-05-12T02:00:00.000Z",
+    "end": "2026-05-26T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
   },{
 //
 /// RAIDS
@@ -4834,6 +4876,55 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Hard",
+    "start": "2026-05-11T19:00:00.000Z",
+    "end": "2026-05-18T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Scrimm",
+    "start": "2026-05-18T19:00:00.000Z",
+    "end": "2026-05-25T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Comm",
+    "start": "2026-05-18T19:00:00.000Z",
+    "end": "2026-05-25T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Hard</b>",
+    "start": "2026-05-25T19:00:00.000Z",
+    "end": "2026-06-01T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Normal</b>",
+    "start": "2026-05-25T19:00:00.000Z",
+    "end": "2026-06-01T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Bounty</b>",
+    "start": "2026-05-25T19:00:00.000Z",
+    "end": "2026-06-01T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-05-29T19:00:00.000Z",
+    "end": "2026-06-31T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 /// MISC
 //
@@ -5729,8 +5820,7 @@ confirmed = [
     "end": "2026-05-05T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "",
-    "style": "color:black; background-color:yellow",
-    "url": "https://bluearchive.nexon.com/user/myoffice"
+    "style": "color:black; background-color:lightblue"
   },{
     "content": "[Permit Shop] Koharu Elephs",
     "start": "2026-04-30T02:00:00.000Z",
