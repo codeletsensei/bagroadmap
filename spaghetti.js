@@ -689,7 +689,7 @@ async function itemClicked(item) {
     if (selectedItem.terrain) htmlContent += ", which for this one should be <a style='color:red'>" + translations[selectedItem.terrain] + "</a> (" + selectedItem.terrain + ")" 
     htmlContent += `.<br>`
 
-    htmlContent += `<br>Keywords of interest:<br>`
+    htmlContent += `<br>Keywords of interest:<br>- Blue Archive: <b>ブルアカ</b><br>`
     if (["TA", "GA"].includes(selectedItem.subgroup)) htmlContent += `- Difficulties: "(Hardcore OR HC)", "(Extreme OR EX)", "(Insane OR INS)", "(Torment OR TOR OR TMT)", "(Lunatic OR LUN)".<br>`
     htmlContent += `- Damage/Armor type: <a style='color:red'>Red: "(爆発 OR 軽装備)"</a> | <a style='color:yellow'>Yellow: "(貫通 OR 重装甲)"</a> | <a style='color:cyan'>Blue: "(神秘 OR 特殊装甲)"</a> | <a style='color:purple'>Purple: "(振動 OR 弾力装甲)"</a>| <a style='color:green'>Green: "(分解 OR 複合装甲)"</a><br>`
     htmlContent += `- Terrain: <a style='color:red'>市街地 (Urban)</a> | 屋内 (Indoors) | <a style='color:green'>屋外 (Outdoors/Field)</a>.<br>`

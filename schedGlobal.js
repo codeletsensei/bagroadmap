@@ -2605,6 +2605,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[Main Story] Vol.EX Deca C3 P1 (ep 1~9)",
+    "start": "2026-05-19T02:00:00.000Z",
+    "end": "2026-06-02T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
 //
 /// RAIDS
 //
@@ -5850,6 +5857,13 @@ confirmed = [
     "subgroup": "Stream",
     "style": "color:black;background-color:cyan",
     "url": "https://www.youtube.com/@bluearchive_kr/streams"
+  },{
+    "content": "[Mission] Area 30 (Cherino + Momiji + Cafe2 Lv10)",
+    "start": "2026-05-12T02:00:00.000Z",
+    "end": "2026-05-26T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black;background-color:lightgrey",
   }
 ]
 
