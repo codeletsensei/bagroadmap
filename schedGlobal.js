@@ -3781,7 +3781,7 @@ confirmed = [
     "end": "2026-06-08T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "",
-    "style": "color:black; background-color:pink",
+    "style": "color:black; background-color:white",
     "url": "https://rentry.org/how2raidba#steel-continent-assault"
   },{
     "content": "[LBA] S23 Chokmah Blue (Blue atk)",
@@ -3798,7 +3798,7 @@ confirmed = [
     "end": "2026-06-22T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "",
-    "style": "color:black; background-color:pink",
+    "style": "color:black; background-color:white",
     "url": "https://rentry.org/how2raidba#steel-continent-assault"
   },{
     "content": "[JFD] Defense Blue Indoors. Blue AR+RG buff. Dead Enemies deal AOE dmg to other enemies. High HP enemies.",
@@ -3812,10 +3812,10 @@ confirmed = [
   },{
     "content": "[AO] Decagrammaton Showdown",
     "start": "2026-06-23T02:00:00.000Z",
-    "end": "2026-06-30T19:00:00.000Z",
+    "end": "2026-06-29T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "",
-    "style": "color:black; background-color:pink",
+    "style": "color:black; background-color:white",
     "url": "https://rentry.org/how2raidba#steel-continent-assault"
   },{
     "content": "[LBA] S24 The Fury of Set Blue (Red atk)",
@@ -3830,11 +3830,18 @@ confirmed = [
     "content": "[TA] Binah Outdoors Yellow (Yellow atk)",
     "boss": "Binah",
     "start": "2026-06-30T02:00:00.000Z",
-    "end": "2026-07-07T19:00:00.000Z",
+    "end": "2026-07-06T19:00:00.000Z",
     "group": "G Raid",
     "season": 86,
     "subgroup": "TA",
     "style": "color:black; background-color:yellow",
+  },{
+    "content": "Revised some of Binah's skills.",
+    "start": "2026-06-30T02:00:00.000Z",
+    "end": "2026-07-06T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue",
   },{
 //
 /// CAMPAIGNS
