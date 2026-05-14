@@ -48,7 +48,7 @@ function getItems(extraItemsArray){
   allData.forEach((a,i)=>{
     a.id = i
     if (!a.end) a.type = "point"
-    if (a.url || a.group.includes("Raid") || (a.group == "G Event" && a.jpName) ) {
+    if (a.url || (a.group.includes("Raid") && ["TA", "JFD", "GA", "LBA"].includes(a.subgroup))  || (a.group == "G Event" && a.jpName) ) {
       a.content = "<u>" + a.content + "</u>"
     }
   })

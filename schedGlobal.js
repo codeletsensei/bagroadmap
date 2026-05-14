@@ -720,7 +720,7 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey "
   },{
-    "content": "Hoshino (Armed & Dangerous) [L Bluefes]",
+    "content": "Hoshino (Battle) [L Bluefes]",
     "start": "2025-01-23T02:00:00.000Z",
     "end": "2025-01-30T02:00:00.000Z",
     "group": "G Gacha",
@@ -1938,6 +1938,111 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Daily 10~20 free recruitment campaign (100 total)",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-09T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "Himari (Battle) [L] (New)",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-09T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Rio (Battle) [L] (New)",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-09T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Toki (Battle) [Welfare] (New)",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-09T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Bluefes] 2x 3* rate",
+    "start": "2026-06-09T02:00:00.000Z",
+    "end": "2026-06-16T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "Kei [L Bluefes] (New)",
+    "start": "2026-06-09T02:00:00.000Z",
+    "end": "2026-06-16T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Arisu (Battle) [L Bluefes] (New)",
+    "start": "2026-06-09T02:00:00.000Z",
+    "end": "2026-06-16T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Hoshino (Battle) [L Bluefes]",
+    "start": "2026-06-09T02:00:00.000Z",
+    "end": "2026-06-16T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Shiroko*Terror [L Bluefes]",
+    "start": "2026-06-09T02:00:00.000Z",
+    "end": "2026-06-16T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Kasumi",
+    "start": "2026-06-16T02:00:00.000Z",
+    "end": "2026-06-23T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Ichika",
+    "start": "2026-06-16T02:00:00.000Z",
+    "end": "2026-06-23T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Eimi (Swimsuit)",
+    "start": "2026-06-16T02:00:00.000Z",
+    "end": "2026-06-23T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Sakurako",
+    "start": "2026-06-16T02:00:00.000Z",
+    "end": "2026-06-23T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Yuzu (Battle) (New)",
+    "start": "2026-06-23T02:00:00.000Z",
+    "end": "2026-07-07T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Eimi (Battle) (New)",
+    "start": "2026-06-23T02:00:00.000Z",
+    "end": "2026-07-07T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -2612,6 +2717,57 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "Arona's Special Mission Event! (In-game webevent)",
+    "start": "2026-05-12T02:00:00.000Z",
+    "end": "2026-07-07T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] Operation Plan: Steel Continent",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-30T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow",
+    "url": "https://bluearchive.wiki/wiki/Steel_Continent_Assault"
+  },{
+    "content": "[Main Story] Vol.EX Deca C3 P2",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-09T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main Story] Vol.EX Deca C3 P3",
+    "start": "2026-06-09T02:00:00.000Z",
+    "end": "2026-06-23T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main Story] Vol.EX Deca C3 P4",
+    "start": "2026-06-23T02:00:00.000Z",
+    "end": "2026-06-30T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] The Game Development Department's Cleanup Operation!",
+    "start": "2026-06-30T02:00:00.000Z",
+    "end": "2026-07-14T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini] Valentine's Day Promise",
+    "start": "2026-06-30T02:00:00.000Z",
+    "end": "2026-07-14T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+
 //
 /// RAIDS
 //
@@ -3619,6 +3775,66 @@ confirmed = [
     "season": 22,
     "subgroup": "LBA",
     "style": "color:white; background-color:red",
+  },{
+    "content": "[AO] Operation Plan: Steel Continent",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-08T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "",
+    "style": "color:black; background-color:pink",
+    "url": "https://rentry.org/how2raidba#steel-continent-assault"
+  },{
+    "content": "[LBA] S23 Chokmah Blue (Blue atk)",
+    "boss": "Chokmah",
+    "start": "2026-05-27T02:00:00.000Z",
+    "end": "2026-06-23T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 23,
+    "subgroup": "LBA",
+    "style": "color:white; background-color:blue",
+  },{
+    "content": "[AO] Malkuth Boss Battle",
+    "start": "2026-06-09T02:00:00.000Z",
+    "end": "2026-06-22T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "",
+    "style": "color:black; background-color:pink",
+    "url": "https://rentry.org/how2raidba#steel-continent-assault"
+  },{
+    "content": "[JFD] Defense Blue Indoors. Blue AR+RG buff. Dead Enemies deal AOE dmg to other enemies. High HP enemies.",
+    "boss": "Defense",
+    "start": "2026-06-09T02:00:00.000Z",
+    "end": "2026-06-16T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 48,
+    "subgroup": "JFD",
+    "style": "color:white; background-color:blue",
+  },{
+    "content": "[AO] Decagrammaton Showdown",
+    "start": "2026-06-23T02:00:00.000Z",
+    "end": "2026-06-30T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "",
+    "style": "color:black; background-color:pink",
+    "url": "https://rentry.org/how2raidba#steel-continent-assault"
+  },{
+    "content": "[LBA] S24 The Fury of Set Blue (Red atk)",
+    "boss": "Chokmah",
+    "start": "2026-06-24T02:00:00.000Z",
+    "end": "2026-07-28T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 24,
+    "subgroup": "LBA",
+    "style": "color:white; background-color:blue",
+  },{
+    "content": "[TA] Binah Outdoors Yellow (Yellow atk)",
+    "boss": "Binah",
+    "start": "2026-06-30T02:00:00.000Z",
+    "end": "2026-07-07T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 86,
+    "subgroup": "TA",
+    "style": "color:black; background-color:yellow",
   },{
 //
 /// CAMPAIGNS
@@ -5871,6 +6087,7 @@ coupons = {
   "2026-03-24 02:00": [ "MAGICALVIGILANTE", "BOLTCATCH831", "HEAVYCALIBER310" ],
   "2026-04-08 14:59": [ "DOKIDOKIRAID" ],
   "2026-04-27 19:00": [ "REDWINTERFEST" ],
+  "2026-06-09 15:00": [ "THESKYOFUNITY0526" ]
 }
 
 /// get the time when any future maintenance ends
