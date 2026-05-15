@@ -6079,7 +6079,14 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "Stream",
     "style": "color:black;background-color:cyan",
-    "url": "https://www.youtube.com/@bluearchive_kr/streams"
+    "url": "https://www.youtube.com/watch?v=KHceYwh1Dbw"
+  },{
+    "content": "Anime Expo 2026 Stream?",
+    "start": "2026-07-04T01:00",
+    "end": "2026-07-06T01:00",
+    "group": "G Maint",
+    "subgroup": "Stream",
+    "style": "color:black;background-color:cyan"
   },{
     "content": "[Mission] Area 30 (Cherino + Momiji + Cafe2 Lv10)",
     "start": "2026-05-12T02:00:00.000Z",
