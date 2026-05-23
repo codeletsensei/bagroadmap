@@ -2151,7 +2151,7 @@ confirmed = [
     "subgroup": "Event",
     "style": "color:black; background-color:yellow "
   },{
-    "content": "[Main] From Opera 0068 with Love!",
+    "content": "[Main] 0068 From Opera with Love!",
     "start": "2024-08-20T02:00:00.000Z",
     "end": "2024-09-03T02:00:00.000Z",
     "group": "G Event",
