@@ -22014,7 +22014,7 @@ jpSched = [
 		"title": "[Perm] 0068 from Opera with Love!<br><br>G: 2026-09-29 02:00 Tue ~ 2026-10-13 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-05-27 11:00 Wed ~ 2026-06-10 11:00 Wed 14d (JST y-m-d)<br>Jp: 2026-05-27 11:00 Wed ~ 2026-06-10 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[TA] DRUMBARKA",
+		"content": "[TA] DRUMBARKA Urban",
 		"start": "2026-10-06T02:00",
 		"startJp": "2026-06-03T11:00",
 		"end": "2026-10-12T19:00",
@@ -22024,7 +22024,7 @@ jpSched = [
 		"style": "color:black;background-color:pink",
 		"endG": "2026-10-12T19:00",
 		"startG": "2026-10-06T02:00",
-		"title": "[TA] DRUMBARKA<br><br>G: 2026-10-06 02:00 Tue ~ 2026-10-12 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-06-03 11:00 Wed ~ 2026-06-10 04:00 Wed 7d (JST y-m-d)<br>Jp: 2026-06-03 11:00 Wed ~ 2026-06-10 04:00 Wed 7d (JST y-m-d)",
+		"title": "[TA] DRUMBARKA Urban<br><br>G: 2026-10-06 02:00 Tue ~ 2026-10-12 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-06-03 11:00 Wed ~ 2026-06-10 04:00 Wed 7d (JST y-m-d)<br>Jp: 2026-06-03 11:00 Wed ~ 2026-06-10 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "Haruka (Dress) (New)",
