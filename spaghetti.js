@@ -74,7 +74,7 @@ function getItems(extraItemsArray){
         content: "Hoard AP?",
         group: a.group[0] + " Maint",
         style: "color:black; background-color:lightgreen",
-        title: "Right-click to display some tips",
+        title: "Right-click this, or the welfare/maintenance/etc cells, to display better info.",
         hoardGroup: allData.length,
         id: allData.length,
         welfare: a.start + a.content

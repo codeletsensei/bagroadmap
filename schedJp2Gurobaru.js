@@ -15761,15 +15761,15 @@ jpSched = [
 		"content": "[Welfare] Toki (Battle) (New)",
 		"start": "2026-05-26T10:00",
 		"startJp": "2026-01-20T19:00",
-		"end": "2026-06-04T02:00",
-		"endJp": "2026-01-29T11:00",
+		"end": "2026-06-24T02:00",
+		"endJp": "2026-02-18T11:00",
 		"group": "J Gacha",
 		"subgroup": "Gacha",
 		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-06-04T02:00",
+		"endG": "2026-06-24T02:00",
 		"startG": "2026-05-26T10:00",
-		"title": "[Welfare] Toki (Battle) (New)<br><br>G: 2026-05-26 10:00 Tue ~ 2026-06-04 02:00 Thu 9d (UTC y-m-d)<br>Jp: 2026-01-20 19:00 Tue ~ 2026-01-29 11:00 Thu 9d (JST y-m-d)",
-		"duration": "9d"
+		"title": "[Welfare] Toki (Battle) (New)<br><br>G: 2026-05-26 10:00 Tue ~ 2026-06-24 02:00 Wed 29d (UTC y-m-d)<br>Jp: 2026-01-20 19:00 Tue ~ 2026-02-18 11:00 Wed 29d (JST y-m-d)",
+		"duration": "29d"
 	},{
 		"content": "[Bluefes] 2x 3* rate",
 		"start": "2026-06-09T08:00",

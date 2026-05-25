@@ -1968,7 +1968,7 @@ confirmed = [
   },{
     "content": "Toki (Battle) [Welfare] (New)",
     "start": "2026-05-26T02:00:00.000Z",
-    "end": "2026-06-09T02:00:00.000Z",
+    "end": "2026-06-29T02:00:00.000Z",
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
