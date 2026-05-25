@@ -68,6 +68,22 @@ function getItems(extraItemsArray){
     allData = allData.filter(a=>{return a.subgroup != "Acceleration"})
     timeline.setCurrentTime(new Date().toLocaleString("ja", { timeZone: "Asia/Tokyo"}))
   }
+  allData.forEach((a,i)=>{
+    if (a.group.includes("Gacha") && a.content.includes("Welfare") && Date.parse(a.start) > (Date.now()) && !ignoredHoardWarnings.includes(a.start + a.content) ) {
+      let hoardWarning = {
+        content: "Hoard AP?",
+        group: a.group[0] + " Maint",
+        style: "color:black; background-color:lightgreen",
+        title: "Right-click to display some tips",
+        hoardGroup: allData.length,
+        id: allData.length,
+        welfare: a.start + a.content
+      }
+      hoardWarning.start = new Date(Date.parse(a.start) - 2.5*24*60*60*1000)
+      hoardWarning.end = a.start
+      allData.push(hoardWarning)
+    }
+  })
   return new vis.DataSet(allData)
 }
 
@@ -98,7 +114,8 @@ function getGroup(){
   return groups
 }
 
-apHoardingItems = {}
+apHoardingItems = {"0": [], "1": [], "2": [], "3": [] }
+ignoredHoardWarnings = []
 async function createHoardingTips(ev){
   ev.event.preventDefault()
   if (!ev.group || !ev.item) return
@@ -122,7 +139,6 @@ async function createHoardingTips(ev){
   }
   let group = ev.group.substr(0,2) + "Maint"
 
-  console.log(maintEndTime)
   if (!item.group.includes("Maint") && Date.parse(item.start) > Date.now() ) maintEndTime = item.start
 
   let timezone = "UTC"
@@ -219,6 +235,7 @@ async function createHoardingTips(ev){
 
   if (!apHoardingItems[region]) apHoardingItems[region] = []
   apHoardingItems[region] = apHoardingItems[region].concat(newEntries)
+  if (item.welfare) ignoredHoardWarnings.push(item.welfare)
   plotStuff(region, apHoardingItems[region])
   timeline.moveTo(maintEndTime)
   currentSelection = ev.item
