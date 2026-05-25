@@ -16609,6 +16609,19 @@ jpSched = [
 		"title": "?Otogi? ?[Welfare]?<br><br>G: 2026-10-06 02:00 Tue ~ 2026-10-20 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-05-27 11:00 Wed ~ 2026-06-10 11:00 Wed 14d (JST y-m-d)<br>Jp: 2026-05-27 11:00 Wed ~ 2026-06-10 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "[Mini Story] Weeds That Don't Bloom Alone",
+		"start": "2026-10-06T02:00",
+		"startJp": "2026-05-27T11:00",
+		"end": "2026-10-20T02:00",
+		"endJp": "2026-06-10T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-10-20T02:00",
+		"startG": "2026-10-06T02:00",
+		"title": "[Mini Story] Weeds That Don't Bloom Alone<br><br>G: 2026-10-06 02:00 Tue ~ 2026-10-20 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-05-27 11:00 Wed ~ 2026-06-10 11:00 Wed 14d (JST y-m-d)<br>Jp: 2026-05-27 11:00 Wed ~ 2026-06-10 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "Haruka (Dress) (New)",
 		"start": "2026-10-06T02:00",
 		"startJp": "2026-05-27T11:00",
