@@ -6201,6 +6201,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "[QoL] Keyboard key bindings. Controller Support.",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-08T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
     "content": "[Crafting] Furniture: Kikyou (Swimsuit), Renge (Swimsuit), Transport Ship Series",
     "start": "2026-05-26T02:00:00.000Z",
     "end": "2026-06-08T19:00:00.000Z",
