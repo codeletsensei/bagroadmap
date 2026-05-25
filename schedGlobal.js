@@ -2774,6 +2774,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[Login] Steel Continent: Arona's Supply Drop",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-18T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
 
 //
 /// RAIDS
@@ -3784,8 +3791,8 @@ confirmed = [
     "style": "color:white; background-color:red",
   },{
     "content": "[AO] Operation Plan: Steel Continent",
-    "start": "2026-05-26T02:00:00.000Z",
-    "end": "2026-06-08T19:00:00.000Z",
+    "start": "2026-05-27T02:00:00.000Z",
+    "end": "2026-06-09T19:00:00.000Z",
     "group": "G Raid",
     "subgroup": "",
     "style": "color:black; background-color:white",
@@ -3794,7 +3801,7 @@ confirmed = [
     "content": "[LBA] S23 Chokmah Blue (Blue atk)",
     "boss": "Chokmah",
     "start": "2026-05-27T02:00:00.000Z",
-    "end": "2026-06-23T19:00:00.000Z",
+    "end": "2026-06-22T19:00:00.000Z",
     "group": "G Raid",
     "season": 23,
     "subgroup": "LBA",
@@ -5155,9 +5162,65 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "<b>3x Comm</b>",
+    "start": "2026-06-01T19:00:00.000Z",
+    "end": "2026-06-08T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Lessons</b>",
+    "start": "2026-06-01T19:00:00.000Z",
+    "end": "2026-06-08T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Hard</b>",
+    "start": "2026-06-08T19:00:00.000Z",
+    "end": "2026-06-15T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Normal</b>",
+    "start": "2026-06-08T19:00:00.000Z",
+    "end": "2026-06-15T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Bounty</b>",
+    "start": "2026-06-08T19:00:00.000Z",
+    "end": "2026-06-15T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Comm</b>",
+    "start": "2026-06-15T19:00:00.000Z",
+    "end": "2026-06-22T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Scrimm</b>",
+    "start": "2026-06-15T19:00:00.000Z",
+    "end": "2026-06-22T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
     "content": "<b>2x XP</b>",
     "start": "2026-05-29T19:00:00.000Z",
     "end": "2026-06-31T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-06-19T19:00:00.000Z",
+    "end": "2026-06-21T19:00:00.000Z",
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
@@ -6101,6 +6164,98 @@ confirmed = [
     "group": "G Other",
     "subgroup": "",
     "style": "color:black;background-color:lightgrey",
+  },{
+    "content": "[Battlepass] Shinon's Battle Pass!",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-26T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:pink"
+  },{
+    "content": "[My Office] Steel Continent Event Story Completion Task (Clear \"Story – 22 Mercy\")",
+    "start": "2026-02-10T02:00:00.000Z",
+    "end": "2026-03-03T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow",
+    "url": "https://bluearchive.nexon.com/user/myoffice"
+  },{
+    "content": "[Homepage Event] Into the Unnamed",
+    "start": "2026-06-02T02:00:00.000Z",
+    "end": "2026-06-15T19:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[GA Shop] Hiyori elephs, Silver",
+    "start": "2026-05-31T19:00:00.000Z",
+    "end": "2026-06-16T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Permit Shop] Hasumi (Swimsuit), Seia (Swimsuit), T9 blueprints",
+    "start": "2026-05-31T19:00:00.000Z",
+    "end": "2026-06-16T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Crafting] Furniture: Kikyou (Swimsuit), Renge (Swimsuit), Transport Ship Series",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-08T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL Cafe] Gifts can now be dropped on the student's portrait.",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-08T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL Cafe] Relationship rank display instead of lvl/etc",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-08T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Option to start a PVP match when the cooldown's over",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-08T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL?] Hasumi's gone from PVP...",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-08T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "6th PV as title screen",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-08T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Returning Sensei Exclusive Login Bonus (for players who have not logged in for at least 28 days as of the daily reset)",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-08T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "Green Defense/Attack color",
+    "start": "2026-05-26T02:00:00.000Z",
+    "end": "2026-06-08T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:green; background-color:lightblue"
   }
 ]
 
