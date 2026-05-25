@@ -79,8 +79,10 @@ function getItems(extraItemsArray){
         id: allData.length,
         welfare: a.start + a.content
       }
+      let maint = allData.find(m=>{return (m.group == a.group[0] + " Maint" && m.end == a.start ) })
       hoardWarning.start = new Date(Date.parse(a.start) - 2.5*24*60*60*1000)
-      hoardWarning.end = a.start
+      if (maint) hoardWarning.end = maint.end
+      else hoardWarning.end = new Date(Date.parse(a.start) + 8*60*60*1000)
       allData.push(hoardWarning)
     }
   })
