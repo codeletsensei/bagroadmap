@@ -3792,7 +3792,7 @@ confirmed = [
   },{
     "content": "[AO] Operation Plan: Steel Continent",
     "start": "2026-05-27T02:00:00.000Z",
-    "end": "2026-06-09T19:00:00.000Z",
+    "end": "2026-06-09T02:00:00.000Z",
     "group": "G Raid",
     "subgroup": "",
     "style": "color:black; background-color:white",
@@ -3808,8 +3808,8 @@ confirmed = [
     "style": "color:white; background-color:blue",
   },{
     "content": "[AO] Malkuth Boss Battle",
-    "start": "2026-06-09T02:00:00.000Z",
-    "end": "2026-06-22T19:00:00.000Z",
+    "start": "2026-06-10T02:00:00.000Z",
+    "end": "2026-06-23T02:00:00.000Z",
     "group": "G Raid",
     "subgroup": "",
     "style": "color:black; background-color:white",
@@ -3825,8 +3825,8 @@ confirmed = [
     "style": "color:white; background-color:blue",
   },{
     "content": "[AO] Decagrammaton Showdown",
-    "start": "2026-06-23T02:00:00.000Z",
-    "end": "2026-06-29T19:00:00.000Z",
+    "start": "2026-06-24T02:00:00.000Z",
+    "end": "2026-06-30T02:00:00.000Z",
     "group": "G Raid",
     "subgroup": "",
     "style": "color:black; background-color:white",
