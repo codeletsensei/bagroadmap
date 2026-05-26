@@ -6173,8 +6173,8 @@ confirmed = [
     "style": "color:black; background-color:pink"
   },{
     "content": "[My Office] Steel Continent Event Story Completion Task (Clear \"Story – 22 Mercy\")",
-    "start": "2026-02-10T02:00:00.000Z",
-    "end": "2026-03-03T02:00:00.000Z",
+    "start": "2026-05-26T09:00:00.000Z",
+    "end": "2026-06-09T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "",
     "style": "color:black; background-color:yellow",
