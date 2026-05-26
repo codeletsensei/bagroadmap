@@ -591,6 +591,7 @@ async function itemClicked(item) {
       "Kurokage": "クロカゲ",
       "Geburah": "ゲブラ",
       "Yesod": "イェソド",
+      "Drumbarka": "ドラム缶ガニ",
 
       "Fury of Set": "セト",
       "Chokmah": "コクマー",
