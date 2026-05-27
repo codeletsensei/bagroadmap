@@ -69,7 +69,7 @@ function getItems(extraItemsArray){
     timeline.setCurrentTime(new Date().toLocaleString("ja", { timeZone: "Asia/Tokyo"}))
   }
   allData.forEach((a,i)=>{
-    if (a.group.includes("Gacha") && a.content.includes("Welfare") && Date.parse(a.start) > (Date.now()) && !ignoredHoardWarnings.includes(a.start + a.content) ) {
+    if (a.group.includes("Gacha") && (a.content.includes("Welfare") && !a.content.includes("Perm Welfare")) && Date.parse(a.start) > (Date.now()) && !ignoredHoardWarnings.includes(a.start + a.content) ) {
       let hoardWarning = {
         content: "Hoard AP?",
         group: a.group[0] + " Maint",
