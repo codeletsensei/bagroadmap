@@ -5225,6 +5225,27 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-06-26T19:00:00.000Z",
+    "end": "2026-06-28T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Normal",
+    "start": "2026-06-22T19:00:00.000Z",
+    "end": "2026-06-29T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Bounty",
+    "start": "2026-06-29T19:00:00.000Z",
+    "end": "2026-07-06T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 /// MISC
 //
