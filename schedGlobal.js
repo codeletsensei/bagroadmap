@@ -3825,7 +3825,7 @@ confirmed = [
     "content": "[JFD] Defense Blue Indoors. Blue AR+RG buff. Dead Enemies deal AOE dmg to other enemies. High HP enemies.",
     "boss": "Defense",
     "start": "2026-06-09T02:00:00.000Z",
-    "end": "2026-06-16T19:00:00.000Z",
+    "end": "2026-06-15T19:00:00.000Z",
     "group": "G Raid",
     "season": 48,
     "subgroup": "JFD",
@@ -3863,6 +3863,13 @@ confirmed = [
     "group": "G Raid",
     "subgroup": "",
     "style": "color:black; background-color:lightblue",
+  },{
+    "content": "[Perm] Trip-Trap-Train",
+    "start": "2026-06-16T02:00:00.000Z",
+    "end": "2026-06-23T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
   },{
 //
 /// CAMPAIGNS
@@ -6291,6 +6298,14 @@ confirmed = [
     "group": "G Other",
     "subgroup": "",
     "style": "color:green; background-color:lightblue"
+  },{
+    "content": "[My Office] Steel Continent Event Story EP 24 ‘Malkuth 1’ Completion Task",
+    "start": "2026-06-09T02:00:00.000Z",
+    "end": "2026-07-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow",
+    "url": "https://bluearchive.nexon.com/user/myoffice"
   }
 ]
 
