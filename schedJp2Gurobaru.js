@@ -17082,6 +17082,20 @@ jpSched = [
 		"duration": "7d",
 		"season": 53
 	},{
+		"content": "[Stream] ブルアカらいぶ！ざ☆すたーとおぶさまー！SP",
+		"start": "2026-06-20T10:00",
+		"startJp": "2026-06-20T19:00",
+		"end": "2026-06-24T10:00",
+		"endJp": "2026-06-24T19:00",
+		"group": "J Maint",
+		"subgroup": "Stream",
+		"style": "color:black;background-color:cyan",
+		"url": "https://youtube.com/live/N-WHdoxBDdU",
+		"endG": "2026-06-24T10:00",
+		"startG": "2026-06-20T10:00",
+		"title": "[Stream] ブルアカらいぶ！ざ☆すたーとおぶさまー！SP<br><br>G: 2026-06-20 10:00 Sat ~ 2026-06-24 10:00 Wed 4d (UTC y-m-d)<br>Jp: 2026-06-20 19:00 Sat ~ 2026-06-24 19:00 Wed 4d (JST y-m-d)",
+		"duration": "4d"
+	},{
 		"content": "[TA] ???????",
 		"start": "2026-11-10T02:00",
 		"startJp": "2026-07-01T11:00",

@@ -6306,6 +6306,14 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow",
     "url": "https://bluearchive.nexon.com/user/myoffice"
+  },{
+    "content": "[Stream] ブルアカらいぶ！ざ☆すたーとおぶさまー！SP",
+    "start": "2026-06-20T10:00",
+    "end": "2026-06-24T10:00",
+    "group": "G Maint",
+    "subgroup": "Stream",
+    "style": "color:black;background-color:cyan",
+    "url": "https://youtube.com/live/N-WHdoxBDdU"
   }
 ]
 

@@ -643,7 +643,7 @@ async function itemClicked(item) {
     if (selectedItem.boss) youtube += "+" + translations[selectedItem.boss]
     //if (selectedItem.terrain) youtube += "+" + translations[selectedItem.terrain]
     if (selectedItem.startJp) youtube += "+after:" + new Date(Date.parse(selectedItem.startJp) - 1*24*60*60*1000).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
-    let endDate = 30*24*60*60*1000
+    let endDate = 21*24*60*60*1000
     endDate = new Date(Date.parse(selectedItem.endJp) + endDate).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
     if (selectedItem.endJp) youtube += "+before:" + endDate
     if (selectedItem.subgroup == "TA") {
