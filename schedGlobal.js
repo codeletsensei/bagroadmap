@@ -5305,6 +5305,27 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Comm",
+    "start": "2026-07-06T19:00:00.000Z",
+    "end": "2026-07-13T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-07-03T19:00:00.000Z",
+    "end": "2026-07-05T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-07-10T19:00:00.000Z",
+    "end": "2026-07-12T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 /// MISC
 //
