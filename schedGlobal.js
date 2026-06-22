@@ -2064,6 +2064,41 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Arisu (Maid)",
+    "start": "2026-07-07T02:00:00.000Z",
+    "end": "2026-07-14T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Momoi (Maid)",
+    "start": "2026-07-07T02:00:00.000Z",
+    "end": "2026-07-14T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Midori (Maid)",
+    "start": "2026-07-07T02:00:00.000Z",
+    "end": "2026-07-14T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Kayoko (New Year)",
+    "start": "2026-07-07T02:00:00.000Z",
+    "end": "2026-07-14T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[ER] Azusa (S), Mashiro (S), Hina (S), Iori (S), Karin (BG), Neru (BG), Mutsuki (NY), Aru (NY), Chise (S), Izuna (S)",
+    "start": "2026-07-07T02:00:00.000Z",
+    "end": "2026-07-14T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:white"
+  },{
 //
 /// EVENTS
 //
@@ -3849,7 +3884,7 @@ confirmed = [
     "content": "[LBA] S24 The Fury of Set Blue (Red atk)",
     "boss": "Chokmah",
     "start": "2026-06-24T02:00:00.000Z",
-    "end": "2026-07-28T19:00:00.000Z",
+    "end": "2026-07-20T19:00:00.000Z",
     "group": "G Raid",
     "season": 24,
     "subgroup": "LBA",
@@ -3871,12 +3906,15 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:lightblue",
   },{
-    "content": "[Perm] Trip-Trap-Train",
-    "start": "2026-06-16T02:00:00.000Z",
-    "end": "2026-06-23T02:00:00.000Z",
-    "group": "G Event",
-    "subgroup": "",
-    "style": "color:black; background-color:yellow"
+    "content": "[JFD] Shooting Urban Red. Enemies take more dmg, 3rd nero has higher HP. basic proficiency buff for AR + SR",
+    "boss": "Shooting",
+    "terrain": "Outdoors",
+    "start": "2026-07-07T02:00:00.000Z",
+    "end": "2026-07-13T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 49,
+    "subgroup": "JFD",
+    "style": "color:white; background-color:red",
   },{
 //
 /// CAMPAIGNS
@@ -6222,7 +6260,7 @@ confirmed = [
     "style": "color:black; background-color:yellow",
     "url": "https://bluearchive.nexon.com/user/myoffice"
   },{
-    "content": "[Homepage Event] Into the Unnamed",
+    "content": "[Web Event] Into the Unnamed",
     "start": "2026-06-02T02:00:00.000Z",
     "end": "2026-06-15T19:00:00.000Z",
     "group": "G Event",
@@ -6314,6 +6352,13 @@ confirmed = [
     "style": "color:black; background-color:yellow",
     "url": "https://bluearchive.nexon.com/user/myoffice"
   },{
+    "content": "[Perm] Trip-Trap-Train",
+    "start": "2026-06-16T02:00:00.000Z",
+    "end": "2026-06-23T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
     "content": "[Stream] ブルアカらいぶ！ざ☆すたーとおぶさまー！SP",
     "start": "2026-06-20T10:00",
     "end": "2026-06-24T10:00",
@@ -6321,6 +6366,34 @@ confirmed = [
     "subgroup": "Stream",
     "style": "color:black;background-color:cyan",
     "url": "https://youtube.com/live/N-WHdoxBDdU"
+  },{
+    "content": "[Web Event] Palace: Belonged",
+    "start": "2026-06-23T02:00:00.000Z",
+    "end": "2026-07-06T19:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Permit Shop] Seia (Swimsuit), Hasumi (Swimsuit), T9 Blueprints.",
+    "start": "2026-06-30T02:00:00.000Z",
+    "end": "2026-07-14T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[GA Shop] Hiyori elephs, Silver.",
+    "start": "2026-06-30T02:00:00.000Z",
+    "end": "2026-07-14T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Crafting] Furniture: Trinityfes2 students (Swimsuit Seia, Hasumi, Ichika, Mika, Nagisa) (except BP furniture)",
+    "start": "2026-06-23T02:00:00.000Z",
+    "end": "2026-07-06T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
   }
 ]
 
