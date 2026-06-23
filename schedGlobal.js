@@ -6396,6 +6396,13 @@ confirmed = [
     "style": "color:black; background-color:yellow",
     "url": "https://bluearchive.nexon.com/events/2026/06/palacebelonged"
   },{
+    "content": "[Web Event] Arona's DICE DASH (in-game)",
+    "start": "2026-06-23T02:00:00.000Z",
+    "end": "2026-08-18T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
     "content": "[Permit Shop] Seia (Swimsuit), Hasumi (Swimsuit), T9 Blueprints.",
     "start": "2026-06-30T02:00:00.000Z",
     "end": "2026-07-14T19:00:00.000Z",
