@@ -6396,7 +6396,7 @@ confirmed = [
     "style": "color:black; background-color:yellow",
     "url": "https://bluearchive.nexon.com/events/2026/06/palacebelonged"
   },{
-    "content": "[Web Event] Arona's DICE DASH (in-game)",
+    "content": "[Web Event] Arona's DICE DASH (Same in-game menu as before, change tabs on the left)",
     "start": "2026-06-23T02:00:00.000Z",
     "end": "2026-08-18T02:00:00.000Z",
     "group": "G Event",
