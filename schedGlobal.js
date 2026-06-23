@@ -6393,7 +6393,8 @@ confirmed = [
     "end": "2026-07-06T19:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
-    "style": "color:black; background-color:yellow"
+    "style": "color:black; background-color:yellow",
+    "url": "https://bluearchive.nexon.com/events/2026/06/palacebelonged"
   },{
     "content": "[Permit Shop] Seia (Swimsuit), Hasumi (Swimsuit), T9 Blueprints.",
     "start": "2026-06-30T02:00:00.000Z",
