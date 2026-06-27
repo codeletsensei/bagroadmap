@@ -1381,18 +1381,18 @@ jpSched = [
 		"duration": "36d"
 	},{
 		"content": "[Main] Game Development Department Cleanup Mission!",
-		"start": "2026-06-29T02:00",
+		"start": "2026-06-30T02:00",
 		"startJp": "2026-02-18T11:00",
-		"end": "2026-07-13T02:00",
+		"end": "2026-07-14T02:00",
 		"endJp": "2026-03-04T11:00",
 		"group": "J Event",
 		"subgroup": "Main",
 		"style": "color:black;background-color:yellow",
 		"jpName": "ゲーム開発部のお掃除大作戦！",
 		"url": "https://bluearchive.wiki/wiki/Game_Development_Department_Cleanup_Mission!",
-		"endG": "2026-07-13T02:00",
-		"startG": "2026-06-29T02:00",
-		"title": "[Main] Game Development Department Cleanup Mission!<br><br>G: 2026-06-29 02:00 Mon ~ 2026-07-13 02:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-03-04 11:00 Wed 14d (JST y-m-d)",
+		"endG": "2026-07-14T02:00",
+		"startG": "2026-06-30T02:00",
+		"title": "[Main] Game Development Department Cleanup Mission!<br><br>G: 2026-06-30 02:00 Tue ~ 2026-07-14 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-03-04 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Main] Secret Midnight Party ~ Oni Holds a Bell ~",
@@ -5775,16 +5775,16 @@ jpSched = [
 		"duration": "6h"
 	},{
 		"content": "Revised some of Binah's skills.",
-		"start": "2026-06-29T02:00",
+		"start": "2026-06-30T02:00",
 		"startJp": "2026-02-18T11:00",
-		"end": "2026-07-05T19:00",
+		"end": "2026-07-06T19:00",
 		"endJp": "2026-02-25T04:00",
 		"group": "J Raid",
 		"subgroup": "",
 		"style": "color:black;background-color:lightblue",
-		"endG": "2026-07-05T19:00",
-		"startG": "2026-06-29T02:00",
-		"title": "Revised some of Binah's skills.<br><br>G: 2026-06-29 02:00 Mon ~ 2026-07-05 19:00 Sun 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 04:00 Wed 7d (JST y-m-d)",
+		"endG": "2026-07-06T19:00",
+		"startG": "2026-06-30T02:00",
+		"title": "Revised some of Binah's skills.<br><br>G: 2026-06-30 02:00 Tue ~ 2026-07-06 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[Crafting] Furniture: Trinityfes2 students (except BP furniture)",
@@ -12051,29 +12051,29 @@ jpSched = [
 		"duration": "6d"
 	},{
 		"content": "2x Bounty ",
-		"start": "2026-06-28T19:00",
+		"start": "2026-06-29T19:00",
 		"startJp": "2026-02-18T04:00",
-		"end": "2026-07-05T18:59",
+		"end": "2026-07-06T18:59",
 		"endJp": "2026-02-25T03:59",
 		"group": "J Camp",
 		"subgroup": "Campaign",
 		"style": "color:black;background-color:lightgreen",
-		"endG": "2026-07-05T18:59",
-		"startG": "2026-06-28T19:00",
-		"title": "2x Bounty <br><br>G: 2026-06-28 19:00 Sun ~ 2026-07-05 18:59 Sun 7d (UTC y-m-d)<br>Jp: 2026-02-18 04:00 Wed ~ 2026-02-25 03:59 Wed 7d (JST y-m-d)",
+		"endG": "2026-07-06T18:59",
+		"startG": "2026-06-29T19:00",
+		"title": "2x Bounty <br><br>G: 2026-06-29 19:00 Mon ~ 2026-07-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-18 04:00 Wed ~ 2026-02-25 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "2x Comm ",
-		"start": "2026-07-05T19:00",
+		"start": "2026-07-06T19:00",
 		"startJp": "2026-02-25T04:00",
-		"end": "2026-07-12T18:59",
+		"end": "2026-07-13T18:59",
 		"endJp": "2026-03-04T03:59",
 		"group": "J Camp",
 		"subgroup": "Campaign",
 		"style": "color:black;background-color:lightgreen",
-		"endG": "2026-07-12T18:59",
-		"startG": "2026-07-05T19:00",
-		"title": "2x Comm <br><br>G: 2026-07-05 19:00 Sun ~ 2026-07-12 18:59 Sun 7d (UTC y-m-d)<br>Jp: 2026-02-25 04:00 Wed ~ 2026-03-04 03:59 Wed 7d (JST y-m-d)",
+		"endG": "2026-07-13T18:59",
+		"startG": "2026-07-06T19:00",
+		"title": "2x Comm <br><br>G: 2026-07-06 19:00 Mon ~ 2026-07-13 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-25 04:00 Wed ~ 2026-03-04 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "2x Scrimm ",
@@ -12129,16 +12129,16 @@ jpSched = [
 		"duration": "2d"
 	},{
 		"content": "<b>2x XP</b></b>",
-		"start": "2026-07-01T19:00",
+		"start": "2026-07-02T19:00",
 		"startJp": "2026-02-21T04:00",
-		"end": "2026-07-04T18:59",
+		"end": "2026-07-05T18:59",
 		"endJp": "2026-02-24T03:59",
 		"group": "J Camp",
 		"subgroup": "Campaign",
 		"style": "color:black;background-color:lightgreen",
-		"endG": "2026-07-04T18:59",
-		"startG": "2026-07-01T19:00",
-		"title": "<b>2x XP</b></b><br><br>G: 2026-07-01 19:00 Wed ~ 2026-07-04 18:59 Sat 3d (UTC y-m-d)<br>Jp: 2026-02-21 04:00 Sat ~ 2026-02-24 03:59 Tue 3d (JST y-m-d)",
+		"endG": "2026-07-05T18:59",
+		"startG": "2026-07-02T19:00",
+		"title": "<b>2x XP</b></b><br><br>G: 2026-07-02 19:00 Thu ~ 2026-07-05 18:59 Sun 3d (UTC y-m-d)<br>Jp: 2026-02-21 04:00 Sat ~ 2026-02-24 03:59 Tue 3d (JST y-m-d)",
 		"duration": "3d"
 	},{
 		"content": "<b>2x XP</b></b>",
@@ -14772,9 +14772,9 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
-		"start": "2026-06-29T02:00",
+		"start": "2026-06-30T02:00",
 		"startJp": "2026-02-18T11:00",
-		"end": "2026-07-05T18:59",
+		"end": "2026-07-06T18:59",
 		"endJp": "2026-02-25T03:59",
 		"group": "J Raid",
 		"subgroup": "TA",
@@ -14782,9 +14782,9 @@ jpSched = [
 		"season": "86",
 		"boss": "Binah",
 		"terrain": "Outdoors",
-		"endG": "2026-07-05T18:59",
-		"startG": "2026-06-29T02:00",
-		"title": "[TA] Binah Outdoors Yellow (Yellow atk)<br><br>G: 2026-06-29 02:00 Mon ~ 2026-07-05 18:59 Sun 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 03:59 Wed 7d (JST y-m-d)",
+		"endG": "2026-07-06T18:59",
+		"startG": "2026-06-30T02:00",
+		"title": "[TA] Binah Outdoors Yellow (Yellow atk)<br><br>G: 2026-06-30 02:00 Tue ~ 2026-07-06 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-02-25 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[TA] Goz Outdoors Blue (Red atk)",
@@ -22681,16 +22681,16 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Valentine%27s_Day_Promise_(2026)\" title=\"Valentine's Day Promise (2026)\">Valentine's Day Promise</a>",
-		"start": "2026-06-29T02:00",
+		"start": "2026-06-30T02:00",
 		"startJp": "2026-02-18T11:00",
-		"end": "2026-07-13T01:59",
+		"end": "2026-07-14T01:59",
 		"endJp": "2026-03-04T10:59",
 		"group": "J Event",
 		"subgroup": "Mini",
 		"style": "color:black;background-color:yellow",
-		"endG": "2026-07-13T01:59",
-		"startG": "2026-06-29T02:00",
-		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Valentine%27s_Day_Promise_(2026)\" title=\"Valentine's Day Promise (2026)\">Valentine's Day Promise</a><br><br>G: 2026-06-29 02:00 Mon ~ 2026-07-13 01:59 Mon 14d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-03-04 10:59 Wed 14d (JST y-m-d)",
+		"endG": "2026-07-14T01:59",
+		"startG": "2026-06-30T02:00",
+		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Valentine%27s_Day_Promise_(2026)\" title=\"Valentine's Day Promise (2026)\">Valentine's Day Promise</a><br><br>G: 2026-06-30 02:00 Tue ~ 2026-07-14 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-02-18 11:00 Wed ~ 2026-03-04 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -23223,7 +23223,7 @@ jpSched = [
 		"style": "background-color:green;color:white",
 		"endG": "2026-02-10T02:00",
 		"startG": "2026-02-03T02:00",
-		"title": "Full Acceleration<br><br>G: 2026-02-03 02:00 Tue ~ 2026-02-10 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-09-17 11:00 Wed ~ 2025-09-24 11:00 Wed 7d (JST y-m-d)",
+		"title": "Full Acceleration<br><br>G: 2026-02-03 02:00 Tue ~ 2026-02-10 02:00 Tue 7d (UTC y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "Accelerated: Raid",
@@ -23236,7 +23236,7 @@ jpSched = [
 		"style": "background-color:green;color:white",
 		"endG": "2026-04-14T02:00",
 		"startG": "2026-04-07T02:00",
-		"title": "Accelerated: Raid<br><br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-11-26 11:00 Wed ~ 2025-12-03 11:00 Wed 7d (JST y-m-d)",
+		"title": "Accelerated: Raid<br><br>G: 2026-04-07 02:00 Tue ~ 2026-04-14 02:00 Tue 7d (UTC y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "Accelerated: Maint, Gacha, Event, Camp, Other",
@@ -23249,7 +23249,7 @@ jpSched = [
 		"style": "background-color:green;color:white",
 		"endG": "2026-05-12T02:00",
 		"startG": "2026-04-28T02:00",
-		"title": "Accelerated: Maint, Gacha, Event, Camp, Other.<br>Careful: Due to intense acceleration, the shifted stuff around this period is still a bit off.<br>e.g: RW+Serika's banners should be with Takane's, and we don't talk about campaigns...<br><br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-31 11:00 Wed 14d (JST y-m-d)",
+		"title": "Accelerated: Maint, Gacha, Event, Camp, Other.<br>Careful: Due to intense acceleration, the shifted stuff around this period is still a bit off.<br>e.g: RW+Serika's banners should be with Takane's, and we don't talk about campaigns...<br><br>G: 2026-04-28 02:00 Tue ~ 2026-05-12 02:00 Tue 14d (UTC y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "Accelerated: Raid",
@@ -23262,7 +23262,7 @@ jpSched = [
 		"style": "background-color:green;color:white",
 		"endG": "2026-05-05T02:00",
 		"startG": "2026-04-28T02:00",
-		"title": "Accelerated: Raid.<br>Careful: Due to intense acceleration, the shifted stuff around this period is still a bit off.<br>e.g: RW+Serika's banners should be with Takane's, and we don't talk about campaigns...<br><br>G: 2026-04-28 02:00 Tue ~ 2026-05-05 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2025-12-17 11:00 Wed ~ 2025-12-24 11:00 Wed 7d (JST y-m-d)",
+		"title": "Accelerated: Raid.<br>Careful: Due to intense acceleration, the shifted stuff around this period is still a bit off.<br>e.g: RW+Serika's banners should be with Takane's, and we don't talk about campaigns...<br><br>G: 2026-04-28 02:00 Tue ~ 2026-05-05 02:00 Tue 7d (UTC y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "Full Acceleration",
@@ -23275,7 +23275,7 @@ jpSched = [
 		"style": "background-color:green;color:white",
 		"endG": "2026-07-28T02:00",
 		"startG": "2026-07-21T02:00",
-		"title": "Full Acceleration<br><br>G: 2026-07-21 02:00 Tue ~ 2026-07-28 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-03-11 00:00 Wed ~ 2026-03-18 00:00 Wed 7d (JST y-m-d)",
+		"title": "Full Acceleration<br><br>G: 2026-07-21 02:00 Tue ~ 2026-07-28 02:00 Tue 7d (UTC y-m-d)",
 		"duration": "7d"
 	}
 ]
