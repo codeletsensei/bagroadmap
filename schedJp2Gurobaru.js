@@ -6195,7 +6195,7 @@ jpSched = [
 		"title": "Kivotos Live (4.5th Anniversary Special Livestream)<br><br>G: 2026-05-14 23:00 Thu ~ 2026-05-18 00:00 Mon 4d (UTC y-m-d)<br>Jp: 2026-05-15 08:00 Fri ~ 2026-05-18 09:00 Mon 4d (JST y-m-d)",
 		"duration": "4d"
 	},{
-		"content": "Anime Expo 2026 Stream?",
+		"content": "Anime Expo 2026 Stream",
 		"start": "2026-07-03T16:00",
 		"startJp": "2026-07-04T01:00",
 		"end": "2026-07-05T16:00",
@@ -6203,9 +6203,10 @@ jpSched = [
 		"group": "J Maint",
 		"subgroup": "Stream",
 		"style": "color:black;background-color:cyan",
+		"url": "https://www.youtube.com/@bluearchive_Global/streams",
 		"endG": "2026-07-05T16:00",
 		"startG": "2026-07-03T16:00",
-		"title": "Anime Expo 2026 Stream?<br><br>G: 2026-07-03 16:00 Fri ~ 2026-07-05 16:00 Sun 2d (UTC y-m-d)<br>Jp: 2026-07-04 01:00 Sat ~ 2026-07-06 01:00 Mon 2d (JST y-m-d)",
+		"title": "Anime Expo 2026 Stream<br><br>G: 2026-07-03 16:00 Fri ~ 2026-07-05 16:00 Sun 2d (UTC y-m-d)<br>Jp: 2026-07-04 01:00 Sat ~ 2026-07-06 01:00 Mon 2d (JST y-m-d)",
 		"duration": "2d"
 	},{
 		"content": "[Mini Story] ON AIR: Gehenna",
