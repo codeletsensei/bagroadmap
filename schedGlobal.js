@@ -6293,7 +6293,7 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "Stream",
     "style": "color:black;background-color:cyan",
-    "url": "https://www.youtube.com/@bluearchive_Global/streams"
+    "url": "https://www.youtube.com/watch?v=tekbEaqgA-Q"
   },{
     "content": "[Mission] Area 30 (Cherino + Momiji + Cafe2 Lv10)",
     "start": "2026-05-12T02:00:00.000Z",

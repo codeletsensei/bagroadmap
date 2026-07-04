@@ -6203,7 +6203,7 @@ jpSched = [
 		"group": "J Maint",
 		"subgroup": "Stream",
 		"style": "color:black;background-color:cyan",
-		"url": "https://www.youtube.com/@bluearchive_Global/streams",
+		"url": "https://www.youtube.com/watch?v=tekbEaqgA-Q",
 		"endG": "2026-07-05T16:00",
 		"startG": "2026-07-03T16:00",
 		"title": "Anime Expo 2026 Stream<br><br>G: 2026-07-03 16:00 Fri ~ 2026-07-05 16:00 Sun 2d (UTC y-m-d)<br>Jp: 2026-07-04 01:00 Sat ~ 2026-07-06 01:00 Mon 2d (JST y-m-d)",
