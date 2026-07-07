@@ -6195,7 +6195,7 @@ jpSched = [
 		"title": "Kivotos Live (4.5th Anniversary Special Livestream)<br><br>G: 2026-05-14 23:00 Thu ~ 2026-05-18 00:00 Mon 4d (UTC y-m-d)<br>Jp: 2026-05-15 08:00 Fri ~ 2026-05-18 09:00 Mon 4d (JST y-m-d)",
 		"duration": "4d"
 	},{
-		"content": "Anime Expo 2026 Stream",
+		"content": "Anime Expo 2026 Stream?",
 		"start": "2026-07-03T16:00",
 		"startJp": "2026-07-04T01:00",
 		"end": "2026-07-05T16:00",
@@ -6206,7 +6206,7 @@ jpSched = [
 		"url": "https://www.youtube.com/watch?v=tekbEaqgA-Q",
 		"endG": "2026-07-05T16:00",
 		"startG": "2026-07-03T16:00",
-		"title": "Anime Expo 2026 Stream<br><br>G: 2026-07-03 16:00 Fri ~ 2026-07-05 16:00 Sun 2d (UTC y-m-d)<br>Jp: 2026-07-04 01:00 Sat ~ 2026-07-06 01:00 Mon 2d (JST y-m-d)",
+		"title": "Anime Expo 2026 Stream?<br><br>G: 2026-07-03 16:00 Fri ~ 2026-07-05 16:00 Sun 2d (UTC y-m-d)<br>Jp: 2026-07-04 01:00 Sat ~ 2026-07-06 01:00 Mon 2d (JST y-m-d)",
 		"duration": "2d"
 	},{
 		"content": "[Mini Story] ON AIR: Gehenna",
@@ -6630,7 +6630,7 @@ jpSched = [
 		"title": "[Mini Story] 薬屋の彷徨い (Kai)<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "?Aoba [Welfare]?",
+		"content": "Aoba [Welfare]",
 		"start": "2026-11-10T02:00",
 		"startJp": "2026-07-08T11:00",
 		"end": "2026-11-24T02:00",
@@ -6640,10 +6640,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgray",
 		"endG": "2026-11-24T02:00",
 		"startG": "2026-11-10T02:00",
-		"title": "?Aoba [Welfare]?<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
+		"title": "Aoba [Welfare]<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "?[Perm] Sheside outside?",
+		"content": "[Perm] Sheside outside",
 		"start": "2026-11-10T02:00",
 		"startJp": "2026-07-08T11:00",
 		"end": "2026-11-24T02:00",
@@ -6653,10 +6653,10 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-11-24T02:00",
 		"startG": "2026-11-10T02:00",
-		"title": "?[Perm] Sheside outside?<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Perm] Sheside outside<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "?[Perm] Sunshine Girls' Serenade?",
+		"content": "[Perm] Sunshine Girls' Serenade",
 		"start": "2026-11-24T02:00",
 		"startJp": "2026-07-22T11:00",
 		"end": "2026-12-01T02:00",
@@ -6666,7 +6666,7 @@ jpSched = [
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-12-01T02:00",
 		"startG": "2026-11-24T02:00",
-		"title": "?[Perm] Sunshine Girls' Serenade?<br><br>G: 2026-11-24 02:00 Tue ~ 2026-12-01 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-07-22 11:00 Wed ~ 2026-07-29 11:00 Wed 7d (JST y-m-d)",
+		"title": "[Perm] Sunshine Girls' Serenade<br><br>G: 2026-11-24 02:00 Tue ~ 2026-12-01 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-07-22 11:00 Wed ~ 2026-07-29 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "<b>2x XP</b>",
@@ -6721,7 +6721,7 @@ jpSched = [
 		"title": "<b>2x XP</b><br><br>G: 2026-11-05 19:00 Thu ~ 2026-11-07 19:00 Sat 2d (UTC y-m-d)<br>Jp: 2026-07-04 04:00 Sat ~ 2026-07-06 04:00 Mon 2d (JST y-m-d)",
 		"duration": "2d"
 	},{
-		"content": "?Hikari [L]?",
+		"content": "Hikari [L]",
 		"start": "2026-11-10T02:00",
 		"startJp": "2026-07-08T11:00",
 		"end": "2026-11-24T02:00",
@@ -6731,10 +6731,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgray",
 		"endG": "2026-11-24T02:00",
 		"startG": "2026-11-10T02:00",
-		"title": "?Hikari [L]?<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
+		"title": "Hikari [L]<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "?Nozomi [L]?",
+		"content": "Nozomi [L]",
 		"start": "2026-11-10T02:00",
 		"startJp": "2026-07-08T11:00",
 		"end": "2026-11-24T02:00",
@@ -6744,10 +6744,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgray",
 		"endG": "2026-11-24T02:00",
 		"startG": "2026-11-10T02:00",
-		"title": "?Nozomi [L]?<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
+		"title": "Nozomi [L]<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "?Saori (Swimsuit) [L]?",
+		"content": "Saori (Swimsuit) [L]",
 		"start": "2026-11-10T02:00",
 		"startJp": "2026-07-08T11:00",
 		"end": "2026-11-24T02:00",
@@ -6757,10 +6757,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgray",
 		"endG": "2026-11-24T02:00",
 		"startG": "2026-11-10T02:00",
-		"title": "?Saori (Swimsuit) [L]?<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
+		"title": "Saori (Swimsuit) [L]<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "?Hiyori (Swimsuit) [L]?",
+		"content": "Hiyori (Swimsuit) [L]",
 		"start": "2026-11-10T02:00",
 		"startJp": "2026-07-08T11:00",
 		"end": "2026-11-24T02:00",
@@ -6770,10 +6770,23 @@ jpSched = [
 		"style": "color:black;background-color:lightgray",
 		"endG": "2026-11-24T02:00",
 		"startG": "2026-11-10T02:00",
-		"title": "?Hiyori (Swimsuit) [L]?<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
+		"title": "Hiyori (Swimsuit) [L]<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "?Makoto (Dress) [L]?",
+		"content": "Misaki (Swimsuit)",
+		"start": "2026-11-10T02:00",
+		"startJp": "2026-07-08T11:00",
+		"end": "2026-11-24T02:00",
+		"endJp": "2026-07-22T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgray",
+		"endG": "2026-11-24T02:00",
+		"startG": "2026-11-10T02:00",
+		"title": "Misaki (Swimsuit)<br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-24 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-08 11:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Makoto [L]",
 		"start": "2026-11-24T02:00",
 		"startJp": "2026-07-22T11:00",
 		"end": "2026-12-01T02:00",
@@ -6783,10 +6796,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgray",
 		"endG": "2026-12-01T02:00",
 		"startG": "2026-11-24T02:00",
-		"title": "?Makoto (Dress) [L]?<br><br>G: 2026-11-24 02:00 Tue ~ 2026-12-01 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-07-22 11:00 Wed ~ 2026-07-29 11:00 Wed 7d (JST y-m-d)",
+		"title": "Makoto [L]<br><br>G: 2026-11-24 02:00 Tue ~ 2026-12-01 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-07-22 11:00 Wed ~ 2026-07-29 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "?Ako (Dress) [L]?",
+		"content": "Ako (Dress) [L]",
 		"start": "2026-11-24T02:00",
 		"startJp": "2026-07-22T11:00",
 		"end": "2026-12-01T02:00",
@@ -6796,7 +6809,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgray",
 		"endG": "2026-12-01T02:00",
 		"startG": "2026-11-24T02:00",
-		"title": "?Ako (Dress) [L]?<br><br>G: 2026-11-24 02:00 Tue ~ 2026-12-01 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-07-22 11:00 Wed ~ 2026-07-29 11:00 Wed 7d (JST y-m-d)",
+		"title": "Ako (Dress) [L]<br><br>G: 2026-11-24 02:00 Tue ~ 2026-12-01 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-07-22 11:00 Wed ~ 2026-07-29 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "<b>3x Comm </b>",
@@ -15569,7 +15582,7 @@ jpSched = [
 		"title": "[GA] Hovercraft Outdoors (Blue+Purple TOR / Red INS) (Yellow atk)<br><br>G: 2026-10-20 02:00 Tue ~ 2026-10-26 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-06-17 11:00 Wed ~ 2026-06-24 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Hod Indoors (Blue+Purple TOR / Red INS) (Blue atk)",
+		"content": "[GA] Hod Indoors (Yellow+Purple TOR / Red INS) (Blue atk)",
 		"start": "2026-11-17T02:00",
 		"startJp": "2026-07-15T11:00",
 		"end": "2026-11-23T18:59",
@@ -15580,14 +15593,14 @@ jpSched = [
 		"season": "35",
 		"defType": {
 			"Red": "INS",
-			"Blue": "TOR",
+			"Yellow": "TOR",
 			"Purple": "TOR"
 		},
 		"boss": "Hod",
 		"terrain": "Indoors",
 		"endG": "2026-11-23T18:59",
 		"startG": "2026-11-17T02:00",
-		"title": "[GA] Hod Indoors (Blue+Purple TOR / Red INS) (Blue atk)<br><br>G: 2026-11-17 02:00 Tue ~ 2026-11-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-07-15 11:00 Wed ~ 2026-07-22 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Hod Indoors (Yellow+Purple TOR / Red INS) (Blue atk)<br><br>G: 2026-11-17 02:00 Tue ~ 2026-11-23 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-07-15 11:00 Wed ~ 2026-07-22 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[LBA] S1 The Fury of Set Blue (Red atk)",
@@ -16038,7 +16051,7 @@ jpSched = [
 		"title": "[LBA] S28 Tiphareth Purple (Yellow atk)<br><br>G: 2026-10-28 02:00 Wed ~ 2026-11-30 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2026-06-25 11:00 Thu ~ 2026-07-29 03:59 Wed 34d (JST y-m-d)",
 		"duration": "34d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kisaki_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Kisaki (Swimsuit) (page does not exist)\">Kisaki (Swimsuit)</a> (New)",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kisaki_(Swimsuit)\" title=\"Kisaki (Swimsuit)\">Kisaki (Swimsuit)</a> (New)",
 		"start": "2026-10-27T10:00",
 		"startJp": "2026-06-24T19:00",
 		"end": "2026-11-10T01:59",
@@ -16048,10 +16061,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-11-10T01:59",
 		"startG": "2026-10-27T10:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kisaki_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Kisaki (Swimsuit) (page does not exist)\">Kisaki (Swimsuit)</a> (New)<br><br>G: 2026-10-27 10:00 Tue ~ 2026-11-10 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-06-24 19:00 Wed ~ 2026-07-08 10:59 Wed 14d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kisaki_(Swimsuit)\" title=\"Kisaki (Swimsuit)\">Kisaki (Swimsuit)</a> (New)<br><br>G: 2026-10-27 10:00 Tue ~ 2026-11-10 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-06-24 19:00 Wed ~ 2026-07-08 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Shun (Swimsuit) (page does not exist)\">Shun (Swimsuit)</a> (New)",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Swimsuit)\" title=\"Shun (Swimsuit)\">Shun (Swimsuit)</a> (New)",
 		"start": "2026-10-27T10:00",
 		"startJp": "2026-06-24T19:00",
 		"end": "2026-11-10T01:59",
@@ -16061,7 +16074,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-11-10T01:59",
 		"startG": "2026-10-27T10:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Shun (Swimsuit) (page does not exist)\">Shun (Swimsuit)</a> (New)<br><br>G: 2026-10-27 10:00 Tue ~ 2026-11-10 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-06-24 19:00 Wed ~ 2026-07-08 10:59 Wed 14d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Shun_(Swimsuit)\" title=\"Shun (Swimsuit)\">Shun (Swimsuit)</a> (New)<br><br>G: 2026-10-27 10:00 Tue ~ 2026-11-10 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-06-24 19:00 Wed ~ 2026-07-08 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kazusa_(Band)\" title=\"Kazusa (Band)\">Kazusa (Band)</a> [L]",
