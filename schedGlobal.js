@@ -395,6 +395,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
   },{
+    "content": "EOS",
+    "start": "2026-07-14T02:00:00.000Z",
+    "end": "2026-07-14T06:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 /// GASHA
 //
@@ -2099,6 +2106,41 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:white"
   },{
+    "content": "Koyuki (Pajama) (New)",
+    "start": "2026-07-14T02:00:00.000Z",
+    "end": "2026-07-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Yuuka (Pajama)",
+    "start": "2026-07-14T02:00:00.000Z",
+    "end": "2026-07-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Noa (Pajama)",
+    "start": "2026-07-14T02:00:00.000Z",
+    "end": "2026-07-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Fuuka (New Year) [L]",
+    "start": "2026-07-14T02:00:00.000Z",
+    "end": "2026-07-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Haruna (New Year) [L]",
+    "start": "2026-07-14T02:00:00.000Z",
+    "end": "2026-07-21T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -2826,6 +2868,13 @@ confirmed = [
     "content": "[Login] Steel Continent: Arona's Supply Drop",
     "start": "2026-05-26T02:00:00.000Z",
     "end": "2026-06-18T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] Secret Midnight Party ~ Oni Holds a Bell ~",
+    "start": "2026-07-14T02:00:00.000Z",
+    "end": "2026-07-21T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
