@@ -402,6 +402,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px"
   },{
+    "content": "EOS",
+    "start": "2026-07-21T02:00:00.000Z",
+    "end": "2026-07-21T07:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px"
+  },{
 //
 /// GASHA
 //
@@ -2141,6 +2148,48 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Rena (New)",
+    "start": "2026-07-21T02:00:00.000Z",
+    "end": "2026-08-04T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Konoka (New)",
+    "start": "2026-07-21T02:00:00.000Z",
+    "end": "2026-08-04T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Maki (Camp)",
+    "start": "2026-07-21T02:00:00.000Z",
+    "end": "2026-08-04T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Hare (Camp)",
+    "start": "2026-07-21T02:00:00.000Z",
+    "end": "2026-08-04T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Kotama (Camp)",
+    "start": "2026-07-21T02:00:00.000Z",
+    "end": "2026-08-04T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Misaki",
+    "start": "2026-07-21T02:00:00.000Z",
+    "end": "2026-08-04T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -2875,6 +2924,13 @@ confirmed = [
     "content": "[Main] Secret Midnight Party ~ Oni Holds a Bell ~",
     "start": "2026-07-14T02:00:00.000Z",
     "end": "2026-07-21T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] Kivotos' Unsolved Mystery: In Search of Tsuchinoko, the Unknown Creature",
+    "start": "2026-07-21T02:00:00.000Z",
+    "end": "2026-08-04T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
