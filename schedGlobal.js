@@ -6602,7 +6602,7 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:lightblue"
   },{
-    "content": "[Stream] ブルーアーカイブ5.5周年生放送 ～これが本当のごー！ごー！！です♪～",
+    "content": "[Stream] ブルーアーカイブ5.5周年生放送 ～これが本当のごー！ごー！！です♪～ (Pachi Pachi time is ~4 hours after start)",
     "start": "2026-07-26T06:00",
     "end": "2026-07-28T06:00",
     "group": "G Maint",
