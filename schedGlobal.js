@@ -6601,6 +6601,14 @@ confirmed = [
     "group": "G Other",
     "subgroup": "",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Stream] ブルーアーカイブ5.5周年生放送 ～これが本当のごー！ごー！！です♪～",
+    "start": "2026-07-26T06:00",
+    "end": "2026-07-28T06:00",
+    "group": "G Maint",
+    "subgroup": "Stream",
+    "style": "color:black;background-color:cyan",
+    "url": "https://www.youtube.com/live/tQ4z_gAngHc"
   }
 ]
 
