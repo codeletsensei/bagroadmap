@@ -372,42 +372,48 @@ confirmed = [
     "end": "2026-05-12T05:00:00.000Z",
     "group": "G Maint",
     "subgroup": "",
-    "style": "color:red; background-color:red; height:15px"
+    "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3440766"
   },{
     "content": "EOS",
     "start": "2026-05-26T02:00:00.000Z",
     "end": "2026-05-26T08:00:00.000Z",
     "group": "G Maint",
     "subgroup": "",
-    "style": "color:red; background-color:red; height:15px"
+    "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3443143"
   },{
     "content": "EOS",
     "start": "2026-06-09T02:00:00.000Z",
     "end": "2026-06-09T05:00:00.000Z",
     "group": "G Maint",
     "subgroup": "",
-    "style": "color:red; background-color:red; height:15px"
+    "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3469003"
   },{
     "content": "EOS",
     "start": "2026-06-23T02:00:00.000Z",
     "end": "2026-06-23T07:00:00.000Z",
     "group": "G Maint",
     "subgroup": "",
-    "style": "color:red; background-color:red; height:15px"
+    "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3477804"
   },{
     "content": "EOS",
     "start": "2026-07-14T02:00:00.000Z",
     "end": "2026-07-14T06:00:00.000Z",
     "group": "G Maint",
     "subgroup": "",
-    "style": "color:red; background-color:red; height:15px"
+    "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3497793"
   },{
     "content": "EOS",
     "start": "2026-07-21T02:00:00.000Z",
     "end": "2026-07-21T07:00:00.000Z",
     "group": "G Maint",
     "subgroup": "",
-    "style": "color:red; background-color:red; height:15px"
+    "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3501827"
   },{
 //
 /// GASHA
@@ -2756,9 +2762,9 @@ confirmed = [
     "content": "[My Office] To Whom Art Belongs Event Story Completion Special Task",
     "start": "2026-02-10T02:00:00.000Z",
     "end": "2026-03-03T02:00:00.000Z",
-    "group": "G Event",
+    "group": "G Other",
     "subgroup": "",
-    "style": "color:black; background-color:yellow",
+    "style": "color:black; background-color:lightblue",
     "url": "https://bluearchive.nexon.com/user/myoffice"
   },{
     "content": "[Web Event] Search for the Hidden Seeds!",
@@ -2786,9 +2792,9 @@ confirmed = [
     "content": "[My Office] Magical Girl Heavy Caliber Special Event Story Completion Task",
     "start": "2026-03-10T02:00:00.000Z",
     "end": "2026-03-24T02:00:00.000Z",
-    "group": "G Event",
+    "group": "G Other",
     "subgroup": "",
-    "style": "color:black; background-color:yellow",
+    "style": "color:black; background-color:lightblue",
     "url": "https://bluearchive.nexon.com/user/myoffice"
   },{
     "content": "[R] Radiant Moon, Raucous Dream",
@@ -4057,6 +4063,15 @@ confirmed = [
     "season": 32,
     "subgroup": "GA",
     "style": "color:black; background-color:pink ",
+  },{
+    "content": "[LBA] S25 S25 Tiphareth Purple (Yellow atk)",
+    "boss": "Tiphareth",
+    "start": "2026-07-22T02:00:00.000Z",
+    "end": "2026-08-17T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 25,
+    "subgroup": "LBA",
+    "style": "color:white; background-color:purple",
   },{
 //
 /// CAMPAIGNS
@@ -6456,7 +6471,7 @@ confirmed = [
     "end": "2026-06-09T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "",
-    "style": "color:black; background-color:yellow",
+    "style": "color:black; background-color:lightblue",
     "url": "https://bluearchive.nexon.com/user/myoffice"
   },{
     "content": "[Web Event] Into the Unnamed",
@@ -6548,7 +6563,7 @@ confirmed = [
     "end": "2026-07-07T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "",
-    "style": "color:black; background-color:yellow",
+    "style": "color:black; background-color:lightblue",
     "url": "https://bluearchive.nexon.com/user/myoffice"
   },{
     "content": "[Perm] Trip-Trap-Train",
@@ -6609,6 +6624,42 @@ confirmed = [
     "subgroup": "Stream",
     "style": "color:black;background-color:cyan",
     "url": "https://www.youtube.com/live/tQ4z_gAngHc"
+  },{
+    "content": "[My Office] Kivotos' Unsolved Mystery: In Search of Tsuchinoko, the Unknown Creature Event Story Completion Special Task",
+    "start": "2026-07-21T02:00:00.000Z",
+    "end": "2026-08-04T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue",
+    "url": "https://bluearchive.nexon.com/user/myoffice"
+  },{
+    "content": "[Perm] Cyber New Year March",
+    "start": "2026-07-21T02:00:00.000Z",
+    "end": "2026-08-04T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Permit Shop] Toki (Battle)",
+    "start": "2026-07-31T19:00:00.000Z",
+    "end": "2026-08-11T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Bond Gear] Kazusa (Band), Kirara, Asuna, Moe",
+    "start": "2026-07-21T02:00:00.000Z",
+    "end": "2026-08-04T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Crafting] Furniture: Magic Carpet Fan (Eri), Suspicious Cauldron (Kanoe)",
+    "start": "2026-07-26T02:00:00.000Z",
+    "end": "2026-08-04T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
   }
 ]
 
