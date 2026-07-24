@@ -415,6 +415,13 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3501827"
   },{
+    "content": "Hoard AP? Maint not confirmed yet. This cell's here to spawn the hoard cell (Right-click).",
+    "start": "2026-08-01T02:00:00.000Z",
+    "end": "2026-08-04T06:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "background-color:lightgreen",
+  },{
 //
 /// GASHA
 //

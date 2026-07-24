@@ -16785,6 +16785,19 @@ jpSched = [
 		"title": "[Stream] ブルーアーカイブ5.5周年生放送 ～これが本当のごー！ごー！！です♪～ (Pachi Pachi time is ~4 hours after start)<br><br>G: 2026-07-26 06:00 Sun ~ 2026-07-28 06:00 Tue 2d (UTC y-m-d)<br>Jp: 2026-07-26 15:00 Sun ~ 2026-07-28 15:00 Tue 2d (JST y-m-d)",
 		"duration": "2d"
 	},{
+		"content": "Hoard AP? Maint not confirmed yet. This is here to spawn the hoard cell (Right-click).",
+		"start": "2026-11-22T02:00",
+		"startJp": "2026-07-26T11:00",
+		"end": "2026-11-25T10:00",
+		"endJp": "2026-07-29T19:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "background-color:lightgreen",
+		"endG": "2026-11-25T10:00",
+		"startG": "2026-11-22T02:00",
+		"title": "Hoard AP? Maint not confirmed yet. This is here to spawn the hoard cell (Right-click).<br><br>G: 2026-11-25 02:00 Wed ~ 2026-11-25 10:00 Wed 8h (UTC y-m-d)<br>Jp: 2026-07-29 11:00 Wed ~ 2026-07-29 19:00 Wed 8h (JST y-m-d)",
+		"duration": "8h"
+	},{
 		"content": "<b>2x XP</b>",
 		"start": "2026-09-25T19:00",
 		"startJp": "2026-05-30T04:00",
