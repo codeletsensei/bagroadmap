@@ -1530,6 +1530,36 @@ jpSched = [
 		"title": "[Main] Highlander Railroad Runaway Incident 〜 And Then The Train Was Gone 〜<br><br>G: 2026-11-04 08:00 Wed ~ 2026-11-18 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2026-07-08 17:00 Wed ~ 2026-07-22 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "[Main] Set Sail! Man-of-Pandemonium: Chairman Makoto's Magnificent Summer Retreat",
+		"start": "2026-11-25T10:00",
+		"startJp": "2026-07-29T19:00",
+		"end": "2026-12-09T02:00",
+		"endJp": "2026-08-12T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"jpName": "出航！万魔船　マコト議長の華麗なる避暑",
+		"url": "https://bluearchive.wiki/wiki/Set_Sail!_Man-of-Pandemonium:_Chairman_Makoto's_Magnificent_Summer_Retreat",
+		"endG": "2026-12-09T02:00",
+		"startG": "2026-11-25T10:00",
+		"title": "[Main] Set Sail! Man-of-Pandemonium: Chairman Makoto's Magnificent Summer Retreat<br><br>G: 2026-11-25 10:00 Wed ~ 2026-12-09 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2026-07-29 19:00 Wed ~ 2026-08-12 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Main] Pandemic Hazard ～ Miracle Pancake ～",
+		"start": "2026-12-09T02:00",
+		"startJp": "2026-08-12T11:00",
+		"end": "2026-12-23T02:00",
+		"endJp": "2026-08-26T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"jpName": "パンデミック・ハザード～奇跡の一枚～",
+		"url": "https://bluearchive.wiki/wiki/Pandemic_Hazard_～_Miracle_Pancake_～/Rerun",
+		"endG": "2026-12-23T02:00",
+		"startG": "2026-12-09T02:00",
+		"title": "[Main] Pandemic Hazard ～ Miracle Pancake ～<br><br>G: 2026-12-09 02:00 Wed ~ 2026-12-23 02:00 Wed 14d (UTC y-m-d)<br>Jp: 2026-08-12 11:00 Wed ~ 2026-08-26 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "EOS",
 		"start": "2021-07-06T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -6169,6 +6199,27 @@ jpSched = [
 		"title": "[GA] Hod Indoors (Yellow+Purple TOR / Red INS) (Blue atk)<br><br>G: 2026-11-11 02:00 Wed ~ 2026-11-17 18:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-07-15 11:00 Wed ~ 2026-07-22 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "[GA] Binah Outdoors (Yellow+Purple TOR / Red INS) (Yellow atk)",
+		"start": "2026-12-16T02:00",
+		"startJp": "2026-08-19T11:00",
+		"end": "2026-12-22T18:59",
+		"endJp": "2026-08-26T03:59",
+		"group": "J Raid",
+		"subgroup": "GA",
+		"style": "color:black;background-color:pink",
+		"season": "36",
+		"defType": {
+			"Red": "INS",
+			"Yellow": "TOR",
+			"Purple": "TOR"
+		},
+		"boss": "Binah",
+		"terrain": "Outdoors",
+		"endG": "2026-12-22T18:59",
+		"startG": "2026-12-16T02:00",
+		"title": "[GA] Binah Outdoors (Yellow+Purple TOR / Red INS) (Yellow atk)<br><br>G: 2026-12-16 02:00 Wed ~ 2026-12-22 18:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-08-19 11:00 Wed ~ 2026-08-26 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "[LBA] S1 The Fury of Set Blue (Red atk)",
 		"start": "2024-08-21T02:00",
 		"startJp": "2024-03-28T11:00",
@@ -6633,7 +6684,7 @@ jpSched = [
 		"title": "[LBA] S29 The Fury of Set Red (Red atk)<br><br>G: 2026-11-26 02:00 Thu ~ 2026-12-22 18:59 Tue 27d (UTC y-m-d)<br>Jp: 2026-07-30 11:00 Thu ~ 2026-08-26 03:59 Wed 27d (JST y-m-d)",
 		"duration": "27d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ibuki_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Ibuki (Swimsuit) (page does not exist)\">Ibuki (Swimsuit)</a> (New)",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Iroha (Swimsuit) (page does not exist)\">Iroha (Swimsuit)</a> [Bluefes]",
 		"start": "2026-12-02T02:00",
 		"startJp": "2026-08-05T11:00",
 		"end": "2026-12-09T01:59",
@@ -6643,49 +6694,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-12-09T01:59",
 		"startG": "2026-12-02T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ibuki_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Ibuki (Swimsuit) (page does not exist)\">Ibuki (Swimsuit)</a> (New)<br><br>G: 2026-12-02 02:00 Wed ~ 2026-12-09 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-08-05 11:00 Wed ~ 2026-08-12 10:59 Wed 7d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Iroha (Swimsuit) (page does not exist)\">Iroha (Swimsuit)</a> [Bluefes]<br><br>G: 2026-12-02 02:00 Wed ~ 2026-12-09 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-08-05 11:00 Wed ~ 2026-08-12 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "Ibuki (Swimsuit)",
-		"start": "2026-12-02T02:00",
-		"startJp": "2026-08-05T11:00",
-		"end": "2026-12-09T01:59",
-		"endJp": "2026-08-12T10:59",
-		"group": "J Event",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-12-09T01:59",
-		"startG": "2026-12-02T02:00",
-		"title": "Ibuki (Swimsuit)<br><br>G: 2026-12-02 02:00 Wed ~ 2026-12-09 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-08-05 11:00 Wed ~ 2026-08-12 10:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "Ibuki (Swimsuit)",
-		"start": "2026-12-02T02:00",
-		"startJp": "2026-08-05T11:00",
-		"end": "2026-12-09T01:59",
-		"endJp": "2026-08-12T10:59",
-		"group": "J Raid",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-12-09T01:59",
-		"startG": "2026-12-02T02:00",
-		"title": "Ibuki (Swimsuit) [L Bluefes] (New)<br><br>G: 2026-12-02 02:00 Wed ~ 2026-12-09 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-08-05 11:00 Wed ~ 2026-08-12 10:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "Ibuki (Swimsuit)",
-		"start": "2026-12-02T02:00",
-		"startJp": "2026-08-05T11:00",
-		"end": "2026-12-09T01:59",
-		"endJp": "2026-08-12T10:59",
-		"group": "J Camp",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-12-09T01:59",
-		"startG": "2026-12-02T02:00",
-		"title": "Ibuki (Swimsuit)<br><br>G: 2026-12-02 02:00 Wed ~ 2026-12-09 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-08-05 11:00 Wed ~ 2026-08-12 10:59 Wed 7d (JST y-m-d)",
-		"duration": "7d"
-	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Iroha (Swimsuit) (page does not exist)\">Iroha (Swimsuit)</a> (New)",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ibuki_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Ibuki (Swimsuit) (page does not exist)\">Ibuki (Swimsuit)</a> [Bluefes]",
 		"start": "2026-12-02T02:00",
 		"startJp": "2026-08-05T11:00",
 		"end": "2026-12-09T01:59",
@@ -6695,10 +6707,36 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-12-09T01:59",
 		"startG": "2026-12-02T02:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Iroha_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Iroha (Swimsuit) (page does not exist)\">Iroha (Swimsuit)</a> (New)<br><br>G: 2026-12-02 02:00 Wed ~ 2026-12-09 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-08-05 11:00 Wed ~ 2026-08-12 10:59 Wed 7d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Ibuki_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Ibuki (Swimsuit) (page does not exist)\">Ibuki (Swimsuit)</a> [Bluefes]<br><br>G: 2026-12-02 02:00 Wed ~ 2026-12-09 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-08-05 11:00 Wed ~ 2026-08-12 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Makoto_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Makoto (Swimsuit) (page does not exist)\">Makoto (Swimsuit)</a> [L] (New)",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rio\" title=\"Rio\">Rio</a> [L Bluefes]",
+		"start": "2026-12-02T02:00",
+		"startJp": "2026-08-05T11:00",
+		"end": "2026-12-09T01:59",
+		"endJp": "2026-08-12T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-12-09T01:59",
+		"startG": "2026-12-02T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Rio\" title=\"Rio\">Rio</a> [L Bluefes]<br><br>G: 2026-12-02 02:00 Wed ~ 2026-12-09 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-08-05 11:00 Wed ~ 2026-08-12 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(School_Uniform)\" title=\"Neru (School Uniform)\">Neru (School Uniform)</a> [L Bluefes]",
+		"start": "2026-12-02T02:00",
+		"startJp": "2026-08-05T11:00",
+		"end": "2026-12-09T01:59",
+		"endJp": "2026-08-12T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-12-09T01:59",
+		"startG": "2026-12-02T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Neru_(School_Uniform)\" title=\"Neru (School Uniform)\">Neru (School Uniform)</a> [L Bluefes]<br><br>G: 2026-12-02 02:00 Wed ~ 2026-12-09 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-08-05 11:00 Wed ~ 2026-08-12 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Makoto_(Swimsuit)\" title=\"Makoto (Swimsuit)\">Makoto (Swimsuit)</a> [L] (New)",
 		"start": "2026-11-25T10:00",
 		"startJp": "2026-07-29T19:00",
 		"end": "2026-12-02T01:59",
@@ -6708,10 +6746,10 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-12-02T01:59",
 		"startG": "2026-11-25T10:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Makoto_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Makoto (Swimsuit) (page does not exist)\">Makoto (Swimsuit)</a> [L] (New)<br><br>G: 2026-11-25 10:00 Wed ~ 2026-12-02 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-07-29 19:00 Wed ~ 2026-08-05 10:59 Wed 7d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Makoto_(Swimsuit)\" title=\"Makoto (Swimsuit)\">Makoto (Swimsuit)</a> [L] (New)<br><br>G: 2026-11-25 10:00 Wed ~ 2026-12-02 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-07-29 19:00 Wed ~ 2026-08-05 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Satsuki_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Satsuki (Swimsuit) (page does not exist)\">Satsuki (Swimsuit)</a> [L] (New)",
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Satsuki_(Swimsuit)\" title=\"Satsuki (Swimsuit)\">Satsuki (Swimsuit)</a> [L] (New)",
 		"start": "2026-11-25T10:00",
 		"startJp": "2026-07-29T19:00",
 		"end": "2026-12-02T01:59",
@@ -6721,7 +6759,7 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2026-12-02T01:59",
 		"startG": "2026-11-25T10:00",
-		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Satsuki_(Swimsuit)?action=edit&amp;redlink=1\" class=\"new\" title=\"Satsuki (Swimsuit) (page does not exist)\">Satsuki (Swimsuit)</a> [L] (New)<br><br>G: 2026-11-25 10:00 Wed ~ 2026-12-02 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-07-29 19:00 Wed ~ 2026-08-05 10:59 Wed 7d (JST y-m-d)",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Satsuki_(Swimsuit)\" title=\"Satsuki (Swimsuit)\">Satsuki (Swimsuit)</a> [L] (New)<br><br>G: 2026-11-25 10:00 Wed ~ 2026-12-02 01:59 Wed 7d (UTC y-m-d)<br>Jp: 2026-07-29 19:00 Wed ~ 2026-08-05 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Makoto\" title=\"Makoto\">Makoto</a> [L]",
@@ -17129,18 +17167,18 @@ jpSched = [
 		"title": "EOS<br><br>G: 2026-11-25 02:00 Wed ~ 2026-11-25 10:00 Wed 8h (UTC y-m-d)<br>Jp: 2026-07-29 11:00 Wed ~ 2026-07-29 19:00 Wed 8h (JST y-m-d)",
 		"duration": "8h"
 	},{
-		"content": "[Login] Free 100 (4x10 + 3x20) rolls",
+		"content": "[Login] 5.5th anniversary login bonus (7 days)",
 		"start": "2026-11-25T10:00",
 		"startJp": "2026-07-29T19:00",
-		"end": "2026-12-02T10:00",
-		"endJp": "2026-08-05T19:00",
+		"end": "2026-12-23T10:00",
+		"endJp": "2026-08-26T19:00",
 		"group": "J Event",
 		"subgroup": "",
 		"style": "color:black;background-color:yellow",
-		"endG": "2026-12-02T10:00",
+		"endG": "2026-12-23T10:00",
 		"startG": "2026-11-25T10:00",
-		"title": "[Login] Free 100 (4x10 + 3x20) rolls<br><br>G: 2026-11-25 10:00 Wed ~ 2026-12-02 10:00 Wed 8d (UTC y-m-d)<br>Jp: 2026-07-29 19:00 Wed ~ 2026-08-05 19:00 Wed 8d (JST y-m-d)",
-		"duration": "8d"
+		"title": "[Login] 5.5th anniversary login bonus (7 days)<br><br>G: 2026-11-25 10:00 Wed ~ 2026-12-23 10:00 Wed 29d (UTC y-m-d)<br>Jp: 2026-07-29 19:00 Wed ~ 2026-08-26 19:00 Wed 29d (JST y-m-d)",
+		"duration": "29d"
 	},{
 		"content": "Chiaki (Swimsuit) [Welfare]",
 		"start": "2026-11-25T10:00",
@@ -17153,6 +17191,45 @@ jpSched = [
 		"endG": "2026-12-02T10:00",
 		"startG": "2026-11-25T10:00",
 		"title": "Chiaki (Swimsuit) [Welfare]<br><br>G: 2026-11-25 10:00 Wed ~ 2026-12-02 10:00 Wed 8d (UTC y-m-d)<br>Jp: 2026-07-29 19:00 Wed ~ 2026-08-05 19:00 Wed 8d (JST y-m-d)",
+		"duration": "8d"
+	},{
+		"content": "Ibuki (Swimsuit)",
+		"start": "2026-12-02T02:00",
+		"startJp": "2026-08-05T11:00",
+		"end": "2026-12-09T10:00",
+		"endJp": "2026-08-12T19:00",
+		"group": "J Event",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-12-09T10:00",
+		"startG": "2026-12-02T02:00",
+		"title": "Ibuki (Swimsuit)<br><br>G: 2026-12-02 02:00 Wed ~ 2026-12-09 10:00 Wed 8d (UTC y-m-d)<br>Jp: 2026-08-05 11:00 Wed ~ 2026-08-12 19:00 Wed 8d (JST y-m-d)",
+		"duration": "8d"
+	},{
+		"content": "Ibuki (Swimsuit)",
+		"start": "2026-12-02T02:00",
+		"startJp": "2026-08-05T11:00",
+		"end": "2026-12-09T10:00",
+		"endJp": "2026-08-12T19:00",
+		"group": "J Raid",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-12-09T10:00",
+		"startG": "2026-12-02T02:00",
+		"title": "Ibuki (Swimsuit)<br><br>G: 2026-12-02 02:00 Wed ~ 2026-12-09 10:00 Wed 8d (UTC y-m-d)<br>Jp: 2026-08-05 11:00 Wed ~ 2026-08-12 19:00 Wed 8d (JST y-m-d)",
+		"duration": "8d"
+	},{
+		"content": "Ibuki (Swimsuit)",
+		"start": "2026-12-02T02:00",
+		"startJp": "2026-08-05T11:00",
+		"end": "2026-12-09T10:00",
+		"endJp": "2026-08-12T19:00",
+		"group": "J Camp",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2026-12-09T10:00",
+		"startG": "2026-12-02T02:00",
+		"title": "Ibuki (Swimsuit)<br><br>G: 2026-12-02 02:00 Wed ~ 2026-12-09 10:00 Wed 8d (UTC y-m-d)<br>Jp: 2026-08-05 11:00 Wed ~ 2026-08-12 19:00 Wed 8d (JST y-m-d)",
 		"duration": "8d"
 	},{
 		"content": "[Bluefes] 2x 3* rates",
