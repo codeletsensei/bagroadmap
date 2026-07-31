@@ -415,9 +415,24 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3501827"
   },{
+    "content": "EOS",
+    "start": "2026-08-04T02:00:00.000Z",
+    "end": "2026-08-04T06:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
+    "url": ""
+  },{
     "content": "Hoard AP? Maint not confirmed yet. This cell's here to spawn the hoard cell (Right-click).",
     "start": "2026-08-01T02:00:00.000Z",
-    "end": "2026-08-04T06:00:00.000Z",
+    "end": "2026-08-04T07:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "background-color:lightgreen",
+  },{
+    "content": "Hoard AP? Maint not confirmed yet. This cell's here to spawn the hoard cell (Right-click).",
+    "start": "2026-08-15T02:00:00.000Z",
+    "end": "2026-08-18T07:00:00.000Z",
     "group": "G Maint",
     "subgroup": "",
     "style": "background-color:lightgreen",
@@ -2203,6 +2218,41 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Akane (School) (New)",
+    "start": "2026-08-04T02:00:00.000Z",
+    "end": "2026-08-18T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Karin (School) [Welfare]",
+    "start": "2026-08-04T02:00:00.000Z",
+    "end": "2026-08-18T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Asuna (School) [L]",
+    "start": "2026-08-04T02:00:00.000Z",
+    "end": "2026-08-18T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Seia [L]",
+    "start": "2026-08-04T02:00:00.000Z",
+    "end": "2026-08-18T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Toki (Bunny Girl)",
+    "start": "2026-08-04T02:00:00.000Z",
+    "end": "2026-08-18T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -2834,7 +2884,7 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[Main] Serenade Promenade",
+    "content": "[R] Serenade Promenade",
     "start": "2026-04-21T02:00:00.000Z",
     "end": "2026-04-28T02:00:00.000Z",
     "group": "G Event",
@@ -2863,7 +2913,7 @@ confirmed = [
     "style": "color:black; background-color:yellow",
     "url": "https://bluearchive.nexon.com/events/2026/04/runaway"
   },{
-    "content": "[Main] The Senses Descend",
+    "content": "[R] The Senses Descend",
     "start": "2026-05-12T02:00:00.000Z",
     "end": "2026-05-26T02:00:00.000Z",
     "group": "G Event",
@@ -2934,7 +2984,7 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[Main] Secret Midnight Party ~ Oni Holds a Bell ~",
+    "content": "[R] Secret Midnight Party ~ Oni Holds a Bell ~",
     "start": "2026-07-14T02:00:00.000Z",
     "end": "2026-07-21T02:00:00.000Z",
     "group": "G Event",
@@ -2948,7 +2998,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
-
+    "content": "[R] Code: BOX - The Shadow Approaching Millennium One Question, Two Answers",
+    "start": "2026-08-04T02:00:00.000Z",
+    "end": "2026-08-18T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
 //
 /// RAIDS
 //
@@ -5521,6 +5577,76 @@ confirmed = [
     "content": "2x Normal",
     "start": "2026-07-27T19:00:00.000Z",
     "end": "2026-08-03T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Scrimmage",
+    "start": "2026-08-03T19:00:00.000Z",
+    "end": "2026-08-10T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Lessons",
+    "start": "2026-08-03T19:00:00.000Z",
+    "end": "2026-08-10T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Hard",
+    "start": "2026-08-10T19:00:00.000Z",
+    "end": "2026-08-17T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Comm",
+    "start": "2026-08-10T19:00:00.000Z",
+    "end": "2026-08-17T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Bounty",
+    "start": "2026-08-10T19:00:00.000Z",
+    "end": "2026-08-17T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Scrimmage",
+    "start": "2026-08-17T19:00:00.000Z",
+    "end": "2026-08-24T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Lessons",
+    "start": "2026-08-17T19:00:00.000Z",
+    "end": "2026-08-24T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "2x Normal",
+    "start": "2026-08-24T19:00:00.000Z",
+    "end": "2026-08-31T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-08-21T19:00:00.000Z",
+    "end": "2026-08-23T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>2x XP</b>",
+    "start": "2026-08-28T19:00:00.000Z",
+    "end": "2026-08-30T19:00:00.000Z",
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
