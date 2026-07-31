@@ -424,13 +424,6 @@ confirmed = [
     "url": ""
   },{
     "content": "Hoard AP? Maint not confirmed yet. This cell's here to spawn the hoard cell (Right-click).",
-    "start": "2026-08-01T02:00:00.000Z",
-    "end": "2026-08-04T07:00:00.000Z",
-    "group": "G Maint",
-    "subgroup": "",
-    "style": "background-color:lightgreen",
-  },{
-    "content": "Hoard AP? Maint not confirmed yet. This cell's here to spawn the hoard cell (Right-click).",
     "start": "2026-08-15T02:00:00.000Z",
     "end": "2026-08-18T07:00:00.000Z",
     "group": "G Maint",
