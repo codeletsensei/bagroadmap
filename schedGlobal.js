@@ -2998,6 +2998,13 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
+    "content": "[Mini] Balancing Schale's Books with the General Student Council",
+    "start": "2026-08-11T02:00:00.000Z",
+    "end": "2026-08-18T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
 //
 /// RAIDS
 //
@@ -6786,6 +6793,13 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Mini Story] The Melancholy of Kanbara Misuzu",
+    "start": "2026-08-11T02:00:00.000Z",
+    "end": "2026-08-18T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
   }
 ]
 
