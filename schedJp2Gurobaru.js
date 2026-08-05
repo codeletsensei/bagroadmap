@@ -5359,9 +5359,9 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "[TA] Kaiten Urban Red (Yellow atk)",
-		"start": "2026-08-26T02:00",
+		"start": "2026-08-25T02:00",
 		"startJp": "2026-04-29T11:00",
-		"end": "2026-09-01T18:59",
+		"end": "2026-08-31T18:59",
 		"endJp": "2026-05-06T03:59",
 		"group": "J Raid",
 		"subgroup": "TA",
@@ -5369,9 +5369,9 @@ jpSched = [
 		"season": "88",
 		"boss": "Kaiten",
 		"terrain": "Urban",
-		"endG": "2026-09-01T18:59",
-		"startG": "2026-08-26T02:00",
-		"title": "[TA] Kaiten Urban Red (Yellow atk)<br><br>G: 2026-08-26 02:00 Wed ~ 2026-09-01 18:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-04-29 11:00 Wed ~ 2026-05-06 03:59 Wed 7d (JST y-m-d)",
+		"endG": "2026-08-31T18:59",
+		"startG": "2026-08-25T02:00",
+		"title": "[TA] Kaiten Urban Red (Yellow atk)<br><br>G: 2026-08-25 02:00 Tue ~ 2026-08-31 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-04-29 11:00 Wed ~ 2026-05-06 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[TA] Drumbarka Urban Blue+Red (Yellow atk)",
@@ -16540,16 +16540,16 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "[Permit Shop] Suzumi (Magical) + Reisa (Magical) elephs, on shop reset",
-		"start": "2026-08-27T19:00",
+		"start": "2026-08-26T19:00",
 		"startJp": "2026-05-01T04:00",
-		"end": "2026-09-09T19:00",
+		"end": "2026-09-08T19:00",
 		"endJp": "2026-05-14T04:00",
 		"group": "J Other",
 		"subgroup": "",
 		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-09-09T19:00",
-		"startG": "2026-08-27T19:00",
-		"title": "[Permit Shop] Suzumi (Magical) + Reisa (Magical) elephs, on shop reset<br><br>G: 2026-08-27 19:00 Thu ~ 2026-09-09 19:00 Wed 13d (UTC y-m-d)<br>Jp: 2026-05-01 04:00 Fri ~ 2026-05-14 04:00 Thu 13d (JST y-m-d)",
+		"endG": "2026-09-08T19:00",
+		"startG": "2026-08-26T19:00",
+		"title": "[Permit Shop] Suzumi (Magical) + Reisa (Magical) elephs, on shop reset<br><br>G: 2026-08-26 19:00 Wed ~ 2026-09-08 19:00 Tue 13d (UTC y-m-d)<br>Jp: 2026-05-01 04:00 Fri ~ 2026-05-14 04:00 Thu 13d (JST y-m-d)",
 		"duration": "13d"
 	},{
 		"content": "[Crafting] Furniture: Miyo, Fuyu, Ritsu, Valkyrie Set, Accessory Showcase",
@@ -16566,16 +16566,16 @@ jpSched = [
 		"duration": "15d"
 	},{
 		"content": "Display Kaiten's current Part's HP + minor stuff",
-		"start": "2026-08-26T02:00",
+		"start": "2026-08-25T02:00",
 		"startJp": "2026-04-29T11:00",
-		"end": "2026-09-01T19:00",
+		"end": "2026-08-31T19:00",
 		"endJp": "2026-05-06T04:00",
 		"group": "J Raid",
 		"subgroup": "",
 		"style": "color:black;background-color:pink",
-		"endG": "2026-09-01T19:00",
-		"startG": "2026-08-26T02:00",
-		"title": "Display Kaiten's current Part's HP + minor stuff<br><br>G: 2026-08-26 02:00 Wed ~ 2026-09-01 19:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-04-29 11:00 Wed ~ 2026-05-06 04:00 Wed 7d (JST y-m-d)",
+		"endG": "2026-08-31T19:00",
+		"startG": "2026-08-25T02:00",
+		"title": "Display Kaiten's current Part's HP + minor stuff<br><br>G: 2026-08-25 02:00 Tue ~ 2026-08-31 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-04-29 11:00 Wed ~ 2026-05-06 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[Perm] Get Hyped and March On!",
@@ -23018,16 +23018,16 @@ jpSched = [
 		"duration": "8d"
 	},{
 		"content": "2x Normal",
-		"start": "2026-08-25T19:00",
+		"start": "2026-08-24T19:00",
 		"startJp": "2026-04-29T04:00",
-		"end": "2026-09-01T19:00",
+		"end": "2026-08-31T19:00",
 		"endJp": "2026-05-06T04:00",
 		"group": "J Camp",
 		"subgroup": "Campaign",
 		"style": "color:black;background-color:lightgreen",
-		"endG": "2026-09-01T19:00",
-		"startG": "2026-08-25T19:00",
-		"title": "2x Normal<br><br>G: 2026-08-25 19:00 Tue ~ 2026-09-01 19:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-04-29 04:00 Wed ~ 2026-05-06 04:00 Wed 7d (JST y-m-d)",
+		"endG": "2026-08-31T19:00",
+		"startG": "2026-08-24T19:00",
+		"title": "2x Normal<br><br>G: 2026-08-24 19:00 Mon ~ 2026-08-31 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-04-29 04:00 Wed ~ 2026-05-06 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "2x Bounty",
@@ -23083,16 +23083,16 @@ jpSched = [
 		"duration": "2d"
 	},{
 		"content": "<b>2x XP</b>",
-		"start": "2026-08-28T19:00",
+		"start": "2026-08-27T19:00",
 		"startJp": "2026-05-02T04:00",
-		"end": "2026-09-02T19:00",
+		"end": "2026-09-01T19:00",
 		"endJp": "2026-05-07T04:00",
 		"group": "J Camp",
 		"subgroup": "Campaign",
 		"style": "color:black;background-color:lightgreen",
-		"endG": "2026-09-02T19:00",
-		"startG": "2026-08-28T19:00",
-		"title": "<b>2x XP</b><br><br>G: 2026-08-28 19:00 Fri ~ 2026-09-02 19:00 Wed 5d (UTC y-m-d)<br>Jp: 2026-05-02 04:00 Sat ~ 2026-05-07 04:00 Thu 5d (JST y-m-d)",
+		"endG": "2026-09-01T19:00",
+		"startG": "2026-08-27T19:00",
+		"title": "<b>2x XP</b><br><br>G: 2026-08-27 19:00 Thu ~ 2026-09-01 19:00 Tue 5d (UTC y-m-d)<br>Jp: 2026-05-02 04:00 Sat ~ 2026-05-07 04:00 Thu 5d (JST y-m-d)",
 		"duration": "5d"
 	},{
 		"content": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a>",
@@ -23993,16 +23993,16 @@ jpSched = [
 		"duration": "6d"
 	},{
 		"content": "Full Acceleration",
-		"start": "2026-09-01T02:00",
-		"startJp": "2026-05-06T00:00",
-		"end": "2026-09-02T02:00",
-		"endJp": "2026-05-07T00:00",
+		"start": "2026-08-25T02:00",
+		"startJp": "2026-04-29T00:00",
+		"end": "2026-08-26T02:00",
+		"endJp": "2026-04-30T00:00",
 		"group": "J Maint",
 		"subgroup": "Acceleration",
 		"style": "background-color:green;color:white",
-		"endG": "2026-09-02T02:00",
-		"startG": "2026-09-01T02:00",
-		"title": "Full Acceleration<br><br>G: 2026-09-01 02:00 Tue ~ 2026-09-02 02:00 Wed 1d (UTC y-m-d)",
+		"endG": "2026-08-26T02:00",
+		"startG": "2026-08-25T02:00",
+		"title": "Full Acceleration<br><br>G: 2026-08-25 02:00 Tue ~ 2026-08-26 02:00 Wed 1d (UTC y-m-d)",
 		"duration": "1d"
 	},{
 		"content": "Full Acceleration",
