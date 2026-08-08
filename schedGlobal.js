@@ -6808,7 +6808,8 @@ coupons = {
   "2026-04-08 14:59": [ "DOKIDOKIRAID" ],
   "2026-04-27 19:00": [ "REDWINTERFEST" ],
   "2026-06-09 15:00": [ "THESKYOFUNITY0526", "0526PROPHETMALKUTH" ],
-  "2026-08-25 15:00": [ "MYLUCKYANIMAL" ]
+  "2026-08-25 15:00": [ "MYLUCKYANIMAL" ],
+  "2026-08-18 02:00": [ "ONEYEARMEMORIAL" ],
 }
 
 /// get the time when any future maintenance ends
