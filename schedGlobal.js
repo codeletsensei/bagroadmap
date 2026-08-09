@@ -4127,7 +4127,7 @@ confirmed = [
     "subgroup": "GA",
     "style": "color:black; background-color:pink ",
   },{
-    "content": "[LBA] S25 S25 Tiphareth Purple (Yellow atk)",
+    "content": "[LBA] S25 Tiphareth Purple (Yellow atk)",
     "boss": "Tiphareth",
     "start": "2026-07-22T02:00:00.000Z",
     "end": "2026-08-17T19:00:00.000Z",
@@ -4135,6 +4135,32 @@ confirmed = [
     "season": 25,
     "subgroup": "LBA",
     "style": "color:white; background-color:purple",
+  },{
+    "content": "[TA] Kaiten Urban Red (Yellow atk)",
+    "boss": "Kaiten",
+    "start": "2026-08-25T02:00:00.000Z",
+    "end": "2026-08-31T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 88,
+    "subgroup": "TA",
+    "style": "color:white; background-color:red",
+  },{
+    "content": "Display Kaiten's current Part's HP + minor stuff",
+    "start": "2026-08-25T02:00:00.000Z",
+    "end": "2026-08-31T19:00:00.000Z",
+    "group": "G Raid",
+    "subgroup": "",
+    "style": "color:black; background-color:pink",
+  },{
+    "content": "[JFD] Defense Yellow Urban. Kill enemies = Students get debuffed. Cleanse = ATK buff. Enemies do more dmg. Stronger shields.",
+    "boss": "Defense",
+    "terrain": "Urban",
+    "start": "2026-09-01T02:00:00.000Z",
+    "end": "2026-09-07T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 51,
+    "subgroup": "JFD",
+    "style": "color:black; background-color:yellow",
   },{
 //
 /// CAMPAIGNS
