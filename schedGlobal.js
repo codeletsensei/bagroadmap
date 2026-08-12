@@ -6826,6 +6826,13 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:yellow"
+  },{
+    "content": "[PVP] Season 11",
+    "start": "2026-09-08T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:orange"
   }
 ]
 

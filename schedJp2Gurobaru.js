@@ -1546,8 +1546,8 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "[Main] Pandemic Hazard ～ Miracle Pancake ～",
-		"start": "2026-12-01T02:00",
-		"startJp": "2026-08-12T11:00",
+		"start": "2026-12-01T08:00",
+		"startJp": "2026-08-12T17:00",
 		"end": "2026-12-15T02:00",
 		"endJp": "2026-08-26T11:00",
 		"group": "J Event",
@@ -1556,8 +1556,8 @@ jpSched = [
 		"jpName": "パンデミック・ハザード～奇跡の一枚～",
 		"url": "https://bluearchive.wiki/wiki/Pandemic_Hazard_～_Miracle_Pancake_～/Rerun",
 		"endG": "2026-12-15T02:00",
-		"startG": "2026-12-01T02:00",
-		"title": "[Main] Pandemic Hazard ～ Miracle Pancake ～<br><br>G: 2026-12-01 02:00 Tue ~ 2026-12-15 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-08-12 11:00 Wed ~ 2026-08-26 11:00 Wed 14d (JST y-m-d)",
+		"startG": "2026-12-01T08:00",
+		"title": "[Main] Pandemic Hazard ～ Miracle Pancake ～<br><br>G: 2026-12-01 08:00 Tue ~ 2026-12-15 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-08-12 17:00 Wed ~ 2026-08-26 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "EOS",
@@ -17124,8 +17124,8 @@ jpSched = [
 		"duration": "6h"
 	},{
 		"content": "[JFD] Escort Blue Indoors. Gehenna & Trinity BLUE dmg buff. AG's HP >= 80% -> cost recovery and EX dmg buff. High HP enemies.",
-		"start": "2026-12-01T02:00",
-		"startJp": "2026-08-12T11:00",
+		"start": "2026-12-01T08:00",
+		"startJp": "2026-08-12T17:00",
 		"end": "2026-12-07T19:00",
 		"endJp": "2026-08-19T04:00",
 		"group": "J Raid",
@@ -17135,8 +17135,8 @@ jpSched = [
 		"boss": "Escort",
 		"terrain": "Indoors",
 		"endG": "2026-12-07T19:00",
-		"startG": "2026-12-01T02:00",
-		"title": "[JFD] Escort Blue Indoors. Gehenna & Trinity BLUE dmg buff. AG's HP >= 80% -> cost recovery and EX dmg buff. High HP enemies.<br><br>G: 2026-12-01 02:00 Tue ~ 2026-12-07 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-08-12 11:00 Wed ~ 2026-08-19 04:00 Wed 7d (JST y-m-d)",
+		"startG": "2026-12-01T08:00",
+		"title": "[JFD] Escort Blue Indoors. Gehenna & Trinity BLUE dmg buff. AG's HP >= 80% -> cost recovery and EX dmg buff. High HP enemies.<br><br>G: 2026-12-01 08:00 Tue ~ 2026-12-07 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-08-12 17:00 Wed ~ 2026-08-19 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[Stream] ブルーアーカイブ5.5周年生放送 ～これが本当のごー！ごー！！です♪～ (Pachi Pachi time is ~4 hours after start)",
@@ -17170,15 +17170,15 @@ jpSched = [
 		"content": "Chiaki (Swimsuit) [Welfare]",
 		"start": "2026-11-17T10:00",
 		"startJp": "2026-07-29T19:00",
-		"end": "2026-11-24T10:00",
-		"endJp": "2026-08-05T19:00",
+		"end": "2026-12-01T02:00",
+		"endJp": "2026-08-12T11:00",
 		"group": "J Gacha",
 		"subgroup": "Gacha",
 		"style": "color:black;background-color:lightgrey",
-		"endG": "2026-11-24T10:00",
+		"endG": "2026-12-01T02:00",
 		"startG": "2026-11-17T10:00",
-		"title": "Chiaki (Swimsuit) [Welfare]<br><br>G: 2026-11-17 10:00 Tue ~ 2026-11-24 10:00 Tue 8d (UTC y-m-d)<br>Jp: 2026-07-29 19:00 Wed ~ 2026-08-05 19:00 Wed 8d (JST y-m-d)",
-		"duration": "8d"
+		"title": "Chiaki (Swimsuit) [Welfare]<br><br>G: 2026-11-17 10:00 Tue ~ 2026-12-01 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-07-29 19:00 Wed ~ 2026-08-12 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
 	},{
 		"content": "Ibuki (Swimsuit)",
 		"start": "2026-11-24T02:00",
@@ -17246,16 +17246,16 @@ jpSched = [
 		"duration": "44d"
 	},{
 		"content": "[Main Story P2] Vol.1 Gehenna C1: Flame and Shadow",
-		"start": "2026-12-01T02:00",
-		"startJp": "2026-08-12T11:00",
+		"start": "2026-12-01T08:00",
+		"startJp": "2026-08-12T17:00",
 		"end": "2026-12-15T02:00",
 		"endJp": "2026-08-26T11:00",
 		"group": "J Event",
 		"subgroup": "",
 		"style": "color:black;background-color:yellow",
 		"endG": "2026-12-15T02:00",
-		"startG": "2026-12-01T02:00",
-		"title": "[Main Story P2] Vol.1 Gehenna C1: Flame and Shadow<br><br>G: 2026-12-01 02:00 Tue ~ 2026-12-15 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-08-12 11:00 Wed ~ 2026-08-26 11:00 Wed 14d (JST y-m-d)",
+		"startG": "2026-12-01T08:00",
+		"title": "[Main Story P2] Vol.1 Gehenna C1: Flame and Shadow<br><br>G: 2026-12-01 08:00 Tue ~ 2026-12-15 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-08-12 17:00 Wed ~ 2026-08-26 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Main Story P2] Vol.1 Gehenna C2: MAKE GEHENNA GREAT AGAIN!",
@@ -17556,6 +17556,20 @@ jpSched = [
 		"startG": "2026-12-10T19:00",
 		"title": "<b>2x XP</b><br><br>G: 2026-12-10 19:00 Thu ~ 2026-12-12 19:00 Sat 2d (UTC y-m-d)<br>Jp: 2026-08-22 04:00 Sat ~ 2026-08-24 04:00 Mon 2d (JST y-m-d)",
 		"duration": "2d"
+	},{
+		"content": "EOS",
+		"start": "2026-12-01T02:00",
+		"startJp": "2026-08-12T11:00",
+		"end": "2026-12-01T08:00",
+		"endJp": "2026-08-12T17:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/685",
+		"endG": "2026-12-01T08:00",
+		"startG": "2026-12-01T02:00",
+		"title": "EOS<br><br>G: 2026-12-01 02:00 Tue ~ 2026-12-01 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2026-08-12 11:00 Wed ~ 2026-08-12 17:00 Wed 6h (JST y-m-d)",
+		"duration": "6h"
 	},{
 		"content": "<b>3x Comm </b>",
 		"start": "2022-07-11T19:00",
@@ -23407,19 +23421,6 @@ jpSched = [
 		"title": "[Mini] <a target=\"_blank\" target=\"_blank\" target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council\" title=\"Events/Mini Event/SCHALE Settlement Task with General Student Council\">SCHALE Settlement Task with General Student Council</a><br><br>G: 2026-11-10 02:00 Tue ~ 2026-11-17 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-07-22 11:00 Wed ~ 2026-07-29 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[Login] Start Dash Login Bonus",
-		"start": "2022-06-21T14:00",
-		"startJp": "2022-01-26T23:00",
-		"end": "2022-07-18T18:59",
-		"endJp": "2022-02-23T03:59",
-		"group": "J Event",
-		"subgroup": "Login",
-		"style": "color:black;background-color:yellow",
-		"endG": "2022-07-18T18:59",
-		"startG": "2022-06-21T14:00",
-		"title": "[Login] Start Dash Login Bonus<br><br>G: 2022-06-21 14:00 Tue ~ 2022-07-18 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2022-01-26 23:00 Wed ~ 2022-02-23 03:59 Wed 28d (JST y-m-d)",
-		"duration": "28d"
-	},{
 		"content": "[Login] 1st Anniversary Login Bonus",
 		"start": "2022-06-21T14:00",
 		"startJp": "2022-01-26T23:00",
@@ -23431,6 +23432,19 @@ jpSched = [
 		"endG": "2022-07-18T18:59",
 		"startG": "2022-06-21T14:00",
 		"title": "[Login] 1st Anniversary Login Bonus<br><br>G: 2022-06-21 14:00 Tue ~ 2022-07-18 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2022-01-26 23:00 Wed ~ 2022-02-23 03:59 Wed 28d (JST y-m-d)",
+		"duration": "28d"
+	},{
+		"content": "[Login] Start Dash Login Bonus",
+		"start": "2022-06-21T14:00",
+		"startJp": "2022-01-26T23:00",
+		"end": "2022-07-18T18:59",
+		"endJp": "2022-02-23T03:59",
+		"group": "J Event",
+		"subgroup": "Login",
+		"style": "color:black;background-color:yellow",
+		"endG": "2022-07-18T18:59",
+		"startG": "2022-06-21T14:00",
+		"title": "[Login] Start Dash Login Bonus<br><br>G: 2022-06-21 14:00 Tue ~ 2022-07-18 18:59 Mon 28d (UTC y-m-d)<br>Jp: 2022-01-26 23:00 Wed ~ 2022-02-23 03:59 Wed 28d (JST y-m-d)",
 		"duration": "28d"
 	},{
 		"content": "[Login] 1.5 Anniversary Login Bonus",
@@ -23550,19 +23564,6 @@ jpSched = [
 		"title": "[Login] 3rd Anniversary Countdown Login Bonus<br><br>G: 2024-06-10 19:00 Mon ~ 2024-06-17 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2024-01-17 04:00 Wed ~ 2024-01-24 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[Login] 3rd Anniversary Login Bonus",
-		"start": "2024-06-18T14:00",
-		"startJp": "2024-01-24T23:00",
-		"end": "2024-07-16T01:59",
-		"endJp": "2024-02-21T10:59",
-		"group": "J Event",
-		"subgroup": "Login",
-		"style": "color:black;background-color:yellow",
-		"endG": "2024-07-16T01:59",
-		"startG": "2024-06-18T14:00",
-		"title": "[Login] 3rd Anniversary Login Bonus<br><br>G: 2024-06-18 14:00 Tue ~ 2024-07-16 01:59 Tue 28d (UTC y-m-d)<br>Jp: 2024-01-24 23:00 Wed ~ 2024-02-21 10:59 Wed 28d (JST y-m-d)",
-		"duration": "28d"
-	},{
 		"content": "[Login] 10 free recruitments daily campaign",
 		"start": "2024-06-18T14:00",
 		"startJp": "2024-01-24T23:00",
@@ -23575,6 +23576,19 @@ jpSched = [
 		"startG": "2024-06-18T14:00",
 		"title": "[Login] 10 free recruitments daily campaign<br><br>G: 2024-06-18 14:00 Tue ~ 2024-06-25 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-01-24 23:00 Wed ~ 2024-01-31 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
+	},{
+		"content": "[Login] 3rd Anniversary Login Bonus",
+		"start": "2024-06-18T14:00",
+		"startJp": "2024-01-24T23:00",
+		"end": "2024-07-16T01:59",
+		"endJp": "2024-02-21T10:59",
+		"group": "J Event",
+		"subgroup": "Login",
+		"style": "color:black;background-color:yellow",
+		"endG": "2024-07-16T01:59",
+		"startG": "2024-06-18T14:00",
+		"title": "[Login] 3rd Anniversary Login Bonus<br><br>G: 2024-06-18 14:00 Tue ~ 2024-07-16 01:59 Tue 28d (UTC y-m-d)<br>Jp: 2024-01-24 23:00 Wed ~ 2024-02-21 10:59 Wed 28d (JST y-m-d)",
+		"duration": "28d"
 	},{
 		"content": "[Login] 3.5 Anniversary Login Bonus",
 		"start": "2024-12-15T10:00",
@@ -23628,19 +23642,6 @@ jpSched = [
 		"title": "[Login] 10 free recruitments daily campaign<br><br>G: 2025-06-15 10:00 Sun ~ 2025-06-22 01:59 Sun 7d (UTC y-m-d)<br>Jp: 2025-01-20 19:00 Mon ~ 2025-01-27 10:59 Mon 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[Login] 4.5 Anniversary Login Bonus",
-		"start": "2025-12-15T10:00",
-		"startJp": "2025-07-22T19:00",
-		"end": "2026-01-13T01:59",
-		"endJp": "2025-08-20T10:59",
-		"group": "J Event",
-		"subgroup": "Login",
-		"style": "color:black;background-color:yellow",
-		"endG": "2026-01-13T01:59",
-		"startG": "2025-12-15T10:00",
-		"title": "[Login] 4.5 Anniversary Login Bonus<br><br>G: 2025-12-15 10:00 Mon ~ 2026-01-13 01:59 Tue 29d (UTC y-m-d)<br>Jp: 2025-07-22 19:00 Tue ~ 2025-08-20 10:59 Wed 29d (JST y-m-d)",
-		"duration": "29d"
-	},{
 		"content": "[Login] 10 free recruitments daily campaign",
 		"start": "2025-12-15T10:00",
 		"startJp": "2025-07-22T19:00",
@@ -23653,6 +23654,19 @@ jpSched = [
 		"startG": "2025-12-15T10:00",
 		"title": "[Login] 10 free recruitments daily campaign<br><br>G: 2025-12-15 10:00 Mon ~ 2025-12-23 01:59 Tue 8d (UTC y-m-d)<br>Jp: 2025-07-22 19:00 Tue ~ 2025-07-30 10:59 Wed 8d (JST y-m-d)",
 		"duration": "8d"
+	},{
+		"content": "[Login] 4.5 Anniversary Login Bonus",
+		"start": "2025-12-15T10:00",
+		"startJp": "2025-07-22T19:00",
+		"end": "2026-01-13T01:59",
+		"endJp": "2025-08-20T10:59",
+		"group": "J Event",
+		"subgroup": "Login",
+		"style": "color:black;background-color:yellow",
+		"endG": "2026-01-13T01:59",
+		"startG": "2025-12-15T10:00",
+		"title": "[Login] 4.5 Anniversary Login Bonus<br><br>G: 2025-12-15 10:00 Mon ~ 2026-01-13 01:59 Tue 29d (UTC y-m-d)<br>Jp: 2025-07-22 19:00 Tue ~ 2025-08-20 10:59 Wed 29d (JST y-m-d)",
+		"duration": "29d"
 	},{
 		"content": "[Login] 10 free recruitments daily campaign",
 		"start": "2026-05-26T10:00",
