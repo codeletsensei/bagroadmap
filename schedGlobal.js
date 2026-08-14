@@ -421,14 +421,15 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
-    "url": ""
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3511523"
   },{
-    "content": "Hoard AP? Maint not confirmed yet. This cell's here to spawn the hoard cell (Right-click).",
-    "start": "2026-08-15T02:00:00.000Z",
-    "end": "2026-08-18T07:00:00.000Z",
+    "content": "EOS",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-08-18T09:00:00.000Z",
     "group": "G Maint",
     "subgroup": "",
-    "style": "background-color:lightgreen",
+    "style": "color:red; background-color:red; height:15px",
+    "url": ""
   },{
 //
 /// GASHA
@@ -2246,6 +2247,27 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Otogi [Welfare] (New)",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Niko [L] (New)",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Kurumi [L] (New)",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -3001,6 +3023,34 @@ confirmed = [
     "content": "[Mini] Balancing Schale's Books with the General Student Council",
     "start": "2026-08-11T02:00:00.000Z",
     "end": "2026-08-18T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] Special Mission: Lore Pursuit",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main Story Act 2] Prologue",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main Story A2] Vol.0 C1",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main Story A2] Vol.EX Lore Pursuit C1",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
