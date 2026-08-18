@@ -2268,6 +2268,41 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Sumire (Part-Timer)",
+    "start": "2026-09-01T02:00:00.000Z",
+    "end": "2026-09-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Rei",
+    "start": "2026-09-01T02:00:00.000Z",
+    "end": "2026-09-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Izumi (New Year)",
+    "start": "2026-09-01T02:00:00.000Z",
+    "end": "2026-09-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Akari (New Year)",
+    "start": "2026-09-01T02:00:00.000Z",
+    "end": "2026-09-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Haruka (New Year)",
+    "start": "2026-09-01T02:00:00.000Z",
+    "end": "2026-09-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -3051,6 +3086,20 @@ confirmed = [
     "content": "[Main Story A2] Vol.EX Lore Pursuit C1",
     "start": "2026-08-18T02:00:00.000Z",
     "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Web Event] Who Let The Fox Out?",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T19:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[R] Pray-Ball! Swing for the Grand Slam!",
+    "start": "2026-09-01T02:00:00.000Z",
+    "end": "2026-09-15T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
@@ -4210,6 +4259,15 @@ confirmed = [
     "group": "G Raid",
     "season": 51,
     "subgroup": "JFD",
+    "style": "color:black; background-color:yellow",
+  },{
+    "content": "[LBA] S26 Chokmah Yellow (Yellow atk)",
+    "boss": "Chokmah",
+    "start": "2026-08-19T02:00:00.000Z",
+    "end": "2026-09-14T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 26,
+    "subgroup": "LBA",
     "style": "color:black; background-color:yellow",
   },{
 //
@@ -5727,6 +5785,13 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "2x Bounty",
+    "start": "2026-08-31T19:00:00.000Z",
+    "end": "2026-09-07T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 /// MISC
 //
@@ -6876,6 +6941,157 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:yellow"
+  },{
+    "content": "[QoL] Increased comms drop",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] General/Universal Blueprints from normal/hard/event stages.",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[PVP Shop] Miyu elephs",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[QoL] Mock Total Assault",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] TA/JFD Tickets stack for 2 days (6 max). Daily task for 10 pyros is unchanged",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Increased the number of selectable initial skills from 3 to 5 for normal gameplay, 9 for LBA.",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Zoom in/out to some boss battles (Tiphareth, Drumbarka)",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Fixed the batch sweep function for hard nodes",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Student search function on even more menus (formation, items, equipment, cafe, furniture)",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] No more AP loss for failing stages.",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Furniture in shops can now display the relevant student(s).",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] UI/UX changes to Lobby/Recruitment/Campaign (Shittim Chest's Classroom) Menus.",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Student profile now displays favorite gifts.",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Crafting] Furniture: Miyo, Fuyu, Ritsu, Valkyrie Set, Accessory Showcase",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Cafe] Furniture locking",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "7th PV",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Dangles] Hifumi (Swimsuit), Mari, Mashiro (Swimsuit), Tomoe (Qipao), Haruna (Track), Minori, Hibiki, Kisaki, Hanako, Haruka (New Year), and Karin",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Adjusted the difficulty of some missions.",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Rerolling: 30 retries and 3 save slots.",
+    "start": "2026-08-18T02:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+
+
+
+    "content": "[Permit Shop] Suzumi (Magical) + Reisa (Magical) elephs",
+    "start": "2026-08-31T19:00:00.000Z",
+    "end": "2026-09-15T19:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[My Office] Main Story Act 2 Ex. Lore Pursuit Chapter 1: High Noon Haze, Episode 1 Special Completion Task",
+    "start": "2026-08-18T09:00:00.000Z",
+    "end": "2026-09-01T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue",
+    "url": "https://bluearchive.nexon.com/user/myoffice"
   },{
     "content": "[PVP] Season 11",
     "start": "2026-09-08T02:00:00.000Z",
