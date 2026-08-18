@@ -7090,7 +7090,7 @@ confirmed = [
     "end": "2026-09-01T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "",
-    "style": "color:black; background-color:lightblue",
+    "style": "color:black; background-color:yellow",
     "url": "https://bluearchive.nexon.com/user/myoffice"
   },{
     "content": "[PVP] Season 11",
