@@ -3095,7 +3095,8 @@ confirmed = [
     "end": "2026-09-01T19:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
-    "style": "color:black; background-color:yellow"
+    "style": "color:black; background-color:yellow",
+    "url": "https://bluearchive.nexon.com/events/2026/08/thefoxout"
   },{
     "content": "[R] Pray-Ball! Swing for the Grand Slam!",
     "start": "2026-09-01T02:00:00.000Z",
@@ -7075,9 +7076,6 @@ confirmed = [
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
   },{
-
-
-
     "content": "[Permit Shop] Suzumi (Magical) + Reisa (Magical) elephs",
     "start": "2026-08-31T19:00:00.000Z",
     "end": "2026-09-15T19:00:00.000Z",
