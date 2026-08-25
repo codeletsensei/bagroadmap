@@ -429,7 +429,7 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
-    "url": ""
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3520505"
   },{
 //
 /// GASHA
