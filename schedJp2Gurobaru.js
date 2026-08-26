@@ -17980,6 +17980,19 @@ jpSched = [
 		"title": "[Perm] Say-Bing!<br><br>G: 2027-01-05 02:00 Tue ~ 2027-01-11 02:00 Mon 6d (UTC y-m-d)<br>Jp: 2026-09-16 11:00 Wed ~ 2026-09-22 11:00 Tue 6d (JST y-m-d)",
 		"duration": "6d"
 	},{
+		"content": "Ichika (Swimsuit) [Welfare]",
+		"start": "2026-12-29T02:00",
+		"startJp": "2026-09-09T11:00",
+		"end": "2027-01-11T02:00",
+		"endJp": "2026-09-22T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-01-11T02:00",
+		"startG": "2026-12-29T02:00",
+		"title": "Ichika (Swimsuit) [Welfare]<br><br>G: 2026-12-29 02:00 Tue ~ 2027-01-11 02:00 Mon 13d (UTC y-m-d)<br>Jp: 2026-09-09 11:00 Wed ~ 2026-09-22 11:00 Tue 13d (JST y-m-d)",
+		"duration": "13d"
+	},{
 		"content": "Kasumi (Swimsuit) [L] (New)",
 		"start": "2026-12-29T02:00",
 		"startJp": "2026-09-09T11:00",
@@ -18019,7 +18032,7 @@ jpSched = [
 		"title": "Seia (Swimsuit) [L]<br><br>G: 2026-12-29 02:00 Tue ~ 2027-01-11 02:00 Mon 13d (UTC y-m-d)<br>Jp: 2026-09-09 11:00 Wed ~ 2026-09-22 11:00 Tue 13d (JST y-m-d)",
 		"duration": "13d"
 	},{
-		"content": "this is a (Swimsuit) general",
+		"content": "this is a Bing general",
 		"start": "2026-12-29T02:00",
 		"startJp": "2026-09-09T11:00",
 		"end": "2027-01-11T02:00",
@@ -18029,7 +18042,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2027-01-11T02:00",
 		"startG": "2026-12-29T02:00",
-		"title": "this is a (Swimsuit) general<br><br>G: 2026-12-29 02:00 Tue ~ 2027-01-11 02:00 Mon 13d (UTC y-m-d)<br>Jp: 2026-09-09 11:00 Wed ~ 2026-09-22 11:00 Tue 13d (JST y-m-d)",
+		"title": "this is a Bing general<br><br>G: 2026-12-29 02:00 Tue ~ 2027-01-11 02:00 Mon 13d (UTC y-m-d)<br>Jp: 2026-09-09 11:00 Wed ~ 2026-09-22 11:00 Tue 13d (JST y-m-d)",
 		"duration": "13d"
 	},{
 		"content": "<b>3x Comm </b>",
