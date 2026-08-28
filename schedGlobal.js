@@ -4288,7 +4288,7 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
-    "content": "2x Scrimmage",
+    "content": "2x Scrimm",
     "start": "2024-05-06T19:00:00.000Z",
     "end": "2024-05-13T19:00:00.000Z",
     "group": "G Camp",
@@ -4372,7 +4372,7 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
-    "content": "2x Normal/Lesson/Scrimmage",
+    "content": "2x Normal/Lesson/Scrimm",
     "start": "2024-06-17T19:00:00.000Z",
     "end": "2024-06-24T19:00:00.000Z",
     "group": "G Camp",
@@ -4386,7 +4386,7 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
-    "content": "2x Lesson/Scrimmage",
+    "content": "2x Lesson/Scrimm",
     "start": "2024-07-01T19:00:00.000Z",
     "end": "2024-07-08T19:00:00.000Z",
     "group": "G Camp",
@@ -5716,7 +5716,7 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
-    "content": "2x Scrimmage",
+    "content": "2x Scrimm",
     "start": "2026-08-03T19:00:00.000Z",
     "end": "2026-08-10T19:00:00.000Z",
     "group": "G Camp",
@@ -5751,7 +5751,7 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
-    "content": "2x Scrimmage",
+    "content": "2x Scrimm",
     "start": "2026-08-17T19:00:00.000Z",
     "end": "2026-08-24T19:00:00.000Z",
     "group": "G Camp",
@@ -5786,9 +5786,65 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
-    "content": "2x Bounty",
+    "content": "Bounty",
     "start": "2026-08-31T19:00:00.000Z",
     "end": "2026-09-07T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Hard",
+    "start": "2026-09-07T19:00:00.000Z",
+    "end": "2026-09-14T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Comm",
+    "start": "2026-09-07T19:00:00.000Z",
+    "end": "2026-09-14T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Bounty",
+    "start": "2026-09-14T19:00:00.000Z",
+    "end": "2026-09-21T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Comm",
+    "start": "2026-09-21T19:00:00.000Z",
+    "end": "2026-09-28T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Scrimm",
+    "start": "2026-09-28T19:00:00.000Z",
+    "end": "2026-10-05T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Lesson",
+    "start": "2026-09-28T19:00:00.000Z",
+    "end": "2026-10-05T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>XP</b>",
+    "start": "2026-09-18T19:00:00.000Z",
+    "end": "2026-09-20T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>XP</b>",
+    "start": "2026-09-25T19:00:00.000Z",
+    "end": "2026-09-27T19:00:00.000Z",
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
