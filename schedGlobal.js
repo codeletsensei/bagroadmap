@@ -4271,6 +4271,15 @@ confirmed = [
     "subgroup": "LBA",
     "style": "color:black; background-color:yellow",
   },{
+    "content": "[GA] Kurokage Urban (Red+Blue TOR / Purple INS) (Blue atk)",
+    "boss": "Kurokage",
+    "start": "2026-09-08T02:00:00.000Z",
+    "end": "2026-09-14T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 33,
+    "subgroup": "GA",
+    "style": "color:black; background-color:pink ",
+  },{
 //
 /// CAMPAIGNS
 //
