@@ -18049,6 +18049,19 @@ jpSched = [
 		"title": "Seia (Swimsuit) [L]<br><br>G: 2026-12-29 02:00 Tue ~ 2027-01-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-09-09 11:00 Wed ~ 2026-09-23 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "Ichika (Swimsuit) [Welfare]",
+		"start": "2026-12-29T02:00",
+		"startJp": "2026-09-09T11:00",
+		"end": "2027-01-12T02:00",
+		"endJp": "2026-09-23T11:00",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-01-12T02:00",
+		"startG": "2026-12-29T02:00",
+		"title": "Ichika (Swimsuit) [Welfare]<br><br>G: 2026-12-29 02:00 Tue ~ 2027-01-12 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-09-09 11:00 Wed ~ 2026-09-23 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "this is a (Swimsuit) general",
 		"start": "2026-12-29T02:00",
 		"startJp": "2026-09-09T11:00",
