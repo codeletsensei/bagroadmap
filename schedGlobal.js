@@ -431,6 +431,14 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3520505"
   },{
+    "content": "EOS",
+    "start": "2026-09-08T02:00:00.000Z",
+    "end": "2026-09-08T06:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
+    "url": ""
+  },{
 //
 /// GASHA
 //
@@ -2303,6 +2311,41 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Erika (New)",
+    "start": "2026-09-08T02:00:00.000Z",
+    "end": "2026-09-15T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Kirara",
+    "start": "2026-09-08T02:00:00.000Z",
+    "end": "2026-09-15T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Pina (Guide)",
+    "start": "2026-09-08T02:00:00.000Z",
+    "end": "2026-09-15T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Tsubaki (Guide)",
+    "start": "2026-09-08T02:00:00.000Z",
+    "end": "2026-09-15T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Umika",
+    "start": "2026-09-08T02:00:00.000Z",
+    "end": "2026-09-15T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -3100,6 +3143,13 @@ confirmed = [
   },{
     "content": "[R] Pray-Ball! Swing for the Grand Slam!",
     "start": "2026-09-01T02:00:00.000Z",
+    "end": "2026-09-15T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Perm] Ger Hyper and March On!",
+    "start": "2026-09-08T02:00:00.000Z",
     "end": "2026-09-15T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
@@ -5936,7 +5986,7 @@ confirmed = [
     "end": "2024-11-19T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "Other",
-    "style": "color:black; background-color:lightblue"
+    "style": "color:black; background-color:yellow"
   },{
     "content": "[Perm] An Unconcealed Heart",
     "start": "2024-11-05T02:00:00.000Z",
@@ -7162,6 +7212,13 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:orange"
+  },{
+    "content": "[Mini Story] On Air: Gehenna",
+    "start": "2026-09-08T02:00:00.000Z",
+    "end": "2026-09-22T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
   }
 ]
 
