@@ -3148,7 +3148,14 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[Perm] Ger Hyper and March On!",
+    "content": "[Mini] Balancing Schale's Books with the General Student Council",
+    "start": "2026-09-08T02:00:00.000Z",
+    "end": "2026-09-15T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Perm] Rowdy and Cheery",
     "start": "2026-09-08T02:00:00.000Z",
     "end": "2026-09-15T02:00:00.000Z",
     "group": "G Event",
