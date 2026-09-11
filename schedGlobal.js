@@ -437,6 +437,14 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3537694"
+  },{
+    "content": "EOS",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-15T06:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
     "url": ""
   },{
 //
@@ -7236,6 +7244,7 @@ coupons = {
   "2026-06-09 15:00": [ "THESKYOFUNITY0526", "0526PROPHETMALKUTH" ],
   "2026-08-25 15:00": [ "MYLUCKYANIMAL" ],
   "2026-08-18 02:00": [ "ONEYEARMEMORIAL" ],
+  "2026-10-09 02:00": [ "KIRAKIRAERIKA" ],
 }
 
 /// get the time when any future maintenance ends
