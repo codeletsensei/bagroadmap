@@ -2354,6 +2354,41 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Mutsuki (Dress) (New)",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Haruka (Dress) (New)",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Saori (Dress)",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Aru (Dress)",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Kayoko (Dress)",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -3166,6 +3201,27 @@ confirmed = [
     "content": "[Perm] Rowdy and Cheery",
     "start": "2026-09-08T02:00:00.000Z",
     "end": "2026-09-15T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main] Special Operation: Lore Pursuit",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Main Story A2] Vol.EX Lore Pursuit C2",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Perm] 0068 from Opera with Love!",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
@@ -4344,6 +4400,34 @@ confirmed = [
     "season": 33,
     "subgroup": "GA",
     "style": "color:black; background-color:pink ",
+  },{
+    "content": "[LBA] S27 The Fury of Set Blue (Red atk)",
+    "boss": "Fury of Set",
+    "start": "2026-09-16T02:00:00.000Z",
+    "end": "2026-10-12T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 27,
+    "subgroup": "LBA",
+    "style": "color:white; background-color:blue",
+  },{
+    "content": "[TA] Drumbarka Urban Blue+Red (Yellow atk)",
+    "boss": "Drumbarka",
+    "start": "2026-09-22T02:00:00.000Z",
+    "end": "2026-09-28T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 89,
+    "subgroup": "TA",
+    "style": "color:black; background-color:lightgrey",
+  },{
+    "content": "[JFD] Shooting Red Urban. Special students buffed. High DEF dummy.",
+    "boss": "Shooting",
+    "terrain": "Urban",
+    "start": "2026-09-29T02:00:00.000Z",
+    "end": "2026-10-05T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 52,
+    "subgroup": "JFD",
+    "style": "color:white; background-color:red",
   },{
 //
 /// CAMPAIGNS
@@ -7234,6 +7318,34 @@ confirmed = [
     "group": "G Other",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini Story] Weeds Don't Grow Alone",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "Newfag and returning players login campaigns (permanent)",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Crafting] Furniture: Rabu, Magical Reisa + Suzumi.",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "7th PV as title screen",
+    "start": "2026-09-15T02:00:00.000Z",
+    "end": "2026-09-29T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "",
+    "style": "color:black; background-color:lightblue"
   }
 ]
 
