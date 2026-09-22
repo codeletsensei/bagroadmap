@@ -18508,17 +18508,17 @@ jpSched = [
 		"duration": "14d"
 	},{
 		"content": "[Crafting] Furniture: Eimi (Battle), Koyuki (Pajama)",
-		"start": "2027-02-11T02:00",
-		"startJp": "2026-10-23T11:00",
+		"start": "2027-01-12T10:00",
+		"startJp": "2026-09-23T19:00",
 		"end": "2027-01-25T19:00",
 		"endJp": "2026-10-07T04:00",
 		"group": "J Other",
 		"subgroup": "",
 		"style": "color:black;background-color:lightblue",
 		"endG": "2027-01-25T19:00",
-		"startG": "2027-02-11T02:00",
-		"title": "[Crafting] Furniture: Eimi (Battle), Koyuki (Pajama)<br><br>G: 2027-02-11 02:00 Thu ~ 2027-01-25 19:00 Mon -391h (UTC y-m-d)<br>Jp: 2026-10-23 11:00 Fri ~ 2026-10-07 04:00 Wed -391h (JST y-m-d)",
-		"duration": "-391h"
+		"startG": "2027-01-12T10:00",
+		"title": "[Crafting] Furniture: Eimi (Battle), Koyuki (Pajama)<br><br>G: 2027-01-12 10:00 Tue ~ 2027-01-25 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-09-23 19:00 Wed ~ 2026-10-07 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
 	},{
 		"content": "[Main] It’s our Engine! ～183号を脱出せよ！～",
 		"start": "2027-01-12T10:00",
