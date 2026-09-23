@@ -1,5 +1,64 @@
 jpSched = [
 	{
+		"content": "[P] Moonlight Dream",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-21T11:00",
+		"end": "2027-02-16T02:00",
+		"endJp": "2026-10-28T11:00",
+		"group": "J Event",
+		"subgroup": "P",
+		"style": "color:black;background-color:yellow",
+		"jpName": "月華夢騒",
+		"endG": "2027-02-16T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "[P] Moonlight Dream<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2026-10-21 11:00 Wed ~ 2026-10-28 11:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[Main] Special Operation: Lore Pursuit",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-21T11:00",
+		"end": "2027-02-16T01:59",
+		"endJp": "2026-10-28T10:59",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"jpName": "特殊作戦：ロア追跡編",
+		"url": "https://bluearchive.wiki/wiki/Special_Operation:_Lore_Pursuit_(Season_3)",
+		"endG": "2027-02-16T01:59",
+		"startG": "2027-02-09T02:00",
+		"title": "[Main] Special Operation: Lore Pursuit<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-10-21 11:00 Wed ~ 2026-10-28 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[R] We are the Occult Research Society! ～Academy Mysteries and Ancient Spells～",
+		"start": "2027-01-26T02:00",
+		"startJp": "2026-10-07T11:00",
+		"end": "2027-02-09T01:59",
+		"endJp": "2026-10-21T10:59",
+		"group": "J Event",
+		"subgroup": "R",
+		"style": "color:black;background-color:yellow",
+		"jpName": "我らオカルト研究会！～学院の不思議と古の呪文～",
+		"url": "https://bluearchive.wiki/wiki/We_are_the_Occult_Research_Society!_%EF%BD%9EAcademy_Mysteries_and_Ancient_Spells%EF%BD%9E/Rerun",
+		"endG": "2027-02-09T01:59",
+		"startG": "2027-01-26T02:00",
+		"title": "[R] We are the Occult Research Society! ～Academy Mysteries and Ancient Spells～<br><br>G: 2027-01-26 02:00 Tue ~ 2027-02-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-07 11:00 Wed ~ 2026-10-21 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Main] It's our Engine! ～Escape from No. 183!～",
+		"start": "2027-01-12T10:00",
+		"startJp": "2026-09-23T19:00",
+		"end": "2027-01-26T01:59",
+		"endJp": "2026-10-07T10:59",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"jpName": "It’s our Engine!　～183号を脱出せよ！～",
+		"url": "https://bluearchive.wiki/wiki/It%27s_our_Engine!_%EF%BD%9EEscape_from_No._183!%EF%BD%9E",
+		"endG": "2027-01-26T01:59",
+		"startG": "2027-01-12T10:00",
+		"title": "[Main] It's our Engine! ～Escape from No. 183!～<br><br>G: 2027-01-12 10:00 Tue ~ 2027-01-26 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-09-23 19:00 Wed ~ 2026-10-07 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "[P] Say-Bing!",
 		"start": "2027-01-05T02:00",
 		"startJp": "2026-09-16T11:00",
@@ -6087,7 +6146,7 @@ jpSched = [
 		"title": "[TA] Drumbarka Urban Blue+Red (Yellow atk)<br><br>G: 2027-01-19 02:00 Tue ~ 2027-01-25 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-09-30 11:00 Wed ~ 2026-10-07 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[GA] Binah Urban (Yellow TOR / Red+Blue+Purple INS) (Yellow atk)",
+		"content": "[GA] Binah Urban (Yellow TOR / Red+Blue INS) (Yellow atk)",
 		"start": "2023-11-21T02:00",
 		"startJp": "2023-06-28T11:00",
 		"end": "2023-11-27T18:59",
@@ -6099,14 +6158,13 @@ jpSched = [
 		"defType": {
 			"Red": "INS",
 			"Yellow": "TOR",
-			"Blue": "INS",
-			"Purple": "INS"
+			"Blue": "INS"
 		},
 		"boss": "Binah",
 		"terrain": "Urban",
 		"endG": "2023-11-27T18:59",
 		"startG": "2023-11-21T02:00",
-		"title": "[GA] Binah Urban (Yellow TOR / Red+Blue+Purple INS) (Yellow atk)<br><br>G: 2023-11-21 02:00 Tue ~ 2023-11-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-28 11:00 Wed ~ 2023-07-05 03:59 Wed 7d (JST y-m-d)",
+		"title": "[GA] Binah Urban (Yellow TOR / Red+Blue INS) (Yellow atk)<br><br>G: 2023-11-21 02:00 Tue ~ 2023-11-27 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2023-06-28 11:00 Wed ~ 2023-07-05 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[GA] KAITEN Urban (Red TOR / Yellow+Blue INS) (Yellow atk)",
@@ -6907,6 +6965,27 @@ jpSched = [
 		"title": "[GA] ShiroKuro Urban (Red+Blue TOR / Purple INS) (Yellow atk)<br><br>G: 2027-01-05 02:00 Tue ~ 2027-01-11 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-09-16 11:00 Wed ~ 2026-09-23 03:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
+		"content": "[GA] Geburah Outdoors (Red+Blue TOR / Yellow INS) (Blue atk)",
+		"start": "2027-02-02T02:00",
+		"startJp": "2026-10-14T11:00",
+		"end": "2027-02-08T18:59",
+		"endJp": "2026-10-21T03:59",
+		"group": "J Raid",
+		"subgroup": "GA",
+		"style": "color:black;background-color:pink",
+		"season": "38",
+		"defType": {
+			"Red": "TOR",
+			"Yellow": "INS",
+			"Blue": "TOR"
+		},
+		"boss": "Geburah",
+		"terrain": "Outdoors",
+		"endG": "2027-02-08T18:59",
+		"startG": "2027-02-02T02:00",
+		"title": "[GA] Geburah Outdoors (Red+Blue TOR / Yellow INS) (Blue atk)<br><br>G: 2027-02-02 02:00 Tue ~ 2027-02-08 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-10-14 11:00 Wed ~ 2026-10-21 03:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "[LBA] S1 The Fury of Set Blue (Red atk)",
 		"start": "2024-08-21T02:00",
 		"startJp": "2024-03-28T11:00",
@@ -7402,6 +7481,32 @@ jpSched = [
 		"startG": "2027-01-13T02:00",
 		"title": "[LBA] S31 Tiphareth Yellow (Yellow atk)<br><br>G: 2027-01-13 02:00 Wed ~ 2027-02-15 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2026-09-24 11:00 Thu ~ 2026-10-28 03:59 Wed 34d (JST y-m-d)",
 		"duration": "34d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Anna\" title=\"Anna\">Anna</a> (New)",
+		"start": "2027-01-12T10:00",
+		"startJp": "2026-09-23T19:00",
+		"end": "2027-01-26T01:59",
+		"endJp": "2026-10-07T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-01-26T01:59",
+		"startG": "2027-01-12T10:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Anna\" title=\"Anna\">Anna</a> (New)<br><br>G: 2027-01-12 10:00 Tue ~ 2027-01-26 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-09-23 19:00 Wed ~ 2026-10-07 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Erina\" title=\"Erina\">Erina</a> (New)",
+		"start": "2027-01-12T10:00",
+		"startJp": "2026-09-23T19:00",
+		"end": "2027-01-26T01:59",
+		"endJp": "2026-10-07T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-01-26T01:59",
+		"startG": "2027-01-12T10:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Erina\" title=\"Erina\">Erina</a> (New)<br><br>G: 2027-01-12 10:00 Tue ~ 2027-01-26 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-09-23 19:00 Wed ~ 2026-10-07 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kasumi_(Swimsuit)\" title=\"Kasumi (Swimsuit)\">Kasumi (Swimsuit)</a> (New)",
 		"start": "2026-12-29T08:00",
@@ -18520,43 +18625,17 @@ jpSched = [
 		"title": "[Crafting] Furniture: Eimi (Battle), Koyuki (Pajama)<br><br>G: 2027-01-12 10:00 Tue ~ 2027-01-25 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-09-23 19:00 Wed ~ 2026-10-07 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Main] It’s our Engine! ～183号を脱出せよ！～",
-		"start": "2027-01-12T10:00",
-		"startJp": "2026-09-23T19:00",
-		"end": "2027-01-26T02:00",
-		"endJp": "2026-10-07T11:00",
-		"group": "J Event",
-		"subgroup": "Main",
-		"style": "color:black;background-color:yellow",
-		"endG": "2027-01-26T02:00",
-		"startG": "2027-01-12T10:00",
-		"title": "[Main] It’s our Engine! ～183号を脱出せよ！～<br><br>G: 2027-01-12 10:00 Tue ~ 2027-01-26 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-09-23 19:00 Wed ~ 2026-10-07 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Anna (New)",
-		"start": "2027-01-12T10:00",
-		"startJp": "2026-09-23T19:00",
-		"end": "2027-01-26T02:00",
-		"endJp": "2026-10-07T11:00",
+		"content": "Tsumugi (New)",
+		"start": "2027-01-25T19:00",
+		"startJp": "2026-10-07T04:00",
+		"end": "2027-02-08T19:00",
+		"endJp": "2026-10-21T04:00",
 		"group": "J Gacha",
 		"subgroup": "",
 		"style": "color:black;background-color:lightgrey",
-		"endG": "2027-01-26T02:00",
-		"startG": "2027-01-12T10:00",
-		"title": "Anna (New)<br><br>G: 2027-01-12 10:00 Tue ~ 2027-01-26 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-09-23 19:00 Wed ~ 2026-10-07 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Erina (New)",
-		"start": "2027-01-12T10:00",
-		"startJp": "2026-09-23T19:00",
-		"end": "2027-01-26T02:00",
-		"endJp": "2026-10-07T11:00",
-		"group": "J Gacha",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2027-01-26T02:00",
-		"startG": "2027-01-12T10:00",
-		"title": "Erina (New)<br><br>G: 2027-01-12 10:00 Tue ~ 2027-01-26 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-09-23 19:00 Wed ~ 2026-10-07 11:00 Wed 14d (JST y-m-d)",
+		"endG": "2027-02-08T19:00",
+		"startG": "2027-01-25T19:00",
+		"title": "Tsumugi (New)<br><br>G: 2027-01-25 19:00 Mon ~ 2027-02-08 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-10-07 04:00 Wed ~ 2026-10-21 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "2x Normal",
