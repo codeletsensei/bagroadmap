@@ -445,6 +445,14 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3541757"
+  },{
+    "content": "EOS",
+    "start": "2026-09-29T02:00:00.000Z",
+    "end": "2026-09-29T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
     "url": ""
   },{
 //
@@ -2389,6 +2397,27 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Nagusa (Swimsuit) (New)",
+    "start": "2026-09-29T02:00:00.000Z",
+    "end": "2026-10-06T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Yukari (Swimsuit)",
+    "start": "2026-09-29T02:00:00.000Z",
+    "end": "2026-10-06T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Kikyou (Swimsuit)",
+    "start": "2026-09-29T02:00:00.000Z",
+    "end": "2026-10-06T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -3224,6 +3253,13 @@ confirmed = [
     "end": "2026-09-29T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "A Flower Blooms Among the Hundred: Fair and Square Aquatic Showdown",
+    "start": "2026-09-29T02:00:00.000Z",
+    "end": "2026-10-13T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Main",
     "style": "color:black; background-color:yellow"
   },{
 //
@@ -4428,6 +4464,15 @@ confirmed = [
     "season": 52,
     "subgroup": "JFD",
     "style": "color:white; background-color:red",
+  },{
+    "content": "[GA] Hovercraft Outdoors (Blue+Purple TOR / Red INS) (Yellow atk)",
+    "boss": "Hovercraft",
+    "start": "2026-10-06T02:00:00.000Z",
+    "end": "2026-10-12T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 34,
+    "subgroup": "GA",
+    "style": "color:black; background-color:pink ",
   },{
 //
 /// CAMPAIGNS
@@ -6003,6 +6048,62 @@ confirmed = [
     "content": "<b>XP</b>",
     "start": "2026-09-25T19:00:00.000Z",
     "end": "2026-09-27T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Normal",
+    "start": "2026-10-05T19:00:00.000Z",
+    "end": "2026-10-09T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Hard",
+    "start": "2026-10-09T19:00:00.000Z",
+    "end": "2026-10-12T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Bounty",
+    "start": "2026-10-12T19:00:00.000Z",
+    "end": "2026-10-19T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Comm",
+    "start": "2026-10-19T19:00:00.000Z",
+    "end": "2026-10-26T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Scrimm",
+    "start": "2026-10-19T19:00:00.000Z",
+    "end": "2026-10-26T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Lesson",
+    "start": "2026-10-26T19:00:00.000Z",
+    "end": "2026-11-02T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>XP</b>",
+    "start": "2026-10-16T19:00:00.000Z",
+    "end": "2026-10-18T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>XP</b>",
+    "start": "2026-10-23T19:00:00.000Z",
+    "end": "2026-10-25T19:00:00.000Z",
     "group": "G Camp",
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
