@@ -2418,6 +2418,34 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Kazusa (Band) [L]",
+    "start": "2026-10-06T02:00:00.000Z",
+    "end": "2026-10-13T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Yoshimi (Band) [L]",
+    "start": "2026-10-06T02:00:00.000Z",
+    "end": "2026-10-13T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Natsu (Band)",
+    "start": "2026-10-06T02:00:00.000Z",
+    "end": "2026-10-13T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Airi (Band) [Perm Welfare]",
+    "start": "2026-10-06T02:00:00.000Z",
+    "end": "2026-10-13T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -3257,6 +3285,13 @@ confirmed = [
   },{
     "content": "A Flower Blooms Among the Hundred: Fair and Square Aquatic Showdown",
     "start": "2026-09-29T02:00:00.000Z",
+    "end": "2026-10-13T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Main",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "-ive aLIVE!",
+    "start": "2026-10-06T02:00:00.000Z",
     "end": "2026-10-13T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Main",
