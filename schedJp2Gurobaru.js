@@ -30,8 +30,8 @@ jpSched = [
 		"duration": "7d"
 	},{
 		"content": "[R] We are the Occult Research Society! ～Academy Mysteries and Ancient Spells～",
-		"start": "2027-01-26T02:00",
-		"startJp": "2026-10-07T11:00",
+		"start": "2027-01-26T08:00",
+		"startJp": "2026-10-07T17:00",
 		"end": "2027-02-09T01:59",
 		"endJp": "2026-10-21T10:59",
 		"group": "J Event",
@@ -40,8 +40,8 @@ jpSched = [
 		"jpName": "我らオカルト研究会！～学院の不思議と古の呪文～",
 		"url": "https://bluearchive.wiki/wiki/We_are_the_Occult_Research_Society!_%EF%BD%9EAcademy_Mysteries_and_Ancient_Spells%EF%BD%9E/Rerun",
 		"endG": "2027-02-09T01:59",
-		"startG": "2027-01-26T02:00",
-		"title": "[R] We are the Occult Research Society! ～Academy Mysteries and Ancient Spells～<br><br>G: 2027-01-26 02:00 Tue ~ 2027-02-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-07 11:00 Wed ~ 2026-10-21 10:59 Wed 14d (JST y-m-d)",
+		"startG": "2027-01-26T08:00",
+		"title": "[R] We are the Occult Research Society! ～Academy Mysteries and Ancient Spells～<br><br>G: 2027-01-26 08:00 Tue ~ 2027-02-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-07 17:00 Wed ~ 2026-10-21 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Main] It's our Engine! ～Escape from No. 183!～",
@@ -18492,8 +18492,8 @@ jpSched = [
 		"duration": "6h"
 	},{
 		"content": "[JFD] Escort Urban Yellow. Atk Buff ∝ # of shielded allies. Enemies take more dmg after 20 EX hits.",
-		"start": "2027-01-26T02:00",
-		"startJp": "2026-10-07T11:00",
+		"start": "2027-01-26T08:00",
+		"startJp": "2026-10-07T17:00",
 		"end": "2027-02-01T19:00",
 		"endJp": "2026-10-14T04:00",
 		"group": "J Raid",
@@ -18503,8 +18503,8 @@ jpSched = [
 		"boss": "Escort",
 		"terrain": "Urban",
 		"endG": "2027-02-01T19:00",
-		"startG": "2027-01-26T02:00",
-		"title": "[JFD] Escort Urban Yellow. Atk Buff ∝ # of shielded allies. Enemies take more dmg after 20 EX hits.<br><br>G: 2027-01-26 02:00 Tue ~ 2027-02-01 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-10-07 11:00 Wed ~ 2026-10-14 04:00 Wed 7d (JST y-m-d)",
+		"startG": "2027-01-26T08:00",
+		"title": "[JFD] Escort Urban Yellow. Atk Buff ∝ # of shielded allies. Enemies take more dmg after 20 EX hits.<br><br>G: 2027-01-26 08:00 Tue ~ 2027-02-01 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-10-07 17:00 Wed ~ 2026-10-14 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "EOS",
@@ -18521,18 +18521,18 @@ jpSched = [
 		"title": "EOS<br><br>G: 2027-01-12 02:00 Tue ~ 2027-01-12 10:00 Tue 8h (UTC y-m-d)<br>Jp: 2026-09-23 11:00 Wed ~ 2026-09-23 19:00 Wed 8h (JST y-m-d)",
 		"duration": "8h"
 	},{
-		"content": "[QoL] Bounty: Welfare elephs added. BD/TN/Artifacts redistributed to 5 maps (+2 from before). Better purple drop rates, or just individual rates?",
-		"start": "2027-01-12T10:00",
-		"startJp": "2026-09-23T19:00",
+		"content": "[QoL] Bounty: Welfare elephs added. BD/TN/Artifacts redistributed to 5 maps (+2 from before). BD/TN drop rates slightly buffed.",
+		"start": "2027-02-11T02:00",
+		"startJp": "2026-10-23T11:00",
 		"end": "2027-01-25T19:00",
 		"endJp": "2026-10-07T04:00",
 		"group": "J Other",
 		"subgroup": "",
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2027-01-25T19:00",
-		"startG": "2027-01-12T10:00",
-		"title": "[QoL] Bounty: Welfare elephs added. BD/TN/Artifacts redistributed to 5 maps (+2 from before). Better purple drop rates, or just individual rates?<br><br>G: 2027-01-12 10:00 Tue ~ 2027-01-25 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-09-23 19:00 Wed ~ 2026-10-07 04:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
+		"startG": "2027-02-11T02:00",
+		"title": "[QoL] Bounty: Welfare elephs added. BD/TN/Artifacts redistributed to 5 maps (+2 from before). BD/TN drop rates slightly buffed.<br><br>G: 2027-02-11 02:00 Thu ~ 2027-01-25 19:00 Mon -391h (UTC y-m-d)<br>Jp: 2026-10-23 11:00 Fri ~ 2026-10-07 04:00 Wed -391h (JST y-m-d)",
+		"duration": "-391h"
 	},{
 		"content": "[Bond Gear] Karin, Eri, Shimiko",
 		"start": "2027-01-12T10:00",
@@ -18625,6 +18625,33 @@ jpSched = [
 		"title": "[Crafting] Furniture: Eimi (Battle), Koyuki (Pajama)<br><br>G: 2027-01-12 10:00 Tue ~ 2027-01-25 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-09-23 19:00 Wed ~ 2026-10-07 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "[Group Story] Occult Club",
+		"start": "2027-01-26T08:00",
+		"startJp": "2026-10-07T17:00",
+		"end": "2027-02-09T02:00",
+		"endJp": "2026-10-21T11:00",
+		"group": "J Other",
+		"subgroup": "Other",
+		"style": "color:black;background-color:yellow",
+		"endG": "2027-02-09T02:00",
+		"startG": "2027-01-26T08:00",
+		"title": "[Group Story] Occult Club<br><br>G: 2027-01-26 08:00 Tue ~ 2027-02-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-07 17:00 Wed ~ 2026-10-21 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "EOS",
+		"start": "2027-01-26T02:00",
+		"startJp": "2026-10-07T11:00",
+		"end": "2027-01-26T08:00",
+		"endJp": "2026-10-07T17:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/697",
+		"endG": "2027-01-26T08:00",
+		"startG": "2027-01-26T02:00",
+		"title": "EOS<br><br>G: 2027-01-26 02:00 Tue ~ 2027-01-26 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2026-10-07 11:00 Wed ~ 2026-10-07 17:00 Wed 6h (JST y-m-d)",
+		"duration": "6h"
+	},{
 		"content": "Tsumugi (New)",
 		"start": "2027-01-25T19:00",
 		"startJp": "2026-10-07T04:00",
@@ -18636,6 +18663,58 @@ jpSched = [
 		"endG": "2027-02-08T19:00",
 		"startG": "2027-01-25T19:00",
 		"title": "Tsumugi (New)<br><br>G: 2027-01-25 19:00 Mon ~ 2027-02-08 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-10-07 04:00 Wed ~ 2026-10-21 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Eri",
+		"start": "2027-01-25T19:00",
+		"startJp": "2026-10-07T04:00",
+		"end": "2027-02-08T19:00",
+		"endJp": "2026-10-21T04:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-08T19:00",
+		"startG": "2027-01-25T19:00",
+		"title": "Eri<br><br>G: 2027-01-25 19:00 Mon ~ 2027-02-08 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-10-07 04:00 Wed ~ 2026-10-21 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Kanoe",
+		"start": "2027-01-25T19:00",
+		"startJp": "2026-10-07T04:00",
+		"end": "2027-02-08T19:00",
+		"endJp": "2026-10-21T04:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-08T19:00",
+		"startG": "2027-01-25T19:00",
+		"title": "Kanoe<br><br>G: 2027-01-25 19:00 Mon ~ 2027-02-08 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-10-07 04:00 Wed ~ 2026-10-21 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Miyako (Swimsuit)",
+		"start": "2027-01-25T19:00",
+		"startJp": "2026-10-07T04:00",
+		"end": "2027-02-08T19:00",
+		"endJp": "2026-10-21T04:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-08T19:00",
+		"startG": "2027-01-25T19:00",
+		"title": "Miyako (Swimsuit)<br><br>G: 2027-01-25 19:00 Mon ~ 2027-02-08 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-10-07 04:00 Wed ~ 2026-10-21 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Saki (Swimsuit)",
+		"start": "2027-01-25T19:00",
+		"startJp": "2026-10-07T04:00",
+		"end": "2027-02-08T19:00",
+		"endJp": "2026-10-21T04:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-08T19:00",
+		"startG": "2027-01-25T19:00",
+		"title": "Saki (Swimsuit)<br><br>G: 2027-01-25 19:00 Mon ~ 2027-02-08 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-10-07 04:00 Wed ~ 2026-10-21 04:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "2x Normal",
