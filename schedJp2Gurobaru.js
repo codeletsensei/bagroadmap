@@ -1161,7 +1161,7 @@ jpSched = [
 		"title": "[P] Happy Schale ♡ Valentine patrol / Silence and feast of Kosaka Wakamo<br><br>G: 2024-07-09 02:00 Tue ~ 2024-07-16 02:00 Tue 7d (UTC y-m-d)<br>Jp: 2024-02-14 11:00 Wed ~ 2024-02-21 11:00 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
-		"content": "[R] The Cathedral's Merry Christmas ~ Rescue Knights' Gift ~",
+		"content": "[R] The Cathedral's Merry Christmas ~ Remedial Knights' Gift ~",
 		"start": "2024-07-02T08:00",
 		"startJp": "2024-02-07T17:00",
 		"end": "2024-07-09T01:59",
@@ -1173,7 +1173,7 @@ jpSched = [
 		"url": "https://bluearchive.wiki/wiki/The_Cathedral%27s_Merry_Christmas/Rerun",
 		"endG": "2024-07-09T01:59",
 		"startG": "2024-07-02T08:00",
-		"title": "[R] The Cathedral's Merry Christmas ~ Rescue Knights' Gift ~<br><br>G: 2024-07-02 08:00 Tue ~ 2024-07-09 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-02-07 17:00 Wed ~ 2024-02-14 10:59 Wed 7d (JST y-m-d)",
+		"title": "[R] The Cathedral's Merry Christmas ~ Remedial Knights' Gift ~<br><br>G: 2024-07-02 08:00 Tue ~ 2024-07-09 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2024-02-07 17:00 Wed ~ 2024-02-14 10:59 Wed 7d (JST y-m-d)",
 		"duration": "7d"
 	},{
 		"content": "[Main] Sunshine Girls' Serenade",
@@ -1648,7 +1648,7 @@ jpSched = [
 		"title": "[Main] A Game Before the New Year's Feast ~ One-and-Done Match ~<br><br>G: 2023-05-23 10:00 Tue ~ 2023-06-06 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-12-28 19:00 Wed ~ 2023-01-11 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Main] The Cathedral's Merry Christmas ~ Rescue Knights' Gift ~",
+		"content": "[Main] The Cathedral's Merry Christmas ~ Remedial Knights' Gift ~",
 		"start": "2023-05-09T10:00",
 		"startJp": "2022-12-14T19:00",
 		"end": "2023-05-23T01:59",
@@ -1660,7 +1660,7 @@ jpSched = [
 		"url": "https://bluearchive.wiki/wiki/The_Cathedral%27s_Merry_Christmas",
 		"endG": "2023-05-23T01:59",
 		"startG": "2023-05-09T10:00",
-		"title": "[Main] The Cathedral's Merry Christmas ~ Rescue Knights' Gift ~<br><br>G: 2023-05-09 10:00 Tue ~ 2023-05-23 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-12-14 19:00 Wed ~ 2022-12-28 10:59 Wed 14d (JST y-m-d)",
+		"title": "[Main] The Cathedral's Merry Christmas ~ Remedial Knights' Gift ~<br><br>G: 2023-05-09 10:00 Tue ~ 2023-05-23 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2022-12-14 19:00 Wed ~ 2022-12-28 10:59 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[R] Operation record of No. 227 Hot Spring Resort",
@@ -7481,6 +7481,123 @@ jpSched = [
 		"startG": "2027-01-13T02:00",
 		"title": "[LBA] S31 Tiphareth Yellow (Yellow atk)<br><br>G: 2027-01-13 02:00 Wed ~ 2027-02-15 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2026-09-24 11:00 Thu ~ 2026-10-28 03:59 Wed 34d (JST y-m-d)",
 		"duration": "34d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina_(Qipao)\" title=\"Marina (Qipao)\">Marina (Qipao)</a>",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-21T11:00",
+		"end": "2027-02-16T01:59",
+		"endJp": "2026-10-28T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-16T01:59",
+		"startG": "2027-02-09T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina_(Qipao)\" title=\"Marina (Qipao)\">Marina (Qipao)</a><br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-10-21 11:00 Wed ~ 2026-10-28 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tomoe_(Qipao)\" title=\"Tomoe (Qipao)\">Tomoe (Qipao)</a>",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-21T11:00",
+		"end": "2027-02-16T01:59",
+		"endJp": "2026-10-28T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-16T01:59",
+		"startG": "2027-02-09T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tomoe_(Qipao)\" title=\"Tomoe (Qipao)\">Tomoe (Qipao)</a><br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-10-21 11:00 Wed ~ 2026-10-28 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanna\" title=\"Kanna\">Kanna</a>",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-21T11:00",
+		"end": "2027-02-16T01:59",
+		"endJp": "2026-10-28T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-16T01:59",
+		"startG": "2027-02-09T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanna\" title=\"Kanna\">Kanna</a><br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-10-21 11:00 Wed ~ 2026-10-28 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a>",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-21T11:00",
+		"end": "2027-02-16T01:59",
+		"endJp": "2026-10-28T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-16T01:59",
+		"startG": "2027-02-09T02:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Noa\" title=\"Noa\">Noa</a><br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-16 01:59 Tue 7d (UTC y-m-d)<br>Jp: 2026-10-21 11:00 Wed ~ 2026-10-28 10:59 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsumugi\" title=\"Tsumugi\">Tsumugi</a> (New)",
+		"start": "2027-01-26T08:00",
+		"startJp": "2026-10-07T17:00",
+		"end": "2027-02-09T01:59",
+		"endJp": "2026-10-21T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-09T01:59",
+		"startG": "2027-01-26T08:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Tsumugi\" title=\"Tsumugi\">Tsumugi</a> (New)<br><br>G: 2027-01-26 08:00 Tue ~ 2027-02-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-07 17:00 Wed ~ 2026-10-21 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eri\" title=\"Eri\">Eri</a>",
+		"start": "2027-01-26T08:00",
+		"startJp": "2026-10-07T17:00",
+		"end": "2027-02-09T01:59",
+		"endJp": "2026-10-21T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-09T01:59",
+		"startG": "2027-01-26T08:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Eri\" title=\"Eri\">Eri</a><br><br>G: 2027-01-26 08:00 Tue ~ 2027-02-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-07 17:00 Wed ~ 2026-10-21 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanoe\" title=\"Kanoe\">Kanoe</a>",
+		"start": "2027-01-26T08:00",
+		"startJp": "2026-10-07T17:00",
+		"end": "2027-02-09T01:59",
+		"endJp": "2026-10-21T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-09T01:59",
+		"startG": "2027-01-26T08:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Kanoe\" title=\"Kanoe\">Kanoe</a><br><br>G: 2027-01-26 08:00 Tue ~ 2027-02-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-07 17:00 Wed ~ 2026-10-21 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako_(Swimsuit)\" title=\"Miyako (Swimsuit)\">Miyako (Swimsuit)</a>",
+		"start": "2027-01-26T08:00",
+		"startJp": "2026-10-07T17:00",
+		"end": "2027-02-09T01:59",
+		"endJp": "2026-10-21T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-09T01:59",
+		"startG": "2027-01-26T08:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Miyako_(Swimsuit)\" title=\"Miyako (Swimsuit)\">Miyako (Swimsuit)</a><br><br>G: 2027-01-26 08:00 Tue ~ 2027-02-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-07 17:00 Wed ~ 2026-10-21 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki_(Swimsuit)\" title=\"Saki (Swimsuit)\">Saki (Swimsuit)</a>",
+		"start": "2027-01-26T08:00",
+		"startJp": "2026-10-07T17:00",
+		"end": "2027-02-09T01:59",
+		"endJp": "2026-10-21T10:59",
+		"group": "J Gacha",
+		"subgroup": "Gacha",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-09T01:59",
+		"startG": "2027-01-26T08:00",
+		"title": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Saki_(Swimsuit)\" title=\"Saki (Swimsuit)\">Saki (Swimsuit)</a><br><br>G: 2027-01-26 08:00 Tue ~ 2027-02-09 01:59 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-07 17:00 Wed ~ 2026-10-21 10:59 Wed 14d (JST y-m-d)",
+		"duration": "14d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Anna\" title=\"Anna\">Anna</a> (New)",
 		"start": "2027-01-12T10:00",
@@ -18651,71 +18768,6 @@ jpSched = [
 		"startG": "2027-01-26T02:00",
 		"title": "EOS<br><br>G: 2027-01-26 02:00 Tue ~ 2027-01-26 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2026-10-07 11:00 Wed ~ 2026-10-07 17:00 Wed 6h (JST y-m-d)",
 		"duration": "6h"
-	},{
-		"content": "Tsumugi (New)",
-		"start": "2027-01-25T19:00",
-		"startJp": "2026-10-07T04:00",
-		"end": "2027-02-08T19:00",
-		"endJp": "2026-10-21T04:00",
-		"group": "J Gacha",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2027-02-08T19:00",
-		"startG": "2027-01-25T19:00",
-		"title": "Tsumugi (New)<br><br>G: 2027-01-25 19:00 Mon ~ 2027-02-08 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-10-07 04:00 Wed ~ 2026-10-21 04:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Eri",
-		"start": "2027-01-25T19:00",
-		"startJp": "2026-10-07T04:00",
-		"end": "2027-02-08T19:00",
-		"endJp": "2026-10-21T04:00",
-		"group": "J Gacha",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2027-02-08T19:00",
-		"startG": "2027-01-25T19:00",
-		"title": "Eri<br><br>G: 2027-01-25 19:00 Mon ~ 2027-02-08 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-10-07 04:00 Wed ~ 2026-10-21 04:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Kanoe",
-		"start": "2027-01-25T19:00",
-		"startJp": "2026-10-07T04:00",
-		"end": "2027-02-08T19:00",
-		"endJp": "2026-10-21T04:00",
-		"group": "J Gacha",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2027-02-08T19:00",
-		"startG": "2027-01-25T19:00",
-		"title": "Kanoe<br><br>G: 2027-01-25 19:00 Mon ~ 2027-02-08 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-10-07 04:00 Wed ~ 2026-10-21 04:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Miyako (Swimsuit)",
-		"start": "2027-01-25T19:00",
-		"startJp": "2026-10-07T04:00",
-		"end": "2027-02-08T19:00",
-		"endJp": "2026-10-21T04:00",
-		"group": "J Gacha",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2027-02-08T19:00",
-		"startG": "2027-01-25T19:00",
-		"title": "Miyako (Swimsuit)<br><br>G: 2027-01-25 19:00 Mon ~ 2027-02-08 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-10-07 04:00 Wed ~ 2026-10-21 04:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Saki (Swimsuit)",
-		"start": "2027-01-25T19:00",
-		"startJp": "2026-10-07T04:00",
-		"end": "2027-02-08T19:00",
-		"endJp": "2026-10-21T04:00",
-		"group": "J Gacha",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2027-02-08T19:00",
-		"startG": "2027-01-25T19:00",
-		"title": "Saki (Swimsuit)<br><br>G: 2027-01-25 19:00 Mon ~ 2027-02-08 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-10-07 04:00 Wed ~ 2026-10-21 04:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
 	},{
 		"content": "2x Normal",
 		"start": "2026-10-05T19:00",
