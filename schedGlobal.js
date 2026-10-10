@@ -453,6 +453,14 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3549872"
+  },{
+    "content": "EOS",
+    "start": "2026-10-13T02:00:00.000Z",
+    "end": "2026-10-13T06:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
     "url": ""
   },{
 //
@@ -2446,6 +2454,20 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Kisaki (Swimsuit) (New)",
+    "start": "2026-10-13T02:00:00.000Z",
+    "end": "2026-10-27T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Shun (Swimsuit) (New)",
+    "start": "2026-10-13T02:00:00.000Z",
+    "end": "2026-10-27T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -3293,6 +3315,13 @@ confirmed = [
     "content": "-ive aLIVE!",
     "start": "2026-10-06T02:00:00.000Z",
     "end": "2026-10-13T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Main",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "The Calm After the Storm",
+    "start": "2026-10-13T02:00:00.000Z",
+    "end": "2026-10-27T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Main",
     "style": "color:black; background-color:yellow"
@@ -4508,6 +4537,25 @@ confirmed = [
     "season": 34,
     "subgroup": "GA",
     "style": "color:black; background-color:pink ",
+  },{
+    "content": "[TA] Gregorius Indoors Red (Blue atk)",
+    "boss": "Gregorius",
+    "start": "2026-10-20T02:00:00.000Z",
+    "end": "2026-10-26T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 90,
+    "subgroup": "TA",
+    "style": "color:white; background-color:red",
+  },{
+    "content": "[JFD] Assault Purple Outdoor. Using EX = ATK + Heal buff, 10 stacks. Students + scarecrow take DoT, higher HP = higher dmg.",
+    "boss": "Assault",
+    "terrain": "Outdoor",
+    "start": "2026-10-27T02:00:00.000Z",
+    "end": "2026-11-02T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 53,
+    "subgroup": "JFD",
+    "style": "color:white; background-color:purple",
   },{
 //
 /// CAMPAIGNS
