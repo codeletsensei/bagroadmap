@@ -4557,6 +4557,15 @@ confirmed = [
     "subgroup": "JFD",
     "style": "color:white; background-color:purple",
   },{
+    "content": "[LBA] S28 Tiphareth Purple (Yellow atk)",
+    "boss": "Tiphareth",
+    "start": "2026-10-14T02:00:00.000Z",
+    "end": "2026-11-09T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 28,
+    "subgroup": "LBA",
+    "style": "color:white; background-color:purple",
+  },{
 //
 /// CAMPAIGNS
 //
@@ -7529,6 +7538,34 @@ confirmed = [
     "end": "2026-09-29T02:00:00.000Z",
     "group": "G Other",
     "subgroup": "",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Bond Gear] Iroha, Karin (Bunny Girl), Ayane",
+    "start": "2026-10-13T02:00:00.000Z",
+    "end": "2026-10-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Recruitment] Limited/Premium Dash: Newfags (28 days) get to roll for Wakamo, Hoshino (Swimsuit), Mika.",
+    "start": "2026-10-13T02:00:00.000Z",
+    "end": "2026-10-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:white"
+  },{
+    "content": "[Furniture] Sales Counter (Takane & Yakumo)",
+    "start": "2026-10-13T02:00:00.000Z",
+    "end": "2026-10-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Drumbarka: Added to mock battles",
+    "start": "2026-10-13T02:00:00.000Z",
+    "end": "2026-10-27T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
   }
 ]
