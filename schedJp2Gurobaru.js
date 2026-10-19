@@ -18639,17 +18639,17 @@ jpSched = [
 		"duration": "8h"
 	},{
 		"content": "[QoL] Bounty: Welfare elephs added. BD/TN/Artifacts redistributed to 5 maps (+2 from before). BD/TN drop rates slightly buffed.",
-		"start": "2027-02-11T02:00",
-		"startJp": "2026-10-23T11:00",
+		"start": "2027-01-12T10:00",
+		"startJp": "2026-09-23T19:00",
 		"end": "2027-01-25T19:00",
 		"endJp": "2026-10-07T04:00",
 		"group": "J Other",
 		"subgroup": "",
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2027-01-25T19:00",
-		"startG": "2027-02-11T02:00",
-		"title": "[QoL] Bounty: Welfare elephs added. BD/TN/Artifacts redistributed to 5 maps (+2 from before). BD/TN drop rates slightly buffed.<br><br>G: 2027-02-11 02:00 Thu ~ 2027-01-25 19:00 Mon -391h (UTC y-m-d)<br>Jp: 2026-10-23 11:00 Fri ~ 2026-10-07 04:00 Wed -391h (JST y-m-d)",
-		"duration": "-391h"
+		"startG": "2027-01-12T10:00",
+		"title": "[QoL] Bounty: Welfare elephs added. BD/TN/Artifacts redistributed to 5 maps (+2 from before). BD/TN drop rates slightly buffed.<br><br>G: 2027-01-12 10:00 Tue ~ 2027-01-25 19:00 Mon 14d (UTC y-m-d)<br>Jp: 2026-09-23 19:00 Wed ~ 2026-10-07 04:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
 	},{
 		"content": "[Bond Gear] Karin, Eri, Shimiko",
 		"start": "2027-01-12T10:00",
@@ -18768,6 +18768,46 @@ jpSched = [
 		"startG": "2027-01-26T02:00",
 		"title": "EOS<br><br>G: 2027-01-26 02:00 Tue ~ 2027-01-26 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2026-10-07 11:00 Wed ~ 2026-10-07 17:00 Wed 6h (JST y-m-d)",
 		"duration": "6h"
+	},{
+		"content": "[PVP] Season 12",
+		"start": "2027-03-02T02:00",
+		"startJp": "2026-11-11T11:00",
+		"end": "2027-03-16T02:00",
+		"endJp": "2026-11-25T11:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:orange",
+		"endG": "2027-03-16T02:00",
+		"startG": "2027-03-02T02:00",
+		"title": "[PVP] Season 12<br><br>G: 2027-03-02 02:00 Tue ~ 2027-03-16 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-11-11 11:00 Wed ~ 2026-11-25 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Main Story P2] Vol.EX: Lore Pursuit C3: 夢の中の列車",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-21T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-04T11:00",
+		"group": "J Event",
+		"subgroup": "",
+		"style": "color:black;background-color:yellow",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "[Main Story P2] Vol.EX: Lore Pursuit C3: 夢の中の列車<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-21 11:00 Wed ~ 2026-11-04 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Stream] ブルアカらいぶ！秋の夜長、いかがおすごしですか？SP",
+		"start": "2026-10-25T10:00",
+		"startJp": "2026-10-25T19:00",
+		"end": "2026-10-27T10:00",
+		"endJp": "2026-10-27T19:00",
+		"group": "J Maint",
+		"subgroup": "Stream",
+		"style": "color:black;background-color:cyan",
+		"url": "https://www.youtube.com/live/6fojOSl5njY",
+		"endG": "2026-10-27T10:00",
+		"startG": "2026-10-25T10:00",
+		"title": "[Stream] ブルアカらいぶ！秋の夜長、いかがおすごしですか？SP<br><br>G: 2026-10-25 10:00 Sun ~ 2026-10-27 10:00 Tue 2d (UTC y-m-d)<br>Jp: 2026-10-25 19:00 Sun ~ 2026-10-27 19:00 Tue 2d (JST y-m-d)",
+		"duration": "2d"
 	},{
 		"content": "2x Normal",
 		"start": "2026-10-05T19:00",
