@@ -461,6 +461,14 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3560143"
+  },{
+    "content": "EOS",
+    "start": "2026-10-27T02:00:00.000Z",
+    "end": "2026-10-27T05:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
     "url": ""
   },{
 //
@@ -2468,6 +2476,41 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Misaki (Swimsuit)",
+    "start": "2026-10-27T02:00:00.000Z",
+    "end": "2026-11-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Hikari [L]",
+    "start": "2026-10-27T02:00:00.000Z",
+    "end": "2026-11-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Nozomi [L]",
+    "start": "2026-10-27T02:00:00.000Z",
+    "end": "2026-11-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Saori (Swimsuit) [L]",
+    "start": "2026-10-27T02:00:00.000Z",
+    "end": "2026-11-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Hiyori (Swimsuit) [L]",
+    "start": "2026-10-27T02:00:00.000Z",
+    "end": "2026-11-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -3324,6 +3367,13 @@ confirmed = [
     "end": "2026-10-27T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Main",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[P] Sheside Outside",
+    "start": "2026-10-27T02:00:00.000Z",
+    "end": "2026-11-03T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
 //
@@ -7578,6 +7628,7 @@ coupons = {
   "2026-08-25 15:00": [ "MYLUCKYANIMAL" ],
   "2026-08-18 02:00": [ "ONEYEARMEMORIAL" ],
   "2026-10-09 02:00": [ "KIRAKIRAERIKA" ],
+  "2026-11-09 03:00": [ "HANAWOTADOTTE" ],
 }
 
 /// get the time when any future maintenance ends
