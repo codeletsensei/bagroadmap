@@ -18825,6 +18825,19 @@ jpSched = [
 		"title": "[Stream] ブルアカらいぶ！秋の夜長、いかがおすごしですか？SP<br><br>G: 2026-10-25 10:00 Sun ~ 2026-10-27 10:00 Tue 2d (UTC y-m-d)<br>Jp: 2026-10-25 19:00 Sun ~ 2026-10-27 19:00 Tue 2d (JST y-m-d)",
 		"duration": "2d"
 	},{
+		"content": "Rana? [Welfare]",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "Rana? [Welfare]<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "2x Normal",
 		"start": "2026-10-05T19:00",
 		"startJp": "2026-06-17T04:00",
