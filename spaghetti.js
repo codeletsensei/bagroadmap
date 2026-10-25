@@ -582,7 +582,7 @@ async function itemClicked(item) {
       "Chesed": "ケセド",
       "ShiroKuro": "シロクロ",
       "Hieronymus": "ヒエロ",
-      "Kaiten": "(カイテン OR kaiten)",
+      "Kaiten": "カイテン",
       "Peroro": "ペロロ",
       "Hod": "ホド",
       "Goz": "ゴズ",
@@ -592,6 +592,8 @@ async function itemClicked(item) {
       "Geburah": "ゲブラ",
       "Yesod": "イェソド",
       "Drumbarka": "ドラム缶ガニ",
+      "Nightmare Train": "ナイトメアトレイン",
+
 
       "Fury of Set": "セト",
       "Chokmah": "コクマー",
@@ -640,7 +642,7 @@ async function itemClicked(item) {
     if (!selectedItem.startJp) selectedItem = findJpRaid(itemId) || allData[itemId]
 
     youtube += translations[selectedItem.subgroup]
-    if (selectedItem.boss) youtube += "+" + translations[selectedItem.boss]
+    if (selectedItem.boss) youtube += "+(" + translations[selectedItem.boss] + " OR " + selectedItem.boss + ")"
     //if (selectedItem.terrain) youtube += "+" + translations[selectedItem.terrain]
     if (selectedItem.startJp) youtube += "+after:" + new Date(Date.parse(selectedItem.startJp) - 1*24*60*60*1000).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
     let endDate = 21*24*60*60*1000

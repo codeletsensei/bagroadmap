@@ -4626,22 +4626,6 @@ jpSched = [
 		"duration": "7d",
 		"season": 46
 	},{
-		"content": "[JFD] Defense Indoors Red",
-		"start": "2027-02-23T02:00",
-		"startJp": "2026-11-11T11:00",
-		"end": "2027-03-01T18:59",
-		"endJp": "2026-11-18T03:59",
-		"group": "J Raid",
-		"subgroup": "JFD",
-		"style": "color:white;background-color:red",
-		"boss": "Defense",
-		"terrain": "Indoors",
-		"endG": "2027-03-01T18:59",
-		"startG": "2027-02-23T02:00",
-		"title": "[JFD] Defense Indoors Red<br><br>G: 2027-02-23 02:00 Tue ~ 2027-03-01 18:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-11-11 11:00 Wed ~ 2026-11-18 03:59 Wed 7d (JST y-m-d)",
-		"duration": "7d",
-		"season": 47
-	},{
 		"content": "[TA] Binah Outdoors Yellow (Yellow atk)",
 		"start": "2021-07-10T19:00",
 		"startJp": "2021-02-15T04:00",
@@ -7497,6 +7481,22 @@ jpSched = [
 		"startG": "2027-01-06T02:00",
 		"title": "[LBA] S31 Tiphareth Yellow (Yellow atk)<br><br>G: 2027-01-06 02:00 Wed ~ 2027-02-08 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2026-09-24 11:00 Thu ~ 2026-10-28 03:59 Wed 34d (JST y-m-d)",
 		"duration": "34d"
+	},{
+		"content": "[LBA] S32 The Fury of Set Blue (Red atk)",
+		"start": "2027-02-10T02:00",
+		"startJp": "2026-10-29T11:00",
+		"end": "2027-03-08T18:59",
+		"endJp": "2026-11-25T03:59",
+		"group": "J Raid",
+		"subgroup": "LBA",
+		"style": "color:white;background-color:blue",
+		"season": "32",
+		"defType": "Blue",
+		"boss": "Fury of Set",
+		"endG": "2027-03-08T18:59",
+		"startG": "2027-02-10T02:00",
+		"title": "[LBA] S32 The Fury of Set Blue (Red atk)<br><br>G: 2027-02-10 02:00 Wed ~ 2027-03-08 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2026-10-29 11:00 Thu ~ 2026-11-25 03:59 Wed 27d (JST y-m-d)",
+		"duration": "27d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina_(Qipao)\" title=\"Marina (Qipao)\">Marina (Qipao)</a>",
 		"start": "2027-02-02T02:00",
@@ -17018,7 +17018,7 @@ jpSched = [
 		"startG": "2026-05-12T08:00",
 		"title": "[JFD] Escort Yellow Urban. Healing AG deals DMG to enemies. Yellow dmg buff depending on AG's current HP. Enemies with high HP and ATK.<br><br>G: 2026-05-12 08:00 Tue ~ 2026-05-18 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-07 17:00 Wed ~ 2026-01-14 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d",
-		"season": 48
+		"season": 47
 	},{
 		"content": "[JFD] Defense Blue Indoors. Blue AR+RG buff. Dead Enemies deal AOE dmg to other enemies. High HP enemies.",
 		"start": "2026-06-09T08:00",
@@ -17032,7 +17032,7 @@ jpSched = [
 		"startG": "2026-06-09T08:00",
 		"title": "[JFD] Defense Blue Indoors. Blue AR+RG buff. Dead Enemies deal AOE dmg to other enemies. High HP enemies.<br><br>G: 2026-06-09 08:00 Tue ~ 2026-06-15 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-01-29 17:00 Thu ~ 2026-02-05 04:00 Thu 7d (JST y-m-d)",
 		"duration": "7d",
-		"season": 49
+		"season": 48
 	},{
 		"content": "[JFD] Shooting Urban Red. Enemies take more dmg, 3rd nero has higher HP. basic proficiency buff for AR + SR",
 		"start": "2026-07-07T02:00",
@@ -17046,7 +17046,7 @@ jpSched = [
 		"startG": "2026-07-07T02:00",
 		"title": "[JFD] Shooting Urban Red. Enemies take more dmg, 3rd nero has higher HP. basic proficiency buff for AR + SR<br><br>G: 2026-07-07 02:00 Tue ~ 2026-07-13 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-02-25 11:00 Wed ~ 2026-03-04 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d",
-		"season": 50
+		"season": 49
 	},{
 		"content": "[ER] Azusa (S), Mashiro (S), Hina (S), Iori (S), Karin (BG), Neru (BG), Mutsuki (NY), Aru (NY), Chise (S), Izuna (S)",
 		"start": "2026-07-07T02:00",
@@ -17073,7 +17073,7 @@ jpSched = [
 		"startG": "2026-08-04T08:00",
 		"title": "[JFD] Assault Outdoor Blue. Enemies take additional dmg when hit. Scarecrow has a healing debuff, cleanse it = cost recovery buff.<br><br>G: 2026-08-04 08:00 Tue ~ 2026-08-10 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-04-01 17:00 Wed ~ 2026-04-08 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d",
-		"season": 51
+		"season": 50
 	},{
 		"content": "EOS",
 		"start": "2026-07-14T02:00",
@@ -17483,7 +17483,7 @@ jpSched = [
 		"startG": "2026-09-01T02:00",
 		"title": "[JFD] Defense Yellow Urban. Kill enemies = Students get debuffed. Cleanse = ATK buff. Enemies do more dmg. Stronger shields.<br><br>G: 2026-09-01 02:00 Tue ~ 2026-09-07 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-05-06 11:00 Wed ~ 2026-05-13 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d",
-		"season": 52
+		"season": 51
 	},{
 		"content": "Anime Expo 2026 Stream?",
 		"start": "2026-07-03T16:00",
@@ -17538,7 +17538,7 @@ jpSched = [
 		"startG": "2026-09-29T08:00",
 		"title": "[JFD] Shooting Red Urban. Special students buffed. High DEF dummy.<br><br>G: 2026-09-29 08:00 Tue ~ 2026-10-05 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-06-10 17:00 Wed ~ 2026-06-17 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d",
-		"season": 53
+		"season": 52
 	},{
 		"content": "EOS",
 		"start": "2026-09-15T02:00",
@@ -17750,7 +17750,7 @@ jpSched = [
 		"startG": "2026-10-27T08:00",
 		"title": "[JFD] Assault Purple Outdoor. Using EX = ATK + Heal buff, 10 stacks. Students + scarecrow take DoT, higher HP = higher dmg.<br><br>G: 2026-10-27 08:00 Tue ~ 2026-11-02 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-07-08 17:00 Wed ~ 2026-07-15 04:00 Wed 7d (JST y-m-d)",
 		"duration": "7d",
-		"season": 54
+		"season": 53
 	},{
 		"content": "[Stream] ブルアカらいぶ！ざ☆すたーとおぶさまー！SP",
 		"start": "2026-06-20T10:00",
@@ -17971,7 +17971,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "JFD",
 		"style": "color:white;background-color:blue",
-		"season": 55,
+		"season": 54,
 		"boss": "Escort",
 		"terrain": "Indoors",
 		"endG": "2026-11-30T19:00",
@@ -18419,7 +18419,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "JFD",
 		"style": "color:white;background-color:blue",
-		"season": 56,
+		"season": 55,
 		"boss": "Shooting",
 		"terrain": "Outdoors",
 		"endG": "2026-12-28T19:00",
@@ -18632,7 +18632,7 @@ jpSched = [
 		"group": "J Raid",
 		"subgroup": "JFD",
 		"style": "color:black;background-color:yellow",
-		"season": 57,
+		"season": 56,
 		"boss": "Escort",
 		"terrain": "Urban",
 		"endG": "2027-01-25T19:00",
@@ -18785,7 +18785,7 @@ jpSched = [
 		"title": "EOS<br><br>G: 2027-01-19 02:00 Tue ~ 2027-01-19 08:00 Tue 6h (UTC y-m-d)<br>Jp: 2026-10-07 11:00 Wed ~ 2026-10-07 17:00 Wed 6h (JST y-m-d)",
 		"duration": "6h"
 	},{
-		"content": "[PVP] Season 12",
+		"content": "[PVP] Season 12 (Indoors)",
 		"start": "2027-02-23T02:00",
 		"startJp": "2026-11-11T11:00",
 		"end": "2027-03-09T02:00",
@@ -18795,7 +18795,7 @@ jpSched = [
 		"style": "color:black;background-color:orange",
 		"endG": "2027-03-09T02:00",
 		"startG": "2027-02-23T02:00",
-		"title": "[PVP] Season 12<br><br>G: 2027-02-23 02:00 Tue ~ 2027-03-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-11-11 11:00 Wed ~ 2026-11-25 11:00 Wed 14d (JST y-m-d)",
+		"title": "[PVP] Season 12 (Indoors)<br><br>G: 2027-02-23 02:00 Tue ~ 2027-03-09 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-11-11 11:00 Wed ~ 2026-11-25 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Main Story P2] Vol.EX: Lore Pursuit C3: 夢の中の列車",
@@ -18825,7 +18825,7 @@ jpSched = [
 		"title": "[Stream] ブルアカらいぶ！秋の夜長、いかがおすごしですか？SP<br><br>G: 2026-10-25 10:00 Sun ~ 2026-10-27 10:00 Tue 2d (UTC y-m-d)<br>Jp: 2026-10-25 19:00 Sun ~ 2026-10-27 19:00 Tue 2d (JST y-m-d)",
 		"duration": "2d"
 	},{
-		"content": "Rana? [Welfare]",
+		"content": "Rana [Welfare]",
 		"start": "2027-02-09T02:00",
 		"startJp": "2026-10-28T11:00",
 		"end": "2027-02-23T02:00",
@@ -18835,8 +18835,141 @@ jpSched = [
 		"style": "color:black;background-color:lightgrey",
 		"endG": "2027-02-23T02:00",
 		"startG": "2027-02-09T02:00",
-		"title": "Rana? [Welfare]<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"title": "Rana [Welfare]<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
+	},{
+		"content": "Hifumi (Racist Queen) [L] (New)",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "Hifumi (Racist Queen) [L] (New)<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Azusa (Racist Queen) [L] (New)",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "Azusa (Racist Queen) [L] (New)<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Main Main] Start Your Engines! ～183号よ永遠に！～",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "[Main Main] Start Your Engines! ～183号よ永遠に！～<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Mini Story] 183 VS 227",
+		"start": "2027-03-02T02:00",
+		"startJp": "2026-11-18T11:00",
+		"end": "2027-03-16T02:00",
+		"endJp": "2026-12-02T11:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:yellow",
+		"endG": "2027-03-16T02:00",
+		"startG": "2027-03-02T02:00",
+		"title": "[Mini Story] 183 VS 227<br><br>G: 2027-03-02 02:00 Tue ~ 2027-03-16 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-11-18 11:00 Wed ~ 2026-12-02 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Game Mode] Virtual Aptitude Test BETA (5 teams vs waves). BETA coins can only be used on the BETA shop. No new leveling system yet?",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "[Game Mode] Virtual Aptitude Test BETA (5 teams vs waves). BETA coins can only be used on the BETA shop. No new leveling system yet?<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Damage increase?] 同行実習 (Field Training?). Iori, Aru, Hibiki, Shiroko (Riding). Completing student-specific missions strengthens them. ",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "[Damage increase?] 同行実習 (Field Training?). Iori, Aru, Hibiki, Shiroko (Riding). Completing student-specific missions strengthens them<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[QoL] Recruitment History",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "[QoL] Recruitment History<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Dangles] Chinatsu, Juri, Fuuka, ny.Fuuka, Kotama, Nagisa, Mashiro, Nodoka, o.Shigure, Kaede, Shizuko, s.Shizuko, s.Fubuki, s.Atsuko",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "[Dangles] Chinatsu, Juri, Fuuka, ny.Fuuka, Kotama, Nagisa, Mashiro, Nodoka, o.Shigure, Kaede, Shizuko, s.Shizuko, s.Fubuki, s.Atsuko<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Crafting] Furniture: Odyssey",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "[Crafting] Furniture: Odyssey<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[JFD] Defense Indoors Red. TS = Cost recovery buff. TS dmg all enemies when deployed + AOE dmg when attacking.",
+		"start": "2027-02-23T02:00",
+		"startJp": "2026-11-11T11:00",
+		"end": "2027-03-01T19:00",
+		"endJp": "2026-11-18T04:00",
+		"group": "J Raid",
+		"subgroup": "JFD",
+		"style": "color:white;background-color:red",
+		"season": 57,
+		"boss": "Defense",
+		"terrain": "Indoors",
+		"endG": "2027-03-01T19:00",
+		"startG": "2027-02-23T02:00",
+		"title": "[JFD] Defense Indoors Red. TS = Cost recovery buff. TS dmg all enemies when deployed + AOE dmg when attacking.<br><br>G: 2027-02-23 02:00 Tue ~ 2027-03-01 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-11-11 11:00 Wed ~ 2026-11-18 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
 	},{
 		"content": "2x Normal",
 		"start": "2026-10-05T19:00",
@@ -18850,6 +18983,126 @@ jpSched = [
 		"startG": "2026-10-05T19:00",
 		"title": "2x Normal<br><br>G: 2026-10-05 19:00 Mon ~ 2026-10-09 19:00 Fri 4d (UTC y-m-d)<br>Jp: 2026-06-17 04:00 Wed ~ 2026-06-21 04:00 Sun 4d (JST y-m-d)",
 		"duration": "4d"
+	},{
+		"content": "[TA] Nightmare Train (Red atk)",
+		"start": "2027-02-16T02:00",
+		"startJp": "2026-11-04T11:00",
+		"end": "2027-02-22T19:00",
+		"endJp": "2026-11-11T04:00",
+		"group": "J Raid",
+		"subgroup": "TA",
+		"style": "color:white;background-color:red",
+		"season": 94,
+		"boss": "Nightmare Train",
+		"terrain": "Indoors",
+		"endG": "2027-02-22T19:00",
+		"startG": "2027-02-16T02:00",
+		"title": "[TA] Nightmare Train (Red atk)<br><br>G: 2027-02-16 02:00 Tue ~ 2027-02-22 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-11-04 11:00 Wed ~ 2026-11-11 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Bounty",
+		"start": "2027-02-08T19:00",
+		"startJp": "2026-10-28T04:00",
+		"end": "2027-02-15T19:00",
+		"endJp": "2026-11-04T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2027-02-15T19:00",
+		"startG": "2027-02-08T19:00",
+		"title": "Bounty<br><br>G: 2027-02-08 19:00 Mon ~ 2027-02-15 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-10-28 04:00 Wed ~ 2026-11-04 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Normal",
+		"start": "2027-02-15T19:00",
+		"startJp": "2026-11-04T04:00",
+		"end": "2027-02-19T19:00",
+		"endJp": "2026-11-08T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2027-02-19T19:00",
+		"startG": "2027-02-15T19:00",
+		"title": "Normal<br><br>G: 2027-02-15 19:00 Mon ~ 2027-02-19 19:00 Fri 4d (UTC y-m-d)<br>Jp: 2026-11-04 04:00 Wed ~ 2026-11-08 04:00 Sun 4d (JST y-m-d)",
+		"duration": "4d"
+	},{
+		"content": "Hard",
+		"start": "2027-02-19T19:00",
+		"startJp": "2026-11-08T04:00",
+		"end": "2027-02-22T19:00",
+		"endJp": "2026-11-11T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2027-02-22T19:00",
+		"startG": "2027-02-19T19:00",
+		"title": "Hard<br><br>G: 2027-02-19 19:00 Fri ~ 2027-02-22 19:00 Mon 3d (UTC y-m-d)<br>Jp: 2026-11-08 04:00 Sun ~ 2026-11-11 04:00 Wed 3d (JST y-m-d)",
+		"duration": "3d"
+	},{
+		"content": "Scrimm",
+		"start": "2027-02-22T19:00",
+		"startJp": "2026-11-11T04:00",
+		"end": "2027-03-01T19:00",
+		"endJp": "2026-11-18T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2027-03-01T19:00",
+		"startG": "2027-02-22T19:00",
+		"title": "Scrimm<br><br>G: 2027-02-22 19:00 Mon ~ 2027-03-01 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-11-11 04:00 Wed ~ 2026-11-18 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Lesson",
+		"start": "2027-02-22T19:00",
+		"startJp": "2026-11-11T04:00",
+		"end": "2027-03-01T19:00",
+		"endJp": "2026-11-18T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2027-03-01T19:00",
+		"startG": "2027-02-22T19:00",
+		"title": "Lesson<br><br>G: 2027-02-22 19:00 Mon ~ 2027-03-01 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-11-11 04:00 Wed ~ 2026-11-18 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "Comm",
+		"start": "2027-03-01T19:00",
+		"startJp": "2026-11-18T04:00",
+		"end": "2027-03-08T19:00",
+		"endJp": "2026-11-25T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2027-03-08T19:00",
+		"startG": "2027-03-01T19:00",
+		"title": "Comm<br><br>G: 2027-03-01 19:00 Mon ~ 2027-03-08 19:00 Mon 7d (UTC y-m-d)<br>Jp: 2026-11-18 04:00 Wed ~ 2026-11-25 04:00 Wed 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "<b>XP</b>",
+		"start": "2027-02-11T19:00",
+		"startJp": "2026-10-31T04:00",
+		"end": "2027-02-13T19:00",
+		"endJp": "2026-11-02T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2027-02-13T19:00",
+		"startG": "2027-02-11T19:00",
+		"title": "<b>XP</b><br><br>G: 2027-02-11 19:00 Thu ~ 2027-02-13 19:00 Sat 2d (UTC y-m-d)<br>Jp: 2026-10-31 04:00 Sat ~ 2026-11-02 04:00 Mon 2d (JST y-m-d)",
+		"duration": "2d"
+	},{
+		"content": "<b>XP</b>",
+		"start": "2027-02-18T19:00",
+		"startJp": "2026-11-07T04:00",
+		"end": "2027-02-20T19:00",
+		"endJp": "2026-11-09T04:00",
+		"group": "J Camp",
+		"subgroup": "Campaign",
+		"style": "color:black;background-color:lightgreen",
+		"endG": "2027-02-20T19:00",
+		"startG": "2027-02-18T19:00",
+		"title": "<b>XP</b><br><br>G: 2027-02-18 19:00 Thu ~ 2027-02-20 19:00 Sat 2d (UTC y-m-d)<br>Jp: 2026-11-07 04:00 Sat ~ 2026-11-09 04:00 Mon 2d (JST y-m-d)",
+		"duration": "2d"
 	},{
 		"content": "<b>3x Comm </b>",
 		"start": "2022-07-11T19:00",
