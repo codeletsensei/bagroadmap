@@ -469,7 +469,7 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
-    "url": ""
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?thread=3567638"
   },{
 //
 /// GASHA
@@ -2476,7 +2476,14 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
-    "content": "Misaki (Swimsuit)",
+    "content": "[RR] Wakamo, Hoshino (Swimsuit), Mika, Hanako (Swimsuit), Hina (Dress)",
+    "start": "2026-10-27T02:00:00.000Z",
+    "end": "2026-11-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:white"
+  },{
+    "content": "Aoba [Welfare]",
     "start": "2026-10-27T02:00:00.000Z",
     "end": "2026-11-03T02:00:00.000Z",
     "group": "G Gacha",
@@ -2497,6 +2504,13 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Misaki (Swimsuit)",
+    "start": "2026-10-27T02:00:00.000Z",
+    "end": "2026-11-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
     "content": "Saori (Swimsuit) [L]",
     "start": "2026-10-27T02:00:00.000Z",
     "end": "2026-11-03T02:00:00.000Z",
@@ -2507,6 +2521,48 @@ confirmed = [
     "content": "Hiyori (Swimsuit) [L]",
     "start": "2026-10-27T02:00:00.000Z",
     "end": "2026-11-03T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Ako (Dress) [L]",
+    "start": "2026-11-03T02:00:00.000Z",
+    "end": "2026-11-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Makoto [L]",
+    "start": "2026-11-03T02:00:00.000Z",
+    "end": "2026-11-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Satsuki",
+    "start": "2026-11-03T02:00:00.000Z",
+    "end": "2026-11-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Chiaki",
+    "start": "2026-11-03T02:00:00.000Z",
+    "end": "2026-11-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Kanna (Swimsuit)",
+    "start": "2026-11-03T02:00:00.000Z",
+    "end": "2026-11-10T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Chiaki (Swimsuit) [Welfare]",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
     "group": "G Gacha",
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
@@ -3372,6 +3428,41 @@ confirmed = [
     "content": "[P] Sheside Outside",
     "start": "2026-10-27T02:00:00.000Z",
     "end": "2026-11-03T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[R] Highlander Railroad Runaway Incident: And the Train Disappeared Rerun",
+    "start": "2026-10-27T02:00:00.000Z",
+    "end": "2026-11-10T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini Story] The Apothecary Wanderings",
+    "start": "2026-10-27T02:00:00.000Z",
+    "end": "2026-11-03T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Login] 5-Year Anniversary Countdown Login Event",
+    "start": "2026-11-01T19:00:00.000Z",
+    "end": "2026-11-08T19:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini] Balancing Schale's Books with the General Student Council",
+    "start": "2026-11-03T02:00:00.000Z",
+    "end": "2026-11-10T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[P] Basking in the Brilliance of Their Serenade",
+    "start": "2026-11-03T02:00:00.000Z",
+    "end": "2026-11-10T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
@@ -4615,6 +4706,15 @@ confirmed = [
     "season": 28,
     "subgroup": "LBA",
     "style": "color:white; background-color:purple",
+  },{
+    "content": "[GA] Hod Indoors (Yellow+Purple TOR / Red INS) (Blue atk)",
+    "boss": "Hod",
+    "start": "2026-11-03T02:00:00.000Z",
+    "end": "2026-11-09T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 35,
+    "subgroup": "GA",
+    "style": "color:black; background-color:pink",
   },{
 //
 /// CAMPAIGNS
@@ -6250,6 +6350,20 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "Normal",
+    "start": "2026-11-02T19:00:00.000Z",
+    "end": "2026-11-09T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "Hard",
+    "start": "2026-11-02T19:00:00.000Z",
+    "end": "2026-11-09T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 /// MISC
 //
@@ -7617,6 +7731,13 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Permit Shop] Airi (Band)",
+    "start": "2026-10-31T02:00:00.000Z",
+    "end": "2026-11-10T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
   }
 ]
 
