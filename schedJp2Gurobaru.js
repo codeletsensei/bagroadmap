@@ -2083,6 +2083,34 @@ jpSched = [
 		"title": "[Main] Cherry Blossom Festival Commotion! ~Flowers in the Sky, Ninja on the Ground~<br><br>G: 2021-07-21 03:30 Wed ~ 2021-08-04 03:00 Wed 14d (UTC y-m-d)<br>Jp: 2021-02-25 12:30 Thu ~ 2021-03-11 12:00 Thu 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
+		"content": "[Main] Balancing Schale's Books with the General Student Council",
+		"start": "2026-12-21T02:00",
+		"startJp": "2026-09-08T11:00",
+		"end": "2026-12-28T01:59",
+		"endJp": "2026-09-15T10:59",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"url": "https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council",
+		"endG": "2026-12-28T01:59",
+		"startG": "2026-12-21T02:00",
+		"title": "[Main] Balancing Schale's Books with the General Student Council<br><br>G: 2026-12-21 02:00 Mon ~ 2026-12-28 01:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-09-08 11:00 Tue ~ 2026-09-15 10:59 Tue 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
+		"content": "[Main] Balancing Schale's Books with the General Student Council",
+		"start": "2027-02-15T02:00",
+		"startJp": "2026-11-03T11:00",
+		"end": "2027-02-22T01:59",
+		"endJp": "2026-11-10T10:59",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"url": "https://bluearchive.wiki/wiki/Events/Mini_Event/SCHALE_Settlement_Task_with_General_Student_Council",
+		"endG": "2027-02-22T01:59",
+		"startG": "2027-02-15T02:00",
+		"title": "[Main] Balancing Schale's Books with the General Student Council<br><br>G: 2027-02-15 02:00 Mon ~ 2027-02-22 01:59 Mon 7d (UTC y-m-d)<br>Jp: 2026-11-03 11:00 Tue ~ 2026-11-10 10:59 Tue 7d (JST y-m-d)",
+		"duration": "7d"
+	},{
 		"content": "EOS",
 		"start": "2021-07-06T05:00",
 		"startJp": "2021-02-10T14:00",
@@ -7481,22 +7509,6 @@ jpSched = [
 		"startG": "2027-01-06T02:00",
 		"title": "[LBA] S31 Tiphareth Yellow (Yellow atk)<br><br>G: 2027-01-06 02:00 Wed ~ 2027-02-08 18:59 Mon 34d (UTC y-m-d)<br>Jp: 2026-09-24 11:00 Thu ~ 2026-10-28 03:59 Wed 34d (JST y-m-d)",
 		"duration": "34d"
-	},{
-		"content": "[LBA] S32 The Fury of Set Blue (Red atk)",
-		"start": "2027-02-10T02:00",
-		"startJp": "2026-10-29T11:00",
-		"end": "2027-03-08T18:59",
-		"endJp": "2026-11-25T03:59",
-		"group": "J Raid",
-		"subgroup": "LBA",
-		"style": "color:white;background-color:blue",
-		"season": "32",
-		"defType": "Blue",
-		"boss": "Fury of Set",
-		"endG": "2027-03-08T18:59",
-		"startG": "2027-02-10T02:00",
-		"title": "[LBA] S32 The Fury of Set Blue (Red atk)<br><br>G: 2027-02-10 02:00 Wed ~ 2027-03-08 18:59 Mon 27d (UTC y-m-d)<br>Jp: 2026-10-29 11:00 Thu ~ 2026-11-25 03:59 Wed 27d (JST y-m-d)",
-		"duration": "27d"
 	},{
 		"content": "<a target=\"_blank\" href=\"https://bluearchive.wiki/wiki/Marina_(Qipao)\" title=\"Marina (Qipao)\">Marina (Qipao)</a>",
 		"start": "2027-02-02T02:00",
@@ -18825,6 +18837,20 @@ jpSched = [
 		"title": "[Stream] ブルアカらいぶ！秋の夜長、いかがおすごしですか？SP<br><br>G: 2026-10-25 10:00 Sun ~ 2026-10-27 10:00 Tue 2d (UTC y-m-d)<br>Jp: 2026-10-25 19:00 Sun ~ 2026-10-27 19:00 Tue 2d (JST y-m-d)",
 		"duration": "2d"
 	},{
+		"content": "EOS",
+		"start": "2027-03-12T02:00",
+		"startJp": "2026-11-28T11:00",
+		"end": "2027-03-12T10:00",
+		"endJp": "2026-11-28T19:00",
+		"group": "J Maint",
+		"subgroup": "",
+		"style": "color:red;background-color:red;height:15px",
+		"url": "https://bluearchive.jp/news/newsJump/705",
+		"endG": "2027-03-12T10:00",
+		"startG": "2027-03-12T02:00",
+		"title": "EOS<br><br>G: 2027-03-12 02:00 Fri ~ 2027-03-12 10:00 Fri 8h (UTC y-m-d)<br>Jp: 2026-11-28 11:00 Sat ~ 2026-11-28 19:00 Sat 8h (JST y-m-d)",
+		"duration": "8h"
+	},{
 		"content": "Rana [Welfare]",
 		"start": "2027-02-09T02:00",
 		"startJp": "2026-10-28T11:00",
@@ -18836,45 +18862,6 @@ jpSched = [
 		"endG": "2027-02-23T02:00",
 		"startG": "2027-02-09T02:00",
 		"title": "Rana [Welfare]<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Hifumi (Racist Queen) [L] (New)",
-		"start": "2027-02-09T02:00",
-		"startJp": "2026-10-28T11:00",
-		"end": "2027-02-23T02:00",
-		"endJp": "2026-11-11T11:00",
-		"group": "J Gacha",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2027-02-23T02:00",
-		"startG": "2027-02-09T02:00",
-		"title": "Hifumi (Racist Queen) [L] (New)<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "Azusa (Racist Queen) [L] (New)",
-		"start": "2027-02-09T02:00",
-		"startJp": "2026-10-28T11:00",
-		"end": "2027-02-23T02:00",
-		"endJp": "2026-11-11T11:00",
-		"group": "J Gacha",
-		"subgroup": "",
-		"style": "color:black;background-color:lightgrey",
-		"endG": "2027-02-23T02:00",
-		"startG": "2027-02-09T02:00",
-		"title": "Azusa (Racist Queen) [L] (New)<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
-		"duration": "14d"
-	},{
-		"content": "[Main Main] Start Your Engines! ～183号よ永遠に！～",
-		"start": "2027-02-09T02:00",
-		"startJp": "2026-10-28T11:00",
-		"end": "2027-02-23T02:00",
-		"endJp": "2026-11-11T11:00",
-		"group": "J Event",
-		"subgroup": "Main",
-		"style": "color:black;background-color:yellow",
-		"endG": "2027-02-23T02:00",
-		"startG": "2027-02-09T02:00",
-		"title": "[Main Main] Start Your Engines! ～183号よ永遠に！～<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[Mini Story] 183 VS 227",
@@ -18890,7 +18877,7 @@ jpSched = [
 		"title": "[Mini Story] 183 VS 227<br><br>G: 2027-03-02 02:00 Tue ~ 2027-03-16 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-11-18 11:00 Wed ~ 2026-12-02 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Game Mode] Virtual Aptitude Test BETA (5 teams vs waves). BETA coins can only be used on the BETA shop. No new leveling system yet?",
+		"content": "[Game Mode] Virtual Aptitude Test BETA (5 teams vs waves). BETA coins can only be used on the BETA shop. No new leveling system yet.",
 		"start": "2027-02-09T02:00",
 		"startJp": "2026-10-28T11:00",
 		"end": "2027-02-23T02:00",
@@ -18900,10 +18887,10 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2027-02-23T02:00",
 		"startG": "2027-02-09T02:00",
-		"title": "[Game Mode] Virtual Aptitude Test BETA (5 teams vs waves). BETA coins can only be used on the BETA shop. No new leveling system yet?<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Game Mode] Virtual Aptitude Test BETA (5 teams vs waves). BETA coins can only be used on the BETA shop. No new leveling system yet.<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Damage increase?] 同行実習 (Field Training?). Iori, Aru, Hibiki, Shiroko (Riding). Completing student-specific missions strengthens them. ",
+		"content": "[Damage increase?] 同行実習 (Field Training?). Completing student-specific missions strengthens them. Clear all missions to recruit them. Mats are returned if you already have them (includes a dupe's Elephs/Ligmas)?",
 		"start": "2027-02-09T02:00",
 		"startJp": "2026-10-28T11:00",
 		"end": "2027-02-23T02:00",
@@ -18913,7 +18900,20 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2027-02-23T02:00",
 		"startG": "2027-02-09T02:00",
-		"title": "[Damage increase?] 同行実習 (Field Training?). Iori, Aru, Hibiki, Shiroko (Riding). Completing student-specific missions strengthens them<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Damage increase?] 同行実習 (Field Training?). Completing student-specific missions strengthens them. Clear all missions to recruit them. Mats are returned if you already have them (includes a dupe's Elephs/Ligmas)?<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[QoL] Better search filters (skill effects, range)",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightblue",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "[QoL] Better search filters (skill effects, range)<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[QoL] Recruitment History",
@@ -18942,7 +18942,7 @@ jpSched = [
 		"title": "[Dangles] Chinatsu, Juri, Fuuka, ny.Fuuka, Kotama, Nagisa, Mashiro, Nodoka, o.Shigure, Kaede, Shizuko, s.Shizuko, s.Fubuki, s.Atsuko<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
-		"content": "[Crafting] Furniture: Odyssey",
+		"content": "[Crafting] Furniture: Odyssey Set, Messy Desk (Konoka), Millennium-type electronic gate",
 		"start": "2027-02-09T02:00",
 		"startJp": "2026-10-28T11:00",
 		"end": "2027-02-23T02:00",
@@ -18952,7 +18952,7 @@ jpSched = [
 		"style": "color:black;background-color:lightblue",
 		"endG": "2027-02-23T02:00",
 		"startG": "2027-02-09T02:00",
-		"title": "[Crafting] Furniture: Odyssey<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"title": "[Crafting] Furniture: Odyssey Set, Messy Desk (Konoka), Millennium-type electronic gate<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
 		"duration": "14d"
 	},{
 		"content": "[JFD] Defense Indoors Red. TS = Cost recovery buff. TS dmg all enemies when deployed + AOE dmg when attacking.",
@@ -18984,6 +18984,71 @@ jpSched = [
 		"title": "2x Normal<br><br>G: 2026-10-05 19:00 Mon ~ 2026-10-09 19:00 Fri 4d (UTC y-m-d)<br>Jp: 2026-06-17 04:00 Wed ~ 2026-06-21 04:00 Sun 4d (JST y-m-d)",
 		"duration": "4d"
 	},{
+		"content": "[TA Shop] Saki",
+		"start": "2027-02-13T02:00",
+		"startJp": "2026-11-01T11:00",
+		"end": "2027-02-25T19:00",
+		"endJp": "2026-11-14T04:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-25T19:00",
+		"startG": "2027-02-13T02:00",
+		"title": "[TA Shop] Saki<br><br>G: 2027-02-13 02:00 Sat ~ 2027-02-25 19:00 Thu 13d (UTC y-m-d)<br>Jp: 2026-11-01 11:00 Sun ~ 2026-11-14 04:00 Sat 13d (JST y-m-d)",
+		"duration": "13d"
+	},{
+		"content": "[Permit Shop] Niko, Kurumi",
+		"start": "2027-02-13T02:00",
+		"startJp": "2026-11-01T11:00",
+		"end": "2027-02-25T19:00",
+		"endJp": "2026-11-14T04:00",
+		"group": "J Other",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-25T19:00",
+		"startG": "2027-02-13T02:00",
+		"title": "[Permit Shop] Niko, Kurumi<br><br>G: 2027-02-13 02:00 Sat ~ 2027-02-25 19:00 Thu 13d (UTC y-m-d)<br>Jp: 2026-11-01 11:00 Sun ~ 2026-11-14 04:00 Sat 13d (JST y-m-d)",
+		"duration": "13d"
+	},{
+		"content": "Hifumi (Racist) [L] (New)",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "Hifumi (Racist) [L] (New)<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "Azusa (Racist) [L] (New)",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Gacha",
+		"subgroup": "",
+		"style": "color:black;background-color:lightgrey",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "Azusa (Racist) [L] (New)<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
+		"content": "[Main Main] Start Your Engines! ～183号よ永遠に！～",
+		"start": "2027-02-09T02:00",
+		"startJp": "2026-10-28T11:00",
+		"end": "2027-02-23T02:00",
+		"endJp": "2026-11-11T11:00",
+		"group": "J Event",
+		"subgroup": "Main",
+		"style": "color:black;background-color:yellow",
+		"endG": "2027-02-23T02:00",
+		"startG": "2027-02-09T02:00",
+		"title": "[Main Main] Start Your Engines! ～183号よ永遠に！～<br><br>G: 2027-02-09 02:00 Tue ~ 2027-02-23 02:00 Tue 14d (UTC y-m-d)<br>Jp: 2026-10-28 11:00 Wed ~ 2026-11-11 11:00 Wed 14d (JST y-m-d)",
+		"duration": "14d"
+	},{
 		"content": "[TA] Nightmare Train (Red atk)",
 		"start": "2027-02-16T02:00",
 		"startJp": "2026-11-04T11:00",
@@ -18993,7 +19058,7 @@ jpSched = [
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
 		"season": 94,
-		"boss": "Nightmare Train",
+		"boss": "Nightmare Train (Red atk)",
 		"terrain": "Indoors",
 		"endG": "2027-02-22T19:00",
 		"startG": "2027-02-16T02:00",
