@@ -6364,6 +6364,97 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "<b>3x Scrimm",
+    "start": "2026-11-09T19:00:00.000Z",
+    "end": "2026-11-16T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Bounty</b>",
+    "start": "2026-11-09T19:00:00.000Z",
+    "end": "2026-11-16T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Comm</b>",
+    "start": "2026-11-16T19:00:00.000Z",
+    "end": "2026-11-23T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Normal</b>",
+    "start": "2026-11-16T19:00:00.000Z",
+    "end": "2026-11-20T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Hard</b>",
+    "start": "2026-11-20T19:00:00.000Z",
+    "end": "2026-11-23T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Bounty</b>",
+    "start": "2026-11-23T19:00:00.000Z",
+    "end": "2026-11-30T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Lesson</b>",
+    "start": "2026-11-23T19:00:00.000Z",
+    "end": "2026-11-30T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Comm</b>",
+    "start": "2026-11-30T19:00:00.000Z",
+    "end": "2026-12-07T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Normal</b>",
+    "start": "2026-11-30T19:00:00.000Z",
+    "end": "2026-12-04T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>3x Hard</b>",
+    "start": "2026-12-04T19:00:00.000Z",
+    "end": "2026-12-07T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>XP</b>",
+    "start": "2026-11-13T19:00:00.000Z",
+    "end": "2026-11-15T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>XP</b>",
+    "start": "2026-11-20T19:00:00.000Z",
+    "end": "2026-11-22T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
+    "content": "<b>XP</b>",
+    "start": "2026-11-27T19:00:00.000Z",
+    "end": "2026-11-29T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 /// MISC
 //
