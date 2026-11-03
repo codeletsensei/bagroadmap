@@ -2567,6 +2567,90 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
+    "content": "Daily 10~20 free recruitment campaign (100 total)",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-17T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "Satsuki (Swimsuit) [L]",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-17T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Makoto (Swimsuit) [L]",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-17T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Bluefes] 2x 3* rate",
+    "start": "2026-11-17T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "Ibuki (Swimsuit) [L Bluefes]",
+    "start": "2026-11-17T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Iroha (Swimsuit) [L Bluefes]",
+    "start": "2026-11-17T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Rio [L Bluefes]",
+    "start": "2026-11-17T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Neru (School Uniform) [L Bluefes]",
+    "start": "2026-11-17T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Sena (Casual)",
+    "start": "2026-11-24T02:00:00.000Z",
+    "end": "2026-12-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Juri (Part-Timer)",
+    "start": "2026-11-24T02:00:00.000Z",
+    "end": "2026-12-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Nagusa",
+    "start": "2026-11-24T02:00:00.000Z",
+    "end": "2026-12-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "Niya",
+    "start": "2026-11-24T02:00:00.000Z",
+    "end": "2026-12-08T02:00:00.000Z",
+    "group": "G Gacha",
+    "subgroup": "Gacha",
+    "style": "color:black; background-color:lightgrey"
+  },{
 //
 /// EVENTS
 //
@@ -3463,6 +3547,27 @@ confirmed = [
     "content": "[P] Basking in the Brilliance of Their Serenade",
     "start": "2026-11-03T02:00:00.000Z",
     "end": "2026-11-10T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "Set Sail! Man-of-Pandemonium: Chairman Makoto's Magnificent Summer Retreat",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "Main",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[MSa2] Vol.1 C1 (Gehenna): Flame and Shadow",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[R] Pandemic Hazard",
+    "start": "2026-11-24T02:00:00.000Z",
+    "end": "2026-12-08T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
@@ -4715,6 +4820,34 @@ confirmed = [
     "season": 35,
     "subgroup": "GA",
     "style": "color:black; background-color:pink",
+  },{
+    "content": "[LBA] S29 The Fury of Set Red (Red atk)",
+    "boss": "Fury of Set",
+    "start": "2026-11-11T02:00:00.000Z",
+    "end": "2026-12-07T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 29,
+    "subgroup": "LBA",
+    "style": "color:white; background-color:red",
+  },{
+    "content": "[TA] Hieronymus Urban Red (Red atk)",
+    "boss": "Hieronymus",
+    "start": "2026-11-17T02:00:00.000Z",
+    "end": "2026-11-23T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 90,
+    "subgroup": "TA",
+    "style": "color:white; background-color:red",
+  },{
+    "content": "[JFD] Escort Blue Indoors. Gehenna & Trinity BLUE dmg buff. AG's HP >= 80% -> cost recovery and EX dmg buff. High HP enemies.",
+    "boss": "Escort",
+    "terrain": "Indoors",
+    "start": "2026-11-24T02:00:00.000Z",
+    "end": "2026-11-30T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 54,
+    "subgroup": "JFD",
+    "style": "color:white; background-color:blue",
   },{
 //
 /// CAMPAIGNS
@@ -7829,6 +7962,22 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Stream] 5주년 페스티벌 & 사운드 아카이브 - 현장 중계 1일차",
+    "start": "2026-11-07T03:00",
+    "end": "2026-11-09T03:00",
+    "group": "G Maint",
+    "subgroup": "Stream",
+    "style": "color:black;background-color:cyan",
+    "url": "https://www.youtube.com/live/LHjOwvjrrVE"
+  },{
+    "content": "[Stream] 5주년 페스티벌 & 키보토스 라이브 - 현장 중계 2일차",
+    "start": "2026-11-08T03:00",
+    "end": "2026-11-10T03:00",
+    "group": "G Maint",
+    "subgroup": "Stream",
+    "style": "color:black;background-color:cyan",
+    "url": "https://www.youtube.com/live/Xitk8QV_n_g"
   }
 ]
 
