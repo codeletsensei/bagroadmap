@@ -594,7 +594,6 @@ async function itemClicked(item) {
       "Drumbarka": "ドラム缶ガニ",
       "Nightmare Train": "ナイトメアトレイン",
 
-
       "Fury of Set": "セト",
       "Chokmah": "コクマー",
       "Tiphareth": "ティファレト",

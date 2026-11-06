@@ -19230,7 +19230,7 @@ jpSched = [
 		"subgroup": "TA",
 		"style": "color:white;background-color:red",
 		"season": 94,
-		"boss": "Nightmare Train (Red atk)",
+		"boss": "Nightmare Train",
 		"terrain": "Indoors",
 		"endG": "2027-02-22T19:00",
 		"startG": "2027-02-16T02:00",

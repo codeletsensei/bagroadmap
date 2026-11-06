@@ -471,6 +471,14 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?thread=3567638"
   },{
+    "content": "EOS",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-10T07:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
+    "url": ""
+  },{
 //
 /// GASHA
 //
@@ -4835,7 +4843,7 @@ confirmed = [
     "start": "2026-11-17T02:00:00.000Z",
     "end": "2026-11-23T19:00:00.000Z",
     "group": "G Raid",
-    "season": 90,
+    "season": 91,
     "subgroup": "TA",
     "style": "color:white; background-color:red",
   },{
