@@ -477,7 +477,7 @@ confirmed = [
     "group": "G Maint",
     "subgroup": "",
     "style": "color:red; background-color:red; height:15px",
-    "url": ""
+    "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3574749"
   },{
 //
 /// GASHA
@@ -2575,7 +2575,7 @@ confirmed = [
     "subgroup": "Gacha",
     "style": "color:black; background-color:lightgrey"
   },{
-    "content": "Daily 10~20 free recruitment campaign (100 total)",
+    "content": "100 + Daily 10~20 free recruitment campaign (200 total)",
     "start": "2026-11-10T02:00:00.000Z",
     "end": "2026-11-17T02:00:00.000Z",
     "group": "G Gacha",
@@ -3559,16 +3559,72 @@ confirmed = [
     "subgroup": "",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "Set Sail! Man-of-Pandemonium: Chairman Makoto's Magnificent Summer Retreat",
+    "content": "Set Sail! Pandemonium Ship: Chair Makoto's Lux Summer Getaway!",
     "start": "2026-11-10T02:00:00.000Z",
     "end": "2026-11-24T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "Main",
     "style": "color:black; background-color:yellow"
   },{
-    "content": "[MSa2] Vol.1 C1 (Gehenna): Flame and Shadow",
+    "content": "[MSa2] Vol.1 C1 (Gehenna): Flame and Shadow - MAKE GEHENNA GREAT AGAIN!",
     "start": "2026-11-10T02:00:00.000Z",
     "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[MSa2] Vol.1 C2 (Gehenna): As We Become the Flame",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Battlepass] Shinon's Battle Pass!",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-12-24T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:pink"
+  },{
+    "content": "[Login] 5-Year Anniversary Login Bonus",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-12-08T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Login] 5-Year Anniversary Growth Support",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-12-08T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Login] 5-Year Anniversary Fest Special On-Time Reward (free bluefes student choice ticket)",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-12-08T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Web Event] Arona's Special Mission Event! Season 2",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-12-08T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Mini Story] Ibuki Runaway Incident",
+    "start": "2026-11-17T02:00:00.000Z",
+    "end": "2026-12-01T02:00:00.000Z",
+    "group": "G Event",
+    "subgroup": "",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[Website Event] Pandemonium Upon the Waves",
+    "start": "2026-11-17T02:00:00.000Z",
+    "end": "2026-11-30T02:00:00.000Z",
     "group": "G Event",
     "subgroup": "",
     "style": "color:black; background-color:yellow"
@@ -6596,6 +6652,13 @@ confirmed = [
     "subgroup": "Campaign",
     "style": "color:black; background-color:lightgreen "
   },{
+    "content": "<b>XP</b>",
+    "start": "2026-12-04T19:00:00.000Z",
+    "end": "2026-12-06T19:00:00.000Z",
+    "group": "G Camp",
+    "subgroup": "Campaign",
+    "style": "color:black; background-color:lightgreen "
+  },{
 //
 /// MISC
 //
@@ -7986,6 +8049,83 @@ confirmed = [
     "subgroup": "Stream",
     "style": "color:black;background-color:cyan",
     "url": "https://www.youtube.com/live/Xitk8QV_n_g"
+  },{
+    "content": "[QoL] Recruitment rework: Spark out, pity in. Mileage rewards. Eleph pakejis.",
+    "start": "2026-10-31T02:00:00.000Z",
+    "end": "2026-11-10T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Login] Work Support Campaign",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-12-08T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[QoL] Kivotos Field Survey",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2027-05-04T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:yellow"
+  },{
+    "content": "[QoL] Option to change the damage weakness display (stars instead of words, display for normal dmg too)",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Improved filters",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL TA/GA] Ranking Search + Reset Room (doesn't reset the time)",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Raids: Added a Restart button to the defeat screen (unavailable from clicking Give Up)",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Crafting] Furniture: Tsukuyo (Dress), Shanhaijin Series, Ramen Table",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] Lobby: Random lobby student (all recruited)",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[Special Dangles] s.Shiroko, ny.Serika, s.Serika, Ayane, Hiyori, Serina, Shimiko, Hare, Utaha, s.Eimi, Saya, c.Saya, s.Mimori, g.Tsubaki, s.Kirino",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[QoL] RIP Yellow dots",
+    "start": "2026-11-10T02:00:00.000Z",
+    "end": "2026-11-24T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightblue"
   }
 ]
 
@@ -7998,6 +8138,7 @@ coupons = {
   "2026-08-18 02:00": [ "ONEYEARMEMORIAL" ],
   "2026-10-09 02:00": [ "KIRAKIRAERIKA" ],
   "2026-11-09 03:00": [ "HANAWOTADOTTE", "MAGICALPUMPKIN" ],
+  "2026-11-24 03:00": [ "5YEARSWITHSENSEI" ],
 }
 
 /// get the time when any future maintenance ends
