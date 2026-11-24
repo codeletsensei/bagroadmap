@@ -479,6 +479,14 @@ confirmed = [
     "style": "color:red; background-color:red; height:15px",
     "url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3574749"
   },{
+    "content": "EOS",
+    "start": "2026-11-24T02:00:00.000Z",
+    "end": "2026-11-24T06:00:00.000Z",
+    "group": "G Maint",
+    "subgroup": "",
+    "style": "color:red; background-color:red; height:15px",
+    "url": ""
+  },{
 //
 /// GASHA
 //
@@ -4913,6 +4921,15 @@ confirmed = [
     "subgroup": "JFD",
     "style": "color:white; background-color:blue",
   },{
+    "content": "[GA] Binah Outdoors (Red+Yellow TOR / Purple INS) (Yellow atk)",
+    "boss": "Binah",
+    "start": "2026-12-01T02:00:00.000Z",
+    "end": "2026-12-07T19:00:00.000Z",
+    "group": "G Raid",
+    "season": 36,
+    "subgroup": "GA",
+    "style": "color:black; background-color:pink",
+  },{
 //
 /// CAMPAIGNS
 //
@@ -8126,6 +8143,20 @@ confirmed = [
     "group": "G Other",
     "subgroup": "Other",
     "style": "color:black; background-color:lightblue"
+  },{
+    "content": "[JFD Shop] Tsukuyo",
+    "start": "2026-11-30T07:00:00.000Z",
+    "end": "2026-12-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
+  },{
+    "content": "[Permit Shop] Ibuki, Atsuko (Swimsuit), Rio (Battle), Himari (Battle)",
+    "start": "2026-11-30T07:00:00.000Z",
+    "end": "2026-12-07T02:00:00.000Z",
+    "group": "G Other",
+    "subgroup": "Other",
+    "style": "color:black; background-color:lightgrey"
   }
 ]
 
