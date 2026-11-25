@@ -27,6 +27,85 @@ confirmed.forEach(a=>{
   a.title += "(UTC y-m-d)"
 })
 
+// ---------- raid cells: multi-color background + colored T/L/I/A blocks ----------
+// item.content stays plain text (search, click pop-up and LBA link logic read it).
+// The blocks are only drawn by raidTemplate(), which vis calls when an item gets (re)drawn.
+const RAID_DIFF_LETTER = { LUN: "L", TOR: "T", INS: "I" }
+const RAID_ATK_ICON = "A"   // could be "⚔" (sword), but its look depends on the user's fonts
+const RAID_LIGHT_TEXT = ["blue", "red", "purple"]   // colors that need white text, like the cells already do
+
+;(function injectRaidBlockStyle(){
+  if (document.getElementById("raidBlockStyle")) return
+  let st = document.createElement("style")
+  st.id = "raidBlockStyle"
+  st.textContent = ".rb{display:inline-block;min-width:1.3em;margin-left:2px;padding:0 2px;text-align:center;font-size:11px;font-weight:bold;line-height:1.15;vertical-align:middle;border:1px solid rgba(0,0,0,.65);border-radius:3px}" +
+                   ".rb-gap{margin-left:6px}" +
+                   ".rb-atk{border-radius:50%;min-width:1.4em}" +
+                   ".rb-chip{padding:0 4px;border-radius:3px}"
+  document.head.appendChild(st)
+})()
+
+// "[GA] Boss Indoors (Blue+Red TOR / Yellow INS) (Red atk)"
+//   -> { text: "[GA] Boss Indoors", atk: "red", diffs: [{colors:["blue","red"], diff:"TOR"}, {colors:["yellow"], diff:"INS"}] }
+// diffs come in the crawler's order (LUN, TOR, INS), so diffs[0] is the highest difficulty.
+function parseRaidContent(content) {
+  let text = String(content).replace(/<\/?u>/g, "")
+  let atk = null, diffs = []
+  let m = text.match(/\s*\((\w+) atk\)\s*$/)
+  if (m) { atk = m[1].toLowerCase(); text = text.slice(0, m.index) }
+  m = text.match(/\s*\(([^()]*\b(?:LUN|TOR|INS)\b[^()]*)\)\s*$/)
+  if (m) {
+    diffs = m[1].split(" / ").map(p => {
+      let [c, d] = p.trim().split(" ")
+      return { colors: c.split("+").map(x => x.toLowerCase()), diff: d }
+    }).filter(d => RAID_DIFF_LETTER[d.diff])
+    text = text.slice(0, m.index)
+  }
+  return { text, atk, diffs }
+}
+
+// hard-stop gradient: ["red","blue"] -> red | blue halves
+function raidGradient(colors) {
+  let n = colors.length
+  let stops = colors.map((c, i) => c + " " + (i*100/n) + "%, " + c + " " + ((i+1)*100/n) + "%")
+  return "linear-gradient(90deg, " + stops.join(", ") + ")"
+}
+
+function raidBlock(letter, color, extraClass) {
+  let b = document.createElement("span")
+  b.className = "rb" + (extraClass ? " " + extraClass : "")
+  b.style.backgroundColor = color
+  b.style.color = RAID_LIGHT_TEXT.includes(color) ? "white" : "black"
+  b.textContent = letter
+  return b
+}
+
+// vis "template" option. Returns a DOM element (skips vis' XSS filter, which strips style/class).
+// Anything that isn't a GA/TA/LBA raid with something to draw keeps its normal text content.
+function raidTemplate(item) {
+  if (!item || !item.content || !item.group || !item.group.includes("Raid") || !["GA", "TA", "LBA"].includes(item.subgroup)) return item && item.content
+  let p = parseRaidContent(item.content)
+  if (!p.atk && p.diffs.length == 0) return item.content
+  let wrap = document.createElement("span")
+  let u = document.createElement("u")
+  u.textContent = p.text
+  if (item.titleChip) {
+    let chip = document.createElement("span")
+    chip.className = "rb-chip"
+    chip.style.color = RAID_LIGHT_TEXT.includes(item.titleChip) ? "white" : "black"
+    chip.style.backgroundColor = item.titleChip
+    chip.style.backgroundColor = "color-mix(in srgb, " + item.titleChip + " 85%, transparent)"   // slightly see-through; browsers without color-mix keep the solid color above
+    chip.appendChild(u)
+    wrap.appendChild(chip)
+  }
+  else wrap.appendChild(u)
+  p.diffs.forEach((d, i) => {
+    d.colors.forEach((c, j) => wrap.appendChild(raidBlock(RAID_DIFF_LETTER[d.diff], c, j == 0 && i > 0 ? "rb-gap" : "")))
+  })
+  if (p.atk) wrap.appendChild(raidBlock(RAID_ATK_ICON, p.atk, "rb-gap rb-atk"))
+  return wrap
+}
+
 function getItems(extraItemsArray){
   allData = []
   if ([1,2,3].includes(region)) allData = JSON.parse(JSON.stringify(jpSched))
@@ -48,6 +127,17 @@ function getItems(extraItemsArray){
   allData.forEach((a,i)=>{
     a.id = i
     if (!a.end) a.type = "point"
+    if (a.group.includes("Raid") && a.subgroup == "GA") {
+      // highest difficulty has several colors -> split the cell between them
+      let top = parseRaidContent(a.content).diffs[0]
+      if (top && top.colors.length > 1) {
+        let light = top.colors.every(c => RAID_LIGHT_TEXT.includes(c))
+        a.style = "color:" + (light ? "white" : "black") + ";background:" + raidGradient(top.colors)
+        // dark + light colors in one cell: no single text color reads on both halves, so the title gets a label
+        // in the cell's first color (text color picked for that color), instead of an unrelated one
+        if (!light && top.colors.some(c => RAID_LIGHT_TEXT.includes(c))) a.titleChip = top.colors[0]
+      }
+    }
     if (a.url || (a.group.includes("Raid") && ["TA", "JFD", "GA", "LBA"].includes(a.subgroup))  || (a.group == "G Event" && a.jpName) ) {
       a.content = "<u>" + a.content + "</u>"
     }
@@ -329,6 +419,7 @@ function plotStuff(region, extraItemsArray){
     start: new Date(Date.parse(new Date()) - 0.05*60*24*60*60*1000),
     end: new Date(Date.parse(new Date()) + 0.95*60*24*60*60*1000),
     cluster: false,
+    template: raidTemplate,
     horizontalScroll: false,
     moment: function(date) { return vis.moment(date); },
     orientation: {
@@ -642,7 +733,10 @@ async function itemClicked(item) {
 
     youtube += translations[selectedItem.subgroup]
     if (selectedItem.boss) youtube += "+(" + translations[selectedItem.boss] + " OR " + selectedItem.boss + ")"
-    //if (selectedItem.terrain) youtube += "+" + translations[selectedItem.terrain]
+    //if (selectedItem.terrain) {
+    //  let t = (Array.isArray(selectedItem.terrain) ? selectedItem.terrain : String(selectedItem.terrain).split("+")).map(x => translations[x])
+    //  youtube += "+" + (t.length > 1 ? "(" + t.join(" OR ") + ")" : t[0])
+    //}
     if (selectedItem.startJp) youtube += "+after:" + new Date(Date.parse(selectedItem.startJp) - 1*24*60*60*1000).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
     let endDate = 21*24*60*60*1000
     endDate = new Date(Date.parse(selectedItem.endJp) + endDate).toLocaleString("ja", { timeZone: "Asia/Tokyo"}).split(" ")[0].replace(/\//g,"-")
@@ -707,7 +801,12 @@ async function itemClicked(item) {
     htmlContent += "<br>"
     if (selectedItem.subgroup == "GA") htmlContent += `Removing the difficulty + color from any search above (everything after the dates) will show more videos than all links together.<br>Some uploads contain all colors, instead of just one, so they might not show up in those links.<br><br>`
     htmlContent += `For older clears, remove/change the "after:yyyy-mm-dd" from the search and maybe add the terrain`
-    if (selectedItem.terrain) htmlContent += ", which for this one should be <a style='color:red'>" + translations[selectedItem.terrain] + "</a> (" + selectedItem.terrain + ")" 
+    if (selectedItem.terrain) {
+      // terrain can hold 2 terrains (e.g. "Indoors+Urban" for Nightmare Train); also tolerate an array
+      let terrainList = Array.isArray(selectedItem.terrain) ? selectedItem.terrain : String(selectedItem.terrain).split("+")
+      let terrainHtml = terrainList.map(t => "<a style='color:red'>" + translations[t] + "</a> (" + t + ")")
+      htmlContent += (terrainList.length > 1 ? ", which for this one are " : ", which for this one should be ") + terrainHtml.join(" and ")
+    }
     htmlContent += `.<br>`
 
     htmlContent += `<br>Keywords of interest:<br>- Blue Archive: <b>ブルアカ</b><br>`
